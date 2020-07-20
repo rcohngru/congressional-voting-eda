@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001177,Tom,McClintock,1956-07-10,M,R,412295,30359,116,House,CA,4,,R,,12,839,17,0,7,130,88.1,,4,2.0,11.78
+1,M001177,Tom,McClintock,1956-07-10,M,R,412295,30359,115,House,CA,4,,R,,10,1211,10,0,10,199,93.89,,2,2.0,6.11
+2,M001177,Tom,McClintock,1956-07-10,M,R,412295,30359,114,House,CA,4,,R,,8,1325,6,0,7,209,92.59,,0,2.0,7.33
+3,M001177,Tom,McClintock,1956-07-10,M,R,412295,30359,113,House,CA,4,,R,,6,1204,13,0,10,239,90.89,,0,2.0,9.02
+4,M001177,Tom,McClintock,1956-07-10,M,R,412295,30359,112,House,CA,4,,R,,4,1607,5,0,6,254,86.67,,0,2.0,13.27
+5,M001177,Tom,McClintock,1956-07-10,M,R,412295,30359,111,House,CA,4,,R,,2,1655,6,0,7,260,90.89,,0,2.0,9.05

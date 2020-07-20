@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001107,Carlos,Curbelo,1980-03-01,M,R,412621,70472,115,House,FL,26,,R,,4,1211,90,0,25,378,87.63,,2,1.0,12.37
+1,C001107,Carlos,Curbelo,1980-03-01,M,R,412621,70472,114,House,FL,26,,R,,2,1325,32,0,24,223,82.15,,0,3.0,17.77

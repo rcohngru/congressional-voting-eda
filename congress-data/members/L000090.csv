@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000090,Tom,Lantos,1928-02-01,M,,400231,,110,House,CA,12,,D,,28,1228,116,0,26,367,99.63,,0,2.0,1.01
+1,L000090,Tom,Lantos,1928-02-01,M,,400231,,109,House,CA,12,,D,,26,1214,47,1,28,655,97.14,,0,0.0,3.13
+2,L000090,Tom,Lantos,1928-02-01,M,,400231,,108,House,CA,12,,D,,24,1221,79,2,39,618,96.52,,0,0.0,3.65
+3,L000090,Tom,Lantos,1928-02-01,M,,400231,,107,House,CA,12,,D,,22,996,60,0,26,647,96.29,,0,0.0,4.25
+4,L000090,Tom,Lantos,1928-02-01,M,,400231,,106,House,CA,12,,D,,20,1214,119,4,30,538,96.85,,0,0.0,3.43
+5,L000090,Tom,Lantos,1928-02-01,M,,400231,,105,House,CA,12,,D,,18,1187,69,1,23,352,94.19,,0,0.0,6.37
+6,L000090,Tom,Lantos,1928-02-01,M,,400231,,104,House,CA,12,,D,,16,1340,114,1,22,185,95.27,,0,0.0,6.02
+7,L000090,Tom,Lantos,1928-02-01,M,,400231,,103,House,CA,12,,D,,14,1122,61,0,23,295,93.66,,0,0.0,5.66
+8,L000090,Tom,Lantos,1928-02-01,M,,400231,,102,House,CA,11,,D,,12,933,49,0,,,93.01,,0,0.0,4.2
+9,L000090,Tom,Lantos,1928-02-01,M,,400231,,101,House,CA,11,,D,,10,,,,,,,,0,0.0,
+10,L000090,Tom,Lantos,1928-02-01,M,,400231,,100,House,CA,11,,D,,8,,,,,,,,0,0.0,
+11,L000090,Tom,Lantos,1928-02-01,M,,400231,,99,House,CA,11,,D,,6,,,,,,,,0,0.0,
+12,L000090,Tom,Lantos,1928-02-01,M,,400231,,98,House,CA,11,,D,,4,,,,,,,,0,0.0,

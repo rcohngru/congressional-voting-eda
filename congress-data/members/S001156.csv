@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,116,House,CA,38,,D,,18,839,28,0,30,418,98.89,,3,1.0,0.99
+1,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,115,House,CA,38,,D,,16,1211,31,2,22,311,98.26,,2,2.0,1.74
+2,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,114,House,CA,38,,D,,14,1325,36,0,18,202,97.65,,0,3.0,2.27
+3,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,113,House,CA,38,,D,,12,1204,35,3,16,270,93.28,,0,3.0,6.64
+4,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,112,House,CA,39,,D,,10,1607,113,2,16,260,94.23,,0,3.0,5.7
+5,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,111,House,CA,39,,D,,8,1655,262,2,29,460,97.9,,0,2.0,2.02
+6,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,110,House,CA,39,,D,,6,1873,30,0,22,610,98.51,,0,3.0,2.04
+7,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,109,House,CA,39,,D,,4,1214,31,1,11,414,95.37,,0,0.0,4.89
+8,S001156,Linda,Sánchez,1969-01-28,F,D,400355,1003554,108,House,CA,39,,D,,2,1221,36,1,6,439,95.88,,0,0.0,4.29

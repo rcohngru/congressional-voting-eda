@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,112,House,OH,14,,R,,18,1607,66,2,16,214,85.89,,0,1.0,14.04
+1,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,111,House,OH,14,,R,,16,1655,62,1,10,296,86.89,,0,1.0,13.05
+2,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,110,House,OH,14,,R,,14,1873,46,2,13,307,85.3,,0,2.0,15.27
+3,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,109,House,OH,14,,R,,12,1214,41,0,19,171,91.51,,0,0.0,8.75
+4,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,108,House,OH,14,,R,,10,1221,49,0,24,281,93.29,,0,0.0,6.79
+5,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,107,House,OH,19,,R,,8,996,62,0,18,338,94.66,,0,0.0,5.88
+6,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,106,House,OH,19,,R,,6,1214,45,1,7,353,89.28,,0,0.0,10.99
+7,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,105,House,OH,19,,R,,4,1187,35,1,12,207,88.68,,0,0.0,11.58
+8,L000553,Steven,LaTourette,1954-07-22,M,R,400235,36748,104,House,OH,19,,R,,2,1340,21,1,11,172,93.1,,0,0.0,8.15

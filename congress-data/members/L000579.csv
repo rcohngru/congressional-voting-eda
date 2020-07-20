@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000579,Alan,Lowenthal,1941-03-08,M,D,412521,93815,116,House,CA,47,,D,,8,839,4,0,22,799,98.32,,7,2.0,1.56
+1,L000579,Alan,Lowenthal,1941-03-08,M,D,412521,93815,115,House,CA,47,,D,,6,1211,95,2,18,616,97.05,,5,2.0,2.95
+2,L000579,Alan,Lowenthal,1941-03-08,M,D,412521,93815,114,House,CA,47,,D,,4,1325,13,0,22,493,97.53,,0,2.0,2.39
+3,L000579,Alan,Lowenthal,1941-03-08,M,D,412521,93815,113,House,CA,47,,D,,2,1204,13,1,8,588,95.85,,0,2.0,4.06

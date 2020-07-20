@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000183,Glenn,Nye,1974-09-09,M,D,412301,1031363,111,House,VA,2,,D,,2,1655,4,1,20,310,82.51,,0,3.0,17.43

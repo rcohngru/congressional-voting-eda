@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000352,Bob,Graham,1936-11-09,M,,300046,,108,Senate,FL,,3,D,,17,675,170,0,45,148,94.14,,0,0.0,5.86
+1,G000352,Bob,Graham,1936-11-09,M,,300046,,107,Senate,FL,,3,D,,15,633,1,0,43,176,91.64,,0,0.0,8.36
+2,G000352,Bob,Graham,1936-11-09,M,,300046,,106,Senate,FL,,3,D,,13,672,6,0,51,216,89.04,,0,0.0,10.96
+3,G000352,Bob,Graham,1936-11-09,M,,300046,,105,Senate,FL,,3,D,,11,612,1,0,37,173,85.69,,0,0.0,14.31
+4,G000352,Bob,Graham,1936-11-09,M,,300046,,104,Senate,FL,,3,D,,9,916,4,0,20,93,84.88,,0,0.0,15.12
+5,G000352,Bob,Graham,1936-11-09,M,,300046,,103,Senate,FL,,3,D,,7,724,3,0,25,151,88.73,,0,0.0,11.27
+6,G000352,Bob,Graham,1936-11-09,M,,300046,,102,Senate,FL,,3,D,,5,550,6,0,,,82.52,,0,0.0,17.48
+7,G000352,Bob,Graham,1936-11-09,M,,300046,,101,Senate,FL,,3,D,,3,638,3,0,,,,,0,0.0,
+8,G000352,Bob,Graham,1936-11-09,M,,300046,,100,Senate,FL,,3,D,,1,,,,,,,,0,0.0,

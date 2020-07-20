@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000431,Tom,Bevill,1921-03-27,M,,401417,,104,House,AL,4,,D,,30,1340,48,0,1,74,74.02,,0,0.0,27.28
+1,B000431,Tom,Bevill,1921-03-27,M,,401417,,103,House,AL,4,,D,,28,1122,54,0,3,175,86.28,,0,0.0,12.95
+2,B000431,Tom,Bevill,1921-03-27,M,,401417,,102,House,AL,4,,D,,26,933,50,0,,,84.58,,0,0.0,12.73
+3,B000431,Tom,Bevill,1921-03-27,M,,401417,,101,House,AL,4,,D,,24,,,,,,,,0,0.0,
+4,B000431,Tom,Bevill,1921-03-27,M,,401417,,100,House,AL,4,,D,,22,,,,,,,,0,0.0,
+5,B000431,Tom,Bevill,1921-03-27,M,,401417,,99,House,AL,4,,D,,20,,,,,,,,0,0.0,
+6,B000431,Tom,Bevill,1921-03-27,M,,401417,,98,House,AL,4,,D,,18,,,,,,,,0,0.0,

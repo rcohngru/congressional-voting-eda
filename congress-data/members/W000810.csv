@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000810,Rob,Woodall,1970-02-11,M,R,412416,623342,116,House,GA,7,,R,,10,839,12,0,3,76,94.28,,3,4.0,5.6
+1,W000810,Rob,Woodall,1970-02-11,M,R,412416,623342,115,House,GA,7,,R,,8,1211,17,0,18,73,94.28,,4,3.0,5.72
+2,W000810,Rob,Woodall,1970-02-11,M,R,412416,623342,114,House,GA,7,,R,,6,1325,18,0,25,69,94.22,,0,3.0,5.71
+3,W000810,Rob,Woodall,1970-02-11,M,R,412416,623342,113,House,GA,7,,R,,4,1204,16,0,16,80,91.21,,0,3.0,8.71
+4,W000810,Rob,Woodall,1970-02-11,M,R,412416,623342,112,House,GA,7,,R,,2,1607,14,1,26,97,90.51,,0,2.0,9.42

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,114,House,FL,1,,R,,16,1325,42,0,40,263,95.84,,0,3.0,4.08
+1,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,113,House,FL,1,,R,,14,1204,63,0,28,270,93.67,,0,3.0,6.24
+2,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,112,House,FL,1,,R,,12,1607,48,0,21,337,92.82,,0,3.0,7.11
+3,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,111,House,FL,1,,R,,10,1655,39,0,7,380,95.41,,0,3.0,4.52
+4,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,110,House,FL,1,,R,,8,1873,86,1,15,529,92.27,,0,2.0,7.96
+5,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,109,House,FL,1,,R,,6,1214,53,2,16,477,91.0,,0,0.0,9.27
+6,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,108,House,FL,1,,R,,4,1221,69,0,14,356,90.8,,0,0.0,9.38
+7,M001144,Jeff,Miller,1959-06-27,M,R,400279,91615,107,House,FL,1,,R,,2,601,11,1,6,107,94.52,,0,0.0,5.82

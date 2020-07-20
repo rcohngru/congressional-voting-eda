@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000370,Alma,Adams,1946-05-27,F,D,412607,76386,116,House,NC,12,,D,,8,839,26,0,31,344,99.14,,4,3.0,0.74
+1,A000370,Alma,Adams,1946-05-27,F,D,412607,76386,115,House,NC,12,,D,,6,1211,32,2,23,331,98.52,,4,4.0,1.48
+2,A000370,Alma,Adams,1946-05-27,F,D,412607,76386,114,House,NC,12,,D,,4,1325,101,0,18,198,98.51,,0,4.0,1.41
+3,A000370,Alma,Adams,1946-05-27,F,D,412607,76386,113,House,NC,12,,D,,2,48,2,0,0,1,97.83,,0,0.0,2.17

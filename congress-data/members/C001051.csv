@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001051,John,Carter,1941-11-06,M,R,400068,1004257,116,House,TX,31,,R,,18,839,79,0,5,95,92.57,,2,1.0,7.29
+1,C001051,John,Carter,1941-11-06,M,R,400068,1004257,115,House,TX,31,,R,,16,1211,39,0,8,114,97.86,,3,1.0,2.14
+2,C001051,John,Carter,1941-11-06,M,R,400068,1004257,114,House,TX,31,,R,,14,1311,79,0,7,129,95.75,,0,1.0,4.17
+3,C001051,John,Carter,1941-11-06,M,R,400068,1004257,113,House,TX,31,,R,,12,1204,62,0,12,174,95.43,,0,1.0,4.48
+4,C001051,John,Carter,1941-11-06,M,R,400068,1004257,112,House,TX,31,,R,,10,1607,41,0,27,295,94.22,,0,1.0,5.72
+5,C001051,John,Carter,1941-11-06,M,R,400068,1004257,111,House,TX,31,,R,,8,1655,93,0,17,318,92.92,,0,1.0,7.01
+6,C001051,John,Carter,1941-11-06,M,R,400068,1004257,110,House,TX,31,,R,,6,1873,99,2,13,329,93.86,,0,1.0,6.66
+7,C001051,John,Carter,1941-11-06,M,R,400068,1004257,109,House,TX,31,,R,,4,1214,38,0,4,222,96.72,,0,0.0,3.54
+8,C001051,John,Carter,1941-11-06,M,R,400068,1004257,108,House,TX,31,,R,,2,1221,59,0,7,185,96.44,,0,0.0,3.73

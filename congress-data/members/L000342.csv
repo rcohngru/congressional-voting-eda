@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000342,William,Lipinski,1937-12-22,M,,400243,,108,House,IL,3,,D,,22,1221,220,1,5,330,88.04,,0,0.0,12.06
+1,L000342,William,Lipinski,1937-12-22,M,,400243,,107,House,IL,3,,D,,20,993,184,1,5,318,85.79,,0,0.0,14.72
+2,L000342,William,Lipinski,1937-12-22,M,,400243,,106,House,IL,3,,D,,18,1214,110,0,7,368,81.83,,0,0.0,18.35
+3,L000342,William,Lipinski,1937-12-22,M,,400243,,105,House,IL,3,,D,,16,1187,87,1,10,370,76.76,,0,0.0,23.81
+4,L000342,William,Lipinski,1937-12-22,M,,400243,,104,House,IL,3,,D,,14,1340,56,1,17,491,76.93,,0,0.0,24.38
+5,L000342,William,Lipinski,1937-12-22,M,,400243,,103,House,IL,3,,D,,12,1122,56,0,22,545,82.52,,0,0.0,16.7
+6,L000342,William,Lipinski,1937-12-22,M,,400243,,102,House,IL,5,,D,,10,933,89,0,,,81.27,,0,0.0,15.69
+7,L000342,William,Lipinski,1937-12-22,M,,400243,,101,House,IL,5,,D,,8,,,,,,,,0,0.0,
+8,L000342,William,Lipinski,1937-12-22,M,,400243,,100,House,IL,5,,D,,6,,,,,,,,0,0.0,
+9,L000342,William,Lipinski,1937-12-22,M,,400243,,99,House,IL,5,,D,,4,,,,,,,,0,0.0,
+10,L000342,William,Lipinski,1937-12-22,M,,400243,,98,House,IL,5,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000168,Nathan,Deal,1942-08-25,M,R,400099,,111,House,GA,9,,R,,18,1162,297,2,10,130,92.97,,0,1.0,6.91
+1,D000168,Nathan,Deal,1942-08-25,M,R,400099,,110,House,GA,9,,R,,16,1873,88,3,16,186,92.38,,0,1.0,8.2
+2,D000168,Nathan,Deal,1942-08-25,M,R,400099,,109,House,GA,10,,R,,14,1214,72,0,13,143,91.83,,0,0.0,8.44
+3,D000168,Nathan,Deal,1942-08-25,M,R,400099,,108,House,GA,10,,R,,12,1221,86,0,10,181,95.03,,0,0.0,5.06
+4,D000168,Nathan,Deal,1942-08-25,M,R,400099,,107,House,GA,9,,R,,10,996,53,1,9,223,96.33,,0,0.0,4.21
+5,D000168,Nathan,Deal,1942-08-25,M,R,400099,,106,House,GA,9,,R,,8,1214,41,0,10,294,94.19,,0,0.0,5.98
+6,D000168,Nathan,Deal,1942-08-25,M,R,400099,,105,House,GA,9,,R,,6,1187,19,1,4,244,93.05,,0,0.0,7.48
+7,D000168,Nathan,Deal,1942-08-25,M,R,400099,,104,House,GA,9,,R,,4,1038,7,0,7,141,93.33,,0,0.0,7.57
+8,D000168,Nathan,Deal,1942-08-25,M,R,400099,,104,House,GA,9,,D,,4,302,0,0,,,47.86,,0,0.0,54.64
+9,D000168,Nathan,Deal,1942-08-25,M,R,400099,,103,House,GA,9,,D,,2,1122,16,0,4,160,75.09,,0,0.0,24.16

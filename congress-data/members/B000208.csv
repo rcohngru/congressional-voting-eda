@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,112,House,MD,6,,R,,20,1607,47,1,12,317,89.86,,0,3.0,10.08
+1,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,111,House,MD,6,,R,,18,1655,8,4,5,519,92.85,,0,3.0,7.09
+2,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,110,House,MD,6,,R,,16,1873,19,8,24,487,92.5,,0,3.0,8.06
+3,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,109,House,MD,6,,R,,14,1214,6,6,20,357,86.22,,0,0.0,14.03
+4,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,108,House,MD,6,,R,,12,1221,8,0,11,349,90.18,,0,0.0,9.98
+5,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,107,House,MD,6,,R,,10,996,8,3,19,288,92.59,,0,0.0,7.92
+6,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,106,House,MD,6,,R,,8,1214,8,0,13,262,93.15,,0,0.0,7.1
+7,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,105,House,MD,6,,R,,6,1187,6,0,8,221,92.5,,0,0.0,8.03
+8,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,104,House,MD,6,,R,,4,1340,14,1,11,260,96.88,,0,0.0,4.37
+9,B000208,Roscoe,Bartlett,1926-06-03,M,R,400017,27026,103,House,MD,6,,R,,2,1122,10,0,12,355,92.91,,0,0.0,6.34

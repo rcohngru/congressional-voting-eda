@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000081,John,Baldacci,1955-01-30,M,,400525,,107,House,ME,2,,D,,8,996,46,0,12,530,95.92,,0,0.0,4.61
+1,B000081,John,Baldacci,1955-01-30,M,,400525,,106,House,ME,2,,D,,6,1214,17,0,16,405,93.89,,0,0.0,6.36
+2,B000081,John,Baldacci,1955-01-30,M,,400525,,105,House,ME,2,,D,,4,1187,9,1,8,264,93.27,,0,0.0,7.17
+3,B000081,John,Baldacci,1955-01-30,M,,400525,,104,House,ME,2,,D,,2,1340,19,0,4,128,90.5,,0,0.0,10.77

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,105,House,CT,1,,D,,18,1187,135,0,22,222,92.12,,0,0.0,8.47
+1,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,104,House,CT,1,,D,,16,1340,28,0,18,139,91.65,,0,0.0,9.55
+2,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,103,House,CT,1,,D,,14,1122,11,0,28,228,94.04,,0,0.0,5.21
+3,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,102,House,CT,1,,D,,12,933,13,0,,,91.37,,0,0.0,5.83
+4,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,101,House,CT,1,,D,,10,,,,,,,,0,0.0,
+5,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,100,House,CT,1,,D,,8,,,,,,,,0,0.0,
+6,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,99,House,CT,1,,D,,6,,,,,,,,0,0.0,
+7,K000118,Barbara,Kennelly,1936-07-10,F,,406284,,98,House,CT,1,,D,,4,,,,,,,,0,0.0,

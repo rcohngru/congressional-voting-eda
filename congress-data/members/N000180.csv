@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000180,Ben,Nelson,1941-05-17,M,D,300077,16991,112,Senate,NE,,1,D,,11,486,4,0,27,123,85.6,,0,4.0,14.41
+1,N000180,Ben,Nelson,1941-05-17,M,D,300077,16991,111,Senate,NE,,1,D,,9,696,0,0,37,128,68.79,,0,4.0,31.21
+2,N000180,Ben,Nelson,1941-05-17,M,D,300077,16991,110,Senate,NE,,1,D,,7,657,8,0,23,160,82.09,,0,4.0,17.91
+3,N000180,Ben,Nelson,1941-05-17,M,D,300077,16991,109,Senate,NE,,1,D,,5,645,2,0,32,183,63.51,,0,0.0,36.49
+4,N000180,Ben,Nelson,1941-05-17,M,D,300077,16991,108,Senate,NE,,1,D,,3,675,19,0,17,168,72.97,,0,0.0,27.03
+5,N000180,Ben,Nelson,1941-05-17,M,D,300077,16991,107,Senate,NE,,1,D,,1,633,7,0,2,126,76.34,,0,0.0,23.66

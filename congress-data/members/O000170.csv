@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000170,Beto,O'Rourke,1972-09-26,M,D,412575,79697,115,House,TX,16,,D,,6,1211,50,0,27,371,94.52,,4,2.0,5.48
+1,O000170,Beto,O'Rourke,1972-09-26,M,D,412575,79697,114,House,TX,16,,D,,4,1325,60,0,28,222,96.16,,0,2.0,3.76
+2,O000170,Beto,O'Rourke,1972-09-26,M,D,412575,79697,113,House,TX,16,,D,,2,1204,3,1,14,366,94.88,,0,2.0,5.04

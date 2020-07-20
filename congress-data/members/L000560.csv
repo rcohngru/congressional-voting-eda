@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,116,House,WA,2,,D,,20,839,9,0,16,358,98.67,,4,2.0,1.21
+1,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,115,House,WA,2,,D,,18,1211,38,1,11,309,96.86,,4,2.0,3.14
+2,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,114,House,WA,2,,D,,16,1325,12,0,14,202,96.39,,0,2.0,3.54
+3,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,113,House,WA,2,,D,,14,1204,68,1,12,223,94.6,,0,2.0,5.31
+4,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,112,House,WA,2,,D,,12,1607,15,1,16,198,91.07,,0,2.0,8.86
+5,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,111,House,WA,2,,D,,10,1655,43,0,17,280,98.5,,0,3.0,1.44
+6,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,110,House,WA,2,,D,,8,1873,28,1,8,234,98.18,,0,3.0,2.37
+7,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,109,House,WA,2,,D,,6,1214,24,2,9,292,93.7,,0,0.0,6.55
+8,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,108,House,WA,2,,D,,4,1221,38,0,8,274,92.51,,0,0.0,7.66
+9,L000560,Rick,Larsen,1965-06-15,M,D,400232,86610,107,House,WA,2,,D,,2,996,13,0,12,261,86.6,,0,0.0,13.91

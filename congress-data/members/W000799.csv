@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000799,Tim,Walz,1964-04-06,M,D,412214,1018510,115,House,MN,1,,D,,12,1211,395,0,12,350,95.11,,2,3.0,4.89
+1,W000799,Tim,Walz,1964-04-06,M,D,412214,1018510,114,House,MN,1,,D,,10,1325,14,0,6,277,92.67,,0,3.0,7.25
+2,W000799,Tim,Walz,1964-04-06,M,D,412214,1018510,113,House,MN,1,,D,,8,1204,28,1,16,267,90.48,,0,3.0,9.43
+3,W000799,Tim,Walz,1964-04-06,M,D,412214,1018510,112,House,MN,1,,D,,6,1607,25,1,13,188,88.96,,0,3.0,10.98
+4,W000799,Tim,Walz,1964-04-06,M,D,412214,1018510,111,House,MN,1,,D,,4,1655,13,1,15,422,97.24,,0,3.0,2.7
+5,W000799,Tim,Walz,1964-04-06,M,D,412214,1018510,110,House,MN,1,,D,,2,1873,7,0,13,428,97.22,,0,2.0,3.32

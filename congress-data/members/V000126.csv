@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000126,George,Voinovich,1936-07-15,M,R,300098,1783,111,Senate,OH,,3,R,,11,696,33,0,59,199,69.77,,0,3.0,30.23
+1,V000126,George,Voinovich,1936-07-15,M,R,300098,1783,110,Senate,OH,,3,R,,9,657,12,0,35,240,75.72,,0,3.0,24.28
+2,V000126,George,Voinovich,1936-07-15,M,R,300098,1783,109,Senate,OH,,3,R,,7,645,5,0,35,184,86.32,,0,0.0,13.68
+3,V000126,George,Voinovich,1936-07-15,M,R,300098,1783,108,Senate,OH,,3,R,,5,675,13,0,42,159,92.25,,0,0.0,7.75
+4,V000126,George,Voinovich,1936-07-15,M,R,300098,1783,107,Senate,OH,,3,R,,3,633,25,0,26,134,89.59,,0,0.0,10.41
+5,V000126,George,Voinovich,1936-07-15,M,R,300098,1783,106,Senate,OH,,3,R,,1,672,15,0,22,162,83.03,,0,0.0,16.97

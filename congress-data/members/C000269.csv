@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000269,John,Chafee,1922-10-22,M,,402412,,106,Senate,RI,,1,R,,23,340,22,0,26,103,77.92,,0,0.0,22.08
+1,C000269,John,Chafee,1922-10-22,M,,402412,,105,Senate,RI,,1,R,,21,612,9,0,58,157,75.21,,0,0.0,24.79
+2,C000269,John,Chafee,1922-10-22,M,,402412,,104,Senate,RI,,1,R,,19,916,6,0,27,110,77.9,,0,0.0,22.1
+3,C000269,John,Chafee,1922-10-22,M,,402412,,103,Senate,RI,,1,R,,17,724,27,0,32,236,67.3,,0,0.0,32.7
+4,C000269,John,Chafee,1922-10-22,M,,402412,,102,Senate,RI,,1,R,,15,550,11,0,,,71.0,,0,0.0,29.0
+5,C000269,John,Chafee,1922-10-22,M,,402412,,101,Senate,RI,,1,R,,13,638,12,0,,,,,0,0.0,
+6,C000269,John,Chafee,1922-10-22,M,,402412,,100,Senate,RI,,1,R,,11,,,,,,,,0,0.0,
+7,C000269,John,Chafee,1922-10-22,M,,402412,,99,Senate,RI,,1,R,,9,,,,,,,,0,0.0,
+8,C000269,John,Chafee,1922-10-22,M,,402412,,98,Senate,RI,,1,R,,7,,,,,,,,0,0.0,
+9,C000269,John,Chafee,1922-10-22,M,,402412,,97,Senate,RI,,1,R,,5,,,,,,,,0,0.0,
+10,C000269,John,Chafee,1922-10-22,M,,402412,,96,Senate,RI,,1,R,,3,,,,,,,,0,0.0,
+11,C000269,John,Chafee,1922-10-22,M,,402412,,95,Senate,RI,,1,R,,1,,,,,,,,0,0.0,
+12,C000269,John,Chafee,1922-10-22,M,,402412,,94,Senate,RI,,1,R,,1,,,,,,,,0,0.0,

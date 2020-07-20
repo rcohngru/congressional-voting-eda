@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,116,House,MD,7,,D,,26,560,71,0,32,256,98.77,,2,2.0,1.02
+1,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,115,House,MD,7,,D,,24,1211,402,1,20,391,97.47,,2,2.0,2.53
+2,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,114,House,MD,7,,D,,22,1325,39,0,22,286,98.04,,0,3.0,1.89
+3,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,113,House,MD,7,,D,,20,1204,30,1,16,307,96.05,,0,4.0,3.86
+4,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,112,House,MD,7,,D,,18,1607,29,1,16,266,94.66,,0,3.0,5.27
+5,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,111,House,MD,7,,D,,16,1655,39,0,19,509,98.19,,0,2.0,1.74
+6,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,110,House,MD,7,,D,,14,1873,69,0,23,660,99.44,,0,4.0,1.07
+7,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,109,House,MD,7,,D,,12,1214,34,0,15,642,96.82,,0,0.0,3.44
+8,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,108,House,MD,7,,D,,10,1221,56,1,17,537,96.24,,0,0.0,3.93
+9,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,107,House,MD,7,,D,,8,996,34,0,4,386,95.44,,0,0.0,5.09
+10,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,106,House,MD,7,,D,,6,1214,38,0,15,405,96.72,,0,0.0,3.54
+11,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,105,House,MD,7,,D,,4,1187,15,1,11,248,93.96,,0,0.0,6.49
+12,C000984,Elijah,Cummings,1951-01-18,M,D,400090,43300,104,House,MD,7,,D,,2,323,1,0,0,64,92.63,,0,0.0,7.37

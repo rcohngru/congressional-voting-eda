@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,116,House,MN,7,,D,,30,839,8,0,22,233,84.92,,2,2.0,14.96
+1,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,115,House,MN,7,,D,,28,1211,57,0,9,342,77.33,,0,1.0,22.67
+2,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,114,House,MN,7,,D,,26,1325,16,0,3,276,65.1,,0,1.0,34.83
+3,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,113,House,MN,7,,D,,24,1204,5,0,4,317,66.13,,0,1.0,33.78
+4,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,112,House,MN,7,,D,,22,1607,35,1,6,240,56.98,,0,1.0,42.96
+5,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,111,House,MN,7,,D,,20,1655,27,0,11,379,92.65,,0,1.0,7.29
+6,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,110,House,MN,7,,D,,18,1873,51,0,18,411,92.93,,0,1.0,7.51
+7,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,109,House,MN,7,,D,,16,1214,25,0,16,440,79.01,,0,0.0,21.25
+8,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,108,House,MN,7,,D,,14,1221,15,0,18,331,79.09,,0,0.0,21.08
+9,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,107,House,MN,7,,D,,12,996,42,2,21,292,75.51,,0,0.0,25.03
+10,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,106,House,MN,7,,D,,10,1214,16,1,17,320,68.53,,0,0.0,31.64
+11,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,105,House,MN,7,,D,,8,1187,11,1,11,295,73.27,,0,0.0,27.26
+12,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,104,House,MN,7,,D,,6,1340,24,0,10,189,64.93,,0,0.0,36.35
+13,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,103,House,MN,7,,D,,4,1122,16,0,15,352,72.52,,0,0.0,26.73
+14,P000258,Collin,Peterson,1944-06-29,M,D,400316,23978,102,House,MN,7,,D,,2,933,18,0,,,84.01,,0,0.0,13.06

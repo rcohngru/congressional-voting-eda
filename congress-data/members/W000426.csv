@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000426,Robert,Whittaker,1939-09-18,M,,411585,,101,House,KS,5,,R,,12,,,,,,,,0,0.0,
+1,W000426,Robert,Whittaker,1939-09-18,M,,411585,,100,House,KS,5,,R,,10,,,,,,,,0,0.0,
+2,W000426,Robert,Whittaker,1939-09-18,M,,411585,,99,House,KS,5,,R,,8,,,,,,,,0,0.0,
+3,W000426,Robert,Whittaker,1939-09-18,M,,411585,,98,House,KS,5,,R,,6,,,,,,,,0,0.0,

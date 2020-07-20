@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000035,Herman,Talmadge,1913-08-09,M,,410624,,96,Senate,GA,,3,D,,23,,,,,,,,0,0.0,
+1,T000035,Herman,Talmadge,1913-08-09,M,,410624,,95,Senate,GA,,3,D,,21,,,,,,,,0,0.0,
+2,T000035,Herman,Talmadge,1913-08-09,M,,410624,,94,Senate,GA,,3,D,,19,,,,,,,,0,0.0,
+3,T000035,Herman,Talmadge,1913-08-09,M,,410624,,93,Senate,GA,,3,D,,17,,,,,,,,0,0.0,
+4,T000035,Herman,Talmadge,1913-08-09,M,,410624,,92,Senate,GA,,3,D,,15,,,,,,,,0,0.0,
+5,T000035,Herman,Talmadge,1913-08-09,M,,410624,,91,Senate,GA,,3,D,,13,,,,,,,,0,0.0,
+6,T000035,Herman,Talmadge,1913-08-09,M,,410624,,90,Senate,GA,,3,D,,11,,,,,,,,0,0.0,
+7,T000035,Herman,Talmadge,1913-08-09,M,,410624,,89,Senate,GA,,3,D,,9,,,,,,,,0,0.0,
+8,T000035,Herman,Talmadge,1913-08-09,M,,410624,,88,Senate,GA,,3,D,,7,,,,,,,,0,0.0,
+9,T000035,Herman,Talmadge,1913-08-09,M,,410624,,87,Senate,GA,,3,D,,5,,,,,,,,0,0.0,
+10,T000035,Herman,Talmadge,1913-08-09,M,,410624,,86,Senate,GA,,3,D,,3,,,,,,,,0,0.0,
+11,T000035,Herman,Talmadge,1913-08-09,M,,410624,,85,Senate,GA,,3,D,,1,,,,,,,,0,0.0,

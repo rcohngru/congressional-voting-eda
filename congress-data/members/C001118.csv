@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001118,Ben,Cline,1972-02-29,M,R,412832,,116,House,VA,6,,R,,2,839,1,0,5,164,90.13,,5,2.0,9.75

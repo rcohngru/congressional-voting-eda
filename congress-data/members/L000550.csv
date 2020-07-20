@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,113,Senate,LA,,2,D,,17,657,72,0,54,268,94.19,,12,4.0,5.81
+1,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,112,Senate,LA,,2,D,,15,486,14,0,76,264,92.11,,0,4.0,7.89
+2,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,111,Senate,LA,,2,D,,13,696,31,0,69,284,93.04,,0,4.0,6.96
+3,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,110,Senate,LA,,2,D,,11,657,18,0,75,347,83.7,,0,4.0,16.3
+4,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,109,Senate,LA,,2,D,,9,645,22,0,61,375,83.52,,0,0.0,16.48
+5,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,108,Senate,LA,,2,D,,7,675,14,0,48,371,86.98,,0,0.0,13.02
+6,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,107,Senate,LA,,2,D,,5,633,16,0,48,410,86.18,,0,0.0,13.82
+7,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,106,Senate,LA,,2,D,,3,672,13,0,17,301,89.38,,0,0.0,10.62
+8,L000550,Mary,Landrieu,1955-11-23,F,D,300063,22357,105,Senate,LA,,2,D,,1,612,8,0,3,163,89.73,,0,0.0,10.27

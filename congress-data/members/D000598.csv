@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,116,House,CA,53,,D,,20,839,12,0,13,445,99.76,,4,3.0,0.12
+1,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,115,House,CA,53,,D,,18,1211,32,1,21,323,96.95,,4,2.0,3.05
+2,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,114,House,CA,53,,D,,16,1325,11,0,28,227,97.54,,0,2.0,2.39
+3,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,113,House,CA,53,,D,,14,1204,31,1,26,305,96.39,,0,2.0,3.52
+4,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,112,House,CA,53,,D,,12,1607,14,1,17,255,94.97,,0,2.0,4.97
+5,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,111,House,CA,53,,D,,10,1655,26,1,35,347,99.26,,0,3.0,0.68
+6,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,110,House,CA,53,,D,,8,1873,22,0,29,434,99.12,,0,4.0,1.43
+7,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,109,House,CA,53,,D,,6,1214,36,0,18,384,96.04,,0,0.0,4.22
+8,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,108,House,CA,53,,D,,4,1221,17,2,20,360,95.94,,0,0.0,4.23
+9,D000598,Susan,Davis,1944-04-13,F,D,400097,85595,107,House,CA,49,,D,,2,996,5,0,17,292,94.75,,0,0.0,5.77

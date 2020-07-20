@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000134,Pete,Geren,1952-01-29,M,,404503,,104,House,TX,12,,D,,8,1340,34,0,8,197,53.7,,0,0.0,47.5
+1,G000134,Pete,Geren,1952-01-29,M,,404503,,103,House,TX,12,,D,,6,1122,26,0,10,315,72.41,,0,0.0,26.93
+2,G000134,Pete,Geren,1952-01-29,M,,404503,,102,House,TX,12,,D,,4,933,28,0,,,71.74,,0,0.0,25.65
+3,G000134,Pete,Geren,1952-01-29,M,,404503,,101,House,TX,12,,D,,2,,,,,,,,0,0.0,

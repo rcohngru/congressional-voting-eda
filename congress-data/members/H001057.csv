@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001057,Tim,Huelskamp,1968-11-11,M,R,412429,86444,114,House,KS,1,,R,,6,1325,28,0,5,192,90.75,,0,2.0,9.17
+1,H001057,Tim,Huelskamp,1968-11-11,M,R,412429,86444,113,House,KS,1,,R,,4,1204,20,0,8,216,89.57,,0,2.0,10.35
+2,H001057,Tim,Huelskamp,1968-11-11,M,R,412429,86444,112,House,KS,1,,R,,2,1607,4,0,32,236,90.32,,0,3.0,9.62

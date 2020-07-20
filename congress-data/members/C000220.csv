@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000220,Clifford,Case,1904-04-16,,,402366,,95,Senate,NJ,,2,R,,23,,,,,,,,0,0.0,
+1,C000220,Clifford,Case,1904-04-16,,,402366,,94,Senate,NJ,,2,R,,21,,,,,,,,0,0.0,
+2,C000220,Clifford,Case,1904-04-16,,,402366,,93,Senate,NJ,,2,R,,19,,,,,,,,0,0.0,
+3,C000220,Clifford,Case,1904-04-16,,,402366,,92,Senate,NJ,,2,R,,17,,,,,,,,0,0.0,
+4,C000220,Clifford,Case,1904-04-16,,,402366,,91,Senate,NJ,,2,R,,15,,,,,,,,0,0.0,
+5,C000220,Clifford,Case,1904-04-16,,,402366,,90,Senate,NJ,,2,R,,13,,,,,,,,0,0.0,
+6,C000220,Clifford,Case,1904-04-16,,,402366,,89,Senate,NJ,,2,R,,11,,,,,,,,0,0.0,
+7,C000220,Clifford,Case,1904-04-16,,,402366,,88,Senate,NJ,,2,R,,9,,,,,,,,0,0.0,
+8,C000220,Clifford,Case,1904-04-16,,,402366,,87,Senate,NJ,,2,R,,7,,,,,,,,0,0.0,
+9,C000220,Clifford,Case,1904-04-16,,,402366,,86,Senate,NJ,,2,R,,5,,,,,,,,0,0.0,
+10,C000220,Clifford,Case,1904-04-16,,,402366,,85,Senate,NJ,,2,R,,3,,,,,,,,0,0.0,
+11,C000220,Clifford,Case,1904-04-16,,,402366,,84,Senate,NJ,,2,R,,1,,,,,,,,0,0.0,

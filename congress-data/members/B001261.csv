@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,116,Senate,WY,,1,R,Senate Republican Conference Chair,13,557,0,0,34,175,96.38,,10,4.0,3.62
+1,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,115,Senate,WY,,1,R,Policy Committee Chair,11,599,1,0,31,160,97.13,,7,4.0,2.87
+2,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,114,Senate,WY,,1,R,,9,502,1,0,39,148,94.92,,0,4.0,5.08
+3,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,113,Senate,WY,,1,R,,7,657,6,0,29,209,93.73,,10,4.0,6.27
+4,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,112,Senate,WY,,1,R,,5,486,10,0,19,238,92.08,,0,4.0,7.92
+5,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,111,Senate,WY,,1,R,,3,696,0,0,16,124,95.19,,0,4.0,4.81
+6,B001261,John,Barrasso,1952-07-21,M,R,412251,1024777,110,Senate,WY,,1,R,,1,431,0,0,15,91,87.35,,0,3.0,12.65

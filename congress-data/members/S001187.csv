@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001187,Steve,Stivers,1965-03-24,M,R,412461,62320,116,House,OH,15,,R,,10,839,55,0,13,363,89.83,,3,1.0,10.04
+1,S001187,Steve,Stivers,1965-03-24,M,R,412461,62320,115,House,OH,15,,R,,8,1211,76,0,20,367,93.09,,2,1.0,6.91
+2,S001187,Steve,Stivers,1965-03-24,M,R,412461,62320,114,House,OH,15,,R,,6,1325,65,0,30,285,93.37,,0,2.0,6.55
+3,S001187,Steve,Stivers,1965-03-24,M,R,412461,62320,113,House,OH,15,,R,,4,1204,34,0,24,464,91.68,,0,1.0,8.23
+4,S001187,Steve,Stivers,1965-03-24,M,R,412461,62320,112,House,OH,15,,R,,2,1607,184,0,23,281,90.88,,0,1.0,9.05

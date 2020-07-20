@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,113,House,MI,8,,R,,14,1204,80,0,11,107,95.08,,0,2.0,4.83
+1,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,112,House,MI,8,,R,,12,1607,18,0,19,163,95.69,,0,2.0,4.25
+2,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,111,House,MI,8,,R,,10,1651,72,1,12,258,94.99,,0,2.0,5.01
+3,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,110,House,MI,8,,R,,8,1873,36,5,9,264,94.73,,0,2.0,5.83
+4,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,109,House,MI,8,,R,,6,1214,15,0,26,209,94.41,,0,0.0,5.85
+5,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,108,House,MI,8,,R,,4,1221,26,0,11,242,97.21,,0,0.0,2.96
+6,R000572,Mike,Rogers,1963-06-02,M,R,400342,86133,107,House,MI,8,,R,,2,996,2,0,18,218,96.93,,0,0.0,3.58

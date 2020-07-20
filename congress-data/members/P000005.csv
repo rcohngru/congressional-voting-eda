@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000005,Ron,Packard,1931-01-19,M,,400601,,106,House,CA,48,,R,,18,1214,29,0,4,163,95.36,,0,0.0,4.81
+1,P000005,Ron,Packard,1931-01-19,M,,400601,,105,House,CA,48,,R,,16,1187,19,0,8,180,95.41,,0,0.0,5.11
+2,P000005,Ron,Packard,1931-01-19,M,,400601,,104,House,CA,48,,R,,14,1340,25,0,7,203,96.14,,0,0.0,5.12
+3,P000005,Ron,Packard,1931-01-19,M,,400601,,103,House,CA,48,,R,,12,1122,97,0,1,314,89.36,,0,0.0,10.03
+4,P000005,Ron,Packard,1931-01-19,M,,400601,,102,House,CA,43,,R,,10,933,30,0,,,82.16,,0,0.0,14.32
+5,P000005,Ron,Packard,1931-01-19,M,,400601,,101,House,CA,43,,R,,8,,,,,,,,0,0.0,
+6,P000005,Ron,Packard,1931-01-19,M,,400601,,100,House,CA,43,,R,,6,,,,,,,,0,0.0,
+7,P000005,Ron,Packard,1931-01-19,M,,400601,,99,House,CA,43,,R,,4,,,,,,,,0,0.0,
+8,P000005,Ron,Packard,1931-01-19,M,,400601,,98,House,CA,43,,R,,2,,,,,,,,0,0.0,

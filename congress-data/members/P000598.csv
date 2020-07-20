@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000598,Jared,Polis,1975-05-12,M,D,412308,1031300,115,House,CO,2,,D,,10,1211,175,1,31,510,93.06,,3,3.0,6.94
+1,P000598,Jared,Polis,1975-05-12,M,D,412308,1031300,114,House,CO,2,,D,,8,1325,20,0,26,383,92.71,,0,3.0,7.21
+2,P000598,Jared,Polis,1975-05-12,M,D,412308,1031300,113,House,CO,2,,D,,6,1204,107,1,30,423,89.97,,0,2.0,9.94
+3,P000598,Jared,Polis,1975-05-12,M,D,412308,1031300,112,House,CO,2,,D,,4,1607,131,2,33,399,88.65,,0,2.0,11.28
+4,P000598,Jared,Polis,1975-05-12,M,D,412308,1031300,111,House,CO,2,,D,,2,1655,25,0,44,427,97.04,,0,2.0,2.9

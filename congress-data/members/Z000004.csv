@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Z000004,William,Zeliff,1936-06-12,M,,411997,,104,House,NH,1,,R,,6,1340,49,0,12,128,95.28,,0,0.0,5.84
+1,Z000004,William,Zeliff,1936-06-12,M,,411997,,103,House,NH,1,,R,,4,1122,43,1,7,420,89.72,,0,0.0,9.51
+2,Z000004,William,Zeliff,1936-06-12,M,,411997,,102,House,NH,1,,R,,2,933,35,0,,,84.55,,0,0.0,12.01

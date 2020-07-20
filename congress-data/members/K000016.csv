@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000016,John,Kasich,1952-05-13,M,,400590,1620,106,House,OH,12,,R,,18,1214,176,0,12,115,90.83,,0,0.0,9.17
+1,K000016,John,Kasich,1952-05-13,M,,400590,1620,105,House,OH,12,,R,,16,1187,36,0,16,103,93.02,,0,0.0,7.42
+2,K000016,John,Kasich,1952-05-13,M,,400590,1620,104,House,OH,12,,R,,14,1340,34,0,20,74,94.45,,0,0.0,6.82
+3,K000016,John,Kasich,1952-05-13,M,,400590,1620,103,House,OH,12,,R,,12,1122,22,0,7,288,84.83,,0,0.0,14.42
+4,K000016,John,Kasich,1952-05-13,M,,400590,1620,102,House,OH,12,,R,,10,933,23,0,,,80.79,,0,0.0,15.82
+5,K000016,John,Kasich,1952-05-13,M,,400590,1620,101,House,OH,12,,R,,8,,,,,,,,0,0.0,
+6,K000016,John,Kasich,1952-05-13,M,,400590,1620,100,House,OH,12,,R,,6,,,,,,,,0,0.0,
+7,K000016,John,Kasich,1952-05-13,M,,400590,1620,99,House,OH,12,,R,,4,,,,,,,,0,0.0,
+8,K000016,John,Kasich,1952-05-13,M,,400590,1620,98,House,OH,12,,R,,2,,,,,,,,0,0.0,

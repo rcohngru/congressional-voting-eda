@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000458,Raymond,McGrath,1942-03-27,M,,407457,,102,House,NY,5,,R,,12,933,50,2,,,69.65,,0,0.0,27.09
+1,M000458,Raymond,McGrath,1942-03-27,M,,407457,,101,House,NY,5,,R,,10,,,,,,,,0,0.0,
+2,M000458,Raymond,McGrath,1942-03-27,M,,407457,,100,House,NY,5,,R,,8,,,,,,,,0,0.0,
+3,M000458,Raymond,McGrath,1942-03-27,M,,407457,,99,House,NY,5,,R,,6,,,,,,,,0,0.0,
+4,M000458,Raymond,McGrath,1942-03-27,M,,407457,,98,House,NY,5,,R,,4,,,,,,,,0,0.0,

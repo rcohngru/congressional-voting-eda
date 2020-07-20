@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000281,Lynn,Rivers,1956-12-19,F,,400528,,107,House,MI,13,,D,,8,996,22,3,20,471,93.09,,0,0.0,7.43
+1,R000281,Lynn,Rivers,1956-12-19,F,,400528,,106,House,MI,13,,D,,6,1214,28,8,12,370,88.8,,0,0.0,11.37
+2,R000281,Lynn,Rivers,1956-12-19,F,,400528,,105,House,MI,13,,D,,4,1187,0,3,14,372,89.79,,0,0.0,10.74
+3,R000281,Lynn,Rivers,1956-12-19,F,,400528,,104,House,MI,13,,D,,2,1340,5,0,4,257,93.93,,0,0.0,7.33

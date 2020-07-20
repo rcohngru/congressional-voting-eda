@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000588,Cedric,Richmond,1973-09-13,M,D,412432,62391,116,House,LA,2,,D,,10,839,60,1,21,324,98.07,,4,2.0,1.8
+1,R000588,Cedric,Richmond,1973-09-13,M,D,412432,62391,115,House,LA,2,,D,,8,1211,138,3,16,294,95.98,,4,2.0,4.02
+2,R000588,Cedric,Richmond,1973-09-13,M,D,412432,62391,114,House,LA,2,,D,,6,1325,79,1,16,213,95.71,,0,2.0,4.21
+3,R000588,Cedric,Richmond,1973-09-13,M,D,412432,62391,113,House,LA,2,,D,,4,1204,177,1,15,244,91.96,,0,2.0,7.94
+4,R000588,Cedric,Richmond,1973-09-13,M,D,412432,62391,112,House,LA,2,,D,,2,1607,63,1,12,136,92.04,,0,2.0,7.89

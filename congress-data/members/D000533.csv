@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000533,John,Duncan,1947-07-21,M,R,400116,6114,115,House,TN,2,,R,,32,1211,28,0,19,192,89.56,,5,2.0,10.44
+1,D000533,John,Duncan,1947-07-21,M,R,400116,6114,114,House,TN,2,,R,,30,1325,18,0,13,231,88.43,,0,2.0,11.49
+2,D000533,John,Duncan,1947-07-21,M,R,400116,6114,113,House,TN,2,,R,,28,1204,11,0,11,260,86.95,,0,2.0,12.96
+3,D000533,John,Duncan,1947-07-21,M,R,400116,6114,112,House,TN,2,,R,,26,1607,11,0,6,309,84.41,,0,2.0,15.53
+4,D000533,John,Duncan,1947-07-21,M,R,400116,6114,111,House,TN,2,,R,,24,1655,20,1,13,304,91.38,,0,3.0,8.56
+5,D000533,John,Duncan,1947-07-21,M,R,400116,6114,110,House,TN,2,,R,,22,1873,13,0,13,271,89.04,,0,3.0,11.46
+6,D000533,John,Duncan,1947-07-21,M,R,400116,6114,109,House,TN,2,,R,,20,1214,31,0,15,233,86.25,,0,0.0,14.0
+7,D000533,John,Duncan,1947-07-21,M,R,400116,6114,108,House,TN,2,,R,,18,1221,28,0,13,255,88.41,,0,0.0,11.76
+8,D000533,John,Duncan,1947-07-21,M,R,400116,6114,107,House,TN,2,,R,,16,996,6,0,19,233,89.73,,0,0.0,10.78
+9,D000533,John,Duncan,1947-07-21,M,R,400116,6114,106,House,TN,2,,R,,14,1214,20,0,18,266,86.25,,0,0.0,14.01
+10,D000533,John,Duncan,1947-07-21,M,R,400116,6114,105,House,TN,2,,R,,12,1187,8,0,21,227,89.02,,0,0.0,11.41
+11,D000533,John,Duncan,1947-07-21,M,R,400116,6114,104,House,TN,2,,R,,10,1340,11,0,18,169,85.15,,0,0.0,16.02
+12,D000533,John,Duncan,1947-07-21,M,R,400116,6114,103,House,TN,2,,R,,8,1122,4,0,42,257,85.26,,0,0.0,13.99
+13,D000533,John,Duncan,1947-07-21,M,R,400116,6114,102,House,TN,2,,R,,4,933,13,0,,,78.3,,0,0.0,18.34
+14,D000533,John,Duncan,1947-07-21,M,R,400116,6114,101,House,TN,2,,R,,4,,,,,,,,0,0.0,

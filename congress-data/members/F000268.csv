@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000268,Wendell,Ford,1924-09-08,M,,404219,,105,Senate,KY,,3,D,,23,612,5,0,19,157,86.26,,0,0.0,13.74
+1,F000268,Wendell,Ford,1924-09-08,M,,404219,,104,Senate,KY,,3,D,,21,916,3,0,12,103,84.8,,0,0.0,15.2
+2,F000268,Wendell,Ford,1924-09-08,M,,404219,,103,Senate,KY,,3,D,,19,724,3,0,39,100,88.89,,0,0.0,11.11
+3,F000268,Wendell,Ford,1924-09-08,M,,404219,,102,Senate,KY,,3,D,,18,550,3,1,,,80.75,,0,0.0,19.25
+4,F000268,Wendell,Ford,1924-09-08,M,,404219,,101,Senate,KY,,3,D,,16,638,5,0,,,,,0,0.0,
+5,F000268,Wendell,Ford,1924-09-08,M,,404219,,100,Senate,KY,,3,D,,13,,,,,,,,0,0.0,
+6,F000268,Wendell,Ford,1924-09-08,M,,404219,,99,Senate,KY,,3,D,,11,,,,,,,,0,0.0,
+7,F000268,Wendell,Ford,1924-09-08,M,,404219,,98,Senate,KY,,3,D,,9,,,,,,,,0,0.0,
+8,F000268,Wendell,Ford,1924-09-08,M,,404219,,97,Senate,KY,,3,D,,7,,,,,,,,0,0.0,
+9,F000268,Wendell,Ford,1924-09-08,M,,404219,,96,Senate,KY,,3,D,,5,,,,,,,,0,0.0,
+10,F000268,Wendell,Ford,1924-09-08,M,,404219,,95,Senate,KY,,3,D,,4,,,,,,,,0,0.0,
+11,F000268,Wendell,Ford,1924-09-08,M,,404219,,94,Senate,KY,,3,D,,1,,,,,,,,0,0.0,
+12,F000268,Wendell,Ford,1924-09-08,M,,404219,,93,Senate,KY,,3,D,,1,,,,,,,,0,0.0,

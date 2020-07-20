@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000172,James,Hansen,1932-08-14,M,,400552,,107,House,UT,1,,R,,22,996,69,0,32,141,97.48,,0,0.0,2.95
+1,H000172,James,Hansen,1932-08-14,M,,400552,,106,House,UT,1,,R,,20,1214,79,0,25,162,95.15,,0,0.0,5.03
+2,H000172,James,Hansen,1932-08-14,M,,400552,,105,House,UT,1,,R,,18,1187,47,0,14,147,95.75,,0,0.0,4.79
+3,H000172,James,Hansen,1932-08-14,M,,400552,,104,House,UT,1,,R,,16,1340,46,0,25,134,95.84,,0,0.0,5.44
+4,H000172,James,Hansen,1932-08-14,M,,400552,,103,House,UT,1,,R,,14,1122,31,0,11,291,90.33,,0,0.0,8.91
+5,H000172,James,Hansen,1932-08-14,M,,400552,,102,House,UT,1,,R,,12,933,59,1,,,85.26,,0,0.0,11.46
+6,H000172,James,Hansen,1932-08-14,M,,400552,,101,House,UT,1,,R,,10,,,,,,,,0,0.0,
+7,H000172,James,Hansen,1932-08-14,M,,400552,,100,House,UT,1,,R,,8,,,,,,,,0,0.0,
+8,H000172,James,Hansen,1932-08-14,M,,400552,,99,House,UT,1,,R,,6,,,,,,,,0,0.0,
+9,H000172,James,Hansen,1932-08-14,M,,400552,,98,House,UT,1,,R,,4,,,,,,,,0,0.0,

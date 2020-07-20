@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000462,Lois,Frankel,1948-05-16,F,D,412529,623714,116,House,FL,21,,D,,8,839,46,0,16,262,99.24,,3,1.0,0.63
+1,F000462,Lois,Frankel,1948-05-16,F,D,412529,623714,115,House,FL,21,,D,,6,1211,83,2,14,301,96.91,,4,2.0,3.09
+2,F000462,Lois,Frankel,1948-05-16,F,D,412529,623714,114,House,FL,22,,D,,4,1325,26,0,11,297,97.9,,0,2.0,2.02
+3,F000462,Lois,Frankel,1948-05-16,F,D,412529,623714,113,House,FL,22,,D,,2,1204,36,1,6,286,96.12,,0,2.0,3.79

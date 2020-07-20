@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000545,Mark,Green,1960-06-01,M,,400159,,109,House,WI,8,,R,,8,1214,69,0,28,281,86.89,,0,0.0,13.37
+1,G000545,Mark,Green,1960-06-01,M,,400159,,108,House,WI,8,,R,,6,1221,9,0,30,339,92.42,,0,0.0,7.74
+2,G000545,Mark,Green,1960-06-01,M,,400159,,107,House,WI,8,,R,,4,996,6,0,23,288,94.87,,0,0.0,5.65
+3,G000545,Mark,Green,1960-06-01,M,,400159,,106,House,WI,8,,R,,2,1214,15,1,25,262,91.58,,0,0.0,8.67

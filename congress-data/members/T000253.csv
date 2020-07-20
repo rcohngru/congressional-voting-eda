@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000253,Karen,Thurman,1951-01-12,F,,400509,,107,House,FL,5,,D,,10,996,33,3,15,569,92.8,,0,0.0,7.62
+1,T000253,Karen,Thurman,1951-01-12,F,,400509,,106,House,FL,5,,D,,8,1214,42,3,10,580,91.6,,0,0.0,8.66
+2,T000253,Karen,Thurman,1951-01-12,F,,400509,,105,House,FL,5,,D,,6,1187,4,2,13,373,89.5,,0,0.0,11.03
+3,T000253,Karen,Thurman,1951-01-12,F,,400509,,104,House,FL,5,,D,,4,1340,43,0,9,214,85.63,,0,0.0,15.67
+4,T000253,Karen,Thurman,1951-01-12,F,,400509,,103,House,FL,5,,D,,2,1122,8,1,5,376,87.29,,0,0.0,11.97

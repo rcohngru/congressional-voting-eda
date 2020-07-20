@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,112,House,IA,3,,D,,16,1607,17,0,18,347,83.33,,0,2.0,16.6
+1,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,111,House,IA,3,,D,,14,1655,41,0,16,395,98.13,,0,3.0,1.81
+2,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,110,House,IA,3,,D,,12,1873,94,0,20,496,97.14,,0,3.0,3.43
+3,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,109,House,IA,3,,D,,10,1214,147,0,11,290,88.14,,0,0.0,12.05
+4,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,108,House,IA,3,,D,,8,1221,24,0,8,249,91.33,,0,0.0,8.84
+5,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,107,House,IA,3,,D,,6,996,4,0,6,200,90.23,,0,0.0,10.29
+6,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,106,House,IA,3,,D,,4,1214,26,0,5,150,83.7,,0,0.0,16.55
+7,B000652,Leonard,Boswell,1934-01-10,M,D,400042,45520,105,House,IA,3,,D,,2,1187,5,0,10,137,82.23,,0,0.0,18.3

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,116,House,TX,28,,D,,16,839,7,0,8,308,93.73,,3,1.0,6.14
+1,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,115,House,TX,28,,D,,14,1211,19,0,9,175,82.69,,2,1.0,17.31
+2,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,114,House,TX,28,,D,,12,1325,48,0,8,111,76.64,,0,1.0,23.28
+3,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,113,House,TX,28,,D,,10,1204,2,1,3,142,79.03,,0,1.0,20.89
+4,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,112,House,TX,28,,D,,8,1607,7,1,11,147,74.16,,0,2.0,25.78
+5,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,111,House,TX,28,,D,,6,1655,25,0,16,238,96.11,,0,3.0,3.83
+6,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,110,House,TX,28,,D,,4,1873,38,0,14,322,94.08,,0,2.0,6.42
+7,C001063,Henry,Cuellar,1955-09-19,M,D,400657,1013062,109,House,TX,28,,D,,2,1214,40,1,2,222,82.7,,0,0.0,17.56

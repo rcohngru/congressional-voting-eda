@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,113,House,CA,33,,D,,40,1204,84,1,9,295,95.59,,0,1.0,4.32
+1,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,112,House,CA,30,,D,,38,1607,40,3,3,203,95.85,,0,1.0,4.09
+2,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,111,House,CA,30,,D,,36,1655,78,1,16,324,98.15,,0,1.0,1.79
+3,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,110,House,CA,30,,D,,34,1873,108,0,42,597,98.45,,0,2.0,1.95
+4,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,109,House,CA,30,,D,,32,1214,55,0,25,579,94.59,,0,0.0,5.58
+5,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,108,House,CA,30,,D,,30,1221,114,1,16,570,95.06,,0,0.0,5.03
+6,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,107,House,CA,29,,D,,28,996,84,0,13,556,96.19,,0,0.0,4.37
+7,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,106,House,CA,29,,D,,26,1214,133,3,12,536,93.25,,0,0.0,6.94
+8,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,105,House,CA,29,,D,,24,1187,71,2,9,344,91.43,,0,0.0,9.04
+9,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,104,House,CA,29,,D,,22,1340,116,2,5,229,92.74,,0,0.0,8.28
+10,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,103,House,CA,29,,D,,20,1122,74,0,33,328,91.1,,0,0.0,8.32
+11,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,102,House,CA,24,,D,,18,933,76,0,,,89.77,,0,0.0,7.82
+12,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,101,House,CA,24,,D,,16,,,,,,,,0,0.0,
+13,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,100,House,CA,24,,D,,14,,,,,,,,0,0.0,
+14,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,99,House,CA,24,,D,,12,,,,,,,,0,0.0,
+15,W000215,Henry,Waxman,1939-09-12,M,D,400425,8319,98,House,CA,24,,D,,10,,,,,,,,0,0.0,

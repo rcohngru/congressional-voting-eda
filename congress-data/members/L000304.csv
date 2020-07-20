@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,112,Senate,CT,,1,I,,23,486,19,0,67,260,90.73,,0,3.0,9.27
+1,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,111,Senate,CT,,1,ID,,21,696,20,0,53,313,90.48,,0,3.0,9.52
+2,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,110,Senate,CT,,1,ID,,19,657,21,0,42,482,87.76,,0,4.0,12.24
+3,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,109,Senate,CT,,1,D,,17,645,48,0,42,413,89.98,,0,0.0,10.02
+4,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,108,Senate,CT,,1,D,,15,675,264,0,30,345,93.58,,0,0.0,6.42
+5,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,107,Senate,CT,,1,D,,13,633,12,0,37,292,93.46,,0,0.0,6.54
+6,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,106,Senate,CT,,1,D,,11,672,68,0,17,339,90.56,,0,0.0,9.44
+7,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,105,Senate,CT,,1,D,,9,612,4,0,12,210,86.45,,0,0.0,13.55
+8,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,104,Senate,CT,,1,D,,7,916,9,0,13,142,79.08,,0,0.0,20.92
+9,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,103,Senate,CT,,1,D,,5,724,10,0,40,246,85.37,,0,0.0,14.63
+10,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,102,Senate,CT,,1,D,,3,550,6,0,,,86.09,,0,0.0,13.91
+11,L000304,Joseph,Lieberman,1942-02-24,M,I,300067,4363,101,Senate,CT,,1,D,,1,638,4,0,,,,,0,0.0,

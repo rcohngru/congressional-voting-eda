@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000605,Rick,Hill,1946-12-30,M,,400587,,106,House,MT,At-Large,,R,,4,1214,29,0,14,244,91.31,,0,0.0,8.95
+1,H000605,Rick,Hill,1946-12-30,M,,400587,,105,House,MT,At-Large,,R,,2,1187,26,0,18,172,92.45,,0,0.0,8.08

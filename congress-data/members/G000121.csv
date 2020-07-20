@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000121,George,Gekas,1930-04-14,M,,400544,,107,House,PA,17,,R,,20,996,14,0,28,215,97.32,,0,0.0,2.99
+1,G000121,George,Gekas,1930-04-14,M,,400544,,106,House,PA,17,,R,,18,1214,37,0,20,167,94.22,,0,0.0,5.78
+2,G000121,George,Gekas,1930-04-14,M,,400544,,105,House,PA,17,,R,,16,1187,49,0,22,136,93.3,,0,0.0,6.88
+3,G000121,George,Gekas,1930-04-14,M,,400544,,104,House,PA,17,,R,,14,1340,31,0,19,96,95.85,,0,0.0,4.94
+4,G000121,George,Gekas,1930-04-14,M,,400544,,103,House,PA,17,,R,,12,1122,15,0,19,238,89.24,,0,0.0,10.1
+5,G000121,George,Gekas,1930-04-14,M,,400544,,102,House,PA,17,,R,,10,933,36,0,,,85.14,,0,0.0,11.54
+6,G000121,George,Gekas,1930-04-14,M,,400544,,101,House,PA,17,,R,,8,,,,,,,,0,0.0,
+7,G000121,George,Gekas,1930-04-14,M,,400544,,100,House,PA,17,,R,,6,,,,,,,,0,0.0,
+8,G000121,George,Gekas,1930-04-14,M,,400544,,99,House,PA,17,,R,,4,,,,,,,,0,0.0,
+9,G000121,George,Gekas,1930-04-14,M,,400544,,98,House,PA,17,,R,,2,,,,,,,,0,0.0,

@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,116,House,MA,1,,D,,32,839,14,0,17,180,99.64,,0,1.0,0.24
+1,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,115,House,MA,1,,D,,30,1211,40,2,18,178,98.43,,0,2.0,1.57
+2,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,114,House,MA,1,,D,,28,1325,39,0,7,183,96.46,,0,1.0,3.46
+3,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,113,House,MA,1,,D,,26,1204,74,1,9,215,94.75,,0,1.0,5.16
+4,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,112,House,MA,2,,D,,24,1607,125,1,19,208,95.9,,0,1.0,4.04
+5,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,111,House,MA,2,,D,,22,1655,79,0,14,195,98.47,,0,1.0,1.47
+6,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,110,House,MA,2,,D,,20,1873,124,0,18,269,99.59,,0,1.0,0.99
+7,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,109,House,MA,2,,D,,18,1214,66,1,12,319,95.51,,0,0.0,4.67
+8,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,108,House,MA,2,,D,,16,1221,68,0,8,275,95.86,,0,0.0,4.32
+9,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,107,House,MA,2,,D,,14,996,59,0,19,291,94.44,,0,0.0,6.1
+10,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,106,House,MA,2,,D,,12,1214,109,3,14,339,92.84,,0,0.0,7.43
+11,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,105,House,MA,2,,D,,10,1187,59,1,18,308,93.61,,0,0.0,6.94
+12,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,104,House,MA,2,,D,,8,1340,60,0,8,154,90.91,,0,0.0,10.16
+13,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,103,House,MA,2,,D,,6,1122,40,0,13,301,94.47,,0,0.0,4.96
+14,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,102,House,MA,2,,D,,4,933,43,0,,,90.52,,0,0.0,6.47
+15,N000015,Richard,Neal,1949-02-14,M,D,400291,6103,101,House,MA,2,,D,,2,,,,,,,,0,0.0,

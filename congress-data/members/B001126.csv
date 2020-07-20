@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001126,Conrad,Burns,1935-01-25,M,,300015,,109,Senate,MT,,1,R,,17,645,18,0,44,221,92.94,,0,0.0,7.06
+1,B001126,Conrad,Burns,1935-01-25,M,,300015,,108,Senate,MT,,1,R,,15,675,7,0,22,168,96.98,,0,0.0,3.02
+2,B001126,Conrad,Burns,1935-01-25,M,,300015,,107,Senate,MT,,1,R,,13,633,21,0,18,157,94.58,,0,0.0,5.42
+3,B001126,Conrad,Burns,1935-01-25,M,,300015,,106,Senate,MT,,1,R,,11,672,20,0,29,256,92.6,,0,0.0,7.4
+4,B001126,Conrad,Burns,1935-01-25,M,,300015,,105,Senate,MT,,1,R,,9,612,15,0,24,183,93.58,,0,0.0,6.42
+5,B001126,Conrad,Burns,1935-01-25,M,,300015,,104,Senate,MT,,1,R,,7,916,2,0,21,137,94.72,,0,0.0,5.28
+6,B001126,Conrad,Burns,1935-01-25,M,,300015,,103,Senate,MT,,1,R,,5,724,7,0,15,221,90.74,,0,0.0,9.26
+7,B001126,Conrad,Burns,1935-01-25,M,,300015,,102,Senate,MT,,1,R,,3,550,1,0,,,90.94,,0,0.0,9.06
+8,B001126,Conrad,Burns,1935-01-25,M,,300015,,101,Senate,MT,,1,R,,1,638,8,0,,,,,0,0.0,

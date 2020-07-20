@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001065,George,Holding,1968-04-17,M,R,412553,623728,116,House,NC,2,,R,,8,839,82,0,7,116,96.4,,2,3.0,3.46
+1,H001065,George,Holding,1968-04-17,M,R,412553,623728,115,House,NC,2,,R,,6,1211,31,0,14,144,94.89,,4,1.0,5.11
+2,H001065,George,Holding,1968-04-17,M,R,412553,623728,114,House,NC,13,,R,,4,1325,9,0,12,111,95.33,,0,1.0,4.59
+3,H001065,George,Holding,1968-04-17,M,R,412553,623728,113,House,NC,13,,R,,2,1204,16,0,7,155,94.17,,0,2.0,5.75

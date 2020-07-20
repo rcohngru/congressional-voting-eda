@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000780,John,Breaux,1944-03-01,M,,300012,,108,Senate,LA,,3,D,,17,675,15,0,22,222,75.47,,0,0.0,24.53
+1,B000780,John,Breaux,1944-03-01,M,,300012,,107,Senate,LA,,3,D,,15,633,10,0,38,250,77.16,,0,0.0,22.84
+2,B000780,John,Breaux,1944-03-01,M,,300012,,106,Senate,LA,,3,D,,13,672,12,0,39,287,82.73,,0,0.0,17.27
+3,B000780,John,Breaux,1944-03-01,M,,300012,,105,Senate,LA,,3,D,,11,612,3,0,37,174,81.14,,0,0.0,18.86
+4,B000780,John,Breaux,1944-03-01,M,,300012,,104,Senate,LA,,3,D,,9,916,8,0,35,118,79.64,,0,0.0,20.36
+5,B000780,John,Breaux,1944-03-01,M,,300012,,103,Senate,LA,,3,D,,7,724,24,0,26,150,85.78,,0,0.0,14.22
+6,B000780,John,Breaux,1944-03-01,M,,300012,,102,Senate,LA,,3,D,,5,550,20,1,,,79.27,,0,0.0,20.73
+7,B000780,John,Breaux,1944-03-01,M,,300012,,101,Senate,LA,,3,D,,4,638,7,0,,,,,0,0.0,
+8,B000780,John,Breaux,1944-03-01,M,,300012,,100,Senate,LA,,3,D,,1,,,,,,,,0,0.0,
+9,B000780,John,Breaux,1944-03-01,M,,300012,,99,House,LA,7,,D,,16,,,,,,,,0,0.0,
+10,B000780,John,Breaux,1944-03-01,M,,300012,,98,House,LA,7,,D,,14,,,,,,,,0,0.0,

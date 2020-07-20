@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,116,Senate,TX,,2,R,Senate Majority Whip,17,557,7,0,78,281,97.99,,7,4.0,2.01
+1,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,115,Senate,TX,,2,R,Assistant Leader,15,599,2,0,81,264,98.99,,7,4.0,1.01
+2,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,114,Senate,TX,,2,R,,13,502,9,0,52,185,94.21,,0,3.0,5.79
+3,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,113,Senate,TX,,2,R,,11,657,22,0,48,252,91.36,,6,2.0,8.64
+4,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,112,Senate,TX,,2,R,,9,486,6,0,27,253,92.8,,0,4.0,7.2
+5,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,111,Senate,TX,,2,R,,7,696,15,0,55,187,94.66,,0,3.0,5.34
+6,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,110,Senate,TX,,2,R,,5,657,23,1,34,238,92.56,,0,4.0,7.44
+7,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,109,Senate,TX,,2,R,,3,645,8,0,44,216,92.73,,0,0.0,7.27
+8,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,108,Senate,TX,,2,R,,1,675,9,0,28,150,96.98,,0,0.0,3.02
+9,C001056,John,Cornyn,1952-02-02,M,R,300027,93131,107,Senate,TX,,2,R,,1,0,0,0,,,0.0,,0,0.0,0.0

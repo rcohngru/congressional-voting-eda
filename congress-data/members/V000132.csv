@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000132,Filemon,Vela,1963-02-13,M,D,412580,95434,116,House,TX,34,,D,,8,839,11,0,11,341,96.97,,5,2.0,2.91
+1,V000132,Filemon,Vela,1963-02-13,M,D,412580,95434,115,House,TX,34,,D,,6,1211,72,0,6,307,92.16,,3,2.0,7.84
+2,V000132,Filemon,Vela,1963-02-13,M,D,412580,95434,114,House,TX,34,,D,,4,1325,36,0,2,145,89.72,,0,2.0,10.2
+3,V000132,Filemon,Vela,1963-02-13,M,D,412580,95434,113,House,TX,34,,D,,2,1204,30,1,3,177,86.43,,0,2.0,13.49

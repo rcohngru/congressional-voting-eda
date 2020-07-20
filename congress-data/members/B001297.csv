@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001297,Ken,Buck,1959-02-16,M,R,412619,78285,116,House,CO,4,,R,,6,839,108,0,11,132,89.39,,4,2.0,10.47
+1,B001297,Ken,Buck,1959-02-16,M,R,412619,78285,115,House,CO,4,,R,,4,1211,30,0,33,145,91.16,,3,2.0,8.84
+2,B001297,Ken,Buck,1959-02-16,M,R,412619,78285,114,House,CO,4,,R,,2,1325,65,0,8,126,91.04,,0,2.0,8.88

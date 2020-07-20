@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,116,House,NE,3,,R,,14,839,5,0,9,147,94.8,,2,1.0,5.08
+1,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,115,House,NE,3,,R,,12,1211,37,0,13,112,97.86,,2,2.0,2.14
+2,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,114,House,NE,3,,R,,10,1325,15,0,11,95,97.62,,0,1.0,2.31
+3,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,113,House,NE,3,,R,,8,1204,15,0,7,106,97.47,,0,1.0,2.45
+4,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,112,House,NE,3,,R,,6,1607,11,0,6,114,95.52,,0,1.0,4.42
+5,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,111,House,NE,3,,R,,4,1655,9,0,8,187,96.73,,0,3.0,3.2
+6,S001172,Adrian,Smith,1970-12-19,M,R,412217,1022845,110,House,NE,3,,R,,2,1873,20,2,7,188,96.22,,0,3.0,4.33

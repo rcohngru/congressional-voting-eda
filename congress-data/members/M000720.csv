@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000720,Dan,Miller,1942-05-30,M,,400510,,107,House,FL,13,,R,,10,996,55,0,6,121,97.2,,0,0.0,3.23
+1,M000720,Dan,Miller,1942-05-30,M,,400510,,106,House,FL,13,,R,,8,1214,39,0,13,150,91.84,,0,0.0,8.42
+2,M000720,Dan,Miller,1942-05-30,M,,400510,,105,House,FL,13,,R,,6,1187,20,0,7,173,91.08,,0,0.0,9.45
+3,M000720,Dan,Miller,1942-05-30,M,,400510,,104,House,FL,13,,R,,4,1340,17,0,6,148,94.05,,0,0.0,7.2
+4,M000720,Dan,Miller,1942-05-30,M,,400510,,103,House,FL,13,,R,,2,1122,18,0,5,192,87.31,,0,0.0,11.94

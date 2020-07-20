@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000442,Peter,Fitzgerald,1960-10-20,M,,300044,,108,Senate,IL,,3,R,,5,675,13,0,19,181,93.76,,0,0.0,6.24
+1,F000442,Peter,Fitzgerald,1960-10-20,M,,300044,,107,Senate,IL,,3,R,,3,633,0,24,14,126,81.56,,0,0.0,18.44
+2,F000442,Peter,Fitzgerald,1960-10-20,M,,300044,,106,Senate,IL,,3,R,,1,672,1,28,16,151,83.83,,0,0.0,16.17

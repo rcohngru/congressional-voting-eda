@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,116,House,GA,4,,D,,14,839,8,1,25,671,98.79,,5,2.0,1.09
+1,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,115,House,GA,4,,D,,12,1211,41,2,21,597,95.44,,5,2.0,4.56
+2,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,114,House,GA,4,,D,,10,1325,44,0,22,332,96.84,,0,2.0,3.08
+3,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,113,House,GA,4,,D,,8,1204,65,3,14,414,94.07,,0,2.0,5.84
+4,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,112,House,GA,4,,D,,6,1607,80,3,12,365,95.22,,0,2.0,4.72
+5,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,111,House,GA,4,,D,,4,1655,86,4,26,606,98.08,,0,4.0,1.86
+6,J000288,Hank,Johnson,1954-10-02,M,D,412199,1020576,110,House,GA,4,,D,,2,1873,71,0,13,555,98.76,,0,3.0,1.8

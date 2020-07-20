@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000901,Thomas,Huckaby,1941-07-19,M,,405747,,102,House,LA,5,,D,,16,933,136,0,,,74.48,,0,0.0,22.68
+1,H000901,Thomas,Huckaby,1941-07-19,M,,405747,,101,House,LA,5,,D,,14,,,,,,,,0,0.0,
+2,H000901,Thomas,Huckaby,1941-07-19,M,,405747,,100,House,LA,5,,D,,12,,,,,,,,0,0.0,
+3,H000901,Thomas,Huckaby,1941-07-19,M,,405747,,99,House,LA,5,,D,,10,,,,,,,,0,0.0,
+4,H000901,Thomas,Huckaby,1941-07-19,M,,405747,,98,House,LA,5,,D,,8,,,,,,,,0,0.0,

@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,116,House,PA,18,,D,,26,839,29,0,10,373,98.76,,2,1.0,1.11
+1,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,115,House,PA,14,,D,,24,1211,24,1,7,292,97.66,,2,1.0,2.34
+2,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,114,House,PA,14,,D,,22,1325,62,0,4,151,96.8,,0,1.0,3.12
+3,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,113,House,PA,14,,D,,20,1204,72,1,6,225,95.55,,0,1.0,4.36
+4,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,112,House,PA,14,,D,,18,1607,51,1,7,217,93.81,,0,1.0,6.13
+5,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,111,House,PA,14,,D,,16,1655,100,0,10,358,98.64,,0,1.0,1.29
+6,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,110,House,PA,14,,D,,14,1873,150,8,13,440,98.24,,0,3.0,2.11
+7,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,109,House,PA,14,,D,,12,1214,50,3,3,341,93.2,,0,0.0,7.06
+8,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,108,House,PA,14,,D,,10,1221,47,1,2,283,94.13,,0,0.0,5.96
+9,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,107,House,PA,18,,D,,8,996,37,0,7,375,93.2,,0,0.0,7.23
+10,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,106,House,PA,18,,D,,6,1214,41,0,4,378,89.27,,0,0.0,10.99
+11,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,105,House,PA,18,,D,,4,1187,29,0,6,232,84.26,,0,0.0,16.19
+12,D000482,Mike,Doyle,1953-08-05,M,D,400114,36774,104,House,PA,18,,D,,2,1340,10,0,3,167,80.14,,0,0.0,21.12

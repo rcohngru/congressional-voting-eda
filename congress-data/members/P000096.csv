@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,116,House,NJ,9,,D,,24,839,10,0,27,369,99.15,,2,1.0,0.73
+1,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,115,House,NJ,9,,D,,22,1211,33,1,17,392,97.48,,2,1.0,2.52
+2,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,114,House,NJ,9,,D,,20,1325,43,0,26,294,96.61,,0,2.0,3.31
+3,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,113,House,NJ,9,,D,,18,1204,33,1,21,288,96.99,,0,2.0,2.93
+4,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,112,House,NJ,8,,D,,16,1607,123,1,30,317,94.88,,0,2.0,5.05
+5,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,111,House,NJ,8,,D,,14,1655,100,0,38,405,98.19,,0,2.0,1.75
+6,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,110,House,NJ,8,,D,,12,1873,63,0,34,383,98.43,,0,2.0,2.13
+7,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,109,House,NJ,8,,D,,10,1214,40,0,25,285,94.64,,0,0.0,5.62
+8,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,108,House,NJ,8,,D,,8,1221,43,0,22,289,94.73,,0,0.0,5.44
+9,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,107,House,NJ,8,,D,,6,996,27,0,21,498,92.74,,0,0.0,7.68
+10,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,106,House,NJ,8,,D,,4,1214,56,2,12,324,89.31,,0,0.0,10.96
+11,P000096,Bill,Pascrell,1937-01-25,M,D,400309,45543,105,House,NJ,8,,D,,2,1187,21,1,8,289,87.3,,0,0.0,13.15

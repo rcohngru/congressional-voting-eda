@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000624,Debbie,Dingell,1953-11-23,F,D,412637,20818,116,House,MI,12,,D,,6,839,34,0,40,622,98.75,,6,2.0,1.12
+1,D000624,Debbie,Dingell,1953-11-23,F,D,412637,20818,115,House,MI,12,,D,,4,1211,13,3,25,530,98.46,,3,1.0,1.54
+2,D000624,Debbie,Dingell,1953-11-23,F,D,412637,20818,114,House,MI,12,,D,,2,1325,37,0,8,197,97.96,,0,2.0,1.96

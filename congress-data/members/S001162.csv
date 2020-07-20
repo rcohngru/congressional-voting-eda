@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001162,Allyson,Schwartz,1948-10-03,F,D,400647,57332,113,House,PA,13,,D,,8,1204,217,1,13,345,96.02,,0,2.0,3.88
+1,S001162,Allyson,Schwartz,1948-10-03,F,D,400647,57332,112,House,PA,13,,D,,6,1607,58,1,13,203,94.75,,0,2.0,5.18
+2,S001162,Allyson,Schwartz,1948-10-03,F,D,400647,57332,111,House,PA,13,,D,,4,1655,37,0,22,366,98.63,,0,2.0,1.31
+3,S001162,Allyson,Schwartz,1948-10-03,F,D,400647,57332,110,House,PA,13,,D,,2,1873,31,1,21,377,98.4,,0,3.0,2.15
+4,S001162,Allyson,Schwartz,1948-10-03,F,D,400647,57332,109,House,PA,13,,D,,2,1214,10,1,5,317,94.44,,0,0.0,5.82

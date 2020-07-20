@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000094,Tom,Sawyer,1945-08-15,M,,400539,,107,House,OH,14,,D,,16,996,27,0,5,197,97.68,,0,0.0,2.84
+1,S000094,Tom,Sawyer,1945-08-15,M,,400539,,106,House,OH,14,,D,,14,1214,13,2,3,220,96.62,,0,0.0,3.63
+2,S000094,Tom,Sawyer,1945-08-15,M,,400539,,105,House,OH,14,,D,,12,1187,10,6,1,181,94.58,,0,0.0,5.95
+3,S000094,Tom,Sawyer,1945-08-15,M,,400539,,104,House,OH,14,,D,,10,1340,8,8,3,95,93.28,,0,0.0,7.98
+4,S000094,Tom,Sawyer,1945-08-15,M,,400539,,103,House,OH,14,,D,,8,1122,10,1,13,203,95.17,,0,0.0,4.09
+5,S000094,Tom,Sawyer,1945-08-15,M,,400539,,102,House,OH,14,,D,,6,933,14,0,,,93.39,,0,0.0,3.7
+6,S000094,Tom,Sawyer,1945-08-15,M,,400539,,101,House,OH,14,,D,,4,,,,,,,,0,0.0,
+7,S000094,Tom,Sawyer,1945-08-15,M,,400539,,100,House,OH,14,,D,,2,,,,,,,,0,0.0,

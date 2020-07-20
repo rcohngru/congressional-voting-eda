@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001190,Markwayne,Mullin,1977-07-26,M,R,412568,1034045,116,House,OK,2,,R,,8,839,94,0,8,200,95.13,,3,1.0,4.74
+1,M001190,Markwayne,Mullin,1977-07-26,M,R,412568,1034045,115,House,OK,2,,R,,6,1211,14,0,23,195,97.9,,3,1.0,2.1
+2,M001190,Markwayne,Mullin,1977-07-26,M,R,412568,1034045,114,House,OK,2,,R,,4,1325,13,0,22,171,97.7,,0,1.0,2.23
+3,M001190,Markwayne,Mullin,1977-07-26,M,R,412568,1034045,113,House,OK,2,,R,,2,1204,30,0,9,178,95.89,,0,2.0,4.02

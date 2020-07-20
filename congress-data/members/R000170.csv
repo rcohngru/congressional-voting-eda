@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,112,House,TX,16,,D,,16,1607,122,1,9,237,91.0,,0,2.0,8.94
+1,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,111,House,TX,16,,D,,14,1655,98,0,13,296,98.71,,0,2.0,1.23
+2,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,110,House,TX,16,,D,,12,1873,105,0,22,427,98.22,,0,2.0,2.36
+3,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,109,House,TX,16,,D,,10,1214,130,0,14,370,90.45,,0,0.0,9.83
+4,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,108,House,TX,16,,D,,8,1221,179,1,13,324,90.74,,0,0.0,9.36
+5,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,107,House,TX,16,,D,,6,996,92,0,15,339,92.33,,0,0.0,8.12
+6,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,106,House,TX,16,,D,,4,1214,91,2,8,332,93.06,,0,0.0,7.12
+7,R000170,Silvestre,Reyes,1944-11-10,M,D,400337,45744,105,House,TX,16,,D,,2,1187,73,4,10,157,89.03,,0,0.0,11.43

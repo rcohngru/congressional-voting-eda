@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001177,Gregorio,Sablan,1955-01-19,M,I,412312,1031366,116,House,MP,At-Large,,D,,12,316,83,0,27,261,99.57,,4,3.0,0.43
+1,S001177,Gregorio,Sablan,1955-01-19,M,I,412312,1031366,115,House,MP,At-Large,,D,,10,0,,,6,190,,,6,3.0,
+2,S001177,Gregorio,Sablan,1955-01-19,M,I,412312,1031366,114,House,MP,At-Large,,D,,8,,,,12,108,,,0,2.0,
+3,S001177,Gregorio,Sablan,1955-01-19,M,I,412312,1031366,113,House,MP,At-Large,,D,,6,0,0,0,18,157,0.0,,0,2.0,
+4,S001177,Gregorio,Sablan,1955-01-19,M,I,412312,1031366,112,House,MP,At-Large,,D,,4,0,0,0,27,213,0.0,,0,2.0,
+5,S001177,Gregorio,Sablan,1955-01-19,M,I,412312,1031366,111,House,MP,At-Large,,I,,2,4,2,0,22,368,50.0,,0,2.0,50.0

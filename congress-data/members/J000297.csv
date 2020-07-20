@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000297,Evan,Jenkins,1960-09-12,M,R,412663,76592,115,House,WV,3,,R,,4,1126,92,0,12,180,92.32,,3,1.0,7.68
+1,J000297,Evan,Jenkins,1960-09-12,M,R,412663,76592,114,House,WV,3,,R,,2,1325,18,0,9,101,93.14,,0,1.0,6.78

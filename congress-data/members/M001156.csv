@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,116,House,NC,10,,R,,16,839,33,0,11,79,93.87,,0,1.0,6.01
+1,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,115,House,NC,10,,R,,14,1211,28,0,12,69,98.64,,2,1.0,1.36
+2,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,114,House,NC,10,,R,,12,1325,7,0,13,90,97.4,,0,1.0,2.52
+3,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,113,House,NC,10,,R,,10,1204,31,0,4,168,96.49,,0,2.0,3.42
+4,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,112,House,NC,10,,R,,8,1607,57,0,4,160,94.8,,0,2.0,5.14
+5,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,111,House,NC,10,,R,,6,1655,49,1,5,254,96.09,,0,3.0,3.85
+6,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,110,House,NC,10,,R,,4,1873,85,0,7,250,94.09,,0,3.0,6.37
+7,M001156,Patrick,McHenry,1975-10-22,M,R,400644,1007062,109,House,NC,10,,R,,2,1214,23,0,10,230,92.06,,0,0.0,8.19

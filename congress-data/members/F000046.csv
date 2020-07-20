@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000046,Walter,Fauntroy,1933-02-06,M,,404006,,101,House,DC,At-Large,,D,,20,,,,,,,,0,0.0,
+1,F000046,Walter,Fauntroy,1933-02-06,M,,404006,,100,House,DC,At-Large,,D,,18,,,,,,,,0,0.0,
+2,F000046,Walter,Fauntroy,1933-02-06,M,,404006,,99,House,DC,At-Large,,D,,16,,,,,,,,0,0.0,
+3,F000046,Walter,Fauntroy,1933-02-06,M,,404006,,98,House,DC,At-Large,,D,,14,,,,,,,,0,0.0,

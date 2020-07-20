@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000306,Alfred,McCandless,1927-07-23,M,,407320,,103,House,CA,44,,R,,12,1122,45,0,16,172,90.76,,0,0.0,8.57
+1,M000306,Alfred,McCandless,1927-07-23,M,,407320,,102,House,CA,37,,R,,10,933,14,0,,,87.81,,0,0.0,8.84
+2,M000306,Alfred,McCandless,1927-07-23,M,,407320,,101,House,CA,37,,R,,8,,,,,,,,0,0.0,
+3,M000306,Alfred,McCandless,1927-07-23,M,,407320,,100,House,CA,37,,R,,6,,,,,,,,0,0.0,
+4,M000306,Alfred,McCandless,1927-07-23,M,,407320,,99,House,CA,37,,R,,4,,,,,,,,0,0.0,
+5,M000306,Alfred,McCandless,1927-07-23,M,,407320,,98,House,CA,37,,R,,2,,,,,,,,0,0.0,

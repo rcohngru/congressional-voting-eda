@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,114,House,NJ,5,,R,,14,1325,29,0,24,74,92.38,,0,2.0,7.54
+1,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,113,House,NJ,5,,R,,12,1204,17,0,21,132,91.88,,0,2.0,8.04
+2,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,112,House,NJ,5,,R,,10,1607,26,1,21,203,90.25,,0,2.0,9.69
+3,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,111,House,NJ,5,,R,,8,1655,35,0,25,314,92.48,,0,2.0,7.46
+4,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,110,House,NJ,5,,R,,6,1873,30,4,32,341,91.69,,0,2.0,8.81
+5,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,109,House,NJ,5,,R,,4,1214,19,1,24,354,89.21,,0,0.0,11.05
+6,G000548,Scott,Garrett,1959-07-09,M,R,400145,1003601,108,House,NJ,5,,R,,2,1221,14,0,14,268,93.57,,0,0.0,6.51

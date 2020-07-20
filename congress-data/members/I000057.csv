@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,114,House,NY,3,,D,,16,1325,42,0,48,330,96.54,,0,1.0,3.3
+1,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,113,House,NY,3,,D,,14,1204,18,1,52,411,92.69,,0,1.0,7.23
+2,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,112,House,NY,2,,D,,12,1607,26,1,65,305,93.84,,0,0.0,6.1
+3,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,111,House,NY,2,,D,,10,1655,57,0,41,497,98.8,,0,1.0,1.13
+4,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,110,House,NY,2,,D,,8,1873,55,0,40,471,99.05,,0,1.0,1.51
+5,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,109,House,NY,2,,D,,6,1214,22,1,27,390,94.72,,0,0.0,5.53
+6,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,108,House,NY,2,,D,,4,1221,47,2,27,441,94.38,,0,0.0,5.71
+7,I000057,Steve,Israel,1958-05-30,M,D,400195,87911,107,House,NY,2,,D,,2,996,24,0,24,354,90.44,,0,0.0,10.08

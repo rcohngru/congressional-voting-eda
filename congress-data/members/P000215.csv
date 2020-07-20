@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000215,Timothy,Penny,1951-11-19,M,,408618,,103,House,MN,1,,D,,12,1122,14,0,23,238,65.08,,0,0.0,34.17
+1,P000215,Timothy,Penny,1951-11-19,M,,408618,,102,House,MN,1,,D,,10,933,20,0,,,67.91,,0,0.0,29.28
+2,P000215,Timothy,Penny,1951-11-19,M,,408618,,101,House,MN,1,,D,,8,,,,,,,,0,0.0,
+3,P000215,Timothy,Penny,1951-11-19,M,,408618,,100,House,MN,1,,D,,6,,,,,,,,0,0.0,
+4,P000215,Timothy,Penny,1951-11-19,M,,408618,,99,House,MN,1,,D,,4,,,,,,,,0,0.0,
+5,P000215,Timothy,Penny,1951-11-19,M,,408618,,98,House,MN,1,,D,,2,,,,,,,,0,0.0,

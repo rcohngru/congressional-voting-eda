@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000384,Wallace,Bennett,1898-11-13,,,401375,,93,Senate,UT,,3,R,,23,,,,,,,,0,0.0,
+1,B000384,Wallace,Bennett,1898-11-13,,,401375,,92,Senate,UT,,3,R,,21,,,,,,,,0,0.0,
+2,B000384,Wallace,Bennett,1898-11-13,,,401375,,91,Senate,UT,,3,R,,19,,,,,,,,0,0.0,
+3,B000384,Wallace,Bennett,1898-11-13,,,401375,,90,Senate,UT,,3,R,,17,,,,,,,,0,0.0,
+4,B000384,Wallace,Bennett,1898-11-13,,,401375,,89,Senate,UT,,3,R,,15,,,,,,,,0,0.0,
+5,B000384,Wallace,Bennett,1898-11-13,,,401375,,88,Senate,UT,,3,R,,13,,,,,,,,0,0.0,
+6,B000384,Wallace,Bennett,1898-11-13,,,401375,,87,Senate,UT,,3,R,,11,,,,,,,,0,0.0,
+7,B000384,Wallace,Bennett,1898-11-13,,,401375,,86,Senate,UT,,3,R,,9,,,,,,,,0,0.0,
+8,B000384,Wallace,Bennett,1898-11-13,,,401375,,85,Senate,UT,,3,R,,7,,,,,,,,0,0.0,
+9,B000384,Wallace,Bennett,1898-11-13,,,401375,,84,Senate,UT,,3,R,,5,,,,,,,,0,0.0,
+10,B000384,Wallace,Bennett,1898-11-13,,,401375,,83,Senate,UT,,3,R,,3,,,,,,,,0,0.0,
+11,B000384,Wallace,Bennett,1898-11-13,,,401375,,82,Senate,UT,,3,R,,1,,,,,,,,0,0.0,

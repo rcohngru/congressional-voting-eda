@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000381,Derek,Kilmer,1974-01-01,M,D,412583,68310,116,House,WA,6,,D,,8,839,4,0,33,685,98.32,,3,2.0,1.56
+1,K000381,Derek,Kilmer,1974-01-01,M,D,412583,68310,115,House,WA,6,,D,,6,1211,2,2,30,640,96.6,,2,1.0,3.4
+2,K000381,Derek,Kilmer,1974-01-01,M,D,412583,68310,114,House,WA,6,,D,,4,1325,3,0,27,386,95.33,,0,1.0,4.59
+3,K000381,Derek,Kilmer,1974-01-01,M,D,412583,68310,113,House,WA,6,,D,,2,1204,14,1,22,337,91.53,,0,2.0,8.39

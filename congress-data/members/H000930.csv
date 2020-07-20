@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000930,William,Hughes,1932-10-17,M,,405775,,103,House,NJ,2,,D,,20,1122,10,1,46,444,91.07,,0,0.0,8.19
+1,H000930,William,Hughes,1932-10-17,M,,405775,,102,House,NJ,2,,D,,18,933,16,0,,,82.47,,0,0.0,14.72
+2,H000930,William,Hughes,1932-10-17,M,,405775,,101,House,NJ,2,,D,,16,,,,,,,,0,0.0,
+3,H000930,William,Hughes,1932-10-17,M,,405775,,100,House,NJ,2,,D,,14,,,,,,,,0,0.0,
+4,H000930,William,Hughes,1932-10-17,M,,405775,,99,House,NJ,2,,D,,12,,,,,,,,0,0.0,
+5,H000930,William,Hughes,1932-10-17,M,,405775,,98,House,NJ,2,,D,,10,,,,,,,,0,0.0,

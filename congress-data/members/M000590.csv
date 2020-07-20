@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000590,Michael,McNulty,1947-09-16,M,,400268,,110,House,NY,21,,D,,20,1873,92,0,5,606,98.8,,0,1.0,1.77
+1,M000590,Michael,McNulty,1947-09-16,M,,400268,,109,House,NY,21,,D,,18,1214,35,1,9,679,94.58,,0,0.0,5.68
+2,M000590,Michael,McNulty,1947-09-16,M,,400268,,108,House,NY,21,,D,,16,1221,27,0,13,677,93.18,,0,0.0,6.99
+3,M000590,Michael,McNulty,1947-09-16,M,,400268,,107,House,NY,21,,D,,14,996,11,0,13,573,87.68,,0,0.0,12.84
+4,M000590,Michael,McNulty,1947-09-16,M,,400268,,106,House,NY,21,,D,,12,1214,124,0,11,454,89.86,,0,0.0,10.33
+5,M000590,Michael,McNulty,1947-09-16,M,,400268,,105,House,NY,21,,D,,10,1187,116,0,15,266,84.38,,0,0.0,16.0
+6,M000590,Michael,McNulty,1947-09-16,M,,400268,,104,House,NY,21,,D,,8,1340,73,0,7,109,78.29,,0,0.0,22.96
+7,M000590,Michael,McNulty,1947-09-16,M,,400268,,103,House,NY,21,,D,,6,1122,51,0,12,245,87.25,,0,0.0,12.17
+8,M000590,Michael,McNulty,1947-09-16,M,,400268,,102,House,NY,23,,D,,4,933,25,0,,,91.36,,0,0.0,5.91
+9,M000590,Michael,McNulty,1947-09-16,M,,400268,,101,House,NY,23,,D,,2,,,,,,,,0,0.0,

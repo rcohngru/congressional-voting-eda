@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,104,House,IN,10,,D,,30,1340,58,3,50,296,72.5,,0,0.0,28.74
+1,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,103,House,IN,10,,D,,28,1122,16,0,78,406,65.98,,0,0.0,33.27
+2,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,102,House,IN,10,,D,,26,933,37,0,,,66.67,,0,0.0,30.34
+3,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,101,House,IN,10,,D,,24,,,,,,,,0,0.0,
+4,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,100,House,IN,10,,D,,22,,,,,,,,0,0.0,
+5,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,99,House,IN,10,,D,,20,,,,,,,,0,0.0,
+6,J000033,Andrew,Jacobs,1932-02-24,M,,405939,,98,House,IN,10,,D,,18,,,,,,,,0,0.0,

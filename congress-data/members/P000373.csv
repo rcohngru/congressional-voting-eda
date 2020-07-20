@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,114,House,PA,16,,R,,20,1325,35,0,24,107,96.8,,0,2.0,3.13
+1,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,113,House,PA,16,,R,,18,1204,20,0,18,169,94.91,,0,1.0,5.0
+2,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,112,House,PA,16,,R,,16,1607,33,0,10,252,94.88,,0,1.0,5.06
+3,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,111,House,PA,16,,R,,14,1655,34,0,16,476,96.06,,0,1.0,3.88
+4,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,110,House,PA,16,,R,,12,1873,99,1,9,400,94.96,,0,1.0,5.56
+5,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,109,House,PA,16,,R,,10,1214,16,0,20,301,91.63,,0,0.0,8.54
+6,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,108,House,PA,16,,R,,8,1221,48,0,17,247,95.27,,0,0.0,4.91
+7,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,107,House,PA,16,,R,,6,996,23,0,19,242,94.88,,0,0.0,5.64
+8,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,106,House,PA,16,,R,,4,1214,28,0,19,251,94.75,,0,0.0,5.5
+9,P000373,Joe,Pitts,1939-10-10,M,R,400320,11706,105,House,PA,16,,R,,2,1187,4,0,15,180,95.91,,0,0.0,4.62

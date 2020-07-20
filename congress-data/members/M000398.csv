@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000398,David,McCurdy,1950-03-30,M,,407399,,103,House,OK,4,,D,,14,1122,169,0,9,100,82.32,,0,0.0,16.92
+1,M000398,David,McCurdy,1950-03-30,M,,407399,,102,House,OK,4,,D,,12,933,65,0,,,82.21,,0,0.0,15.07
+2,M000398,David,McCurdy,1950-03-30,M,,407399,,101,House,OK,4,,D,,10,,,,,,,,0,0.0,
+3,M000398,David,McCurdy,1950-03-30,M,,407399,,100,House,OK,4,,D,,8,,,,,,,,0,0.0,
+4,M000398,David,McCurdy,1950-03-30,M,,407399,,99,House,OK,4,,D,,6,,,,,,,,0,0.0,
+5,M000398,David,McCurdy,1950-03-30,M,,407399,,98,House,OK,4,,D,,4,,,,,,,,0,0.0,

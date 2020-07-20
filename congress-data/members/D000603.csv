@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000603,Geoff,Davis,1958-10-26,M,R,400633,1011405,112,House,KY,4,,R,,8,1487,43,0,19,147,93.37,,0,1.0,6.56
+1,D000603,Geoff,Davis,1958-10-26,M,R,400633,1011405,111,House,KY,4,,R,,6,1655,65,0,3,257,95.6,,0,1.0,4.34
+2,D000603,Geoff,Davis,1958-10-26,M,R,400633,1011405,110,House,KY,4,,R,,4,1873,81,3,14,284,94.96,,0,2.0,5.61
+3,D000603,Geoff,Davis,1958-10-26,M,R,400633,1011405,109,House,KY,4,,R,,2,1214,21,1,11,236,94.22,,0,0.0,6.04

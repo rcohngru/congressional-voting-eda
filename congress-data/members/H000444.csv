@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000444,Joel,Hefley,1935-04-18,M,,400174,,109,House,CO,5,,R,,20,1214,45,2,20,144,87.07,,0,0.0,13.19
+1,H000444,Joel,Hefley,1935-04-18,M,,400174,,108,House,CO,5,,R,,18,1221,22,0,25,181,87.96,,0,0.0,12.21
+2,H000444,Joel,Hefley,1935-04-18,M,,400174,,107,House,CO,5,,R,,16,996,28,0,31,236,84.8,,0,0.0,15.62
+3,H000444,Joel,Hefley,1935-04-18,M,,400174,,106,House,CO,5,,R,,14,1214,60,2,24,197,84.91,,0,0.0,15.27
+4,H000444,Joel,Hefley,1935-04-18,M,,400174,,105,House,CO,5,,R,,12,1187,13,1,24,201,88.51,,0,0.0,12.02
+5,H000444,Joel,Hefley,1935-04-18,M,,400174,,104,House,CO,5,,R,,10,1340,13,0,30,151,90.34,,0,0.0,10.91
+6,H000444,Joel,Hefley,1935-04-18,M,,400174,,103,House,CO,5,,R,,8,1122,13,0,25,166,88.68,,0,0.0,10.66
+7,H000444,Joel,Hefley,1935-04-18,M,,400174,,102,House,CO,5,,R,,6,933,23,0,,,83.5,,0,0.0,12.99
+8,H000444,Joel,Hefley,1935-04-18,M,,400174,,101,House,CO,5,,R,,4,,,,,,,,0,0.0,
+9,H000444,Joel,Hefley,1935-04-18,M,,400174,,100,House,CO,5,,R,,2,,,,,,,,0,0.0,

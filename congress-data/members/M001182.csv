@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001182,Mick,Mulvaney,1967-07-21,M,R,412474,623510,115,House,SC,5,,R,,8,97,91,0,0,0,100.0,,0,0.0,0.0
+1,M001182,Mick,Mulvaney,1967-07-21,M,R,412474,623510,114,House,SC,5,,R,,6,1325,54,4,15,214,88.98,,0,2.0,10.94
+2,M001182,Mick,Mulvaney,1967-07-21,M,R,412474,623510,113,House,SC,5,,R,,4,1204,46,1,12,296,90.29,,0,2.0,9.71
+3,M001182,Mick,Mulvaney,1967-07-21,M,R,412474,623510,112,House,SC,5,,R,,2,1607,10,6,44,226,88.14,,0,3.0,11.8

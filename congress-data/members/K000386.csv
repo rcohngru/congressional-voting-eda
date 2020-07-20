@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000386,John,Katko,1962-11-09,M,R,412649,76367,116,House,NY,24,,R,,6,839,34,0,35,354,76.94,,4,2.0,22.93
+1,K000386,John,Katko,1962-11-09,M,R,412649,76367,115,House,NY,24,,R,,4,1211,38,0,30,323,89.2,,5,2.0,10.8
+2,K000386,John,Katko,1962-11-09,M,R,412649,76367,114,House,NY,24,,R,,2,1325,19,0,26,206,85.96,,0,2.0,13.97

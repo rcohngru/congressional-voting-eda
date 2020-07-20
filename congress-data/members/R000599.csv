@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000599,Raul,Ruiz,1972-08-25,M,D,412519,79727,116,House,CA,36,,D,,8,839,0,0,49,245,98.45,,3,1.0,1.43
+1,R000599,Raul,Ruiz,1972-08-25,M,D,412519,79727,115,House,CA,36,,D,,6,1211,5,2,36,261,94.63,,3,1.0,5.37
+2,R000599,Raul,Ruiz,1972-08-25,M,D,412519,79727,114,House,CA,36,,D,,4,1325,55,0,23,195,93.63,,0,2.0,6.29
+3,R000599,Raul,Ruiz,1972-08-25,M,D,412519,79727,113,House,CA,36,,D,,2,1204,39,1,17,302,85.89,,0,2.0,14.03

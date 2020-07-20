@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000375,Jodey,Arrington,1972-03-09,M,R,412726,1016482,116,House,TX,19,,R,,4,839,15,0,19,130,90.94,,2,1.0,8.94
+1,A000375,Jodey,Arrington,1972-03-09,M,R,412726,1016482,115,House,TX,19,,R,,2,1211,32,0,10,168,99.23,,5,3.0,0.77

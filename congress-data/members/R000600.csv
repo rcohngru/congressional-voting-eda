@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000600,Amata,Radewagen,1947-12-29,F,R,412664,5188,116,House,AS,At-Large,,R,,6,316,245,0,4,186,78.87,,6,3.0,21.13
+1,R000600,Amata,Radewagen,1947-12-29,F,R,412664,5188,115,House,AS,At-Large,,R,,4,0,,,11,189,,,6,3.0,
+2,R000600,Amata,Radewagen,1947-12-29,F,R,412664,5188,114,House,AS,At-Large,,R,,2,,,,10,62,,,0,3.0,

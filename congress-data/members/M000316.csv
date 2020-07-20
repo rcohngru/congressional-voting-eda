@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000316,Karen,McCarthy,1947-03-18,F,,400258,,108,House,MO,5,,D,,10,1221,106,0,4,358,97.17,,0,0.0,3.02
+1,M000316,Karen,McCarthy,1947-03-18,F,,400258,,107,House,MO,5,,D,,8,996,22,0,20,353,95.7,,0,0.0,4.82
+2,M000316,Karen,McCarthy,1947-03-18,F,,400258,,106,House,MO,5,,D,,6,1214,44,2,4,227,94.72,,0,0.0,5.54
+3,M000316,Karen,McCarthy,1947-03-18,F,,400258,,105,House,MO,5,,D,,4,1187,37,1,1,153,91.92,,0,0.0,8.63
+4,M000316,Karen,McCarthy,1947-03-18,F,,400258,,104,House,MO,5,,D,,2,1340,31,0,1,67,89.53,,0,0.0,11.76

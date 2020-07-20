@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001171,Heath,Shuler,1971-12-31,M,D,412225,1022886,112,House,NC,11,,D,,6,1607,209,1,13,172,64.51,,0,3.0,35.41
+1,S001171,Heath,Shuler,1971-12-31,M,D,412225,1022886,111,House,NC,11,,D,,4,1655,97,0,12,358,83.54,,0,2.0,16.4
+2,S001171,Heath,Shuler,1971-12-31,M,D,412225,1022886,110,House,NC,11,,D,,2,1873,71,1,14,382,86.8,,0,3.0,13.76

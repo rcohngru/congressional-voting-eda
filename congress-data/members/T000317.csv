@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000317,Robert,Torricelli,1951-08-27,M,,300156,,107,Senate,NJ,,2,D,,6,633,51,0,65,347,89.24,,0,0.0,10.76
+1,T000317,Robert,Torricelli,1951-08-27,M,,300156,,106,Senate,NJ,,2,D,,4,672,26,0,61,317,88.7,,0,0.0,11.3
+2,T000317,Robert,Torricelli,1951-08-27,M,,300156,,105,Senate,NJ,,2,D,,2,612,6,0,48,213,89.43,,0,0.0,10.57
+3,T000317,Robert,Torricelli,1951-08-27,M,,300156,,104,House,NJ,9,,D,,14,1340,171,0,20,210,85.75,,0,0.0,15.6
+4,T000317,Robert,Torricelli,1951-08-27,M,,300156,,103,House,NJ,9,,D,,12,1122,102,0,39,245,89.28,,0,0.0,10.01
+5,T000317,Robert,Torricelli,1951-08-27,M,,300156,,102,House,NJ,9,,D,,10,933,84,0,,,89.83,,0,0.0,7.51
+6,T000317,Robert,Torricelli,1951-08-27,M,,300156,,101,House,NJ,9,,D,,8,,,,,,,,0,0.0,
+7,T000317,Robert,Torricelli,1951-08-27,M,,300156,,100,House,NJ,9,,D,,6,,,,,,,,0,0.0,
+8,T000317,Robert,Torricelli,1951-08-27,M,,300156,,99,House,NJ,9,,D,,4,,,,,,,,0,0.0,
+9,T000317,Robert,Torricelli,1951-08-27,M,,300156,,98,House,NJ,9,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001072,André,Carson,1974-10-16,M,D,412258,1027364,116,House,IN,7,,D,,14,839,6,0,9,663,98.44,,4,2.0,1.44
+1,C001072,André,Carson,1974-10-16,M,D,412258,1027364,115,House,IN,7,,D,,12,1211,33,1,19,540,96.52,,4,2.0,3.48
+2,C001072,André,Carson,1974-10-16,M,D,412258,1027364,114,House,IN,7,,D,,10,1325,20,0,18,304,96.75,,0,2.0,3.17
+3,C001072,André,Carson,1974-10-16,M,D,412258,1027364,113,House,IN,7,,D,,8,1204,19,1,16,449,93.88,,0,2.0,6.04
+4,C001072,André,Carson,1974-10-16,M,D,412258,1027364,112,House,IN,7,,D,,6,1607,75,3,14,348,93.25,,0,1.0,6.69
+5,C001072,André,Carson,1974-10-16,M,D,412258,1027364,111,House,IN,7,,D,,4,1655,11,0,16,424,98.96,,0,1.0,0.98
+6,C001072,André,Carson,1974-10-16,M,D,412258,1027364,110,House,IN,7,,D,,2,549,30,0,3,481,99.42,,0,1.0,0.78

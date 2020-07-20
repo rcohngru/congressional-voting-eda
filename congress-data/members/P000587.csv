@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000587,Mike,Pence,1959-06-07,M,R,400315,,112,House,IN,6,,R,,12,1607,139,0,5,183,95.47,,0,2.0,4.46
+1,P000587,Mike,Pence,1959-06-07,M,R,400315,,111,House,IN,6,,R,,10,1655,102,0,20,325,95.37,,0,1.0,4.57
+2,P000587,Mike,Pence,1959-06-07,M,R,400315,,110,House,IN,6,,R,,8,1873,111,7,6,346,92.36,,0,2.0,8.16
+3,P000587,Mike,Pence,1959-06-07,M,R,400315,,109,House,IN,6,,R,,6,1214,47,4,12,342,90.6,,0,0.0,9.66
+4,P000587,Mike,Pence,1959-06-07,M,R,400315,,108,House,IN,6,,R,,4,1221,34,1,9,224,94.14,,0,0.0,6.03
+5,P000587,Mike,Pence,1959-06-07,M,R,400315,,107,House,IN,2,,R,,2,996,18,0,36,225,95.32,,0,0.0,5.2

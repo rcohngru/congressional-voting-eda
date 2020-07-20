@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000463,Joe,Skeen,1927-06-30,M,,400534,,107,House,NM,2,,R,,22,996,3,0,4,122,97.45,,0,0.0,2.96
+1,S000463,Joe,Skeen,1927-06-30,M,,400534,,106,House,NM,2,,R,,20,1214,4,0,9,163,95.11,,0,0.0,5.14
+2,S000463,Joe,Skeen,1927-06-30,M,,400534,,105,House,NM,2,,R,,18,1187,4,0,13,214,94.26,,0,0.0,6.27
+3,S000463,Joe,Skeen,1927-06-30,M,,400534,,104,House,NM,2,,R,,16,1340,4,1,8,183,95.97,,0,0.0,5.27
+4,S000463,Joe,Skeen,1927-06-30,M,,400534,,103,House,NM,2,,R,,14,1122,67,0,4,313,87.18,,0,0.0,12.04
+5,S000463,Joe,Skeen,1927-06-30,M,,400534,,102,House,NM,2,,R,,12,933,6,0,,,76.63,,0,0.0,19.93
+6,S000463,Joe,Skeen,1927-06-30,M,,400534,,101,House,NM,2,,R,,10,,,,,,,,0,0.0,
+7,S000463,Joe,Skeen,1927-06-30,M,,400534,,100,House,NM,2,,R,,8,,,,,,,,0,0.0,
+8,S000463,Joe,Skeen,1927-06-30,M,,400534,,99,House,NM,2,,R,,6,,,,,,,,0,0.0,
+9,S000463,Joe,Skeen,1927-06-30,M,,400534,,98,House,NM,2,,R,,4,,,,,,,,0,0.0,

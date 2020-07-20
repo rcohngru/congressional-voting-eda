@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000174,Hugh,Scott,1900-11-11,M,,409680,,94,Senate,PA,,1,R,,17,,,,,,,,0,0.0,
+1,S000174,Hugh,Scott,1900-11-11,M,,409680,,93,Senate,PA,,1,R,,15,,,,,,,,0,0.0,
+2,S000174,Hugh,Scott,1900-11-11,M,,409680,,92,Senate,PA,,1,R,,13,,,,,,,,0,0.0,
+3,S000174,Hugh,Scott,1900-11-11,M,,409680,,91,Senate,PA,,1,R,,11,,,,,,,,0,0.0,
+4,S000174,Hugh,Scott,1900-11-11,M,,409680,,90,Senate,PA,,1,R,,9,,,,,,,,0,0.0,
+5,S000174,Hugh,Scott,1900-11-11,M,,409680,,89,Senate,PA,,1,R,,7,,,,,,,,0,0.0,
+6,S000174,Hugh,Scott,1900-11-11,M,,409680,,88,Senate,PA,,1,R,,5,,,,,,,,0,0.0,
+7,S000174,Hugh,Scott,1900-11-11,M,,409680,,87,Senate,PA,,1,R,,3,,,,,,,,0,0.0,
+8,S000174,Hugh,Scott,1900-11-11,M,,409680,,86,Senate,PA,,1,R,,1,,,,,,,,0,0.0,

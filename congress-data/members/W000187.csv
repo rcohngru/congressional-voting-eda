@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,116,House,CA,43,,D,,30,839,17,0,34,318,97.56,,0,1.0,2.31
+1,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,115,House,CA,43,,D,,28,1211,54,2,45,288,96.11,,6,1.0,3.89
+2,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,114,House,CA,43,,D,,26,1311,100,0,33,170,96.58,,0,1.0,3.34
+3,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,113,House,CA,43,,D,,24,1204,83,1,19,226,94.87,,0,1.0,5.04
+4,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,112,House,CA,35,,D,,22,1607,127,3,32,245,92.13,,0,2.0,7.8
+5,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,111,House,CA,35,,D,,20,1655,157,5,33,331,96.1,,0,2.0,3.83
+6,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,110,House,CA,35,,D,,18,1873,124,3,42,376,96.4,,0,2.0,4.12
+7,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,109,House,CA,35,,D,,16,1214,107,3,27,306,90.64,,0,0.0,9.63
+8,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,108,House,CA,35,,D,,14,1221,87,10,22,326,89.62,,0,0.0,10.47
+9,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,107,House,CA,35,,D,,12,996,83,2,27,320,82.72,,0,0.0,17.73
+10,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,106,House,CA,35,,D,,10,1214,85,1,15,261,86.62,,0,0.0,13.55
+11,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,105,House,CA,35,,D,,8,1187,80,5,22,194,84.53,,0,0.0,16.04
+12,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,104,House,CA,35,,D,,6,1340,94,3,26,134,87.06,,0,0.0,14.21
+13,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,103,House,CA,35,,D,,4,1122,51,2,14,224,88.5,,0,0.0,10.72
+14,W000187,Maxine,Waters,1938-08-15,F,D,400422,1953,102,House,CA,29,,D,,2,933,115,1,,,87.85,,0,0.0,8.99

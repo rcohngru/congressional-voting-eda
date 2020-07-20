@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000508,Ernest,Gruening,1887-02-06,M,,404853,,90,Senate,AK,,3,D,,9,,,,,,,,0,0.0,
+1,G000508,Ernest,Gruening,1887-02-06,M,,404853,,89,Senate,AK,,3,D,,7,,,,,,,,0,0.0,
+2,G000508,Ernest,Gruening,1887-02-06,M,,404853,,88,Senate,AK,,3,D,,5,,,,,,,,0,0.0,
+3,G000508,Ernest,Gruening,1887-02-06,M,,404853,,87,Senate,AK,,3,D,,3,,,,,,,,0,0.0,
+4,G000508,Ernest,Gruening,1887-02-06,M,,404853,,86,Senate,AK,,3,D,,1,,,,,,,,0,0.0,

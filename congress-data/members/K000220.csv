@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,113,House,GA,1,,R,,22,1204,168,0,26,201,95.16,,0,1.0,4.75
+1,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,112,House,GA,1,,R,,20,1607,26,0,8,210,92.67,,0,1.0,7.27
+2,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,111,House,GA,1,,R,,18,1655,40,0,8,258,92.53,,0,1.0,7.41
+3,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,110,House,GA,1,,R,,16,1873,73,3,6,232,90.5,,0,1.0,10.07
+4,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,109,House,GA,1,,R,,14,1214,80,0,4,171,94.99,,0,0.0,5.28
+5,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,108,House,GA,1,,R,,12,1221,52,1,13,201,95.6,,0,0.0,4.58
+6,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,107,House,GA,1,,R,,10,996,51,0,8,191,96.57,,0,0.0,3.86
+7,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,106,House,GA,1,,R,,8,1214,61,0,6,167,91.43,,0,0.0,8.75
+8,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,105,House,GA,1,,R,,6,1187,22,0,4,129,91.7,,0,0.0,8.83
+9,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,104,House,GA,1,,R,,4,1340,21,0,0,131,95.05,,0,0.0,6.2
+10,K000220,Jack,Kingston,1955-04-24,M,R,400221,26480,103,House,GA,1,,R,,2,1122,23,0,2,296,88.58,,0,0.0,10.85

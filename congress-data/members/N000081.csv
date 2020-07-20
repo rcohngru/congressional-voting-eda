@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000081,Robert,Ney,1954-07-05,M,,400293,,109,House,OH,18,,R,,12,1187,103,0,29,166,93.55,,0,0.0,6.64
+1,N000081,Robert,Ney,1954-07-05,M,,400293,,108,House,OH,18,,R,,10,1221,20,0,33,235,95.97,,0,0.0,4.2
+2,N000081,Robert,Ney,1954-07-05,M,,400293,,107,House,OH,18,,R,,8,996,23,0,30,205,96.03,,0,0.0,4.49
+3,N000081,Robert,Ney,1954-07-05,M,,400293,,106,House,OH,18,,R,,6,1214,25,0,12,344,92.71,,0,0.0,7.55
+4,N000081,Robert,Ney,1954-07-05,M,,400293,,105,House,OH,18,,R,,4,1187,24,2,6,296,91.22,,0,0.0,9.31
+5,N000081,Robert,Ney,1954-07-05,M,,400293,,104,House,OH,18,,R,,2,1340,7,1,7,237,92.47,,0,0.0,8.77

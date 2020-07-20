@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000287,Rahm,Emanuel,1959-11-29,M,,400120,26079,110,House,IL,5,,D,,6,1873,67,0,40,382,99.27,,0,1.0,1.29
+1,E000287,Rahm,Emanuel,1959-11-29,M,,400120,26079,109,House,IL,5,,D,,4,1214,40,1,27,394,94.56,,0,0.0,5.7
+2,E000287,Rahm,Emanuel,1959-11-29,M,,400120,26079,108,House,IL,5,,D,,2,1221,39,1,19,414,96.56,,0,0.0,3.61

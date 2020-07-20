@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,116,House,OH,5,,R,,14,839,1,0,24,193,98.32,,3,1.0,1.56
+1,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,115,House,OH,5,,R,,12,1211,0,0,29,202,97.26,,4,1.0,2.74
+2,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,114,House,OH,5,,R,,10,1325,16,0,28,220,97.61,,0,1.0,2.31
+3,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,113,House,OH,5,,R,,8,1204,3,0,33,349,97.58,,0,1.0,2.34
+4,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,112,House,OH,5,,R,,6,1607,3,0,19,320,96.98,,0,1.0,2.95
+5,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,111,House,OH,5,,R,,4,1655,13,0,26,372,97.4,,0,4.0,2.53
+6,L000566,Robert,Latta,1956-04-18,M,R,412256,1028071,110,House,OH,5,,R,,2,712,2,0,5,156,98.42,,0,2.0,1.87

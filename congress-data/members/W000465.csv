@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000465,Alexander,Wiley,1884-05-26,M,,411622,,87,Senate,WI,,3,R,,23,,,,,,,,0,0.0,
+1,W000465,Alexander,Wiley,1884-05-26,M,,411622,,86,Senate,WI,,3,R,,21,,,,,,,,0,0.0,
+2,W000465,Alexander,Wiley,1884-05-26,M,,411622,,85,Senate,WI,,3,R,,19,,,,,,,,0,0.0,
+3,W000465,Alexander,Wiley,1884-05-26,M,,411622,,84,Senate,WI,,3,R,,17,,,,,,,,0,0.0,
+4,W000465,Alexander,Wiley,1884-05-26,M,,411622,,83,Senate,WI,,3,R,,15,,,,,,,,0,0.0,
+5,W000465,Alexander,Wiley,1884-05-26,M,,411622,,82,Senate,WI,,3,R,,13,,,,,,,,0,0.0,
+6,W000465,Alexander,Wiley,1884-05-26,M,,411622,,81,Senate,WI,,3,R,,11,,,,,,,,0,0.0,
+7,W000465,Alexander,Wiley,1884-05-26,M,,411622,,80,Senate,WI,,3,R,,9,,,,,,,,0,0.0,

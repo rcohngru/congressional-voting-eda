@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000171,Samuel,Nunn,1938-09-08,M,,408252,,104,Senate,GA,,2,D,,23,916,34,0,4,54,72.83,,0,0.0,27.17
+1,N000171,Samuel,Nunn,1938-09-08,M,,408252,,103,Senate,GA,,2,D,,21,724,29,0,23,100,79.53,,0,0.0,20.47
+2,N000171,Samuel,Nunn,1938-09-08,M,,408252,,102,Senate,GA,,2,D,,19,550,11,0,,,79.89,,0,0.0,20.11
+3,N000171,Samuel,Nunn,1938-09-08,M,,408252,,101,Senate,GA,,2,D,,17,638,11,0,,,,,0,0.0,
+4,N000171,Samuel,Nunn,1938-09-08,M,,408252,,100,Senate,GA,,2,D,,15,,,,,,,,0,0.0,
+5,N000171,Samuel,Nunn,1938-09-08,M,,408252,,99,Senate,GA,,2,D,,13,,,,,,,,0,0.0,
+6,N000171,Samuel,Nunn,1938-09-08,M,,408252,,98,Senate,GA,,2,D,,11,,,,,,,,0,0.0,
+7,N000171,Samuel,Nunn,1938-09-08,M,,408252,,97,Senate,GA,,2,D,,9,,,,,,,,0,0.0,
+8,N000171,Samuel,Nunn,1938-09-08,M,,408252,,96,Senate,GA,,2,D,,7,,,,,,,,0,0.0,
+9,N000171,Samuel,Nunn,1938-09-08,M,,408252,,95,Senate,GA,,2,D,,5,,,,,,,,0,0.0,
+10,N000171,Samuel,Nunn,1938-09-08,M,,408252,,94,Senate,GA,,2,D,,3,,,,,,,,0,0.0,
+11,N000171,Samuel,Nunn,1938-09-08,M,,408252,,93,Senate,GA,,2,D,,1,,,,,,,,0,0.0,
+12,N000171,Samuel,Nunn,1938-09-08,M,,408252,,92,Senate,GA,,2,D,,1,,,,,,,,0,0.0,

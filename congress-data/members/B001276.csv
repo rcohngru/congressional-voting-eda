@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001276,Ann Marie,Buerkle,1951-05-08,F,R,412456,,112,House,NY,25,,R,,2,1607,36,0,17,194,95.51,,0,3.0,4.43

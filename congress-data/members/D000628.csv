@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000628,Neal,Dunn,1953-02-16,M,R,412691,104529,116,House,FL,2,,R,,4,839,17,0,11,160,92.89,,5,3.0,6.99
+1,D000628,Neal,Dunn,1953-02-16,M,R,412691,104529,115,House,FL,2,,R,,2,1211,28,0,16,208,98.47,,6,3.0,1.53

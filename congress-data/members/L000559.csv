@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,116,House,RI,2,,D,,20,839,4,0,30,387,99.16,,5,2.0,0.72
+1,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,115,House,RI,2,,D,,18,1211,19,1,41,441,98.02,,5,2.0,1.98
+2,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,114,House,RI,2,,D,,16,1325,19,0,24,314,95.89,,0,2.0,4.03
+3,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,113,House,RI,2,,D,,14,1204,26,0,19,350,94.78,,0,2.0,5.13
+4,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,112,House,RI,2,,D,,12,1607,27,1,14,240,95.37,,0,2.0,4.57
+5,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,111,House,RI,2,,D,,10,1655,31,1,19,344,98.95,,0,3.0,0.99
+6,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,110,House,RI,2,,D,,8,1873,33,0,25,320,99.34,,0,4.0,1.21
+7,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,109,House,RI,2,,D,,6,1214,8,0,27,256,95.21,,0,0.0,5.05
+8,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,108,House,RI,2,,D,,4,1221,32,0,21,278,95.55,,0,0.0,4.62
+9,L000559,Jim,Langevin,1964-04-22,M,D,400230,86608,107,House,RI,2,,D,,2,996,2,0,30,411,93.22,,0,0.0,7.29

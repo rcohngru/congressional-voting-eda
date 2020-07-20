@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000622,Virginia,Smith,1911-06-30,F,,410097,,101,House,NE,3,,R,,16,,,,,,,,0,0.0,
+1,S000622,Virginia,Smith,1911-06-30,F,,410097,,100,House,NE,3,,R,,14,,,,,,,,0,0.0,
+2,S000622,Virginia,Smith,1911-06-30,F,,410097,,99,House,NE,3,,R,,12,,,,,,,,0,0.0,
+3,S000622,Virginia,Smith,1911-06-30,F,,410097,,98,House,NE,3,,R,,10,,,,,,,,0,0.0,

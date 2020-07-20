@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,116,Senate,CA,,1,D,,27,557,1,1,64,558,95.16,,8,5.0,4.84
+1,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,115,Senate,CA,,1,D,,25,599,37,1,67,490,93.13,,8,5.0,6.87
+2,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,114,Senate,CA,,1,D,,23,502,13,0,67,285,94.17,,0,5.0,5.83
+3,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,113,Senate,CA,,1,D,,21,657,30,0,69,269,98.72,,8,4.0,1.28
+4,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,112,Senate,CA,,1,D,,19,486,9,0,113,298,95.99,,0,4.0,4.01
+5,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,111,Senate,CA,,1,D,,17,696,2,0,138,281,96.96,,0,4.0,3.04
+6,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,110,Senate,CA,,1,D,,15,657,18,0,138,380,94.48,,0,6.0,5.52
+7,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,109,Senate,CA,,1,D,,13,645,11,0,129,337,93.59,,0,0.0,6.41
+8,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,108,Senate,CA,,1,D,,11,675,11,0,69,318,93.06,,0,0.0,6.94
+9,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,107,Senate,CA,,1,D,,9,633,9,0,112,269,89.9,,0,0.0,10.1
+10,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,106,Senate,CA,,1,D,,7,672,48,0,79,375,93.11,,0,0.0,6.89
+11,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,105,Senate,CA,,1,D,,5,612,6,0,45,246,91.11,,0,0.0,8.89
+12,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,104,Senate,CA,,1,D,,3,916,6,0,25,163,84.06,,0,0.0,15.94
+13,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,103,Senate,CA,,1,D,,1,724,14,0,30,216,89.99,,0,0.0,10.01
+14,F000062,Dianne,Feinstein,1933-06-22,F,D,300043,13061,102,Senate,CA,,1,D,,1,0,0,0,,,0.0,,0,0.0,0.0

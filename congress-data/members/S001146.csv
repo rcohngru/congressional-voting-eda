@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001146,Donald,Sherwood,1941-03-05,M,,400372,,109,House,PA,10,,R,,8,1214,34,0,4,87,95.26,,0,0.0,5.0
+1,S001146,Donald,Sherwood,1941-03-05,M,,400372,,108,House,PA,10,,R,,6,1221,14,0,3,59,96.32,,0,0.0,3.85
+2,S001146,Donald,Sherwood,1941-03-05,M,,400372,,107,House,PA,10,,R,,4,996,16,0,1,79,97.82,,0,0.0,2.7
+3,S001146,Donald,Sherwood,1941-03-05,M,,400372,,106,House,PA,10,,R,,2,1214,28,0,5,116,92.96,,0,0.0,7.3

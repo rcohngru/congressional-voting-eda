@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000794,Diane,Watson,1933-11-12,F,D,400423,4372,111,House,CA,33,,D,,10,1655,100,2,37,455,97.86,,0,2.0,2.07
+1,W000794,Diane,Watson,1933-11-12,F,D,400423,4372,110,House,CA,33,,D,,8,1873,84,2,18,604,98.18,,0,2.0,2.39
+2,W000794,Diane,Watson,1933-11-12,F,D,400423,4372,109,House,CA,33,,D,,6,1214,111,1,5,553,93.22,,0,0.0,6.87
+3,W000794,Diane,Watson,1933-11-12,F,D,400423,4372,108,House,CA,33,,D,,4,1221,65,3,14,432,94.47,,0,0.0,5.62
+4,W000794,Diane,Watson,1933-11-12,F,D,400423,4372,107,House,CA,32,,D,,2,842,56,1,5,285,94.27,,0,0.0,6.38

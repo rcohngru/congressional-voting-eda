@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,112,House,CA,50,,R,,8,1607,63,0,26,246,90.15,,0,1.0,9.78
+1,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,111,House,CA,50,,R,,6,1655,83,1,9,369,93.23,,0,3.0,6.71
+2,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,110,House,CA,50,,R,,4,1873,59,1,11,312,93.53,,0,3.0,7.04
+3,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,109,House,CA,50,,R,,2,287,6,0,3,49,91.97,,0,0.0,8.39
+4,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,106,House,CA,49,,R,,6,1214,105,0,30,331,81.25,,0,0.0,18.93
+5,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,105,House,CA,49,,R,,4,1187,33,2,10,236,86.19,,0,0.0,14.35
+6,B000461,Brian,Bilbray,1951-01-28,M,R,400570,36554,104,House,CA,49,,R,,2,1340,38,0,20,188,90.22,,0,0.0,11.05

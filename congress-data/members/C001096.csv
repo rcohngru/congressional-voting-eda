@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001096,Kevin,Cramer,1961-01-21,M,R,412555,7600,116,Senate,ND,,1,R,,1,557,16,0,19,400,99.26,,9,5.0,0.74
+1,C001096,Kevin,Cramer,1961-01-21,M,R,412555,7600,115,House,ND,At-Large,,R,,6,1211,91,0,25,381,97.94,,3,1.0,2.06
+2,C001096,Kevin,Cramer,1961-01-21,M,R,412555,7600,114,House,ND,At-Large,,R,,4,1325,39,0,9,362,96.24,,0,1.0,3.68
+3,C001096,Kevin,Cramer,1961-01-21,M,R,412555,7600,113,House,ND,At-Large,,R,,2,1204,61,0,4,349,94.12,,0,2.0,5.79

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,116,House,WA,9,,D,,24,839,22,0,14,517,99.02,,0,1.0,0.86
+1,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,115,House,WA,9,,D,,22,1211,32,1,14,466,95.82,,0,1.0,4.18
+2,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,114,House,WA,9,,D,,20,1325,267,0,11,237,96.84,,0,2.0,3.06
+3,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,113,House,WA,9,,D,,18,1204,132,1,9,244,93.61,,0,2.0,6.3
+4,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,112,House,WA,9,,D,,16,1607,75,0,11,233,91.26,,0,1.0,8.68
+5,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,111,House,WA,9,,D,,14,1655,84,0,15,268,96.6,,0,3.0,3.33
+6,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,110,House,WA,9,,D,,12,1873,99,0,10,312,97.08,,0,2.0,3.43
+7,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,109,House,WA,9,,D,,10,1214,37,0,11,347,92.18,,0,0.0,8.0
+8,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,108,House,WA,9,,D,,8,1221,187,0,15,256,90.48,,0,0.0,9.62
+9,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,107,House,WA,9,,D,,6,996,54,0,10,240,89.07,,0,0.0,11.36
+10,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,106,House,WA,9,,D,,4,1214,113,1,7,330,87.22,,0,0.0,12.87
+11,S000510,Adam,Smith,1965-06-15,M,D,400379,44329,105,House,WA,9,,D,,2,1187,26,0,0,198,88.87,,0,0.0,11.58

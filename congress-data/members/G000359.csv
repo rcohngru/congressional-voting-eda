@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,116,Senate,SC,,2,R,,17,557,20,0,38,155,97.37,,12,4.0,2.63
+1,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,115,Senate,SC,,2,R,,15,599,36,0,27,158,96.95,,12,4.0,3.05
+2,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,114,Senate,SC,,2,R,,13,502,123,0,20,129,85.44,,0,4.0,14.56
+3,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,113,Senate,SC,,2,R,,11,657,48,0,18,166,86.83,,12,4.0,13.17
+4,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,112,Senate,SC,,2,R,,9,486,12,0,24,199,86.7,,0,0.0,13.3
+5,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,111,Senate,SC,,2,R,,7,696,18,0,70,151,93.57,,0,6.0,6.43
+6,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,110,Senate,SC,,2,R,,5,657,47,0,18,170,88.74,,0,5.0,11.26
+7,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,109,Senate,SC,,2,R,,3,645,22,0,30,179,88.42,,0,0.0,11.58
+8,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,108,Senate,SC,,2,R,,1,675,11,0,39,188,93.79,,0,0.0,6.21
+9,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,107,House,SC,3,,R,,8,996,18,0,20,238,94.8,,0,0.0,5.72
+10,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,106,House,SC,3,,R,,6,1214,79,0,15,233,92.58,,0,0.0,7.51
+11,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,105,House,SC,3,,R,,4,1187,44,0,7,315,93.25,,0,0.0,7.2
+12,G000359,Lindsey,Graham,1955-07-09,M,R,300047,36782,104,House,SC,3,,R,,2,1340,25,1,5,135,94.73,,0,0.0,6.45

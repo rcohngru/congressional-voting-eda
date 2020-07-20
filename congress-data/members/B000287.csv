@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,115,House,CA,34,,D,,26,61,42,0,0,0,100.0,,0,0.0,0.0
+1,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,114,House,CA,34,,D,,24,1325,76,1,19,103,96.84,,0,1.0,3.07
+2,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,113,House,CA,34,,D,,22,1204,40,1,15,86,96.36,,0,1.0,3.55
+3,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,112,House,CA,31,,D,,20,1607,59,1,4,102,95.35,,0,1.0,4.59
+4,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,111,House,CA,31,,D,,18,1655,64,1,13,123,98.17,,0,2.0,1.77
+5,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,110,House,CA,31,,D,,16,1873,71,2,20,251,99.21,,0,2.0,1.35
+6,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,109,House,CA,31,,D,,14,1214,74,1,8,233,96.54,,0,0.0,3.64
+7,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,108,House,CA,31,,D,,12,1221,83,3,8,228,96.42,,0,0.0,3.76
+8,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,107,House,CA,30,,D,,10,996,116,2,17,231,96.18,,0,0.0,4.29
+9,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,106,House,CA,30,,D,,8,1214,122,4,10,208,93.97,,0,0.0,6.22
+10,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,105,House,CA,30,,D,,6,1187,89,5,2,104,89.77,,0,0.0,10.61
+11,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,104,House,CA,30,,D,,4,1340,167,6,1,60,90.21,,0,0.0,11.05
+12,B000287,Xavier,Becerra,1958-01-26,M,D,400021,26567,103,House,CA,30,,D,,2,1122,93,5,4,187,90.77,,0,0.0,8.53

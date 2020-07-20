@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000034,Robert,Tallon,1946-08-08,M,,410623,,102,House,SC,6,,D,,10,933,106,0,,,82.48,,0,0.0,15.03
+1,T000034,Robert,Tallon,1946-08-08,M,,410623,,101,House,SC,6,,D,,8,,,,,,,,0,0.0,
+2,T000034,Robert,Tallon,1946-08-08,M,,410623,,100,House,SC,6,,D,,6,,,,,,,,0,0.0,
+3,T000034,Robert,Tallon,1946-08-08,M,,410623,,99,House,SC,6,,D,,4,,,,,,,,0,0.0,
+4,T000034,Robert,Tallon,1946-08-08,M,,410623,,98,House,SC,6,,D,,2,,,,,,,,0,0.0,

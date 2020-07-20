@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000454,Bill,Foster,1955-10-07,M,D,412257,1027346,116,House,IL,11,,D,,8,839,14,0,37,482,99.39,,4,2.0,0.49
+1,F000454,Bill,Foster,1955-10-07,M,D,412257,1027346,115,House,IL,11,,D,,6,1211,26,1,30,373,96.1,,5,2.0,3.9
+2,F000454,Bill,Foster,1955-10-07,M,D,412257,1027346,114,House,IL,11,,D,,4,1325,6,1,28,187,96.09,,0,2.0,3.83
+3,F000454,Bill,Foster,1955-10-07,M,D,412257,1027346,113,House,IL,11,,D,,2,1204,14,1,17,208,90.44,,0,1.0,9.48
+4,F000454,Bill,Foster,1955-10-07,M,D,412257,1027346,111,House,IL,14,,D,,4,1655,8,1,15,215,92.91,,0,2.0,7.03
+5,F000454,Bill,Foster,1955-10-07,M,D,412257,1027346,110,House,IL,14,,D,,2,572,6,1,8,77,95.37,,0,1.0,4.8

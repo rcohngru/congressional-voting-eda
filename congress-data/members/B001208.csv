@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001208,Harry,Byrd,1887-06-10,M,,402148,,89,Senate,VA,,1,D,,32,,,,,,,,0,0.0,
+1,B001208,Harry,Byrd,1887-06-10,M,,402148,,88,Senate,VA,,1,D,,30,,,,,,,,0,0.0,
+2,B001208,Harry,Byrd,1887-06-10,M,,402148,,87,Senate,VA,,1,D,,28,,,,,,,,0,0.0,
+3,B001208,Harry,Byrd,1887-06-10,M,,402148,,86,Senate,VA,,1,D,,26,,,,,,,,0,0.0,
+4,B001208,Harry,Byrd,1887-06-10,M,,402148,,85,Senate,VA,,1,D,,24,,,,,,,,0,0.0,
+5,B001208,Harry,Byrd,1887-06-10,M,,402148,,84,Senate,VA,,1,D,,22,,,,,,,,0,0.0,
+6,B001208,Harry,Byrd,1887-06-10,M,,402148,,83,Senate,VA,,1,D,,20,,,,,,,,0,0.0,
+7,B001208,Harry,Byrd,1887-06-10,M,,402148,,82,Senate,VA,,1,D,,18,,,,,,,,0,0.0,
+8,B001208,Harry,Byrd,1887-06-10,M,,402148,,81,Senate,VA,,1,D,,16,,,,,,,,0,0.0,
+9,B001208,Harry,Byrd,1887-06-10,M,,402148,,80,Senate,VA,,1,D,,14,,,,,,,,0,0.0,

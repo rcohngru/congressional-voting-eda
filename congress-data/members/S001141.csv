@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,115,Senate,AL,,2,R,,21,60,39,2,0,0,90.48,,0,5.0,9.52
+1,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,114,Senate,AL,,2,R,,19,502,14,0,10,122,89.61,,0,5.0,10.4
+2,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,113,Senate,AL,,2,R,,17,657,13,0,8,150,90.81,,10,4.0,9.19
+3,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,112,Senate,AL,,2,R,,15,486,7,0,13,195,90.43,,0,4.0,9.57
+4,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,111,Senate,AL,,2,R,,13,696,26,0,16,123,93.33,,0,4.0,6.67
+5,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,110,Senate,AL,,2,R,,11,657,14,0,24,159,89.92,,0,5.0,10.08
+6,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,109,Senate,AL,,2,R,,9,645,7,0,28,139,91.64,,0,0.0,8.36
+7,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,108,Senate,AL,,2,R,,7,675,10,0,16,152,94.39,,0,0.0,5.61
+8,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,107,Senate,AL,,2,R,,5,633,26,0,17,173,90.55,,0,0.0,9.45
+9,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,106,Senate,AL,,2,R,,3,672,8,1,18,241,91.83,,0,0.0,8.17
+10,S001141,Jeff,Sessions,1946-12-24,M,R,300088,44441,105,Senate,AL,,2,R,,1,612,10,0,4,178,91.61,,0,0.0,8.39

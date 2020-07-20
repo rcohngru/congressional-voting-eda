@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001236,John,Boozman,1950-12-10,M,R,400040,92069,116,Senate,AR,,3,R,,9,557,0,0,22,298,98.37,,12,5.0,1.63
+1,B001236,John,Boozman,1950-12-10,M,R,400040,92069,115,Senate,AR,,3,R,,7,599,4,0,28,277,99.15,,14,6.0,0.85
+2,B001236,John,Boozman,1950-12-10,M,R,400040,92069,114,Senate,AR,,3,R,,5,502,4,0,25,214,95.3,,0,7.0,4.7
+3,B001236,John,Boozman,1950-12-10,M,R,400040,92069,113,Senate,AR,,3,R,,3,657,68,0,18,282,94.45,,10,4.0,5.55
+4,B001236,John,Boozman,1950-12-10,M,R,400040,92069,112,Senate,AR,,3,R,,1,486,11,0,9,293,91.85,,0,0.0,8.15
+5,B001236,John,Boozman,1950-12-10,M,R,400040,92069,111,House,AR,3,,R,,10,1655,38,0,29,473,97.62,,0,3.0,2.32
+6,B001236,John,Boozman,1950-12-10,M,R,400040,92069,110,House,AR,3,,R,,8,1873,20,1,22,478,96.07,,0,3.0,4.38
+7,B001236,John,Boozman,1950-12-10,M,R,400040,92069,109,House,AR,3,,R,,6,1214,36,0,11,286,96.73,,0,0.0,3.53
+8,B001236,John,Boozman,1950-12-10,M,R,400040,92069,108,House,AR,3,,R,,4,1221,9,0,6,192,97.34,,0,0.0,2.74
+9,B001236,John,Boozman,1950-12-10,M,R,400040,92069,107,House,AR,3,,R,,2,537,3,0,2,78,97.55,,0,0.0,2.64

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000806,Daniel,Webster,1949-04-27,M,R,412410,30504,116,House,FL,11,,R,,10,839,56,0,4,107,90.36,,5,2.0,9.51
+1,W000806,Daniel,Webster,1949-04-27,M,R,412410,30504,115,House,FL,11,,R,,8,1211,126,0,4,175,97.22,,8,3.0,2.78
+2,W000806,Daniel,Webster,1949-04-27,M,R,412410,30504,114,House,FL,10,,R,,6,1325,73,0,3,142,96.3,,0,1.0,3.7
+3,W000806,Daniel,Webster,1949-04-27,M,R,412410,30504,113,House,FL,10,,R,,4,1204,40,0,8,134,95.35,,0,2.0,4.57
+4,W000806,Daniel,Webster,1949-04-27,M,R,412410,30504,112,House,FL,8,,R,,2,1607,22,0,16,84,94.22,,0,1.0,5.72

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000314,Robert,Wexler,1961-01-02,M,,400430,,111,House,FL,19,,D,,14,991,85,0,12,358,98.67,,0,2.0,1.22
+1,W000314,Robert,Wexler,1961-01-02,M,,400430,,110,House,FL,19,,D,,12,1873,175,0,31,699,98.68,,0,3.0,1.92
+2,W000314,Robert,Wexler,1961-01-02,M,,400430,,109,House,FL,19,,D,,10,1214,112,0,14,757,95.4,,0,0.0,4.88
+3,W000314,Robert,Wexler,1961-01-02,M,,400430,,108,House,FL,19,,D,,8,1221,116,1,18,642,96.33,,0,0.0,3.76
+4,W000314,Robert,Wexler,1961-01-02,M,,400430,,107,House,FL,19,,D,,6,996,93,0,11,434,94.81,,0,0.0,5.64
+5,W000314,Robert,Wexler,1961-01-02,M,,400430,,106,House,FL,19,,D,,4,1214,68,1,9,377,94.52,,0,0.0,5.66
+6,W000314,Robert,Wexler,1961-01-02,M,,400430,,105,House,FL,19,,D,,2,1187,62,3,6,283,90.91,,0,0.0,9.65

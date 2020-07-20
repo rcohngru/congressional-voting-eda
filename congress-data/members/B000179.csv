@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000179,Bill,Barrett,1929-02-09,M,,400568,,106,House,NE,3,,R,,10,1214,17,1,12,202,93.44,,0,0.0,6.81
+1,B000179,Bill,Barrett,1929-02-09,M,,400568,,105,House,NE,3,,R,,8,1187,20,1,5,184,93.2,,0,0.0,7.33
+2,B000179,Bill,Barrett,1929-02-09,M,,400568,,104,House,NE,3,,R,,6,1340,8,0,9,141,96.04,,0,0.0,5.21
+3,B000179,Bill,Barrett,1929-02-09,M,,400568,,103,House,NE,3,,R,,4,1122,6,1,8,177,91.36,,0,0.0,7.9
+4,B000179,Bill,Barrett,1929-02-09,M,,400568,,102,House,NE,3,,R,,2,933,12,1,,,88.74,,0,0.0,7.92

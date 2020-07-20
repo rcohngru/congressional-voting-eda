@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000388,Jim,McCrery,1949-09-18,M,,400261,,110,House,LA,4,,R,,22,1873,158,2,5,113,94.27,,0,2.0,5.97
+1,M000388,Jim,McCrery,1949-09-18,M,,400261,,109,House,LA,4,,R,,20,1214,50,0,24,124,96.08,,0,0.0,4.09
+2,M000388,Jim,McCrery,1949-09-18,M,,400261,,108,House,LA,4,,R,,18,1221,62,0,10,83,98.0,,0,0.0,2.09
+3,M000388,Jim,McCrery,1949-09-18,M,,400261,,107,House,LA,4,,R,,16,996,41,1,21,101,98.72,,0,0.0,1.81
+4,M000388,Jim,McCrery,1949-09-18,M,,400261,,106,House,LA,4,,R,,14,1214,48,0,29,180,94.31,,0,0.0,5.95
+5,M000388,Jim,McCrery,1949-09-18,M,,400261,,105,House,LA,4,,R,,12,1187,70,4,8,171,95.49,,0,0.0,5.06
+6,M000388,Jim,McCrery,1949-09-18,M,,400261,,104,House,LA,5,,R,,10,1340,49,0,10,152,96.48,,0,0.0,4.72
+7,M000388,Jim,McCrery,1949-09-18,M,,400261,,103,House,LA,5,,R,,8,1122,38,0,7,244,89.24,,0,0.0,10.1
+8,M000388,Jim,McCrery,1949-09-18,M,,400261,,102,House,LA,4,,R,,6,933,127,1,,,87.52,,0,0.0,9.17
+9,M000388,Jim,McCrery,1949-09-18,M,,400261,,101,House,LA,4,,R,,4,,,,,,,,0,0.0,
+10,M000388,Jim,McCrery,1949-09-18,M,,400261,,100,House,LA,4,,R,,2,,,,,,,,0,0.0,

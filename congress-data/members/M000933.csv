@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000933,James,Moran,1945-05-16,M,D,400283,4269,113,House,VA,8,,D,,24,1204,64,1,19,569,93.55,,0,1.0,6.37
+1,M000933,James,Moran,1945-05-16,M,D,400283,4269,112,House,VA,8,,D,,22,1607,51,3,22,516,93.54,,0,1.0,6.4
+2,M000933,James,Moran,1945-05-16,M,D,400283,4269,111,House,VA,8,,D,,20,1655,181,2,31,663,97.27,,0,1.0,2.66
+3,M000933,James,Moran,1945-05-16,M,D,400283,4269,110,House,VA,8,,D,,18,1873,118,1,26,822,97.63,,0,1.0,2.77
+4,M000933,James,Moran,1945-05-16,M,D,400283,4269,109,House,VA,8,,D,,16,1214,66,0,16,553,91.98,,0,0.0,8.11
+5,M000933,James,Moran,1945-05-16,M,D,400283,4269,108,House,VA,8,,D,,14,1221,51,0,14,450,93.91,,0,0.0,6.27
+6,M000933,James,Moran,1945-05-16,M,D,400283,4269,107,House,VA,8,,D,,12,996,37,2,12,434,90.03,,0,0.0,10.29
+7,M000933,James,Moran,1945-05-16,M,D,400283,4269,106,House,VA,8,,D,,10,1214,45,4,18,364,88.23,,0,0.0,11.86
+8,M000933,James,Moran,1945-05-16,M,D,400283,4269,105,House,VA,8,,D,,8,1187,49,1,20,323,84.42,,0,0.0,16.04
+9,M000933,James,Moran,1945-05-16,M,D,400283,4269,104,House,VA,8,,D,,6,1340,56,0,26,252,83.25,,0,0.0,17.64
+10,M000933,James,Moran,1945-05-16,M,D,400283,4269,103,House,VA,8,,D,,4,1122,57,0,25,370,90.23,,0,0.0,8.99
+11,M000933,James,Moran,1945-05-16,M,D,400283,4269,102,House,VA,8,,D,,2,933,49,0,,,86.25,,0,0.0,10.72

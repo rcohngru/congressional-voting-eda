@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,116,House,NY,9,,D,,14,839,5,0,31,790,97.84,,5,2.0,2.04
+1,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,115,House,NY,9,,D,,12,1211,33,0,27,817,96.17,,5,3.0,3.83
+2,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,114,House,NY,9,,D,,10,1325,37,0,7,397,96.24,,0,3.0,3.68
+3,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,113,House,NY,9,,D,,8,1204,62,2,6,429,92.77,,0,3.0,7.14
+4,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,112,House,NY,11,,D,,6,1607,67,3,14,334,93.22,,0,2.0,6.71
+5,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,111,House,NY,11,,D,,4,1655,46,0,19,494,97.19,,0,3.0,2.75
+6,C001067,Yvette,Clarke,1964-11-21,F,D,412221,1022875,110,House,NY,11,,D,,2,1873,173,4,14,577,97.91,,0,3.0,2.63

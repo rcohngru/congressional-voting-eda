@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,109,House,FL,9,,R,,24,1214,49,0,25,204,92.96,,0,0.0,7.3
+1,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,108,House,FL,9,,R,,22,1221,21,0,22,185,95.3,,0,0.0,4.78
+2,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,107,House,FL,9,,R,,20,996,26,1,27,173,96.44,,0,0.0,4.09
+3,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,106,House,FL,9,,R,,18,1214,18,0,34,195,94.3,,0,0.0,5.87
+4,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,105,House,FL,9,,R,,16,1187,26,0,22,143,94.5,,0,0.0,6.03
+5,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,104,House,FL,9,,R,,14,1340,18,1,23,142,94.6,,0,0.0,6.66
+6,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,103,House,FL,9,,R,,12,1122,49,0,31,301,90.07,,0,0.0,9.16
+7,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,102,House,FL,9,,R,,10,933,34,1,,,85.34,,0,0.0,11.23
+8,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,101,House,FL,9,,R,,8,,,,,,,,0,0.0,
+9,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,100,House,FL,9,,R,,6,,,,,,,,0,0.0,
+10,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,99,House,FL,9,,R,,4,,,,,,,,0,0.0,
+11,B000463,Michael,Bilirakis,1930-07-16,M,,400028,,98,House,FL,9,,R,,2,,,,,,,,0,0.0,

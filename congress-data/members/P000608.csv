@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000608,Scott,Peters,1958-06-17,M,D,412523,79661,116,House,CA,52,,D,,8,839,24,0,35,459,96.43,,3,2.0,3.44
+1,P000608,Scott,Peters,1958-06-17,M,D,412523,79661,115,House,CA,52,,D,,6,1211,21,2,22,539,90.34,,4,3.0,9.66
+2,P000608,Scott,Peters,1958-06-17,M,D,412523,79661,114,House,CA,52,,D,,4,1325,21,0,31,446,89.14,,0,2.0,10.78
+3,P000608,Scott,Peters,1958-06-17,M,D,412523,79661,113,House,CA,52,,D,,2,1204,13,1,32,387,84.26,,0,2.0,15.65

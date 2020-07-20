@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000465,Robert,Griffin,1923-11-06,M,,404810,,95,Senate,MI,,2,R,,11,,,,,,,,0,0.0,
+1,G000465,Robert,Griffin,1923-11-06,M,,404810,,94,Senate,MI,,2,R,,9,,,,,,,,0,0.0,
+2,G000465,Robert,Griffin,1923-11-06,M,,404810,,93,Senate,MI,,2,R,,7,,,,,,,,0,0.0,
+3,G000465,Robert,Griffin,1923-11-06,M,,404810,,92,Senate,MI,,2,R,,5,,,,,,,,0,0.0,
+4,G000465,Robert,Griffin,1923-11-06,M,,404810,,91,Senate,MI,,2,R,,4,,,,,,,,0,0.0,
+5,G000465,Robert,Griffin,1923-11-06,M,,404810,,90,Senate,MI,,2,R,,1,,,,,,,,0,0.0,
+6,G000465,Robert,Griffin,1923-11-06,M,,404810,,89,Senate,MI,,2,R,,1,,,,,,,,0,0.0,

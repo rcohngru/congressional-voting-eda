@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000168,Pete,Olson,1962-12-09,M,R,412302,1031361,116,House,TX,22,,R,,12,839,33,0,12,248,95.12,,3,2.0,4.76
+1,O000168,Pete,Olson,1962-12-09,M,R,412302,1031361,115,House,TX,22,,R,,10,1211,44,0,13,286,99.22,,3,1.0,0.78
+2,O000168,Pete,Olson,1962-12-09,M,R,412302,1031361,114,House,TX,22,,R,,8,1325,25,0,20,338,97.67,,0,1.0,2.25
+3,O000168,Pete,Olson,1962-12-09,M,R,412302,1031361,113,House,TX,22,,R,,6,1204,27,0,16,305,97.01,,0,1.0,2.9
+4,O000168,Pete,Olson,1962-12-09,M,R,412302,1031361,112,House,TX,22,,R,,4,1607,20,0,20,252,96.51,,0,1.0,3.43
+5,O000168,Pete,Olson,1962-12-09,M,R,412302,1031361,111,House,TX,22,,R,,2,1655,64,0,11,369,96.05,,0,3.0,3.89

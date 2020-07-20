@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000371,Bob,Livingston,1943-04-30,M,,406863,,106,House,LA,1,,R,,24,28,8,0,1,5,94.74,,0,0.0,0.0
+1,L000371,Bob,Livingston,1943-04-30,M,,406863,,105,House,LA,1,,R,,22,1187,34,1,25,157,94.36,,0,0.0,6.17
+2,L000371,Bob,Livingston,1943-04-30,M,,406863,,104,House,LA,1,,R,,20,1340,44,0,36,163,94.34,,0,0.0,6.77
+3,L000371,Bob,Livingston,1943-04-30,M,,406863,,103,House,LA,1,,R,,18,1122,55,0,7,348,86.8,,0,0.0,12.43
+4,L000371,Bob,Livingston,1943-04-30,M,,406863,,102,House,LA,1,,R,,16,933,91,1,,,79.47,,0,0.0,17.01
+5,L000371,Bob,Livingston,1943-04-30,M,,406863,,101,House,LA,1,,R,,14,,,,,,,,0,0.0,
+6,L000371,Bob,Livingston,1943-04-30,M,,406863,,100,House,LA,1,,R,,12,,,,,,,,0,0.0,
+7,L000371,Bob,Livingston,1943-04-30,M,,406863,,99,House,LA,1,,R,,10,,,,,,,,0,0.0,
+8,L000371,Bob,Livingston,1943-04-30,M,,406863,,98,House,LA,1,,R,,8,,,,,,,,0,0.0,

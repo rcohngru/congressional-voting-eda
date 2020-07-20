@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,116,House,NC,3,,R,,26,,,,3,76,,,0,0.0,
+1,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,115,House,NC,3,,R,,24,1211,231,1,24,521,61.27,,2,1.0,38.73
+2,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,114,House,NC,3,,R,,22,1325,52,0,27,474,70.63,,0,1.0,29.3
+3,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,113,House,NC,3,,R,,20,1204,99,0,26,614,70.3,,0,1.0,29.61
+4,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,112,House,NC,3,,R,,18,1607,55,1,35,563,68.44,,0,2.0,31.49
+5,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,111,House,NC,3,,R,,16,1655,60,1,23,537,85.57,,0,2.0,14.37
+6,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,110,House,NC,3,,R,,14,1873,76,5,36,498,82.15,,0,2.0,18.43
+7,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,109,House,NC,3,,R,,12,1214,73,5,23,366,76.31,,0,0.0,23.87
+8,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,108,House,NC,3,,R,,10,1221,54,0,23,333,85.75,,0,0.0,14.34
+9,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,107,House,NC,3,,R,,8,996,34,0,23,312,88.37,,0,0.0,12.16
+10,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,106,House,NC,3,,R,,6,1214,27,1,16,249,89.65,,0,0.0,10.44
+11,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,105,House,NC,3,,R,,4,1187,10,0,13,199,91.16,,0,0.0,9.37
+12,J000255,Walter,Jones,1943-02-10,M,R,400209,36693,104,House,NC,3,,R,,2,1340,10,0,7,169,94.17,,0,0.0,7.08

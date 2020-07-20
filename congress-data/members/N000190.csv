@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000190,Ralph,Norman,1953-06-20,M,R,412738,61996,116,House,SC,5,,R,,4,839,27,0,15,363,87.08,,3,3.0,12.8
+1,N000190,Ralph,Norman,1953-06-20,M,R,412738,61996,115,House,SC,5,,R,,2,887,24,0,31,303,95.11,,4,2.0,4.89

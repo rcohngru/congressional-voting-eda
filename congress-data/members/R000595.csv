@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000595,Marco,Rubio,1971-05-28,M,R,412491,87599,116,Senate,FL,,3,R,,9,557,23,0,115,368,96.23,,8,6.0,3.77
+1,R000595,Marco,Rubio,1971-05-28,M,R,412491,87599,115,Senate,FL,,3,R,,7,599,35,0,92,422,97.14,,9,6.0,2.86
+2,R000595,Marco,Rubio,1971-05-28,M,R,412491,87599,114,Senate,FL,,3,R,,5,502,157,0,68,250,90.59,,0,4.0,9.41
+3,R000595,Marco,Rubio,1971-05-28,M,R,412491,87599,113,Senate,FL,,3,R,,3,657,45,0,42,297,87.15,,8,4.0,12.85
+4,R000595,Marco,Rubio,1971-05-28,M,R,412491,87599,112,Senate,FL,,3,R,,1,486,32,0,28,277,87.19,,0,4.0,12.81

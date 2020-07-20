@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000566,David,Durenberger,1934-08-19,M,,403669,,103,Senate,MN,,1,R,,15,724,45,0,42,287,71.88,,0,0.0,28.12
+1,D000566,David,Durenberger,1934-08-19,M,,403669,,102,Senate,MN,,1,R,,13,550,16,0,,,73.62,,0,0.0,26.38
+2,D000566,David,Durenberger,1934-08-19,M,,403669,,101,Senate,MN,,1,R,,11,638,24,1,,,,,0,0.0,
+3,D000566,David,Durenberger,1934-08-19,M,,403669,,100,Senate,MN,,1,R,,9,,,,,,,,0,0.0,
+4,D000566,David,Durenberger,1934-08-19,M,,403669,,99,Senate,MN,,1,R,,7,,,,,,,,0,0.0,
+5,D000566,David,Durenberger,1934-08-19,M,,403669,,98,Senate,MN,,1,R,,5,,,,,,,,0,0.0,
+6,D000566,David,Durenberger,1934-08-19,M,,403669,,97,Senate,MN,,1,R,,3,,,,,,,,0,0.0,
+7,D000566,David,Durenberger,1934-08-19,M,,403669,,96,Senate,MN,,1,R,,1,,,,,,,,0,0.0,
+8,D000566,David,Durenberger,1934-08-19,M,,403669,,95,Senate,MN,,1,R,,1,,,,,,,,0,0.0,

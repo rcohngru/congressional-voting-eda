@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,116,House,NY,5,,D,,24,839,52,0,17,557,98.73,,4,2.0,1.15
+1,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,115,House,NY,5,,D,,22,1211,70,0,20,559,96.05,,5,2.0,3.95
+2,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,114,House,NY,5,,D,,20,1320,178,0,6,369,97.44,,0,2.0,2.56
+3,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,113,House,NY,5,,D,,18,1204,87,1,8,347,95.31,,0,2.0,4.6
+4,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,112,House,NY,6,,D,,16,1607,169,2,10,290,94.85,,0,2.0,5.08
+5,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,111,House,NY,6,,D,,14,1655,97,0,12,491,98.39,,0,2.0,1.55
+6,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,110,House,NY,6,,D,,12,1873,121,0,14,515,98.49,,0,2.0,1.97
+7,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,109,House,NY,6,,D,,10,1214,85,0,11,458,92.02,,0,0.0,8.25
+8,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,108,House,NY,6,,D,,8,1221,106,1,23,387,95.27,,0,0.0,4.82
+9,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,107,House,NY,6,,D,,6,996,89,0,7,339,94.95,,0,0.0,5.5
+10,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,106,House,NY,6,,D,,4,1214,105,2,5,316,93.33,,0,0.0,6.76
+11,M001137,Gregory,Meeks,1953-09-25,M,D,400271,53469,105,House,NY,6,,D,,2,536,75,1,1,89,92.29,,0,0.0,8.39

@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,116,House,MN,4,,D,,20,839,0,1,15,609,98.33,,3,1.0,1.55
+1,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,115,House,MN,4,,D,,18,1211,16,1,7,574,96.56,,3,1.0,3.44
+2,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,114,House,MN,4,,D,,16,1325,17,2,10,453,97.68,,0,1.0,2.24
+3,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,113,House,MN,4,,D,,14,1204,31,2,9,541,94.24,,0,1.0,5.67
+4,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,112,House,MN,4,,D,,12,1607,81,4,8,376,95.01,,0,2.0,4.92
+5,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,111,House,MN,4,,D,,10,1655,48,2,15,495,98.37,,0,2.0,1.57
+6,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,110,House,MN,4,,D,,8,1873,33,0,19,748,99.01,,0,2.0,1.43
+7,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,109,House,MN,4,,D,,6,1214,26,3,16,555,95.05,,0,0.0,5.21
+8,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,108,House,MN,4,,D,,4,1221,33,2,13,526,95.8,,0,0.0,4.37
+9,M001143,Betty,McCollum,1954-07-12,F,D,400259,86670,107,House,MN,4,,D,,2,996,11,1,7,406,96.79,,0,0.0,3.73

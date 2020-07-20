@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000589,Scott,Rigell,1960-05-28,M,R,412483,9268996,114,House,VA,2,,R,,6,1325,10,0,5,137,92.26,,0,1.0,7.66
+1,R000589,Scott,Rigell,1960-05-28,M,R,412483,9268996,113,House,VA,2,,R,,4,1204,16,0,6,134,91.97,,0,2.0,7.95
+2,R000589,Scott,Rigell,1960-05-28,M,R,412483,9268996,112,House,VA,2,,R,,2,1607,6,2,16,181,92.51,,0,3.0,7.43

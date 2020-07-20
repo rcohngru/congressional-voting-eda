@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000592,Mervyn,Dymally,1926-05-12,,,403695,,102,House,CA,31,,D,,12,933,349,0,,,88.38,,0,0.0,7.92
+1,D000592,Mervyn,Dymally,1926-05-12,,,403695,,101,House,CA,31,,D,,10,,,,,,,,0,0.0,
+2,D000592,Mervyn,Dymally,1926-05-12,,,403695,,100,House,CA,31,,D,,8,,,,,,,,0,0.0,
+3,D000592,Mervyn,Dymally,1926-05-12,,,403695,,99,House,CA,31,,D,,6,,,,,,,,0,0.0,
+4,D000592,Mervyn,Dymally,1926-05-12,,,403695,,98,House,CA,31,,D,,4,,,,,,,,0,0.0,

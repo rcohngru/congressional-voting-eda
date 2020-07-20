@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001241,Chris,Bell,1959-11-23,M,,400022,,108,House,TX,25,,D,,2,1221,92,0,10,353,93.15,,0,0.0,7.03

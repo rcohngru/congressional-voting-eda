@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,112,House,WA,6,,D,,36,1607,79,1,4,101,92.89,,0,1.0,7.05
+1,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,111,House,WA,6,,D,,34,1655,53,0,5,161,99.12,,0,1.0,0.82
+2,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,110,House,WA,6,,D,,32,1873,97,0,8,207,98.52,,0,2.0,1.94
+3,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,109,House,WA,6,,D,,30,1214,31,1,5,222,93.82,,0,0.0,6.44
+4,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,108,House,WA,6,,D,,28,1221,58,1,4,204,93.61,,0,0.0,6.56
+5,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,107,House,WA,6,,D,,26,996,24,0,5,205,92.03,,0,0.0,8.39
+6,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,106,House,WA,6,,D,,24,1214,44,2,4,197,94.36,,0,0.0,5.9
+7,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,105,House,WA,6,,D,,22,1187,29,0,3,116,89.98,,0,0.0,10.56
+8,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,104,House,WA,6,,D,,20,1340,56,0,5,72,89.53,,0,0.0,11.7
+9,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,103,House,WA,6,,D,,18,1122,47,0,4,167,93.65,,0,0.0,5.58
+10,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,102,House,WA,6,,D,,16,933,44,0,,,90.51,,0,0.0,6.6
+11,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,101,House,WA,6,,D,,14,,,,,,,,0,0.0,
+12,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,100,House,WA,6,,D,,12,,,,,,,,0,0.0,
+13,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,99,House,WA,6,,D,,10,,,,,,,,0,0.0,
+14,D000327,Norman,Dicks,1940-12-16,M,D,400109,8131,98,House,WA,6,,D,,8,,,,,,,,0,0.0,

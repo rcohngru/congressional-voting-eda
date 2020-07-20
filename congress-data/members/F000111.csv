@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000111,Jack,Fields,1952-02-03,M,,404068,,104,House,TX,8,,R,,16,1340,166,0,14,174,97.45,,0,0.0,3.79
+1,F000111,Jack,Fields,1952-02-03,M,,404068,,103,House,TX,8,,R,,14,1122,141,0,19,292,91.15,,0,0.0,8.01
+2,F000111,Jack,Fields,1952-02-03,M,,404068,,102,House,TX,8,,R,,12,933,43,1,,,85.96,,0,0.0,10.47
+3,F000111,Jack,Fields,1952-02-03,M,,404068,,101,House,TX,8,,R,,10,,,,,,,,0,0.0,
+4,F000111,Jack,Fields,1952-02-03,M,,404068,,100,House,TX,8,,R,,8,,,,,,,,0,0.0,
+5,F000111,Jack,Fields,1952-02-03,M,,404068,,99,House,TX,8,,R,,6,,,,,,,,0,0.0,
+6,F000111,Jack,Fields,1952-02-03,M,,404068,,98,House,TX,8,,R,,4,,,,,,,,0,0.0,

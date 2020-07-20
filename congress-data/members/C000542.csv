@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,114,Senate,IN,,3,R,,5,502,15,0,15,114,92.47,,0,3.0,7.53
+1,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,113,Senate,IN,,3,R,,3,657,16,0,14,153,92.05,,5,4.0,7.95
+2,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,112,Senate,IN,,3,R,,1,486,4,0,6,163,91.33,,0,0.0,8.67
+3,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,105,Senate,IN,,3,R,,9,612,22,0,14,145,87.67,,0,0.0,12.33
+4,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,104,Senate,IN,,3,R,,7,916,14,0,31,137,94.2,,0,0.0,5.8
+5,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,103,Senate,IN,,3,R,,5,724,9,1,10,199,89.41,,0,0.0,10.59
+6,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,102,Senate,IN,,3,R,,3,550,4,0,,,87.73,,0,0.0,12.27
+7,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,101,Senate,IN,,3,R,,1,638,21,0,,,,,0,0.0,
+8,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,100,House,IN,4,,R,,8,,,,,,,,0,0.0,
+9,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,99,House,IN,4,,R,,6,,,,,,,,0,0.0,
+10,C000542,Daniel,Coats,1943-05-16,M,R,402675,6080,98,House,IN,4,,R,,4,,,,,,,,0,0.0,

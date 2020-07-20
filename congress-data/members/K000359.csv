@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000359,Brian,Kerns,1957-05-22,M,,400521,,107,House,IN,7,,R,,2,996,0,1,4,186,91.84,,0,0.0,8.67

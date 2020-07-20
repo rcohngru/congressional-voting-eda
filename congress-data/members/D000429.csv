@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000429,John,Doolittle,1950-10-30,M,,400113,,110,House,CA,4,,R,,18,1873,128,2,13,264,91.31,,0,1.0,9.1
+1,D000429,John,Doolittle,1950-10-30,M,,400113,,109,House,CA,4,,R,,16,1214,58,0,18,263,96.84,,0,0.0,3.43
+2,D000429,John,Doolittle,1950-10-30,M,,400113,,108,House,CA,4,,R,,14,1221,55,0,10,263,96.8,,0,0.0,3.28
+3,D000429,John,Doolittle,1950-10-30,M,,400113,,107,House,CA,4,,R,,12,996,51,0,11,263,95.91,,0,0.0,4.63
+4,D000429,John,Doolittle,1950-10-30,M,,400113,,106,House,CA,4,,R,,10,1214,32,0,11,301,92.16,,0,0.0,8.01
+5,D000429,John,Doolittle,1950-10-30,M,,400113,,105,House,CA,4,,R,,8,1187,54,0,15,250,92.28,,0,0.0,8.17
+6,D000429,John,Doolittle,1950-10-30,M,,400113,,104,House,CA,4,,R,,6,1340,25,0,14,235,95.45,,0,0.0,5.65
+7,D000429,John,Doolittle,1950-10-30,M,,400113,,103,House,CA,4,,R,,4,1122,38,0,16,530,90.91,,0,0.0,8.33
+8,D000429,John,Doolittle,1950-10-30,M,,400113,,102,House,CA,14,,R,,2,933,27,1,,,85.6,,0,0.0,11.11

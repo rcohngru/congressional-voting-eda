@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,113,Senate,OK,,3,R,,9,657,131,0,31,179,87.79,,6,3.0,12.21
+1,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,112,Senate,OK,,3,R,,7,486,32,1,23,229,85.68,,0,0.0,14.32
+2,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,111,Senate,OK,,3,R,,5,696,17,0,13,158,91.18,,0,5.0,8.82
+3,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,110,Senate,OK,,3,R,,3,657,50,0,15,166,80.67,,0,4.0,19.33
+4,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,109,Senate,OK,,3,R,,1,645,8,1,16,153,86.41,,0,0.0,13.59
+5,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,106,House,OK,2,,R,,6,1214,131,2,11,238,83.35,,0,0.0,16.84
+6,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,105,House,OK,2,,R,,4,1187,59,10,8,226,87.87,,0,0.0,12.68
+7,C000560,Tom,Coburn,1948-03-14,M,R,400576,36751,104,House,OK,2,,R,,2,1340,42,1,6,181,90.51,,0,0.0,10.77

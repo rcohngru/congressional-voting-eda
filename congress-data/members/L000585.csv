@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000585,Darin,LaHood,1968-07-05,M,R,412674,70020,116,House,IL,18,,R,,6,839,38,0,15,169,96.1,,2,1.0,3.78
+1,L000585,Darin,LaHood,1968-07-05,M,R,412674,70020,115,House,IL,18,,R,,4,1211,11,0,20,170,94.89,,8,4.0,5.11
+2,L000585,Darin,LaHood,1968-07-05,M,R,412674,70020,114,House,IL,18,,R,,2,829,1,0,2,41,96.71,,0,2.0,3.17

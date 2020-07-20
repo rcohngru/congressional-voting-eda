@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000292,William,Knowland,1908-06-26,M,,406448,,85,Senate,CA,,1,R,,12,,,,,,,,0,0.0,
+1,K000292,William,Knowland,1908-06-26,M,,406448,,84,Senate,CA,,1,R,,10,,,,,,,,0,0.0,
+2,K000292,William,Knowland,1908-06-26,M,,406448,,83,Senate,CA,,1,R,,8,,,,,,,,0,0.0,
+3,K000292,William,Knowland,1908-06-26,M,,406448,,82,Senate,CA,,1,R,,6,,,,,,,,0,0.0,
+4,K000292,William,Knowland,1908-06-26,M,,406448,,81,Senate,CA,,1,R,,4,,,,,,,,0,0.0,
+5,K000292,William,Knowland,1908-06-26,M,,406448,,80,Senate,CA,,1,R,,2,,,,,,,,0,0.0,

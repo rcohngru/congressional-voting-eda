@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,113,Senate,CO,,2,D,,6,657,37,0,47,186,98.39,,6,3.0,1.61
+1,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,112,Senate,CO,,2,D,,4,486,9,0,38,179,93.67,,0,0.0,6.33
+2,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,111,Senate,CO,,2,D,,2,696,6,0,42,182,92.57,,0,3.0,7.43
+3,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,110,House,CO,2,,D,,10,1873,183,0,60,464,96.4,,0,3.0,4.08
+4,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,109,House,CO,2,,D,,8,1214,23,0,45,392,93.02,,0,0.0,7.23
+5,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,108,House,CO,2,,D,,6,1221,71,1,37,364,93.45,,0,0.0,6.73
+6,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,107,House,CO,2,,D,,4,996,24,0,30,431,90.13,,0,0.0,10.4
+7,U000038,Mark,Udall,1950-07-18,M,D,400412,7634,106,House,CO,2,,D,,2,1214,15,3,12,315,91.7,,0,0.0,8.55

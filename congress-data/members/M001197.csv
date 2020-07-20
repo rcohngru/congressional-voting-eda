@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001197,Martha,McSally,1966-03-22,F,R,412611,29126,116,Senate,AZ,,3,R,,1,557,9,0,63,306,97.43,,9,5.0,2.57
+1,M001197,Martha,McSally,1966-03-22,F,R,412611,29126,115,House,AZ,2,,R,,4,1211,40,0,28,165,92.96,,5,2.0,7.04
+2,M001197,Martha,McSally,1966-03-22,F,R,412611,29126,114,House,AZ,2,,R,,2,1325,0,0,22,197,92.55,,0,2.0,7.38

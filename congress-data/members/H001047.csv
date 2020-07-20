@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001047,Jim,Himes,1966-07-05,M,D,412282,1031341,116,House,CT,4,,D,,12,839,11,1,10,393,98.31,,4,2.0,1.57
+1,H001047,Jim,Himes,1966-07-05,M,D,412282,1031341,115,House,CT,4,,D,,10,1211,21,1,19,320,94.66,,4,2.0,5.34
+2,H001047,Jim,Himes,1966-07-05,M,D,412282,1031341,114,House,CT,4,,D,,8,1325,13,0,14,195,95.14,,0,2.0,4.78
+3,H001047,Jim,Himes,1966-07-05,M,D,412282,1031341,113,House,CT,4,,D,,6,1204,19,1,11,311,93.28,,0,2.0,6.64
+4,H001047,Jim,Himes,1966-07-05,M,D,412282,1031341,112,House,CT,4,,D,,4,1607,9,1,17,218,90.72,,0,1.0,9.22
+5,H001047,Jim,Himes,1966-07-05,M,D,412282,1031341,111,House,CT,4,,D,,2,1655,48,0,9,284,94.43,,0,2.0,5.51

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,111,House,KS,4,,R,,16,1655,163,0,35,337,94.01,,0,1.0,5.92
+1,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,110,House,KS,4,,R,,14,1873,84,4,15,238,94.01,,0,2.0,6.56
+2,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,109,House,KS,4,,R,,12,1214,38,0,16,150,95.07,,0,0.0,5.19
+3,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,108,House,KS,4,,R,,10,1221,40,0,12,167,96.92,,0,0.0,3.25
+4,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,107,House,KS,4,,R,,8,996,22,0,12,214,96.66,,0,0.0,3.86
+5,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,106,House,KS,4,,R,,6,1214,40,0,5,198,92.53,,0,0.0,7.73
+6,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,105,House,KS,4,,R,,4,1187,20,3,10,174,93.02,,0,0.0,7.51
+7,T000260,Todd,Tiahrt,1951-06-15,M,R,400405,,104,House,KS,4,,R,,2,1340,17,0,6,122,94.44,,0,0.0,6.81

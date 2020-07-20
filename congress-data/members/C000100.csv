@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000100,Tom,Campbell,1952-08-14,M,,400573,,106,House,CA,15,,R,,10,1214,344,1,38,271,79.7,,0,0.0,20.42
+1,C000100,Tom,Campbell,1952-08-14,M,,400573,,105,House,CA,15,,R,,8,1187,2,0,28,255,75.91,,0,0.0,24.61
+2,C000100,Tom,Campbell,1952-08-14,M,,400573,,104,House,CA,15,,R,,6,477,1,0,9,91,77.75,,0,0.0,22.25
+3,C000100,Tom,Campbell,1952-08-14,M,,400573,,102,House,CA,12,,R,,4,933,123,2,,,78.48,,0,0.0,18.23
+4,C000100,Tom,Campbell,1952-08-14,M,,400573,,101,House,CA,12,,R,,2,,,,,,,,0,0.0,

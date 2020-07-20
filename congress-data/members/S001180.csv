@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001180,Kurt,Schrader,1951-10-19,M,D,412315,1031358,116,House,OR,5,,D,,12,839,20,0,18,227,94.12,,3,1.0,5.75
+1,S001180,Kurt,Schrader,1951-10-19,M,D,412315,1031358,115,House,OR,5,,D,,10,1188,20,0,15,228,89.64,,2,1.0,10.36
+2,S001180,Kurt,Schrader,1951-10-19,M,D,412315,1031358,114,House,OR,5,,D,,8,1325,50,0,13,164,83.9,,0,1.0,16.02
+3,S001180,Kurt,Schrader,1951-10-19,M,D,412315,1031358,113,House,OR,5,,D,,6,1204,25,0,21,205,84.35,,0,3.0,15.57
+4,S001180,Kurt,Schrader,1951-10-19,M,D,412315,1031358,112,House,OR,5,,D,,4,1607,63,1,12,166,81.18,,0,2.0,18.75
+5,S001180,Kurt,Schrader,1951-10-19,M,D,412315,1031358,111,House,OR,5,,D,,2,1655,102,0,19,161,96.76,,0,3.0,3.18

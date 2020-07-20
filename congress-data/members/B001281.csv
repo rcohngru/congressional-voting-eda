@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001281,Joyce,Beatty,1950-03-12,F,D,412565,67294,116,House,OH,3,,D,,8,839,41,0,38,588,99.25,,3,1.0,0.63
+1,B001281,Joyce,Beatty,1950-03-12,F,D,412565,67294,115,House,OH,3,,D,,6,1211,68,2,18,480,97.22,,2,1.0,2.78
+2,B001281,Joyce,Beatty,1950-03-12,F,D,412565,67294,114,House,OH,3,,D,,4,1325,26,0,24,365,98.13,,0,1.0,1.79
+3,B001281,Joyce,Beatty,1950-03-12,F,D,412565,67294,113,House,OH,3,,D,,2,1204,23,1,19,339,96.93,,0,1.0,2.99

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,116,House,TX,10,,R,,16,839,6,0,31,214,91.65,,0,2.0,8.23
+1,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,115,House,TX,10,,R,,14,1211,25,0,33,274,98.39,,1,2.0,1.61
+2,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,114,House,TX,10,,R,,12,1325,28,0,27,219,97.28,,0,3.0,2.64
+3,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,113,House,TX,10,,R,,10,1204,27,0,21,277,97.35,,0,3.0,2.56
+4,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,112,House,TX,10,,R,,8,1607,21,0,17,247,96.19,,0,4.0,3.74
+5,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,111,House,TX,10,,R,,6,1655,59,10,8,358,95.04,,0,4.0,4.9
+6,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,110,House,TX,10,,R,,4,1873,44,9,9,475,94.83,,0,4.0,5.67
+7,M001157,Michael,McCaul,1962-01-14,M,R,400654,1013056,109,House,TX,10,,R,,2,1214,23,0,9,398,96.16,,0,0.0,4.1

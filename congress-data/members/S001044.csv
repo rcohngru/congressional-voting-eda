@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001044,Bob,Stump,1927-04-04,M,,400504,,107,House,AZ,3,,R,,26,996,159,0,16,179,95.86,,0,0.0,4.75
+1,S001044,Bob,Stump,1927-04-04,M,,400504,,106,House,AZ,3,,R,,24,1214,2,0,34,283,93.36,,0,0.0,6.9
+2,S001044,Bob,Stump,1927-04-04,M,,400504,,105,House,AZ,3,,R,,22,1187,4,0,33,277,91.81,,0,0.0,8.71
+3,S001044,Bob,Stump,1927-04-04,M,,400504,,104,House,AZ,3,,R,,20,1340,3,0,35,290,93.42,,0,0.0,7.82
+4,S001044,Bob,Stump,1927-04-04,M,,400504,,103,House,AZ,3,,R,,18,1122,1,0,19,386,87.7,,0,0.0,11.56
+5,S001044,Bob,Stump,1927-04-04,M,,400504,,102,House,AZ,3,,R,,16,933,3,0,,,79.98,,0,0.0,16.7
+6,S001044,Bob,Stump,1927-04-04,M,,400504,,101,House,AZ,3,,R,,14,,,,,,,,0,0.0,
+7,S001044,Bob,Stump,1927-04-04,M,,400504,,100,House,AZ,3,,R,,12,,,,,,,,0,0.0,
+8,S001044,Bob,Stump,1927-04-04,M,,400504,,99,House,AZ,3,,R,,10,,,,,,,,0,0.0,
+9,S001044,Bob,Stump,1927-04-04,M,,400504,,98,House,AZ,3,,R,,8,,,,,,,,0,0.0,

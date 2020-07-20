@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,113,House,CA,25,,R,,22,1204,52,0,12,99,93.37,,0,2.0,6.54
+1,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,112,House,CA,25,,R,,20,1607,54,0,20,143,94.36,,0,2.0,5.57
+2,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,111,House,CA,25,,R,,18,1655,43,0,14,249,94.78,,0,2.0,5.16
+3,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,110,House,CA,25,,R,,16,1873,57,1,17,211,96.04,,0,2.0,4.47
+4,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,109,House,CA,25,,R,,14,1214,28,0,12,160,97.77,,0,0.0,2.49
+5,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,108,House,CA,25,,R,,12,1221,41,0,15,150,97.18,,0,0.0,2.99
+6,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,107,House,CA,25,,R,,10,996,13,0,14,142,98.24,,0,0.0,2.28
+7,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,106,House,CA,25,,R,,8,1214,29,0,11,212,96.21,,0,0.0,4.04
+8,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,105,House,CA,25,,R,,6,1187,16,0,12,207,95.87,,0,0.0,4.66
+9,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,104,House,CA,25,,R,,4,1340,12,0,8,216,97.12,,0,0.0,4.13
+10,M000508,Howard,McKeon,1938-09-09,M,R,400267,26483,103,House,CA,25,,R,,2,1122,41,0,3,222,94.35,,0,0.0,4.98

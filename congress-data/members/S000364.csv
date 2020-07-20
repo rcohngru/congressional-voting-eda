@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,116,House,IL,15,,R,,24,839,50,0,4,131,95.02,,3,1.0,4.85
+1,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,115,House,IL,15,,R,,22,1211,14,0,6,148,96.89,,4,1.0,3.11
+2,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,114,House,IL,15,,R,,20,1325,11,0,14,122,95.02,,0,1.0,4.91
+3,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,113,House,IL,15,,R,,18,1204,69,0,6,167,93.81,,0,1.0,6.1
+4,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,112,House,IL,19,,R,,16,1607,52,0,9,185,92.35,,0,1.0,7.58
+5,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,111,House,IL,19,,R,,14,1655,39,0,4,302,94.85,,0,1.0,5.08
+6,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,110,House,IL,19,,R,,12,1873,105,1,5,347,91.82,,0,1.0,8.64
+7,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,109,House,IL,19,,R,,10,1214,40,1,12,349,93.33,,0,0.0,6.93
+8,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,108,House,IL,19,,R,,8,1221,36,0,17,352,93.19,,0,0.0,6.98
+9,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,107,House,IL,20,,R,,6,996,9,0,19,326,96.19,,0,0.0,4.33
+10,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,106,House,IL,20,,R,,4,1214,5,0,11,240,94.69,,0,0.0,5.56
+11,S000364,John,Shimkus,1958-02-21,M,R,400373,30623,105,House,IL,20,,R,,2,1187,14,0,4,152,95.18,,0,0.0,5.26

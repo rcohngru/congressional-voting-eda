@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000776,Robert,Stafford,1913-08-08,M,,410242,,100,Senate,VT,,1,R,,16,,,,,,,,0,0.0,
+1,S000776,Robert,Stafford,1913-08-08,M,,410242,,99,Senate,VT,,1,R,,14,,,,,,,,0,0.0,
+2,S000776,Robert,Stafford,1913-08-08,M,,410242,,98,Senate,VT,,1,R,,12,,,,,,,,0,0.0,
+3,S000776,Robert,Stafford,1913-08-08,M,,410242,,97,Senate,VT,,1,R,,10,,,,,,,,0,0.0,
+4,S000776,Robert,Stafford,1913-08-08,M,,410242,,96,Senate,VT,,1,R,,8,,,,,,,,0,0.0,
+5,S000776,Robert,Stafford,1913-08-08,M,,410242,,95,Senate,VT,,1,R,,6,,,,,,,,0,0.0,
+6,S000776,Robert,Stafford,1913-08-08,M,,410242,,94,Senate,VT,,1,R,,4,,,,,,,,0,0.0,
+7,S000776,Robert,Stafford,1913-08-08,M,,410242,,93,Senate,VT,,1,R,,2,,,,,,,,0,0.0,
+8,S000776,Robert,Stafford,1913-08-08,M,,410242,,92,Senate,VT,,1,R,,1,,,,,,,,0,0.0,

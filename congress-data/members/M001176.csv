@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001176,Jeff,Merkley,1956-10-24,M,D,412325,1029842,116,Senate,OR,,2,D,,11,557,5,1,114,635,83.15,,11,4.0,16.85
+1,M001176,Jeff,Merkley,1956-10-24,M,D,412325,1029842,115,Senate,OR,,2,D,,9,599,10,1,69,487,85.34,,11,4.0,14.66
+2,M001176,Jeff,Merkley,1956-10-24,M,D,412325,1029842,114,Senate,OR,,2,D,,7,502,5,0,37,268,93.85,,0,4.0,6.15
+3,M001176,Jeff,Merkley,1956-10-24,M,D,412325,1029842,113,Senate,OR,,2,D,,5,657,8,1,37,288,96.61,,8,4.0,3.39
+4,M001176,Jeff,Merkley,1956-10-24,M,D,412325,1029842,112,Senate,OR,,2,D,,3,486,7,0,37,302,93.91,,0,4.0,6.09
+5,M001176,Jeff,Merkley,1956-10-24,M,D,412325,1029842,111,Senate,OR,,2,D,,1,696,4,0,23,304,95.93,,0,4.0,4.07

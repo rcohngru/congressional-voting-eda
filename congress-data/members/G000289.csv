@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,115,House,VA,6,,R,,26,1211,23,0,31,186,98.05,,2,2.0,1.95
+1,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,114,House,VA,6,,R,,24,1325,18,0,23,170,97.22,,0,2.0,2.7
+2,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,113,House,VA,6,,R,,22,1204,14,0,16,178,95.87,,0,2.0,4.05
+3,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,112,House,VA,6,,R,,20,1607,16,0,14,198,92.97,,0,3.0,6.97
+4,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,111,House,VA,6,,R,,18,1655,8,0,7,256,95.75,,0,2.0,4.19
+5,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,110,House,VA,6,,R,,16,1873,10,2,10,259,95.25,,0,2.0,5.3
+6,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,109,House,VA,6,,R,,14,1214,0,0,18,195,96.57,,0,0.0,3.68
+7,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,108,House,VA,6,,R,,12,1221,5,0,12,198,96.02,,0,0.0,4.15
+8,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,107,House,VA,6,,R,,10,996,9,0,13,244,95.67,,0,0.0,4.84
+9,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,106,House,VA,6,,R,,8,1214,28,0,12,247,94.68,,0,0.0,5.58
+10,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,105,House,VA,6,,R,,6,1187,3,0,23,209,95.13,,0,0.0,5.4
+11,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,104,House,VA,6,,R,,4,1340,3,0,9,161,94.97,,0,0.0,6.27
+12,G000289,Robert,Goodlatte,1952-09-22,M,R,400154,27025,103,House,VA,6,,R,,2,1122,9,0,10,196,92.64,,0,0.0,6.61

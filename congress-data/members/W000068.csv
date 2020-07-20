@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000068,Robert,Walker,1942-12-23,M,,411247,,104,House,PA,16,,R,,20,1340,17,0,18,64,95.78,,0,0.0,5.39
+1,W000068,Robert,Walker,1942-12-23,M,,411247,,103,House,PA,16,,R,,18,1122,0,1,17,139,89.83,,0,0.0,9.43
+2,W000068,Robert,Walker,1942-12-23,M,,411247,,102,House,PA,16,,R,,16,933,19,1,,,83.8,,0,0.0,12.82
+3,W000068,Robert,Walker,1942-12-23,M,,411247,,101,House,PA,16,,R,,14,,,,,,,,0,0.0,
+4,W000068,Robert,Walker,1942-12-23,M,,411247,,100,House,PA,16,,R,,12,,,,,,,,0,0.0,
+5,W000068,Robert,Walker,1942-12-23,M,,411247,,99,House,PA,16,,R,,10,,,,,,,,0,0.0,
+6,W000068,Robert,Walker,1942-12-23,M,,411247,,98,House,PA,16,,R,,8,,,,,,,,0,0.0,

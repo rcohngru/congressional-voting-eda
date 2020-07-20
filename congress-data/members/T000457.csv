@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000457,Fred,Thompson,1942-08-19,M,,300158,,107,Senate,TN,,2,R,,9,633,20,0,23,72,90.64,,0,0.0,9.36
+1,T000457,Fred,Thompson,1942-08-19,M,,300158,,106,Senate,TN,,2,R,,7,672,3,0,45,90,90.84,,0,0.0,9.16
+2,T000457,Fred,Thompson,1942-08-19,M,,300158,,105,Senate,TN,,2,R,,5,612,0,0,14,61,87.29,,0,0.0,12.71
+3,T000457,Fred,Thompson,1942-08-19,M,,300158,,104,Senate,TN,,2,R,,3,916,10,0,8,58,90.79,,0,0.0,9.21
+4,T000457,Fred,Thompson,1942-08-19,M,,300158,,103,Senate,TN,,2,R,,1,0,0,0,,,0.0,,0,0.0,0.0

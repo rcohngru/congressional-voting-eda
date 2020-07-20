@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001057,Dale,Bumpers,1925-08-12,M,,402004,,105,Senate,AR,,3,D,,23,612,6,0,16,103,89.09,,0,0.0,10.91
+1,B001057,Dale,Bumpers,1925-08-12,M,,402004,,104,Senate,AR,,3,D,,21,916,39,0,18,73,91.42,,0,0.0,8.58
+2,B001057,Dale,Bumpers,1925-08-12,M,,402004,,103,Senate,AR,,3,D,,19,724,13,0,34,146,89.86,,0,0.0,10.14
+3,B001057,Dale,Bumpers,1925-08-12,M,,402004,,102,Senate,AR,,3,D,,17,550,11,0,,,84.63,,0,0.0,15.37
+4,B001057,Dale,Bumpers,1925-08-12,M,,402004,,101,Senate,AR,,3,D,,15,638,10,0,,,,,0,0.0,
+5,B001057,Dale,Bumpers,1925-08-12,M,,402004,,100,Senate,AR,,3,D,,13,,,,,,,,0,0.0,
+6,B001057,Dale,Bumpers,1925-08-12,M,,402004,,99,Senate,AR,,3,D,,11,,,,,,,,0,0.0,
+7,B001057,Dale,Bumpers,1925-08-12,M,,402004,,98,Senate,AR,,3,D,,9,,,,,,,,0,0.0,
+8,B001057,Dale,Bumpers,1925-08-12,M,,402004,,97,Senate,AR,,3,D,,7,,,,,,,,0,0.0,
+9,B001057,Dale,Bumpers,1925-08-12,M,,402004,,96,Senate,AR,,3,D,,5,,,,,,,,0,0.0,
+10,B001057,Dale,Bumpers,1925-08-12,M,,402004,,95,Senate,AR,,3,D,,3,,,,,,,,0,0.0,
+11,B001057,Dale,Bumpers,1925-08-12,M,,402004,,94,Senate,AR,,3,D,,1,,,,,,,,0,0.0,

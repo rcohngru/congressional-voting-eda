@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000373,Julian,Dixon,1934-08-08,M,,400580,,106,House,CA,32,,D,,22,1213,55,4,0,330,95.72,,0,0.0,4.46
+1,D000373,Julian,Dixon,1934-08-08,M,,400580,,105,House,CA,32,,D,,20,1187,87,1,0,202,93.24,,0,0.0,7.33
+2,D000373,Julian,Dixon,1934-08-08,M,,400580,,104,House,CA,32,,D,,18,1340,30,2,1,99,93.41,,0,0.0,7.88
+3,D000373,Julian,Dixon,1934-08-08,M,,400580,,103,House,CA,32,,D,,16,1122,32,1,8,255,92.04,,0,0.0,7.2
+4,D000373,Julian,Dixon,1934-08-08,M,,400580,,102,House,CA,28,,D,,14,933,80,0,,,90.45,,0,0.0,6.53
+5,D000373,Julian,Dixon,1934-08-08,M,,400580,,101,House,CA,28,,D,,12,,,,,,,,0,0.0,
+6,D000373,Julian,Dixon,1934-08-08,M,,400580,,100,House,CA,28,,D,,10,,,,,,,,0,0.0,
+7,D000373,Julian,Dixon,1934-08-08,M,,400580,,99,House,CA,28,,D,,8,,,,,,,,0,0.0,
+8,D000373,Julian,Dixon,1934-08-08,M,,400580,,98,House,CA,28,,D,,6,,,,,,,,0,0.0,

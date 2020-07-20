@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001189,Austin,Scott,1969-12-10,M,R,412417,623344,116,House,GA,8,,R,,10,839,14,0,10,137,95.24,,4,2.0,4.64
+1,S001189,Austin,Scott,1969-12-10,M,R,412417,623344,115,House,GA,8,,R,,8,1211,24,0,9,177,97.38,,5,2.0,2.62
+2,S001189,Austin,Scott,1969-12-10,M,R,412417,623344,114,House,GA,8,,R,,6,1325,31,0,9,247,97.9,,0,2.0,2.02
+3,S001189,Austin,Scott,1969-12-10,M,R,412417,623344,113,House,GA,8,,R,,4,1204,17,0,10,220,96.11,,0,2.0,3.81
+4,S001189,Austin,Scott,1969-12-10,M,R,412417,623344,112,House,GA,8,,R,,2,1607,19,0,5,216,95.05,,0,2.0,4.88

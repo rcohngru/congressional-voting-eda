@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,116,House,IL,9,,D,,22,839,8,0,45,1024,98.43,,3,2.0,1.45
+1,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,115,House,IL,9,,D,,20,1211,11,0,33,749,96.15,,3,2.0,3.85
+2,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,114,House,IL,9,,D,,18,1325,52,0,35,454,96.35,,0,2.0,3.57
+3,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,113,House,IL,9,,D,,16,1204,21,1,30,572,92.08,,0,2.0,7.84
+4,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,112,House,IL,9,,D,,14,1607,24,1,25,508,93.53,,0,2.0,6.4
+5,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,111,House,IL,9,,D,,12,1655,31,1,28,766,97.89,,0,2.0,2.04
+6,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,110,House,IL,9,,D,,10,1873,21,3,35,1042,97.92,,0,2.0,2.52
+7,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,109,House,IL,9,,D,,8,1214,34,3,11,784,91.83,,0,0.0,8.43
+8,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,108,House,IL,9,,D,,6,1221,30,3,16,663,91.91,,0,0.0,8.18
+9,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,107,House,IL,9,,D,,4,996,23,1,15,598,91.4,,0,0.0,9.12
+10,S001145,Jan,Schakowsky,1944-05-26,F,D,400360,57874,106,House,IL,9,,D,,2,1214,35,6,13,553,90.96,,0,0.0,9.3

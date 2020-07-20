@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000290,Lynn,Jenkins,1963-06-10,F,R,412284,1030550,115,House,KS,2,,R,,10,1211,117,0,28,278,94.77,,3,1.0,5.23
+1,J000290,Lynn,Jenkins,1963-06-10,F,R,412284,1030550,114,House,KS,2,,R,,8,1325,27,0,33,314,95.5,,0,1.0,4.42
+2,J000290,Lynn,Jenkins,1963-06-10,F,R,412284,1030550,113,House,KS,2,,R,,6,1204,3,0,20,281,93.31,,0,1.0,6.61
+3,J000290,Lynn,Jenkins,1963-06-10,F,R,412284,1030550,112,House,KS,2,,R,,4,1607,34,0,18,278,95.71,,0,1.0,4.23
+4,J000290,Lynn,Jenkins,1963-06-10,F,R,412284,1030550,111,House,KS,2,,R,,2,1655,0,0,8,255,95.65,,0,1.0,4.29

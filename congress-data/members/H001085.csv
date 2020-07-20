@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001085,Chrissy,Houlahan,1967-06-05,F,D,412810,,116,House,PA,6,,D,,2,839,2,0,18,334,96.89,,5,3.0,2.99

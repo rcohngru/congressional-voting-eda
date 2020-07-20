@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000052,Sonny,Callahan,1932-09-11,,,400500,,107,House,AL,1,,R,,18,996,139,2,8,110,97.99,,0,0.0,2.49
+1,C000052,Sonny,Callahan,1932-09-11,,,400500,,106,House,AL,1,,R,,16,1214,56,3,7,133,94.29,,0,0.0,5.89
+2,C000052,Sonny,Callahan,1932-09-11,,,400500,,105,House,AL,1,,R,,14,1187,52,0,6,148,94.76,,0,0.0,5.7
+3,C000052,Sonny,Callahan,1932-09-11,,,400500,,104,House,AL,1,,R,,12,1340,43,0,7,111,95.62,,0,0.0,5.58
+4,C000052,Sonny,Callahan,1932-09-11,,,400500,,103,House,AL,1,,R,,10,1122,53,0,4,233,88.26,,0,0.0,10.96
+5,C000052,Sonny,Callahan,1932-09-11,,,400500,,102,House,AL,1,,R,,8,933,72,0,,,83.23,,0,0.0,13.29
+6,C000052,Sonny,Callahan,1932-09-11,,,400500,,101,House,AL,1,,R,,6,,,,,,,,0,0.0,
+7,C000052,Sonny,Callahan,1932-09-11,,,400500,,100,House,AL,1,,R,,4,,,,,,,,0,0.0,
+8,C000052,Sonny,Callahan,1932-09-11,,,400500,,99,House,AL,1,,R,,2,,,,,,,,0,0.0,

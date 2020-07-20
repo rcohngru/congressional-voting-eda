@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000085,John,Olver,1936-09-03,M,D,400301,18777,112,House,MA,1,,D,,22,1607,157,0,2,295,93.38,,0,1.0,6.56
+1,O000085,John,Olver,1936-09-03,M,D,400301,18777,111,House,MA,1,,D,,20,1655,36,3,3,351,97.7,,0,1.0,2.24
+2,O000085,John,Olver,1936-09-03,M,D,400301,18777,110,House,MA,1,,D,,18,1873,31,0,9,386,98.13,,0,1.0,2.31
+3,O000085,John,Olver,1936-09-03,M,D,400301,18777,109,House,MA,1,,D,,16,1214,40,1,5,339,92.05,,0,0.0,8.21
+4,O000085,John,Olver,1936-09-03,M,D,400301,18777,108,House,MA,1,,D,,14,1221,14,2,3,418,93.1,,0,0.0,6.99
+5,O000085,John,Olver,1936-09-03,M,D,400301,18777,107,House,MA,1,,D,,12,996,30,0,6,358,88.61,,0,0.0,11.92
+6,O000085,John,Olver,1936-09-03,M,D,400301,18777,106,House,MA,1,,D,,10,1214,25,2,2,414,91.83,,0,0.0,8.34
+7,O000085,John,Olver,1936-09-03,M,D,400301,18777,105,House,MA,1,,D,,8,1187,17,1,4,406,89.55,,0,0.0,10.98
+8,O000085,John,Olver,1936-09-03,M,D,400301,18777,104,House,MA,1,,D,,6,1340,19,0,5,259,94.11,,0,0.0,7.17
+9,O000085,John,Olver,1936-09-03,M,D,400301,18777,103,House,MA,1,,D,,4,1122,16,0,5,303,91.86,,0,0.0,7.39
+10,O000085,John,Olver,1936-09-03,M,D,400301,18777,102,House,MA,1,,D,,2,776,15,0,,,91.03,,0,0.0,5.71

@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000465,Marge,Roukema,1929-09-19,F,,400533,,107,House,NJ,5,,R,,22,996,329,0,30,295,92.82,,0,0.0,7.79
+1,R000465,Marge,Roukema,1929-09-19,F,,400533,,106,House,NJ,5,,R,,20,1214,49,1,20,257,87.52,,0,0.0,12.57
+2,R000465,Marge,Roukema,1929-09-19,F,,400533,,105,House,NJ,5,,R,,18,1187,43,0,23,206,82.19,,0,0.0,18.26
+3,R000465,Marge,Roukema,1929-09-19,F,,400533,,104,House,NJ,5,,R,,16,1340,61,0,19,136,77.49,,0,0.0,23.81
+4,R000465,Marge,Roukema,1929-09-19,F,,400533,,103,House,NJ,5,,R,,14,1122,70,0,19,234,75.57,,0,0.0,23.65
+5,R000465,Marge,Roukema,1929-09-19,F,,400533,,102,House,NJ,5,,R,,12,933,51,0,,,73.87,,0,0.0,22.65
+6,R000465,Marge,Roukema,1929-09-19,F,,400533,,101,House,NJ,5,,R,,10,,,,,,,,0,0.0,
+7,R000465,Marge,Roukema,1929-09-19,F,,400533,,100,House,NJ,5,,R,,8,,,,,,,,0,0.0,
+8,R000465,Marge,Roukema,1929-09-19,F,,400533,,99,House,NJ,5,,R,,6,,,,,,,,0,0.0,
+9,R000465,Marge,Roukema,1929-09-19,F,,400533,,98,House,NJ,5,,R,,4,,,,,,,,0,0.0,

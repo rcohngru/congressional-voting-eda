@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000588,Conor,Lamb,1984-06-27,M,D,412744,,116,House,PA,17,,D,,4,839,3,0,14,288,93.88,,4,3.0,6.0
+1,L000588,Conor,Lamb,1984-06-27,M,D,412744,,115,House,PA,18,,D,,2,362,2,0,7,88,87.22,,0,0.0,12.78

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000047,Leon,Panetta,1938-06-28,M,,408457,,103,House,CA,17,,D,,18,7,0,0,13,2,66.67,,0,0.0,0.0
+1,P000047,Leon,Panetta,1938-06-28,M,,408457,,102,House,CA,16,,D,,16,933,16,0,,,87.98,,0,0.0,9.33
+2,P000047,Leon,Panetta,1938-06-28,M,,408457,,101,House,CA,16,,D,,14,,,,,,,,0,0.0,
+3,P000047,Leon,Panetta,1938-06-28,M,,408457,,100,House,CA,16,,D,,12,,,,,,,,0,0.0,
+4,P000047,Leon,Panetta,1938-06-28,M,,408457,,99,House,CA,16,,D,,10,,,,,,,,0,0.0,
+5,P000047,Leon,Panetta,1938-06-28,M,,408457,,98,House,CA,16,,D,,8,,,,,,,,0,0.0,

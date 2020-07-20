@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000128,Homer,Capehart,1897-06-06,M,,402278,,87,Senate,IN,,3,R,,17,,,,,,,,0,0.0,
+1,C000128,Homer,Capehart,1897-06-06,M,,402278,,86,Senate,IN,,3,R,,15,,,,,,,,0,0.0,
+2,C000128,Homer,Capehart,1897-06-06,M,,402278,,85,Senate,IN,,3,R,,13,,,,,,,,0,0.0,
+3,C000128,Homer,Capehart,1897-06-06,M,,402278,,84,Senate,IN,,3,R,,11,,,,,,,,0,0.0,
+4,C000128,Homer,Capehart,1897-06-06,M,,402278,,83,Senate,IN,,3,R,,9,,,,,,,,0,0.0,
+5,C000128,Homer,Capehart,1897-06-06,M,,402278,,82,Senate,IN,,3,R,,7,,,,,,,,0,0.0,
+6,C000128,Homer,Capehart,1897-06-06,M,,402278,,81,Senate,IN,,3,R,,5,,,,,,,,0,0.0,
+7,C000128,Homer,Capehart,1897-06-06,M,,402278,,80,Senate,IN,,3,R,,3,,,,,,,,0,0.0,

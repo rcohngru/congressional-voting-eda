@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,114,House,CA,24,,D,,20,1325,61,0,25,222,97.6,,0,2.0,2.32
+1,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,113,House,CA,24,,D,,18,1204,13,1,28,275,95.69,,0,1.0,4.23
+2,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,112,House,CA,23,,D,,16,1607,22,1,21,322,97.05,,0,1.0,2.88
+3,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,111,House,CA,23,,D,,14,1655,50,0,34,578,99.0,,0,2.0,0.94
+4,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,110,House,CA,23,,D,,12,1873,19,0,26,672,98.69,,0,3.0,1.69
+5,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,109,House,CA,23,,D,,10,1214,33,0,17,440,95.8,,0,0.0,4.46
+6,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,108,House,CA,23,,D,,8,1221,29,0,17,353,96.33,,0,0.0,3.84
+7,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,107,House,CA,22,,D,,6,996,13,0,22,342,95.43,,0,0.0,5.09
+8,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,106,House,CA,22,,D,,4,1214,76,0,18,361,93.67,,0,0.0,6.6
+9,C001036,Lois,Capps,1938-01-10,F,D,400062,54075,105,House,CA,22,,D,,2,0,0,0,5,140,0.0,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000044,William,Dannemeyer,1929-09-22,M,,403184,,102,House,CA,39,,R,,14,933,171,0,,,80.51,,0,0.0,15.99
+1,D000044,William,Dannemeyer,1929-09-22,M,,403184,,101,House,CA,39,,R,,12,,,,,,,,0,0.0,
+2,D000044,William,Dannemeyer,1929-09-22,M,,403184,,100,House,CA,39,,R,,10,,,,,,,,0,0.0,
+3,D000044,William,Dannemeyer,1929-09-22,M,,403184,,99,House,CA,39,,R,,8,,,,,,,,0,0.0,
+4,D000044,William,Dannemeyer,1929-09-22,M,,403184,,98,House,CA,39,,R,,6,,,,,,,,0,0.0,

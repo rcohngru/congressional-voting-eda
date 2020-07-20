@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000267,Butler,Derrick,1936-09-30,M,,403403,,103,House,SC,3,,D,,20,1122,70,0,46,59,91.63,,0,0.0,7.58
+1,D000267,Butler,Derrick,1936-09-30,M,,403403,,102,House,SC,3,,D,,18,933,19,0,,,89.4,,0,0.0,7.67
+2,D000267,Butler,Derrick,1936-09-30,M,,403403,,101,House,SC,3,,D,,16,,,,,,,,0,0.0,
+3,D000267,Butler,Derrick,1936-09-30,M,,403403,,100,House,SC,3,,D,,14,,,,,,,,0,0.0,
+4,D000267,Butler,Derrick,1936-09-30,M,,403403,,99,House,SC,3,,D,,12,,,,,,,,0,0.0,
+5,D000267,Butler,Derrick,1936-09-30,M,,403403,,98,House,SC,3,,D,,10,,,,,,,,0,0.0,

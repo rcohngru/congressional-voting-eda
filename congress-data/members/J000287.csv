@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000287,Bobby,Jindal,1971-06-10,M,,400634,,110,House,LA,1,,R,,4,1186,398,1,13,158,84.47,,0,2.0,16.32
+1,J000287,Bobby,Jindal,1971-06-10,M,,400634,,109,House,LA,1,,R,,2,1214,29,0,43,233,91.95,,0,0.0,8.3

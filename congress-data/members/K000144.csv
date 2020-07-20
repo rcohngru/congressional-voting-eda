@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000144,Robert,Kerr,1896-09-11,M,,406310,,87,Senate,OK,,2,D,,13,,,,,,,,0,0.0,
+1,K000144,Robert,Kerr,1896-09-11,M,,406310,,86,Senate,OK,,2,D,,11,,,,,,,,0,0.0,
+2,K000144,Robert,Kerr,1896-09-11,M,,406310,,85,Senate,OK,,2,D,,9,,,,,,,,0,0.0,
+3,K000144,Robert,Kerr,1896-09-11,M,,406310,,84,Senate,OK,,2,D,,7,,,,,,,,0,0.0,
+4,K000144,Robert,Kerr,1896-09-11,M,,406310,,83,Senate,OK,,2,D,,5,,,,,,,,0,0.0,
+5,K000144,Robert,Kerr,1896-09-11,M,,406310,,82,Senate,OK,,2,D,,3,,,,,,,,0,0.0,
+6,K000144,Robert,Kerr,1896-09-11,M,,406310,,81,Senate,OK,,2,D,,1,,,,,,,,0,0.0,

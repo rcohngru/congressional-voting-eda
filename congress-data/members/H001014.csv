@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001014,Asa,Hutchinson,1950-12-03,M,,400588,,107,House,AR,3,,R,,6,332,59,0,10,104,96.65,,0,0.0,3.72
+1,H001014,Asa,Hutchinson,1950-12-03,M,,400588,,106,House,AR,3,,R,,4,1214,55,1,14,229,92.98,,0,0.0,7.2
+2,H001014,Asa,Hutchinson,1950-12-03,M,,400588,,105,House,AR,3,,R,,2,1187,47,0,11,200,93.13,,0,0.0,7.41

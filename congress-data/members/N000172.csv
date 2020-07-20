@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000172,James,Nussle,1960-06-27,M,,400298,,109,House,IA,1,,R,,16,1214,160,0,11,77,95.78,,0,0.0,4.41
+1,N000172,James,Nussle,1960-06-27,M,,400298,,108,House,IA,1,,R,,14,1221,28,0,17,74,95.69,,0,0.0,4.39
+2,N000172,James,Nussle,1960-06-27,M,,400298,,107,House,IA,2,,R,,12,996,20,0,23,110,96.56,,0,0.0,3.96
+3,N000172,James,Nussle,1960-06-27,M,,400298,,106,House,IA,2,,R,,10,1214,28,0,17,169,92.09,,0,0.0,8.17
+4,N000172,James,Nussle,1960-06-27,M,,400298,,105,House,IA,2,,R,,8,1187,17,0,13,100,92.01,,0,0.0,8.43
+5,N000172,James,Nussle,1960-06-27,M,,400298,,104,House,IA,2,,R,,6,1340,15,0,3,63,96.25,,0,0.0,5.0
+6,N000172,James,Nussle,1960-06-27,M,,400298,,103,House,IA,2,,R,,4,1122,6,0,5,107,88.48,,0,0.0,10.87
+7,N000172,James,Nussle,1960-06-27,M,,400298,,102,House,IA,2,,R,,2,933,9,1,,,81.07,,0,0.0,15.48

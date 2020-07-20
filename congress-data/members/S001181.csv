@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001181,Jeanne,Shaheen,1947-01-28,F,D,412323,22850,116,Senate,NH,,2,D,,11,557,1,1,78,509,92.18,,11,6.0,7.82
+1,S001181,Jeanne,Shaheen,1947-01-28,F,D,412323,22850,115,Senate,NH,,2,D,,9,599,18,1,66,457,93.01,,11,6.0,6.99
+2,S001181,Jeanne,Shaheen,1947-01-28,F,D,412323,22850,114,Senate,NH,,2,D,,7,502,4,0,78,294,95.5,,0,5.0,4.5
+3,S001181,Jeanne,Shaheen,1947-01-28,F,D,412323,22850,113,Senate,NH,,2,D,,5,657,7,0,63,310,97.54,,7,4.0,2.46
+4,S001181,Jeanne,Shaheen,1947-01-28,F,D,412323,22850,112,Senate,NH,,2,D,,3,486,6,0,21,230,96.44,,0,4.0,3.56
+5,S001181,Jeanne,Shaheen,1947-01-28,F,D,412323,22850,111,Senate,NH,,2,D,,1,696,12,0,23,232,95.29,,0,3.0,4.71

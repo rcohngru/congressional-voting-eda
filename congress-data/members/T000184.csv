@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000184,Robert,Thomas,1943-11-20,M,,410765,,102,House,GA,1,,D,,10,933,108,0,,,83.65,,0,0.0,13.36
+1,T000184,Robert,Thomas,1943-11-20,M,,410765,,101,House,GA,1,,D,,8,,,,,,,,0,0.0,
+2,T000184,Robert,Thomas,1943-11-20,M,,410765,,100,House,GA,1,,D,,6,,,,,,,,0,0.0,
+3,T000184,Robert,Thomas,1943-11-20,M,,410765,,99,House,GA,1,,D,,4,,,,,,,,0,0.0,
+4,T000184,Robert,Thomas,1943-11-20,M,,410765,,98,House,GA,1,,D,,2,,,,,,,,0,0.0,

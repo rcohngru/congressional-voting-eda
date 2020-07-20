@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000159,Charles,Norwood,1941-07-27,M,,400296,,110,House,GA,10,,R,,14,98,89,0,4,44,100.0,,0,1.0,0.0
+1,N000159,Charles,Norwood,1941-07-27,M,,400296,,109,House,GA,9,,R,,12,1210,100,0,22,311,91.98,,0,0.0,8.2
+2,N000159,Charles,Norwood,1941-07-27,M,,400296,,108,House,GA,9,,R,,10,1221,108,1,17,283,94.01,,0,0.0,6.17
+3,N000159,Charles,Norwood,1941-07-27,M,,400296,,107,House,GA,10,,R,,8,996,45,0,3,272,95.2,,0,0.0,5.23
+4,N000159,Charles,Norwood,1941-07-27,M,,400296,,106,House,GA,10,,R,,6,1214,67,1,14,330,94.94,,0,0.0,5.24
+5,N000159,Charles,Norwood,1941-07-27,M,,400296,,105,House,GA,10,,R,,4,1187,59,0,9,318,94.8,,0,0.0,5.65
+6,N000159,Charles,Norwood,1941-07-27,M,,400296,,104,House,GA,10,,R,,2,1340,39,0,4,214,97.22,,0,0.0,4.06

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001256,Michele,Bachmann,1956-04-06,F,R,412216,1021492,113,House,MN,6,,R,,8,1204,96,0,15,301,94.38,,0,2.0,5.53
+1,B001256,Michele,Bachmann,1956-04-06,F,R,412216,1021492,112,House,MN,6,,R,,6,1607,383,1,13,178,92.33,,0,2.0,7.58
+2,B001256,Michele,Bachmann,1956-04-06,F,R,412216,1021492,111,House,MN,6,,R,,4,1655,144,0,19,371,96.1,,0,1.0,3.83
+3,B001256,Michele,Bachmann,1956-04-06,F,R,412216,1021492,110,House,MN,6,,R,,2,1873,33,3,16,267,94.3,,0,1.0,6.26

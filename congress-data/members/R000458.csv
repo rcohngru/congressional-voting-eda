@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000458,Daniel,Rostenkowski,1928-01-02,M,,409422,,103,House,IL,5,,D,,36,1122,123,0,18,14,92.05,,0,0.0,7.23
+1,R000458,Daniel,Rostenkowski,1928-01-02,M,,409422,,102,House,IL,8,,D,,34,933,66,0,,,90.9,,0,0.0,6.15
+2,R000458,Daniel,Rostenkowski,1928-01-02,M,,409422,,101,House,IL,8,,D,,32,,,,,,,,0,0.0,
+3,R000458,Daniel,Rostenkowski,1928-01-02,M,,409422,,100,House,IL,8,,D,,30,,,,,,,,0,0.0,
+4,R000458,Daniel,Rostenkowski,1928-01-02,M,,409422,,99,House,IL,8,,D,,28,,,,,,,,0,0.0,
+5,R000458,Daniel,Rostenkowski,1928-01-02,M,,409422,,98,House,IL,8,,D,,26,,,,,,,,0,0.0,

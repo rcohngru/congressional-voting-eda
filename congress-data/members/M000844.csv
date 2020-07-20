@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,111,House,WV,1,,D,,28,1655,111,0,4,100,98.05,,0,1.0,1.89
+1,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,110,House,WV,1,,D,,26,1873,67,0,5,120,96.74,,0,1.0,3.83
+2,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,109,House,WV,1,,D,,24,1214,47,3,7,116,86.61,,0,0.0,13.65
+3,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,108,House,WV,1,,D,,22,1221,133,2,1,81,86.64,,0,0.0,13.55
+4,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,107,House,WV,1,,D,,20,996,55,1,2,102,86.43,,0,0.0,14.12
+5,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,106,House,WV,1,,D,,18,1210,115,1,7,89,82.53,,0,0.0,17.74
+6,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,105,House,WV,1,,D,,16,1187,84,0,1,76,82.67,,0,0.0,17.9
+7,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,104,House,WV,1,,D,,14,1340,72,0,3,30,79.24,,0,0.0,22.01
+8,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,103,House,WV,1,,D,,12,1122,32,0,3,142,84.06,,0,0.0,15.28
+9,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,102,House,WV,1,,D,,10,933,32,0,,,86.29,,0,0.0,10.86
+10,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,101,House,WV,1,,D,,8,,,,,,,,0,0.0,
+11,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,100,House,WV,1,,D,,6,,,,,,,,0,0.0,
+12,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,99,House,WV,1,,D,,4,,,,,,,,0,0.0,
+13,M000844,Alan,Mollohan,1943-05-14,M,D,400281,8577,98,House,WV,1,,D,,2,,,,,,,,0,0.0,

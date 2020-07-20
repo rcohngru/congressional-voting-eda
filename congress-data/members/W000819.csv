@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000819,Mark,Walker,1969-05-20,M,R,412670,76376,116,House,NC,6,,R,,6,839,92,0,17,166,93.12,,4,3.0,6.75
+1,W000819,Mark,Walker,1969-05-20,M,R,412670,76376,115,House,NC,6,,R,,4,1211,34,0,13,162,96.93,,2,3.0,3.07
+2,W000819,Mark,Walker,1969-05-20,M,R,412670,76376,114,House,NC,6,,R,,2,1325,35,0,15,111,96.09,,0,3.0,3.83

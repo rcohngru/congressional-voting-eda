@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,112,House,TX,14,,R,,24,1607,587,1,53,338,71.74,,0,2.0,28.16
+1,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,111,House,TX,14,,R,,22,1655,133,1,63,382,76.88,,0,2.0,23.05
+2,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,110,House,TX,14,,R,,20,1873,460,5,70,443,76.67,,0,3.0,23.69
+3,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,109,House,TX,14,,R,,18,1214,84,7,71,393,60.97,,0,0.0,39.12
+4,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,108,House,TX,14,,R,,16,1221,129,7,68,354,67.74,,0,0.0,32.44
+5,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,107,House,TX,14,,R,,14,996,47,5,64,323,68.45,,0,0.0,31.98
+6,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,106,House,TX,14,,R,,12,1214,53,8,51,316,63.51,,0,0.0,36.67
+7,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,105,House,TX,14,,R,,10,1187,11,12,32,223,68.3,,0,0.0,32.22
+8,P000583,Ron,Paul,1935-08-20,M,R,400311,45747,98,House,TX,22,,R,,8,,,,,,,,0,0.0,

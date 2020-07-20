@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,112,House,TX,20,,D,,14,1607,71,1,8,206,88.57,,0,3.0,11.36
+1,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,111,House,TX,20,,D,,12,1655,56,0,8,388,99.18,,0,3.0,0.76
+2,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,110,House,TX,20,,D,,10,1873,50,0,16,691,98.16,,0,3.0,2.4
+3,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,109,House,TX,20,,D,,8,1214,42,0,9,450,92.99,,0,0.0,7.27
+4,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,108,House,TX,20,,D,,6,1221,37,0,5,376,94.25,,0,0.0,5.92
+5,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,107,House,TX,20,,D,,4,996,33,0,7,402,95.13,,0,0.0,5.4
+6,G000544,Charlie,Gonzalez,1945-05-05,M,D,400152,,106,House,TX,20,,D,,2,1214,14,0,7,447,96.19,,0,0.0,4.06

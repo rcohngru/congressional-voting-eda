@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001060,Russ,Carnahan,1958-07-10,M,D,400638,1003284,112,House,MO,3,,D,,8,1607,47,1,27,358,95.64,,0,3.0,4.3
+1,C001060,Russ,Carnahan,1958-07-10,M,D,400638,1003284,111,House,MO,3,,D,,6,1655,39,0,14,515,99.07,,0,3.0,0.87
+2,C001060,Russ,Carnahan,1958-07-10,M,D,400638,1003284,110,House,MO,3,,D,,4,1873,49,1,10,420,99.0,,0,3.0,1.56
+3,C001060,Russ,Carnahan,1958-07-10,M,D,400638,1003284,109,House,MO,3,,D,,2,1214,9,0,10,245,95.79,,0,0.0,4.47

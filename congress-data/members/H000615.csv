@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000615,Van,Hilleary,1959-06-20,M,,400547,,107,House,TN,4,,R,,8,996,140,1,3,203,93.82,,0,0.0,6.65
+1,H000615,Van,Hilleary,1959-06-20,M,,400547,,106,House,TN,4,,R,,6,1214,59,0,5,233,90.19,,0,0.0,10.07
+2,H000615,Van,Hilleary,1959-06-20,M,,400547,,105,House,TN,4,,R,,4,1187,16,0,2,179,89.44,,0,0.0,11.09
+3,H000615,Van,Hilleary,1959-06-20,M,,400547,,104,House,TN,4,,R,,2,1340,12,0,3,95,93.37,,0,0.0,7.87

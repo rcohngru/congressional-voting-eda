@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,115,House,TX,21,,R,,32,1211,82,0,13,269,98.93,,3,3.0,1.07
+1,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,114,House,TX,21,,R,,30,1325,26,0,15,233,97.52,,0,3.0,2.4
+2,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,113,House,TX,21,,R,,28,1204,24,0,10,196,97.7,,0,3.0,2.21
+3,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,112,House,TX,21,,R,,26,1607,23,0,37,192,95.93,,0,3.0,4.01
+4,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,111,House,TX,21,,R,,24,1655,51,0,19,321,94.5,,0,3.0,5.44
+5,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,110,House,TX,21,,R,,22,1873,45,1,16,256,97.02,,0,3.0,3.55
+6,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,109,House,TX,21,,R,,20,1214,38,0,21,184,97.59,,0,0.0,2.58
+7,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,108,House,TX,21,,R,,18,1221,29,0,23,150,98.48,,0,0.0,1.69
+8,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,107,House,TX,21,,R,,16,996,47,0,22,124,99.46,,0,0.0,1.07
+9,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,106,House,TX,21,,R,,14,1214,39,0,20,148,97.66,,0,0.0,2.51
+10,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,105,House,TX,21,,R,,12,1187,28,0,13,106,96.8,,0,0.0,3.73
+11,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,104,House,TX,21,,R,,10,1340,49,0,13,189,97.6,,0,0.0,3.6
+12,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,103,House,TX,21,,R,,8,1122,29,0,16,213,93.17,,0,0.0,6.17
+13,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,102,House,TX,21,,R,,6,931,49,1,,,86.83,,0,0.0,9.67
+14,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,101,House,TX,21,,R,,4,,,,,,,,0,0.0,
+15,S000583,Lamar,Smith,1947-11-19,M,R,400381,8884,100,House,TX,21,,R,,2,,,,,,,,0,0.0,

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,114,House,CA,20,,D,,24,1325,79,0,4,317,96.67,,0,1.0,3.25
+1,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,113,House,CA,20,,D,,22,1204,42,1,6,388,94.79,,0,1.0,5.12
+2,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,112,House,CA,17,,D,,20,1607,38,1,6,363,93.73,,0,1.0,6.2
+3,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,111,House,CA,17,,D,,18,1655,40,4,20,509,97.57,,0,1.0,2.37
+4,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,110,House,CA,17,,D,,16,1873,46,0,14,629,98.5,,0,1.0,1.94
+5,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,109,House,CA,17,,D,,14,1214,17,1,10,458,94.32,,0,0.0,5.93
+6,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,108,House,CA,17,,D,,12,1221,19,4,10,426,94.42,,0,0.0,5.75
+7,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,107,House,CA,17,,D,,10,996,6,2,8,425,95.26,,0,0.0,5.26
+8,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,106,House,CA,17,,D,,8,1210,32,3,10,371,95.27,,0,0.0,5.08
+9,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,105,House,CA,17,,D,,6,1187,83,1,10,295,91.84,,0,0.0,8.73
+10,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,104,House,CA,17,,D,,4,1340,25,2,12,220,95.11,,0,0.0,6.17
+11,F000030,Sam,Farr,1941-07-04,M,D,400129,30645,103,House,CA,17,,D,,2,897,37,0,7,203,93.03,,0,0.0,6.49

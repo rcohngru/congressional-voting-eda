@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,116,Senate,MT,,1,D,,13,557,11,1,78,357,94.32,,10,5.0,5.68
+1,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,115,Senate,MT,,1,D,,11,599,6,0,73,334,88.53,,11,6.0,11.47
+2,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,114,Senate,MT,,1,D,,9,502,1,0,59,214,90.85,,0,5.0,9.15
+3,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,113,Senate,MT,,1,D,,7,657,7,0,59,269,94.62,,11,5.0,5.38
+4,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,112,Senate,MT,,1,D,,5,486,3,0,62,274,91.25,,0,5.0,8.75
+5,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,111,Senate,MT,,1,D,,3,696,5,1,29,212,92.87,,0,5.0,7.13
+6,T000464,Jon,Tester,1956-08-21,M,D,412244,1020176,110,Senate,MT,,1,D,,1,657,7,0,17,258,90.36,,0,5.0,9.64

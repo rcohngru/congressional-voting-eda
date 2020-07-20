@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000293,Rodney,Chandler,1942-07-13,,,402435,,102,House,WA,8,,R,,10,933,138,2,,,85.94,,0,0.0,10.45
+1,C000293,Rodney,Chandler,1942-07-13,,,402435,,101,House,WA,8,,R,,8,,,,,,,,0,0.0,
+2,C000293,Rodney,Chandler,1942-07-13,,,402435,,100,House,WA,8,,R,,6,,,,,,,,0,0.0,
+3,C000293,Rodney,Chandler,1942-07-13,,,402435,,99,House,WA,8,,R,,4,,,,,,,,0,0.0,
+4,C000293,Rodney,Chandler,1942-07-13,,,402435,,98,House,WA,8,,R,,2,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000369,Mark,Amodei,1958-06-12,M,R,412500,62817,116,House,NV,2,,R,,10,839,22,0,9,147,92.35,,2,1.0,7.53
+1,A000369,Mark,Amodei,1958-06-12,M,R,412500,62817,115,House,NV,2,,R,,8,1211,36,2,14,178,96.41,,3,1.0,3.59
+2,A000369,Mark,Amodei,1958-06-12,M,R,412500,62817,114,House,NV,2,,R,,6,1325,83,1,13,271,94.89,,0,1.0,5.03
+3,A000369,Mark,Amodei,1958-06-12,M,R,412500,62817,113,House,NV,2,,R,,4,1204,98,0,17,245,94.47,,0,4.0,5.44
+4,A000369,Mark,Amodei,1958-06-12,M,R,412500,62817,112,House,NV,2,,R,,2,900,39,0,14,160,96.26,,0,3.0,3.74

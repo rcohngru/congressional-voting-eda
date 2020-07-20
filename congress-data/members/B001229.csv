@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001229,Brian,Baird,1956-03-07,M,D,400011,45981,111,House,WA,3,,D,,12,1655,79,1,18,212,93.04,,0,2.0,6.89
+1,B001229,Brian,Baird,1956-03-07,M,D,400011,45981,110,House,WA,3,,D,,10,1873,103,1,35,332,95.6,,0,3.0,4.74
+2,B001229,Brian,Baird,1956-03-07,M,D,400011,45981,109,House,WA,3,,D,,8,1214,63,3,20,285,91.71,,0,0.0,8.55
+3,B001229,Brian,Baird,1956-03-07,M,D,400011,45981,108,House,WA,3,,D,,6,1221,40,5,10,299,92.25,,0,0.0,7.92
+4,B001229,Brian,Baird,1956-03-07,M,D,400011,45981,107,House,WA,3,,D,,4,996,17,0,13,370,88.35,,0,0.0,12.07
+5,B001229,Brian,Baird,1956-03-07,M,D,400011,45981,106,House,WA,3,,D,,2,1214,19,2,6,299,88.63,,0,0.0,11.62

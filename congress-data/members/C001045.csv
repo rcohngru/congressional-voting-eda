@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,114,House,FL,4,,R,,16,1325,26,0,6,155,94.66,,0,1.0,5.19
+1,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,113,House,FL,4,,R,,14,1204,32,0,9,163,93.75,,0,1.0,6.16
+2,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,112,House,FL,4,,R,,12,1607,17,0,5,135,92.97,,0,2.0,6.97
+3,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,111,House,FL,4,,R,,10,1655,87,0,2,183,93.6,,0,1.0,6.33
+4,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,110,House,FL,4,,R,,8,1873,155,0,2,171,95.71,,0,1.0,4.77
+5,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,109,House,FL,4,,R,,6,1214,11,0,6,94,97.55,,0,0.0,2.7
+6,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,108,House,FL,4,,R,,4,1221,9,0,5,99,98.17,,0,0.0,1.91
+7,C001045,Ander,Crenshaw,1944-09-01,M,R,400086,1007679,107,House,FL,4,,R,,2,996,2,0,4,142,98.88,,0,0.0,1.64

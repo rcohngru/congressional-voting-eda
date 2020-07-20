@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,116,House,FL,12,,R,,16,839,30,0,23,311,92.79,,4,2.0,7.09
+1,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,115,House,FL,12,,R,,14,1211,53,0,41,289,98.52,,5,2.0,1.48
+2,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,114,House,FL,12,,R,,12,1325,10,0,27,200,96.63,,0,2.0,3.29
+3,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,113,House,FL,12,,R,,10,1204,22,0,28,242,95.84,,0,2.0,4.08
+4,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,112,House,FL,9,,R,,8,1607,52,0,20,213,95.27,,0,3.0,4.66
+5,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,111,House,FL,9,,R,,6,1655,22,0,26,268,94.53,,0,6.0,5.41
+6,B001257,Gus,Bilirakis,1963-02-08,M,R,412250,1022873,110,House,FL,9,,R,,4,1873,18,0,30,275,94.07,,0,3.0,6.49

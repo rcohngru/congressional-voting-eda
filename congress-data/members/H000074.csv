@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000074,Tony,Hall,1942-01-16,M,,400538,,107,House,OH,3,,D,,24,889,120,0,7,245,89.49,,0,0.0,11.17
+1,H000074,Tony,Hall,1942-01-16,M,,400538,,106,House,OH,3,,D,,22,1214,52,0,14,243,88.84,,0,0.0,11.33
+2,H000074,Tony,Hall,1942-01-16,M,,400538,,105,House,OH,3,,D,,20,1187,51,0,13,151,85.0,,0,0.0,15.55
+3,H000074,Tony,Hall,1942-01-16,M,,400538,,104,House,OH,3,,D,,18,1340,129,0,3,111,86.45,,0,0.0,14.86
+4,H000074,Tony,Hall,1942-01-16,M,,400538,,103,House,OH,3,,D,,16,1122,82,0,31,201,90.07,,0,0.0,9.33
+5,H000074,Tony,Hall,1942-01-16,M,,400538,,102,House,OH,3,,D,,14,933,44,0,,,89.46,,0,0.0,7.53
+6,H000074,Tony,Hall,1942-01-16,M,,400538,,101,House,OH,3,,D,,12,,,,,,,,0,0.0,
+7,H000074,Tony,Hall,1942-01-16,M,,400538,,100,House,OH,3,,D,,10,,,,,,,,0,0.0,
+8,H000074,Tony,Hall,1942-01-16,M,,400538,,99,House,OH,3,,D,,8,,,,,,,,0,0.0,
+9,H000074,Tony,Hall,1942-01-16,M,,400538,,98,House,OH,3,,D,,6,,,,,,,,0,0.0,

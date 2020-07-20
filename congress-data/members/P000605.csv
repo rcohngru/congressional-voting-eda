@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000605,Scott,Perry,1962-05-27,M,R,412569,79873,116,House,PA,10,,R,,8,839,19,0,20,203,91.88,,4,2.0,8.0
+1,P000605,Scott,Perry,1962-05-27,M,R,412569,79873,115,House,PA,4,,R,,6,1211,21,0,20,199,91.31,,7,3.0,8.69
+2,P000605,Scott,Perry,1962-05-27,M,R,412569,79873,114,House,PA,4,,R,,4,1325,11,0,18,156,91.87,,0,3.0,8.05
+3,P000605,Scott,Perry,1962-05-27,M,R,412569,79873,113,House,PA,4,,R,,2,1204,9,0,8,216,93.78,,0,3.0,6.13

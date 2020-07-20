@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001025,Carol,Moseley-Braun,1947-08-16,F,,407992,,105,Senate,IL,,3,D,,5,612,27,0,27,299,89.41,,0,0.0,10.59
+1,M001025,Carol,Moseley-Braun,1947-08-16,F,,407992,,104,Senate,IL,,3,D,,3,916,11,0,12,163,87.26,,0,0.0,12.74
+2,M001025,Carol,Moseley-Braun,1947-08-16,F,,407992,,103,Senate,IL,,3,D,,1,724,19,0,20,256,91.65,,0,0.0,8.35

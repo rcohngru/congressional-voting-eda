@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,104,House,CA,24,,D,,20,1340,20,1,5,137,89.71,,0,0.0,11.56
+1,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,103,House,CA,24,,D,,18,1122,23,1,44,264,90.58,,0,0.0,8.85
+2,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,102,House,CA,23,,D,,16,933,44,0,,,83.66,,0,0.0,13.56
+3,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,101,House,CA,23,,D,,14,,,,,,,,0,0.0,
+4,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,100,House,CA,23,,D,,12,,,,,,,,0,0.0,
+5,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,99,House,CA,23,,D,,10,,,,,,,,0,0.0,
+6,B000318,Anthony,Beilenson,1932-10-26,M,,401310,,98,House,CA,23,,D,,8,,,,,,,,0,0.0,

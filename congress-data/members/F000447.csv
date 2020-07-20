@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000447,Tom,Feeney,1958-05-21,M,,400131,,110,House,FL,24,,R,,6,1873,143,1,17,436,92.87,,0,3.0,7.61
+1,F000447,Tom,Feeney,1958-05-21,M,,400131,,109,House,FL,24,,R,,4,1214,69,0,11,305,90.78,,0,0.0,9.49
+2,F000447,Tom,Feeney,1958-05-21,M,,400131,,108,House,FL,24,,R,,2,1221,61,0,5,231,94.09,,0,0.0,5.99

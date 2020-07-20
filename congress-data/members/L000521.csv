@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000521,Bill,Luther,1945-06-27,M,,400529,,107,House,MN,6,,D,,8,996,49,0,8,186,93.54,,0,0.0,7.0
+1,L000521,Bill,Luther,1945-06-27,M,,400529,,106,House,MN,6,,D,,6,1214,36,0,9,252,87.95,,0,0.0,12.31
+2,L000521,Bill,Luther,1945-06-27,M,,400529,,105,House,MN,6,,D,,4,1187,28,0,8,209,89.11,,0,0.0,11.34
+3,L000521,Bill,Luther,1945-06-27,M,,400529,,104,House,MN,6,,D,,2,1340,3,0,2,152,85.82,,0,0.0,15.45

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000316,Esteban,Torres,1930-01-27,M,,410889,,105,House,CA,34,,D,,16,1187,160,5,4,340,90.1,,0,0.0,10.1
+1,T000316,Esteban,Torres,1930-01-27,M,,410889,,104,House,CA,34,,D,,14,1340,98,1,8,233,92.74,,0,0.0,8.44
+2,T000316,Esteban,Torres,1930-01-27,M,,410889,,103,House,CA,34,,D,,12,1122,89,0,15,304,91.6,,0,0.0,7.7
+3,T000316,Esteban,Torres,1930-01-27,M,,410889,,102,House,CA,34,,D,,10,933,81,0,,,90.46,,0,0.0,6.52
+4,T000316,Esteban,Torres,1930-01-27,M,,410889,,101,House,CA,34,,D,,8,,,,,,,,0,0.0,
+5,T000316,Esteban,Torres,1930-01-27,M,,410889,,100,House,CA,34,,D,,6,,,,,,,,0,0.0,
+6,T000316,Esteban,Torres,1930-01-27,M,,410889,,99,House,CA,34,,D,,4,,,,,,,,0,0.0,
+7,T000316,Esteban,Torres,1930-01-27,M,,410889,,98,House,CA,34,,D,,2,,,,,,,,0,0.0,

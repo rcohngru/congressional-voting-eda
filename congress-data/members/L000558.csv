@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000558,Kenneth,Lucas,1933-08-22,M,,400248,,108,House,KY,4,,D,,6,1221,23,1,4,231,81.73,,0,0.0,18.44
+1,L000558,Kenneth,Lucas,1933-08-22,M,,400248,,107,House,KY,4,,D,,4,996,7,0,1,214,75.34,,0,0.0,25.18
+2,L000558,Kenneth,Lucas,1933-08-22,M,,400248,,106,House,KY,4,,D,,2,1214,5,0,6,212,76.24,,0,0.0,24.01

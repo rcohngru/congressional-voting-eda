@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001267,Michael,Bennet,1964-11-28,M,D,412330,1031622,116,Senate,CO,,3,D,,11,557,129,1,33,398,94.22,,6,3.0,5.78
+1,B001267,Michael,Bennet,1964-11-28,M,D,412330,1031622,115,Senate,CO,,3,D,,9,599,5,1,43,334,92.31,,9,3.0,7.69
+2,B001267,Michael,Bennet,1964-11-28,M,D,412330,1031622,114,Senate,CO,,3,D,,7,502,0,0,30,245,92.09,,0,3.0,7.91
+3,B001267,Michael,Bennet,1964-11-28,M,D,412330,1031622,113,Senate,CO,,3,D,,5,657,8,0,34,195,97.84,,8,3.0,2.16
+4,B001267,Michael,Bennet,1964-11-28,M,D,412330,1031622,112,Senate,CO,,3,D,,3,486,6,0,29,207,94.55,,0,4.0,5.45
+5,B001267,Michael,Bennet,1964-11-28,M,D,412330,1031622,111,Senate,CO,,3,D,,1,686,0,0,28,218,91.2,,0,4.0,8.8

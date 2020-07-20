@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,116,Senate,DE,,1,D,,19,557,3,1,24,326,89.72,,9,3.0,10.28
+1,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,115,Senate,DE,,1,D,,17,599,6,1,23,285,91.27,,5,3.0,8.73
+2,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,114,Senate,DE,,1,D,,15,502,13,0,31,124,91.06,,0,3.0,8.94
+3,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,113,Senate,DE,,1,D,,13,657,2,0,24,111,97.4,,10,3.0,2.6
+4,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,112,Senate,DE,,1,D,,11,486,1,0,36,140,93.36,,0,0.0,6.64
+5,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,111,Senate,DE,,1,D,,9,696,6,0,52,135,94.46,,0,3.0,5.54
+6,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,110,Senate,DE,,1,D,,7,657,7,0,22,176,89.89,,0,5.0,10.11
+7,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,109,Senate,DE,,1,D,,5,645,2,0,70,167,84.68,,0,0.0,15.32
+8,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,108,Senate,DE,,1,D,,3,675,12,1,4,139,87.64,,0,0.0,12.36
+9,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,107,Senate,DE,,1,D,,1,633,5,0,28,128,87.7,,0,0.0,12.3
+10,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,102,House,DE,At-Large,,D,,10,933,24,0,,,81.29,,0,0.0,15.87
+11,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,101,House,DE,At-Large,,D,,8,,,,,,,,0,0.0,
+12,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,100,House,DE,At-Large,,D,,6,,,,,,,,0,0.0,
+13,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,99,House,DE,At-Large,,D,,4,,,,,,,,0,0.0,
+14,C000174,Thomas,Carper,1947-01-23,M,D,300019,663,98,House,DE,At-Large,,D,,2,,,,,,,,0,0.0,

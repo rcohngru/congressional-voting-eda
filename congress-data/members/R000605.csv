@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000605,Mike,Rounds,1954-10-24,M,R,412669,78317,116,Senate,SD,,2,R,,1,557,64,0,32,245,97.34,,9,4.0,2.66
+1,R000605,Mike,Rounds,1954-10-24,M,R,412669,78317,115,Senate,SD,,2,R,,3,599,9,0,48,245,98.29,,8,5.0,1.71
+2,R000605,Mike,Rounds,1954-10-24,M,R,412669,78317,114,Senate,SD,,2,R,,1,502,7,0,26,163,93.22,,0,4.0,6.78

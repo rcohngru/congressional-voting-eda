@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001273,Diane,Black,1951-01-16,F,R,412478,9268964,115,House,TN,6,,R,,8,1211,320,0,28,167,98.31,,1,2.0,1.69
+1,B001273,Diane,Black,1951-01-16,F,R,412478,9268964,114,House,TN,6,,R,,6,1325,69,0,39,230,97.51,,0,3.0,2.41
+2,B001273,Diane,Black,1951-01-16,F,R,412478,9268964,113,House,TN,6,,R,,4,1204,16,0,27,243,97.46,,0,2.0,2.45
+3,B001273,Diane,Black,1951-01-16,F,R,412478,9268964,112,House,TN,6,,R,,2,1607,40,0,11,245,95.82,,0,2.0,4.12

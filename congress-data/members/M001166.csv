@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,116,House,CA,9,,D,,14,839,28,0,17,428,99.26,,5,2.0,0.62
+1,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,115,House,CA,9,,D,,12,1211,49,1,22,428,96.3,,5,2.0,3.7
+2,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,114,House,CA,9,,D,,10,1325,27,0,28,221,96.8,,0,2.0,3.12
+3,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,113,House,CA,9,,D,,8,1204,18,1,25,265,93.03,,0,1.0,6.89
+4,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,112,House,CA,11,,D,,6,1607,14,1,17,190,93.18,,0,2.0,6.75
+5,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,111,House,CA,11,,D,,4,1655,29,0,18,354,95.42,,0,2.0,4.52
+6,M001166,Jerry,McNerney,1951-06-18,M,D,412189,1021667,110,House,CA,11,,D,,2,1873,23,0,12,427,95.06,,0,4.0,5.49

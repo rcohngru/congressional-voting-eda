@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,105,House,TX,20,,D,,38,1187,798,0,3,152,96.29,,0,0.0,3.71
+1,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,104,House,TX,20,,D,,36,1340,58,0,9,129,89.79,,0,0.0,11.53
+2,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,103,House,TX,20,,D,,34,1122,5,0,35,206,87.13,,0,0.0,12.13
+3,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,102,House,TX,20,,D,,32,933,0,5,,,86.41,,0,0.0,10.72
+4,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,101,House,TX,20,,D,,30,,,,,,,,0,0.0,
+5,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,100,House,TX,20,,D,,28,,,,,,,,0,0.0,
+6,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,99,House,TX,20,,D,,26,,,,,,,,0,0.0,
+7,G000272,Henry,Gonzalez,1916-05-03,M,,404634,,98,House,TX,20,,D,,24,,,,,,,,0,0.0,

@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,114,House,TX,15,,D,,20,1325,302,0,10,239,95.18,,0,2.0,4.72
+1,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,113,House,TX,15,,D,,18,1204,155,0,15,325,92.4,,0,2.0,7.5
+2,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,112,House,TX,15,,D,,16,1607,149,1,10,250,90.94,,0,2.0,8.99
+3,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,111,House,TX,15,,D,,14,1655,196,0,13,357,98.97,,0,2.0,0.97
+4,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,110,House,TX,15,,D,,12,1873,221,0,19,661,98.28,,0,3.0,2.21
+5,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,109,House,TX,15,,D,,10,1214,144,0,15,357,90.14,,0,0.0,10.14
+6,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,108,House,TX,15,,D,,8,1221,97,0,13,336,92.75,,0,0.0,7.43
+7,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,107,House,TX,15,,D,,6,996,78,1,2,221,94.35,,0,0.0,6.09
+8,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,106,House,TX,15,,D,,4,1214,115,0,2,231,95.41,,0,0.0,4.59
+9,H000636,Rubén,Hinojosa,1940-08-20,M,D,400179,45743,105,House,TX,15,,D,,2,1187,39,2,2,160,92.55,,0,0.0,7.91

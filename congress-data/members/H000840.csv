@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000840,James,Howard,1927-07-24,M,,405687,,100,House,NJ,3,,D,,24,,,,,,,,0,0.0,
+1,H000840,James,Howard,1927-07-24,M,,405687,,99,House,NJ,3,,D,,22,,,,,,,,0,0.0,
+2,H000840,James,Howard,1927-07-24,M,,405687,,98,House,NJ,3,,D,,20,,,,,,,,0,0.0,

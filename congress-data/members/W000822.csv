@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000822,Bonnie,Watson Coleman,1945-02-06,F,D,412644,79091,116,House,NJ,12,,D,,6,839,9,0,28,707,97.34,,5,2.0,2.54
+1,W000822,Bonnie,Watson Coleman,1945-02-06,F,D,412644,79091,115,House,NJ,12,,D,,4,1211,19,1,22,578,95.95,,4,2.0,4.05
+2,W000822,Bonnie,Watson Coleman,1945-02-06,F,D,412644,79091,114,House,NJ,12,,D,,2,1325,15,0,17,327,96.14,,0,3.0,3.78

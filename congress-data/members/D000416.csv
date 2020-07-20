@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000416,Brian,Donnelly,1946-03-02,,,403529,,102,House,MA,11,,D,,14,933,92,0,,,87.91,,0,0.0,9.16
+1,D000416,Brian,Donnelly,1946-03-02,,,403529,,101,House,MA,11,,D,,12,,,,,,,,0,0.0,
+2,D000416,Brian,Donnelly,1946-03-02,,,403529,,100,House,MA,11,,D,,10,,,,,,,,0,0.0,
+3,D000416,Brian,Donnelly,1946-03-02,,,403529,,99,House,MA,11,,D,,8,,,,,,,,0,0.0,
+4,D000416,Brian,Donnelly,1946-03-02,,,403529,,98,House,MA,11,,D,,6,,,,,,,,0,0.0,

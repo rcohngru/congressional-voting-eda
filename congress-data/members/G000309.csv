@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,111,House,TN,6,,D,,26,1655,118,0,28,377,96.92,,0,2.0,3.01
+1,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,110,House,TN,6,,D,,24,1873,89,0,26,579,93.97,,0,2.0,6.55
+2,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,109,House,TN,6,,D,,22,1214,37,0,16,457,85.69,,0,0.0,14.57
+3,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,108,House,TN,6,,D,,20,1221,45,0,6,411,87.89,,0,0.0,12.28
+4,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,107,House,TN,6,,D,,18,996,68,0,2,319,87.11,,0,0.0,13.44
+5,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,106,House,TN,6,,D,,16,1214,46,0,4,274,84.62,,0,0.0,15.64
+6,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,105,House,TN,6,,D,,14,1187,26,3,3,167,83.36,,0,0.0,17.18
+7,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,104,House,TN,6,,D,,12,1340,9,0,7,133,77.37,,0,0.0,23.89
+8,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,103,House,TN,6,,D,,10,1122,20,0,30,279,90.05,,0,0.0,9.2
+9,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,102,House,TN,6,,D,,8,933,30,0,,,91.67,,0,0.0,5.48
+10,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,101,House,TN,6,,D,,6,,,,,,,,0,0.0,
+11,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,100,House,TN,6,,D,,4,,,,,,,,0,0.0,
+12,G000309,Bart,Gordon,1949-01-24,M,D,400155,5452,99,House,TN,6,,D,,2,,,,,,,,0,0.0,

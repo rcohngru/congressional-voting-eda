@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001088,Christopher,Coons,1963-09-09,M,D,412390,9269028,116,Senate,DE,,2,D,,11,557,16,1,58,555,93.31,,12,5.0,6.69
+1,C001088,Christopher,Coons,1963-09-09,M,D,412390,9269028,115,Senate,DE,,2,D,,9,599,23,1,59,515,91.55,,17,5.0,8.45
+2,C001088,Christopher,Coons,1963-09-09,M,D,412390,9269028,114,Senate,DE,,2,D,,7,502,18,0,43,321,96.45,,0,5.0,3.55
+3,C001088,Christopher,Coons,1963-09-09,M,D,412390,9269028,113,Senate,DE,,2,D,,5,657,13,0,41,322,98.29,,10,5.0,1.71
+4,C001088,Christopher,Coons,1963-09-09,M,D,412390,9269028,112,Senate,DE,,2,D,,3,486,1,0,35,313,96.68,,0,4.0,3.32
+5,C001088,Christopher,Coons,1963-09-09,M,D,412390,9269028,111,Senate,DE,,2,D,,1,51,1,0,0,0,100.0,,0,4.0,0.0

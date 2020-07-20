@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000597,Jo Ann,Davis,1950-06-29,F,,400095,,110,House,VA,1,,R,,8,948,814,0,30,177,94.7,,0,2.0,5.3
+1,D000597,Jo Ann,Davis,1950-06-29,F,,400095,,109,House,VA,1,,R,,6,1214,122,1,36,402,90.34,,0,0.0,9.84
+2,D000597,Jo Ann,Davis,1950-06-29,F,,400095,,108,House,VA,1,,R,,4,1221,16,0,25,352,92.38,,0,0.0,7.79
+3,D000597,Jo Ann,Davis,1950-06-29,F,,400095,,107,House,VA,1,,R,,2,996,8,0,12,299,94.15,,0,0.0,6.26

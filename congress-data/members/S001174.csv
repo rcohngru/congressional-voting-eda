@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001174,Betty,Sutton,1963-07-31,F,D,412228,,112,House,OH,13,,D,,6,1607,53,1,8,254,93.85,,0,2.0,6.08
+1,S001174,Betty,Sutton,1963-07-31,F,D,412228,,111,House,OH,13,,D,,4,1655,47,1,15,572,99.06,,0,2.0,0.88
+2,S001174,Betty,Sutton,1963-07-31,F,D,412228,,110,House,OH,13,,D,,2,1873,57,1,34,696,98.99,,0,3.0,1.57

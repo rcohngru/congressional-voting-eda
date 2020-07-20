@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,111,House,ND,At-Large,,D,,18,1655,57,0,40,183,97.36,,0,2.0,2.58
+1,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,110,House,ND,At-Large,,D,,16,1873,38,1,36,223,97.23,,0,2.0,3.26
+2,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,109,House,ND,At-Large,,D,,14,1214,22,0,8,205,89.44,,0,0.0,10.82
+3,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,108,House,ND,At-Large,,D,,12,1221,18,0,13,243,88.34,,0,0.0,11.74
+4,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,107,House,ND,At-Large,,D,,10,996,23,0,11,240,88.8,,0,0.0,11.62
+5,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,106,House,ND,At-Large,,D,,8,1214,36,1,18,223,89.25,,0,0.0,10.92
+6,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,105,House,ND,At-Large,,D,,6,1187,49,3,15,157,87.55,,0,0.0,12.91
+7,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,104,House,ND,At-Large,,D,,4,1340,23,0,8,137,86.24,,0,0.0,15.04
+8,P000422,Earl,Pomeroy,1952-09-02,M,D,400323,11486,103,House,ND,At-Large,,D,,2,1122,17,0,8,182,89.7,,0,0.0,9.55

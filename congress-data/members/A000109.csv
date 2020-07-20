@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000109,Wayne,Allard,1943-12-02,M,,300003,,110,Senate,CO,,2,R,,11,657,23,0,44,182,89.79,,0,4.0,10.21
+1,A000109,Wayne,Allard,1943-12-02,M,,300003,,109,Senate,CO,,2,R,,9,645,4,0,47,159,92.15,,0,0.0,7.85
+2,A000109,Wayne,Allard,1943-12-02,M,,300003,,108,Senate,CO,,2,R,,7,675,3,0,24,143,95.35,,0,0.0,4.65
+3,A000109,Wayne,Allard,1943-12-02,M,,300003,,107,Senate,CO,,2,R,,5,633,7,0,28,168,93.25,,0,0.0,6.75
+4,A000109,Wayne,Allard,1943-12-02,M,,300003,,106,Senate,CO,,2,R,,3,672,4,0,32,205,92.33,,0,0.0,7.67
+5,A000109,Wayne,Allard,1943-12-02,M,,300003,,105,Senate,CO,,2,R,,1,612,1,0,25,173,91.24,,0,0.0,8.76
+6,A000109,Wayne,Allard,1943-12-02,M,,300003,,104,House,CO,4,,R,,6,1340,34,0,13,130,93.58,,0,0.0,7.69
+7,A000109,Wayne,Allard,1943-12-02,M,,300003,,103,House,CO,4,,R,,4,1122,6,0,9,158,87.19,,0,0.0,12.07
+8,A000109,Wayne,Allard,1943-12-02,M,,300003,,102,House,CO,4,,R,,2,933,16,0,,,84.83,,0,0.0,11.8

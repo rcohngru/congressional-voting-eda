@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000141,Ralph,Regula,1924-12-03,M,,400334,,110,House,OH,16,,R,,36,1873,18,3,5,130,89.78,,0,1.0,10.77
+1,R000141,Ralph,Regula,1924-12-03,M,,400334,,109,House,OH,16,,R,,34,1214,4,0,8,73,94.71,,0,0.0,5.54
+2,R000141,Ralph,Regula,1924-12-03,M,,400334,,108,House,OH,16,,R,,32,1221,28,0,13,70,97.12,,0,0.0,3.05
+3,R000141,Ralph,Regula,1924-12-03,M,,400334,,107,House,OH,16,,R,,30,996,3,0,6,54,97.54,,0,0.0,2.97
+4,R000141,Ralph,Regula,1924-12-03,M,,400334,,106,House,OH,16,,R,,28,1214,6,0,14,115,92.15,,0,0.0,8.1
+5,R000141,Ralph,Regula,1924-12-03,M,,400334,,105,House,OH,16,,R,,26,1187,3,1,10,88,91.91,,0,0.0,8.62
+6,R000141,Ralph,Regula,1924-12-03,M,,400334,,104,House,OH,16,,R,,24,1340,4,0,9,64,92.33,,0,0.0,8.91
+7,R000141,Ralph,Regula,1924-12-03,M,,400334,,103,House,OH,16,,R,,22,1122,0,0,17,155,82.99,,0,0.0,16.27
+8,R000141,Ralph,Regula,1924-12-03,M,,400334,,102,House,OH,16,,R,,20,933,3,0,,,78.87,,0,0.0,17.7
+9,R000141,Ralph,Regula,1924-12-03,M,,400334,,101,House,OH,16,,R,,18,,,,,,,,0,0.0,
+10,R000141,Ralph,Regula,1924-12-03,M,,400334,,100,House,OH,16,,R,,16,,,,,,,,0,0.0,
+11,R000141,Ralph,Regula,1924-12-03,M,,400334,,99,House,OH,16,,R,,14,,,,,,,,0,0.0,
+12,R000141,Ralph,Regula,1924-12-03,M,,400334,,98,House,OH,16,,R,,12,,,,,,,,0,0.0,

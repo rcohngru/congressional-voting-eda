@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000117,Thomas,Manton,1932-11-03,M,,407141,,105,House,NY,7,,D,,14,1187,80,2,7,375,90.47,,0,0.0,10.09
+1,M000117,Thomas,Manton,1932-11-03,M,,407141,,104,House,NY,7,,D,,12,1340,43,0,5,241,89.06,,0,0.0,12.16
+2,M000117,Thomas,Manton,1932-11-03,M,,407141,,103,House,NY,7,,D,,10,1122,75,0,22,328,91.41,,0,0.0,7.8
+3,M000117,Thomas,Manton,1932-11-03,M,,407141,,102,House,NY,9,,D,,8,933,65,0,,,91.25,,0,0.0,5.67
+4,M000117,Thomas,Manton,1932-11-03,M,,407141,,101,House,NY,9,,D,,6,,,,,,,,0,0.0,
+5,M000117,Thomas,Manton,1932-11-03,M,,407141,,100,House,NY,9,,D,,4,,,,,,,,0,0.0,
+6,M000117,Thomas,Manton,1932-11-03,M,,407141,,99,House,NY,9,,D,,2,,,,,,,,0,0.0,

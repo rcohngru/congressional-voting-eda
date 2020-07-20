@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000462,David,Skaggs,1943-02-22,M,,409954,,105,House,CO,2,,D,,12,1187,74,2,14,121,91.74,,0,0.0,8.83
+1,S000462,David,Skaggs,1943-02-22,M,,409954,,104,House,CO,2,,D,,10,1340,14,1,11,58,90.79,,0,0.0,10.48
+2,S000462,David,Skaggs,1943-02-22,M,,409954,,103,House,CO,2,,D,,8,1122,11,1,11,81,91.16,,0,0.0,8.09
+3,S000462,David,Skaggs,1943-02-22,M,,409954,,102,House,CO,2,,D,,6,933,10,0,,,88.16,,0,0.0,8.94
+4,S000462,David,Skaggs,1943-02-22,M,,409954,,101,House,CO,2,,D,,4,,,,,,,,0,0.0,
+5,S000462,David,Skaggs,1943-02-22,M,,409954,,100,House,CO,2,,D,,2,,,,,,,,0,0.0,

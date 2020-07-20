@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000187,Gloria,Negrete McLeod,1941-09-06,F,D,412518,69136,113,House,CA,35,,D,,2,1204,184,3,8,329,93.17,,0,2.0,6.73

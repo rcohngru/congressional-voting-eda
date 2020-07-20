@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000461,Bill,Flores,1954-02-25,M,R,412480,623540,116,House,TX,17,,R,,10,839,31,1,19,233,95.51,,3,2.0,4.37
+1,F000461,Bill,Flores,1954-02-25,M,R,412480,623540,115,House,TX,17,,R,,8,1211,30,0,12,231,95.4,,3,1.0,4.6
+2,F000461,Bill,Flores,1954-02-25,M,R,412480,623540,114,House,TX,17,,R,,6,1325,25,0,12,194,96.36,,0,1.0,3.57
+3,F000461,Bill,Flores,1954-02-25,M,R,412480,623540,113,House,TX,17,,R,,4,1204,25,0,14,219,94.12,,0,3.0,5.79
+4,F000461,Bill,Flores,1954-02-25,M,R,412480,623540,112,House,TX,17,,R,,2,1607,52,0,10,321,96.11,,0,3.0,3.82

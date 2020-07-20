@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000070,William,Jefferson,1947-03-14,M,,400201,,110,House,LA,2,,D,,18,1873,191,0,35,515,98.31,,0,1.0,2.17
+1,J000070,William,Jefferson,1947-03-14,M,,400201,,109,House,LA,2,,D,,16,1214,95,0,28,594,93.13,,0,0.0,7.05
+2,J000070,William,Jefferson,1947-03-14,M,,400201,,108,House,LA,2,,D,,14,1221,98,1,7,310,94.47,,0,0.0,5.71
+3,J000070,William,Jefferson,1947-03-14,M,,400201,,107,House,LA,2,,D,,12,996,72,0,12,316,92.26,,0,0.0,8.3
+4,J000070,William,Jefferson,1947-03-14,M,,400201,,106,House,LA,2,,D,,10,1214,206,0,5,375,94.26,,0,0.0,5.94
+5,J000070,William,Jefferson,1947-03-14,M,,400201,,105,House,LA,2,,D,,8,1187,117,0,3,267,90.12,,0,0.0,10.47
+6,J000070,William,Jefferson,1947-03-14,M,,400201,,104,House,LA,2,,D,,6,1340,212,1,7,149,89.47,,0,0.0,11.65
+7,J000070,William,Jefferson,1947-03-14,M,,400201,,103,House,LA,2,,D,,4,1122,84,0,13,406,92.83,,0,0.0,6.47
+8,J000070,William,Jefferson,1947-03-14,M,,400201,,102,House,LA,2,,D,,2,933,124,0,,,91.0,,0,0.0,6.21

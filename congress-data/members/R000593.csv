@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000593,Dennis,Ross,1959-10-18,M,R,412411,62532,115,House,FL,15,,R,,8,1211,177,0,23,233,99.03,,5,2.0,0.97
+1,R000593,Dennis,Ross,1959-10-18,M,R,412411,62532,114,House,FL,15,,R,,6,1325,19,0,22,203,96.37,,0,1.0,3.55
+2,R000593,Dennis,Ross,1959-10-18,M,R,412411,62532,113,House,FL,15,,R,,4,1204,10,0,22,257,96.38,,0,1.0,3.53
+3,R000593,Dennis,Ross,1959-10-18,M,R,412411,62532,112,House,FL,12,,R,,2,1607,22,0,10,455,94.91,,0,3.0,5.02

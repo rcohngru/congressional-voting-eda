@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001282,Andy,Barr,1973-07-24,M,R,412541,61848,116,House,KY,6,,R,,8,839,16,0,15,182,94.73,,4,2.0,5.15
+1,B001282,Andy,Barr,1973-07-24,M,R,412541,61848,115,House,KY,6,,R,,6,1211,22,0,26,269,97.21,,2,1.0,2.79
+2,B001282,Andy,Barr,1973-07-24,M,R,412541,61848,114,House,KY,6,,R,,4,1325,9,0,16,243,96.63,,0,1.0,3.29
+3,B001282,Andy,Barr,1973-07-24,M,R,412541,61848,113,House,KY,6,,R,,2,1204,5,0,16,233,95.31,,0,1.0,4.61

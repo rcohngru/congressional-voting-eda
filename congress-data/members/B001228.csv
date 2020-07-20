@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,112,House,CA,45,,R,,16,1607,80,0,13,109,93.47,,0,1.0,6.46
+1,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,111,House,CA,45,,R,,14,1655,45,0,16,310,94.52,,0,1.0,5.42
+2,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,110,House,CA,45,,R,,12,1873,100,1,18,312,92.54,,0,1.0,7.87
+3,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,109,House,CA,45,,R,,10,1214,75,0,13,226,92.77,,0,0.0,7.49
+4,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,108,House,CA,45,,R,,8,1221,48,0,7,153,94.23,,0,0.0,5.94
+5,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,107,House,CA,44,,R,,6,996,50,0,11,176,95.28,,0,0.0,5.15
+6,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,106,House,CA,44,,R,,4,1214,55,1,9,225,91.83,,0,0.0,8.35
+7,B001228,Mary,Bono Mack,1961-10-24,F,R,400039,,105,House,CA,44,,R,,2,0,0,0,2,63,0.0,,0,0.0,

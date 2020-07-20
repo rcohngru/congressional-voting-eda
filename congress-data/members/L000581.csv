@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000581,Brenda,Lawrence,1954-10-18,F,D,412638,79924,116,House,MI,14,,D,,6,839,40,0,11,393,99.25,,5,2.0,0.63
+1,L000581,Brenda,Lawrence,1954-10-18,F,D,412638,79924,115,House,MI,14,,D,,4,1211,29,2,25,364,98.18,,4,2.0,1.82
+2,L000581,Brenda,Lawrence,1954-10-18,F,D,412638,79924,114,House,MI,14,,D,,2,1325,26,0,18,360,97.9,,0,2.0,2.02

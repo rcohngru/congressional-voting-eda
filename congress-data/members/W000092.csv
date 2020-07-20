@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,103,Senate,WY,,1,R,,17,724,62,2,12,112,84.95,,0,0.0,15.05
+1,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,102,Senate,WY,,1,R,,15,550,28,0,,,82.56,,0,0.0,17.44
+2,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,101,Senate,WY,,1,R,,13,638,49,0,,,,,0,0.0,
+3,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,100,Senate,WY,,1,R,,11,,,,,,,,0,0.0,
+4,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,99,Senate,WY,,1,R,,9,,,,,,,,0,0.0,
+5,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,98,Senate,WY,,1,R,,7,,,,,,,,0,0.0,
+6,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,97,Senate,WY,,1,R,,5,,,,,,,,0,0.0,
+7,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,96,Senate,WY,,1,R,,3,,,,,,,,0,0.0,
+8,W000092,Malcolm,Wallop,1933-02-27,M,,411271,,95,Senate,WY,,1,R,,1,,,,,,,,0,0.0,

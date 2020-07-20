@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000009,Robert,Packwood,1932-09-11,M,,408420,,104,Senate,OR,,3,R,,27,480,1,0,7,37,84.21,,0,0.0,15.79
+1,P000009,Robert,Packwood,1932-09-11,M,,408420,,103,Senate,OR,,3,R,,25,724,20,0,9,128,77.36,,0,0.0,22.64
+2,P000009,Robert,Packwood,1932-09-11,M,,408420,,102,Senate,OR,,3,R,,23,550,14,0,,,72.59,,0,0.0,27.41
+3,P000009,Robert,Packwood,1932-09-11,M,,408420,,101,Senate,OR,,3,R,,21,638,20,0,,,,,0,0.0,
+4,P000009,Robert,Packwood,1932-09-11,M,,408420,,100,Senate,OR,,3,R,,19,,,,,,,,0,0.0,
+5,P000009,Robert,Packwood,1932-09-11,M,,408420,,99,Senate,OR,,3,R,,17,,,,,,,,0,0.0,
+6,P000009,Robert,Packwood,1932-09-11,M,,408420,,98,Senate,OR,,3,R,,15,,,,,,,,0,0.0,
+7,P000009,Robert,Packwood,1932-09-11,M,,408420,,97,Senate,OR,,3,R,,13,,,,,,,,0,0.0,
+8,P000009,Robert,Packwood,1932-09-11,M,,408420,,96,Senate,OR,,3,R,,11,,,,,,,,0,0.0,
+9,P000009,Robert,Packwood,1932-09-11,M,,408420,,95,Senate,OR,,3,R,,9,,,,,,,,0,0.0,
+10,P000009,Robert,Packwood,1932-09-11,M,,408420,,94,Senate,OR,,3,R,,7,,,,,,,,0,0.0,
+11,P000009,Robert,Packwood,1932-09-11,M,,408420,,93,Senate,OR,,3,R,,5,,,,,,,,0,0.0,
+12,P000009,Robert,Packwood,1932-09-11,M,,408420,,92,Senate,OR,,3,R,,3,,,,,,,,0,0.0,
+13,P000009,Robert,Packwood,1932-09-11,M,,408420,,91,Senate,OR,,3,R,,1,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000326,William,Dickinson,1925-06-05,M,,403446,,102,House,AL,2,,R,,28,933,120,0,,,84.11,,0,0.0,12.74
+1,D000326,William,Dickinson,1925-06-05,M,,403446,,101,House,AL,2,,R,,26,,,,,,,,0,0.0,
+2,D000326,William,Dickinson,1925-06-05,M,,403446,,100,House,AL,2,,R,,24,,,,,,,,0,0.0,
+3,D000326,William,Dickinson,1925-06-05,M,,403446,,99,House,AL,2,,R,,22,,,,,,,,0,0.0,
+4,D000326,William,Dickinson,1925-06-05,M,,403446,,98,House,AL,2,,R,,20,,,,,,,,0,0.0,

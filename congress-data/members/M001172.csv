@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001172,Betsy,Markey,1956-04-27,F,D,412298,1030430,111,House,CO,4,,D,,2,1655,44,0,26,314,94.25,,0,2.0,5.68

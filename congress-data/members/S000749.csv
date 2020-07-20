@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000749,John,Spratt,1942-11-01,M,D,400386,13719,111,House,SC,5,,D,,28,1655,30,0,12,199,98.27,,0,2.0,1.67
+1,S000749,John,Spratt,1942-11-01,M,D,400386,13719,110,House,SC,5,,D,,26,1873,40,1,24,236,97.67,,0,2.0,2.82
+2,S000749,John,Spratt,1942-11-01,M,D,400386,13719,109,House,SC,5,,D,,24,1214,21,0,13,203,92.35,,0,0.0,7.91
+3,S000749,John,Spratt,1942-11-01,M,D,400386,13719,108,House,SC,5,,D,,22,1221,26,0,5,226,93.78,,0,0.0,6.39
+4,S000749,John,Spratt,1942-11-01,M,D,400386,13719,107,House,SC,5,,D,,20,996,21,0,7,154,93.82,,0,0.0,6.7
+5,S000749,John,Spratt,1942-11-01,M,D,400386,13719,106,House,SC,5,,D,,18,1214,80,1,3,193,90.1,,0,0.0,10.08
+6,S000749,John,Spratt,1942-11-01,M,D,400386,13719,105,House,SC,5,,D,,16,1187,49,2,7,121,89.25,,0,0.0,11.31
+7,S000749,John,Spratt,1942-11-01,M,D,400386,13719,104,House,SC,5,,D,,14,1340,22,0,8,134,85.22,,0,0.0,16.05
+8,S000749,John,Spratt,1942-11-01,M,D,400386,13719,103,House,SC,5,,D,,12,1122,27,1,11,186,90.37,,0,0.0,8.97
+9,S000749,John,Spratt,1942-11-01,M,D,400386,13719,102,House,SC,5,,D,,10,933,18,0,,,88.4,,0,0.0,8.67
+10,S000749,John,Spratt,1942-11-01,M,D,400386,13719,101,House,SC,5,,D,,8,,,,,,,,0,0.0,
+11,S000749,John,Spratt,1942-11-01,M,D,400386,13719,100,House,SC,5,,D,,6,,,,,,,,0,0.0,
+12,S000749,John,Spratt,1942-11-01,M,D,400386,13719,99,House,SC,5,,D,,4,,,,,,,,0,0.0,
+13,S000749,John,Spratt,1942-11-01,M,D,400386,13719,98,House,SC,5,,D,,2,,,,,,,,0,0.0,

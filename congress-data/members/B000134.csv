@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000134,James,Barcia,1952-02-25,M,,400526,,107,House,MI,5,,D,,10,996,40,1,10,252,85.47,,0,0.0,15.06
+1,B000134,James,Barcia,1952-02-25,M,,400526,,106,House,MI,5,,D,,8,1214,25,0,9,298,80.17,,0,0.0,20.09
+2,B000134,James,Barcia,1952-02-25,M,,400526,,105,House,MI,5,,D,,6,1187,27,3,9,259,78.42,,0,0.0,22.12
+3,B000134,James,Barcia,1952-02-25,M,,400526,,104,House,MI,5,,D,,4,1340,19,0,4,160,78.55,,0,0.0,22.73
+4,B000134,James,Barcia,1952-02-25,M,,400526,,103,House,MI,5,,D,,2,1122,26,0,4,208,80.66,,0,0.0,18.58

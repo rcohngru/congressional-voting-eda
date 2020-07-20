@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,111,House,TN,3,,R,,16,1655,434,0,10,354,95.27,,0,1.0,4.65
+1,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,110,House,TN,3,,R,,14,1873,64,2,12,456,95.22,,0,1.0,5.35
+2,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,109,House,TN,3,,R,,12,1214,27,0,6,287,94.44,,0,0.0,5.81
+3,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,108,House,TN,3,,R,,10,1221,30,0,3,274,94.41,,0,0.0,5.76
+4,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,107,House,TN,3,,R,,8,996,22,1,2,254,94.26,,0,0.0,6.26
+5,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,106,House,TN,3,,R,,6,1214,23,0,3,283,91.1,,0,0.0,9.16
+6,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,105,House,TN,3,,R,,4,1187,19,9,2,185,89.25,,0,0.0,11.28
+7,W000119,Zach,Wamp,1957-10-28,M,R,400421,36792,104,House,TN,3,,R,,2,1340,8,1,2,164,94.25,,0,0.0,6.99

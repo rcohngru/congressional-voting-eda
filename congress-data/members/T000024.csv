@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000024,James,Talent,1956-10-18,M,,300096,,109,Senate,MO,,1,R,,5,645,4,0,76,227,88.23,,0,0.0,11.77
+1,T000024,James,Talent,1956-10-18,M,,300096,,108,Senate,MO,,1,R,,3,675,7,0,13,142,96.83,,0,0.0,3.17
+2,T000024,James,Talent,1956-10-18,M,,300096,,107,Senate,MO,,1,R,,1,0,0,0,,,0.0,,0,0.0,0.0
+3,T000024,James,Talent,1956-10-18,M,,300096,,106,House,MO,2,,R,,8,1214,115,0,40,219,95.27,,0,0.0,4.92
+4,T000024,James,Talent,1956-10-18,M,,300096,,105,House,MO,2,,R,,6,1187,20,0,23,276,93.9,,0,0.0,6.63
+5,T000024,James,Talent,1956-10-18,M,,300096,,104,House,MO,2,,R,,4,1340,26,0,7,182,96.3,,0,0.0,4.88
+6,T000024,James,Talent,1956-10-18,M,,300096,,103,House,MO,2,,R,,2,1122,24,0,14,237,93.67,,0,0.0,5.58

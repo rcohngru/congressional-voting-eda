@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000151,Melton,Hancock,1929-09-14,M,,405033,,104,House,MO,7,,R,,8,1340,26,0,1,247,92.83,,0,0.0,8.43
+1,H000151,Melton,Hancock,1929-09-14,M,,405033,,103,House,MO,7,,R,,6,1122,18,0,4,295,88.63,,0,0.0,10.62
+2,H000151,Melton,Hancock,1929-09-14,M,,405033,,102,House,MO,7,,R,,4,933,10,0,,,80.83,,0,0.0,15.83
+3,H000151,Melton,Hancock,1929-09-14,M,,405033,,101,House,MO,7,,R,,2,,,,,,,,0,0.0,

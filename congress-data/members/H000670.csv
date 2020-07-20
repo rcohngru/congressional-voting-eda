@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000670,George,Hochbrueckner,1938-09-20,M,,405524,,103,House,NY,1,,D,,8,1122,24,0,16,380,92.56,,0,0.0,6.69
+1,H000670,George,Hochbrueckner,1938-09-20,M,,405524,,102,House,NY,1,,D,,6,933,18,0,,,92.23,,0,0.0,4.95
+2,H000670,George,Hochbrueckner,1938-09-20,M,,405524,,101,House,NY,1,,D,,4,,,,,,,,0,0.0,
+3,H000670,George,Hochbrueckner,1938-09-20,M,,405524,,100,House,NY,1,,D,,2,,,,,,,,0,0.0,

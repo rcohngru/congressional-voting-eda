@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001053,Vicky,Hartzler,1960-10-13,F,R,412444,95050,116,House,MO,4,,R,,10,839,20,0,21,318,95.2,,4,2.0,4.68
+1,H001053,Vicky,Hartzler,1960-10-13,F,R,412444,95050,115,House,MO,4,,R,,8,1211,32,0,19,231,97.02,,5,2.0,2.98
+2,H001053,Vicky,Hartzler,1960-10-13,F,R,412444,95050,114,House,MO,4,,R,,6,1325,14,0,7,204,97.0,,0,4.0,2.92
+3,H001053,Vicky,Hartzler,1960-10-13,F,R,412444,95050,113,House,MO,4,,R,,4,1204,65,0,6,269,95.59,,0,3.0,4.32
+4,H001053,Vicky,Hartzler,1960-10-13,F,R,412444,95050,112,House,MO,4,,R,,2,1607,29,0,6,278,94.83,,0,2.0,5.11

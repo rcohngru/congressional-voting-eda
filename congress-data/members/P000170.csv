@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000170,Donald,Pease,1931-09-26,M,,408575,,102,House,OH,13,,D,,16,933,26,0,,,85.91,,0,0.0,11.25
+1,P000170,Donald,Pease,1931-09-26,M,,408575,,101,House,OH,13,,D,,14,,,,,,,,0,0.0,
+2,P000170,Donald,Pease,1931-09-26,M,,408575,,100,House,OH,13,,D,,12,,,,,,,,0,0.0,
+3,P000170,Donald,Pease,1931-09-26,M,,408575,,99,House,OH,13,,D,,10,,,,,,,,0,0.0,
+4,P000170,Donald,Pease,1931-09-26,M,,408575,,98,House,OH,13,,D,,8,,,,,,,,0,0.0,

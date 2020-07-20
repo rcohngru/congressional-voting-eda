@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000295,Joni,Ernst,1970-07-01,F,R,412667,75342,116,Senate,IA,,2,R,Senate Republican Conference Vice Chair,1,557,6,0,44,329,96.71,,11,5.0,3.29
+1,E000295,Joni,Ernst,1970-07-01,F,R,412667,75342,115,Senate,IA,,2,R,,3,599,1,0,34,224,97.64,,10,4.0,2.36
+2,E000295,Joni,Ernst,1970-07-01,F,R,412667,75342,114,Senate,IA,,2,R,,1,502,0,0,17,125,95.13,,0,4.0,4.87

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,111,House,MI,2,,R,,18,1655,460,0,22,278,94.91,,0,2.0,5.01
+1,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,110,House,MI,2,,R,,16,1873,48,2,20,278,94.03,,0,2.0,6.48
+2,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,109,House,MI,2,,R,,14,1214,39,0,10,156,94.3,,0,0.0,5.96
+3,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,108,House,MI,2,,R,,12,1221,52,0,16,189,95.68,,0,0.0,4.49
+4,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,107,House,MI,2,,R,,10,996,23,1,16,159,92.39,,0,0.0,8.03
+5,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,106,House,MI,2,,R,,8,1214,26,0,13,174,90.66,,0,0.0,9.51
+6,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,105,House,MI,2,,R,,6,1187,30,0,19,164,91.66,,0,0.0,8.78
+7,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,104,House,MI,2,,R,,4,1340,6,0,16,153,90.07,,0,0.0,11.17
+8,H000676,Peter,Hoekstra,1953-10-30,M,R,400182,26490,103,House,MI,2,,R,,2,1122,5,0,16,233,88.39,,0,0.0,10.86

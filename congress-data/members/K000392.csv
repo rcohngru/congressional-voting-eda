@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000392,David,Kustoff,1966-10-08,M,R,412724,28903,116,House,TN,8,,R,,4,839,21,0,13,147,96.8,,3,1.0,3.08
+1,K000392,David,Kustoff,1966-10-08,M,R,412724,28903,115,House,TN,8,,R,,2,1211,27,0,13,122,98.47,,3,1.0,1.53

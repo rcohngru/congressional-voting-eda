@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000843,Susan,Molinari,1958-03-27,F,,407817,,105,House,NY,13,,R,,10,351,73,0,11,103,93.73,,0,0.0,6.27
+1,M000843,Susan,Molinari,1958-03-27,F,,407817,,104,House,NY,13,,R,,8,1340,89,0,15,202,92.63,,0,0.0,8.7
+2,M000843,Susan,Molinari,1958-03-27,F,,407817,,103,House,NY,13,,R,,6,1122,13,0,14,356,85.23,,0,0.0,14.11
+3,M000843,Susan,Molinari,1958-03-27,F,,407817,,102,House,NY,14,,R,,4,933,23,0,,,80.95,,0,0.0,15.67
+4,M000843,Susan,Molinari,1958-03-27,F,,407817,,101,House,NY,14,,R,,2,,,,,,,,0,0.0,

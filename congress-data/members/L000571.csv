@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000571,Cynthia,Lummis,1954-09-10,F,R,412294,1031365,114,House,WY,At-Large,,R,,8,1325,30,0,13,187,92.61,,0,2.0,7.32
+1,L000571,Cynthia,Lummis,1954-09-10,F,R,412294,1031365,113,House,WY,At-Large,,R,,6,1204,42,0,16,272,90.84,,0,3.0,9.08
+2,L000571,Cynthia,Lummis,1954-09-10,F,R,412294,1031365,112,House,WY,At-Large,,R,,4,1607,50,0,13,259,90.49,,0,1.0,9.45
+3,L000571,Cynthia,Lummis,1954-09-10,F,R,412294,1031365,111,House,WY,At-Large,,R,,2,1655,21,4,11,288,92.11,,0,3.0,7.83

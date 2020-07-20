@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,103,Senate,OH,,1,D,,19,724,30,2,46,218,88.03,,0,0.0,11.97
+1,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,102,Senate,OH,,1,D,,16,550,11,0,,,86.34,,0,0.0,13.66
+2,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,101,Senate,OH,,1,D,,14,638,13,1,,,,,0,0.0,
+3,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,100,Senate,OH,,1,D,,12,,,,,,,,0,0.0,
+4,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,99,Senate,OH,,1,D,,10,,,,,,,,0,0.0,
+5,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,98,Senate,OH,,1,D,,8,,,,,,,,0,0.0,
+6,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,97,Senate,OH,,1,D,,6,,,,,,,,0,0.0,
+7,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,96,Senate,OH,,1,D,,4,,,,,,,,0,0.0,
+8,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,95,Senate,OH,,1,D,,2,,,,,,,,0,0.0,
+9,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,94,Senate,OH,,1,D,,1,,,,,,,,0,0.0,
+10,M000678,Howard,Metzenbaum,1917-06-04,M,,407663,,93,Senate,OH,,3,D,,1,,,,,,,,0,0.0,

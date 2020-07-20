@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,112,Senate,ND,,1,D,,25,486,12,0,27,125,94.69,,0,6.0,5.31
+1,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,111,Senate,ND,,1,D,,23,696,15,0,18,116,92.76,,0,4.0,7.24
+2,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,110,Senate,ND,,1,D,,21,657,14,0,26,178,91.98,,0,4.0,8.02
+3,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,109,Senate,ND,,1,D,,19,645,19,0,27,145,83.77,,0,0.0,16.23
+4,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,108,Senate,ND,,1,D,,17,675,5,0,21,134,89.3,,0,0.0,10.7
+5,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,107,Senate,ND,,1,D,,15,633,4,0,16,163,92.41,,0,0.0,7.59
+6,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,106,Senate,ND,,1,D,,13,672,6,0,29,237,89.94,,0,0.0,10.06
+7,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,105,Senate,ND,,1,D,,11,612,5,0,15,154,88.13,,0,0.0,11.87
+8,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,104,Senate,ND,,1,D,,9,916,15,0,12,104,88.55,,0,0.0,11.45
+9,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,103,Senate,ND,,1,D,,7,724,6,0,19,232,84.87,,0,0.0,15.13
+10,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,102,Senate,ND,,3,D,,5,550,7,0,,,77.21,,0,0.0,22.79
+11,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,101,Senate,ND,,3,D,,3,638,1,0,,,,,0,0.0,
+12,C000705,Kent,Conrad,1948-03-12,M,D,300026,2517,100,Senate,ND,,3,D,,1,,,,,,,,0,0.0,

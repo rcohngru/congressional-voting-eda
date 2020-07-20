@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001235,Henry,Brown,1935-12-20,M,R,400049,1000221,111,House,SC,1,,R,,10,1655,148,0,10,359,94.88,,0,3.0,5.05
+1,B001235,Henry,Brown,1935-12-20,M,R,400049,1000221,110,House,SC,1,,R,,8,1873,53,0,38,345,94.63,,0,3.0,5.94
+2,B001235,Henry,Brown,1935-12-20,M,R,400049,1000221,109,House,SC,1,,R,,6,1214,57,0,42,264,97.01,,0,0.0,3.25
+3,B001235,Henry,Brown,1935-12-20,M,R,400049,1000221,108,House,SC,1,,R,,4,1221,5,0,14,197,98.76,,0,0.0,1.41
+4,B001235,Henry,Brown,1935-12-20,M,R,400049,1000221,107,House,SC,1,,R,,2,996,9,0,22,196,97.94,,0,0.0,2.57

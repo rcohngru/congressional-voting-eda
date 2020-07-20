@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Z000008,Richard,Zimmer,1944-08-16,M,,412001,,104,House,NJ,12,,R,,6,1340,33,0,38,298,76.78,,0,0.0,24.48
+1,Z000008,Richard,Zimmer,1944-08-16,M,,412001,,103,House,NJ,12,,R,,4,1122,14,0,31,396,80.43,,0,0.0,18.82
+2,Z000008,Richard,Zimmer,1944-08-16,M,,412001,,102,House,NJ,12,,R,,2,933,6,0,,,80.13,,0,0.0,16.43

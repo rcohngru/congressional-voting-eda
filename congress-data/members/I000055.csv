@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,116,Senate,GA,,3,R,,15,427,143,0,27,154,98.59,,7,5.0,1.41
+1,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,115,Senate,GA,,3,R,,13,599,65,0,37,223,98.3,,8,5.0,1.7
+2,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,114,Senate,GA,,3,R,,11,502,6,0,45,219,94.46,,0,5.0,5.54
+3,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,113,Senate,GA,,3,R,,9,657,26,2,21,276,88.19,,3,4.0,11.81
+4,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,112,Senate,GA,,3,R,,7,486,11,0,18,282,92.27,,0,0.0,7.73
+5,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,111,Senate,GA,,3,R,,5,696,72,0,31,254,94.32,,0,6.0,5.68
+6,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,110,Senate,GA,,3,R,,3,657,13,1,25,366,94.25,,0,6.0,5.75
+7,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,109,Senate,GA,,3,R,,1,645,10,0,33,308,93.51,,0,0.0,6.49
+8,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,108,House,GA,6,,R,,6,1221,151,0,8,305,96.89,,0,0.0,3.2
+9,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,107,House,GA,6,,R,,4,996,7,0,12,311,98.05,,0,0.0,2.47
+10,I000055,Johnny,Isakson,1944-12-28,M,R,400194,59135,106,House,GA,6,,R,,2,1187,27,0,12,246,94.55,,0,0.0,5.8

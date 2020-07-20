@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000154,John,Warner,1927-02-18,M,,300099,,110,Senate,VA,,2,R,,29,657,53,1,21,152,84.3,,0,4.0,15.7
+1,W000154,John,Warner,1927-02-18,M,,300099,,109,Senate,VA,,2,R,,27,645,12,0,21,158,88.39,,0,0.0,11.61
+2,W000154,John,Warner,1927-02-18,M,,300099,,108,Senate,VA,,2,R,,25,675,7,0,20,192,94.72,,0,0.0,5.28
+3,W000154,John,Warner,1927-02-18,M,,300099,,107,Senate,VA,,2,R,,23,633,11,0,23,228,89.64,,0,0.0,10.36
+4,W000154,John,Warner,1927-02-18,M,,300099,,106,Senate,VA,,2,R,,21,672,6,3,41,250,91.87,,0,0.0,8.13
+5,W000154,John,Warner,1927-02-18,M,,300099,,105,Senate,VA,,2,R,,19,612,13,0,50,183,89.23,,0,0.0,10.77
+6,W000154,John,Warner,1927-02-18,M,,300099,,104,Senate,VA,,2,R,,17,916,19,0,30,193,94.51,,0,0.0,5.49
+7,W000154,John,Warner,1927-02-18,M,,300099,,103,Senate,VA,,2,R,,15,724,17,0,27,203,84.8,,0,0.0,15.2
+8,W000154,John,Warner,1927-02-18,M,,300099,,102,Senate,VA,,2,R,,13,550,12,0,,,88.49,,0,0.0,11.51
+9,W000154,John,Warner,1927-02-18,M,,300099,,101,Senate,VA,,2,R,,11,638,6,0,,,,,0,0.0,
+10,W000154,John,Warner,1927-02-18,M,,300099,,100,Senate,VA,,2,R,,9,,,,,,,,0,0.0,
+11,W000154,John,Warner,1927-02-18,M,,300099,,99,Senate,VA,,2,R,,7,,,,,,,,0,0.0,
+12,W000154,John,Warner,1927-02-18,M,,300099,,98,Senate,VA,,2,R,,5,,,,,,,,0,0.0,
+13,W000154,John,Warner,1927-02-18,M,,300099,,97,Senate,VA,,2,R,,3,,,,,,,,0,0.0,
+14,W000154,John,Warner,1927-02-18,M,,300099,,96,Senate,VA,,2,R,,1,,,,,,,,0,0.0,
+15,W000154,John,Warner,1927-02-18,M,,300099,,95,Senate,VA,,2,R,,1,,,,,,,,0,0.0,

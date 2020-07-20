@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,104,House,TX,15,,D,,32,1340,160,2,8,69,78.3,,0,0.0,23.04
+1,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,103,House,TX,15,,D,,30,1122,88,0,35,164,84.82,,0,0.0,14.49
+2,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,102,House,TX,15,,D,,28,933,83,0,,,87.77,,0,0.0,9.56
+3,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,101,House,TX,15,,D,,26,,,,,,,,0,0.0,
+4,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,100,House,TX,15,,D,,24,,,,,,,,0,0.0,
+5,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,99,House,TX,15,,D,,22,,,,,,,,0,0.0,
+6,D000203,Eligio,de la Garza,1927-09-22,M,,403308,,98,House,TX,15,,D,,20,,,,,,,,0,0.0,

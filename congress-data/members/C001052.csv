@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001052,Chris,Chocola,1962-02-24,M,,400072,,109,House,IN,2,,R,,4,1214,10,0,11,144,92.57,,0,0.0,7.68
+1,C001052,Chris,Chocola,1962-02-24,M,,400072,,108,House,IN,2,,R,,2,1221,12,0,4,167,96.41,,0,0.0,3.76

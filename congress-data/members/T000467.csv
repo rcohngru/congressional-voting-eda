@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000467,Glenn,Thompson,1959-07-27,M,R,412317,1031359,116,House,PA,15,,R,,12,839,23,0,12,249,92.58,,5,2.0,7.29
+1,T000467,Glenn,Thompson,1959-07-27,M,R,412317,1031359,115,House,PA,5,,R,,10,1211,10,0,15,318,93.39,,6,3.0,6.61
+2,T000467,Glenn,Thompson,1959-07-27,M,R,412317,1031359,114,House,PA,5,,R,,8,1325,3,0,16,194,92.68,,0,3.0,7.24
+3,T000467,Glenn,Thompson,1959-07-27,M,R,412317,1031359,113,House,PA,5,,R,,6,1204,19,0,11,259,91.69,,0,3.0,8.22
+4,T000467,Glenn,Thompson,1959-07-27,M,R,412317,1031359,112,House,PA,5,,R,,4,1607,6,0,10,197,91.5,,0,3.0,8.43
+5,T000467,Glenn,Thompson,1959-07-27,M,R,412317,1031359,111,House,PA,5,,R,,2,1655,25,2,11,283,93.52,,0,3.0,6.41

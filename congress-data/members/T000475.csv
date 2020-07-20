@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000475,Dave,Trott,1960-10-16,M,R,412636,76679,115,House,MI,11,,R,,4,1211,108,0,13,152,97.36,,3,1.0,2.64
+1,T000475,Dave,Trott,1960-10-16,M,R,412636,76679,114,House,MI,11,,R,,2,1325,12,0,8,140,95.7,,0,2.0,4.22

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000669,Jack,Metcalf,1927-11-30,M,,400598,,106,House,WA,2,,R,,6,1214,79,3,17,315,89.84,,0,0.0,10.43
+1,M000669,Jack,Metcalf,1927-11-30,M,,400598,,105,House,WA,2,,R,,4,1187,20,1,19,275,90.73,,0,0.0,9.8
+2,M000669,Jack,Metcalf,1927-11-30,M,,400598,,104,House,WA,2,,R,,2,1340,28,0,8,159,91.01,,0,0.0,10.25

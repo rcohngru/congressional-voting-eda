@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000127,James,Allen,1912-12-28,M,,400783,,95,Senate,AL,,3,D,,9,,,,,,,,0,0.0,
+1,A000127,James,Allen,1912-12-28,M,,400783,,94,Senate,AL,,3,D,,7,,,,,,,,0,0.0,
+2,A000127,James,Allen,1912-12-28,M,,400783,,93,Senate,AL,,3,D,,5,,,,,,,,0,0.0,
+3,A000127,James,Allen,1912-12-28,M,,400783,,92,Senate,AL,,3,D,,3,,,,,,,,0,0.0,
+4,A000127,James,Allen,1912-12-28,M,,400783,,91,Senate,AL,,3,D,,1,,,,,,,,0,0.0,

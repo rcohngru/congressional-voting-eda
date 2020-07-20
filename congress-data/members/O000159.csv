@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000159,Major,Owens,1936-06-28,M,,400306,,109,House,NY,11,,D,,24,1214,51,6,19,906,93.48,,0,0.0,6.61
+1,O000159,Major,Owens,1936-06-28,M,,400306,,108,House,NY,11,,D,,22,1221,102,5,22,934,94.36,,0,0.0,5.82
+2,O000159,Major,Owens,1936-06-28,M,,400306,,107,House,NY,11,,D,,20,996,74,3,12,672,93.58,,0,0.0,6.86
+3,O000159,Major,Owens,1936-06-28,M,,400306,,106,House,NY,11,,D,,18,1214,136,5,43,468,92.18,,0,0.0,8.1
+4,O000159,Major,Owens,1936-06-28,M,,400306,,105,House,NY,11,,D,,16,1187,83,2,6,248,89.23,,0,0.0,11.05
+5,O000159,Major,Owens,1936-06-28,M,,400306,,104,House,NY,11,,D,,14,1340,70,5,10,243,90.26,,0,0.0,10.9
+6,O000159,Major,Owens,1936-06-28,M,,400306,,103,House,NY,11,,D,,12,1122,141,3,33,423,89.34,,0,0.0,9.93
+7,O000159,Major,Owens,1936-06-28,M,,400306,,102,House,NY,12,,D,,10,933,79,2,,,89.48,,0,0.0,8.83
+8,O000159,Major,Owens,1936-06-28,M,,400306,,101,House,NY,12,,D,,8,,,,,,,,0,0.0,
+9,O000159,Major,Owens,1936-06-28,M,,400306,,100,House,NY,12,,D,,6,,,,,,,,0,0.0,
+10,O000159,Major,Owens,1936-06-28,M,,400306,,99,House,NY,12,,D,,4,,,,,,,,0,0.0,
+11,O000159,Major,Owens,1936-06-28,M,,400306,,98,House,NY,12,,D,,2,,,,,,,,0,0.0,

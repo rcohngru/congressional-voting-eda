@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000178,Mel,Reynolds,1952-01-08,M,,409154,,104,House,IL,2,,D,,4,700,321,2,0,85,94.03,,0,0.0,8.24
+1,R000178,Mel,Reynolds,1952-01-08,M,,409154,,103,House,IL,2,,D,,2,1122,130,0,12,256,92.52,,0,0.0,6.76

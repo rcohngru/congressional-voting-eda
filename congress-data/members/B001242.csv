@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001242,Timothy,Bishop,1950-06-01,M,D,400031,1003587,113,House,NY,1,,D,,12,1204,10,1,21,358,92.23,,0,2.0,7.69
+1,B001242,Timothy,Bishop,1950-06-01,M,D,400031,1003587,112,House,NY,1,,D,,10,1607,63,1,22,286,93.29,,0,2.0,6.64
+2,B001242,Timothy,Bishop,1950-06-01,M,D,400031,1003587,111,House,NY,1,,D,,8,1655,44,0,26,486,97.25,,0,3.0,2.68
+3,B001242,Timothy,Bishop,1950-06-01,M,D,400031,1003587,110,House,NY,1,,D,,6,1873,35,0,13,519,99.56,,0,3.0,0.99
+4,B001242,Timothy,Bishop,1950-06-01,M,D,400031,1003587,109,House,NY,1,,D,,4,1214,21,1,10,391,96.6,,0,0.0,3.66
+5,B001242,Timothy,Bishop,1950-06-01,M,D,400031,1003587,108,House,NY,1,,D,,2,1221,25,0,12,334,96.6,,0,0.0,3.57

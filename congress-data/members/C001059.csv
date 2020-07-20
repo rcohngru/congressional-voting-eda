@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,116,House,CA,16,,D,,16,839,19,0,11,405,95.97,,3,3.0,3.91
+1,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,115,House,CA,16,,D,,14,1211,179,0,4,281,84.92,,4,2.0,15.08
+2,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,114,House,CA,16,,D,,12,1317,48,0,3,176,76.77,,0,2.0,23.15
+3,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,113,House,CA,16,,D,,10,1204,66,1,10,227,75.49,,0,2.0,24.42
+4,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,112,House,CA,20,,D,,8,1607,79,2,20,186,66.51,,0,2.0,33.42
+5,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,111,House,CA,20,,D,,6,1655,80,0,14,307,94.7,,0,3.0,5.23
+6,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,110,House,CA,20,,D,,4,1873,84,0,23,305,96.09,,0,3.0,4.37
+7,C001059,Jim,Costa,1952-04-13,M,D,400618,19599,109,House,CA,20,,D,,2,1214,63,0,10,254,87.83,,0,0.0,12.43

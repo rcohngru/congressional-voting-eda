@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000312,Jay,Dickey,1939-12-14,M,,400579,,106,House,AR,4,,R,,8,1214,80,0,7,251,92.54,,0,0.0,7.64
+1,D000312,Jay,Dickey,1939-12-14,M,,400579,,105,House,AR,4,,R,,6,1187,31,0,9,195,93.51,,0,0.0,6.94
+2,D000312,Jay,Dickey,1939-12-14,M,,400579,,104,House,AR,4,,R,,4,1340,69,0,9,157,97.15,,0,0.0,4.16
+3,D000312,Jay,Dickey,1939-12-14,M,,400579,,103,House,AR,4,,R,,2,1122,33,1,7,209,91.34,,0,0.0,7.9

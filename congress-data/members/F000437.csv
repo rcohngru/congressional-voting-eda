@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000437,Lauch,Faircloth,1928-01-14,M,,403968,,105,Senate,NC,,3,R,,5,612,24,0,48,266,86.43,,0,0.0,13.57
+1,F000437,Lauch,Faircloth,1928-01-14,M,,403968,,104,Senate,NC,,3,R,,3,916,29,0,22,182,90.93,,0,0.0,9.07
+2,F000437,Lauch,Faircloth,1928-01-14,M,,403968,,103,Senate,NC,,3,R,,1,724,15,0,2,106,86.35,,0,0.0,13.65

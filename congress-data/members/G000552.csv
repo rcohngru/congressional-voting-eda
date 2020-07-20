@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,116,House,TX,1,,R,,16,839,65,3,9,153,86.09,,4,2.0,13.78
+1,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,115,House,TX,1,,R,,14,1211,74,2,18,260,90.72,,4,2.0,9.28
+2,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,114,House,TX,1,,R,,12,1325,60,12,10,142,90.37,,0,2.0,9.55
+3,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,113,House,TX,1,,R,,10,1204,79,14,14,220,88.57,,0,2.0,11.34
+4,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,112,House,TX,1,,R,,8,1607,129,13,14,258,89.58,,0,2.0,10.35
+5,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,111,House,TX,1,,R,,6,1655,174,11,17,309,92.13,,0,3.0,7.8
+6,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,110,House,TX,1,,R,,4,1873,114,26,28,307,92.19,,0,3.0,8.22
+7,G000552,Louie,Gohmert,1953-08-18,M,R,400651,1011394,109,House,TX,1,,R,,2,1214,81,6,15,199,91.04,,0,0.0,9.23

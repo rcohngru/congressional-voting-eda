@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,115,House,IL,4,,D,,26,1211,268,1,6,440,95.22,,2,1.0,4.78
+1,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,114,House,IL,4,,D,,24,1325,210,0,4,293,96.38,,0,2.0,3.44
+2,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,113,House,IL,4,,D,,22,1204,211,1,4,207,94.72,,0,3.0,5.18
+3,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,112,House,IL,4,,D,,20,1607,200,1,2,299,92.95,,0,2.0,6.97
+4,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,111,House,IL,4,,D,,18,1651,254,0,13,460,97.05,,0,2.0,2.95
+5,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,110,House,IL,4,,D,,16,1873,279,1,18,452,98.02,,0,2.0,2.55
+6,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,109,House,IL,4,,D,,14,1209,189,3,7,455,93.85,,0,0.0,6.45
+7,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,108,House,IL,4,,D,,12,1221,200,1,25,536,95.24,,0,0.0,4.86
+8,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,107,House,IL,4,,D,,10,994,119,2,21,453,93.85,,0,0.0,6.5
+9,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,106,House,IL,4,,D,,8,1214,120,3,17,524,89.52,,0,0.0,10.76
+10,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,105,House,IL,4,,D,,6,1187,51,4,20,393,87.94,,0,0.0,12.62
+11,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,104,House,IL,4,,D,,4,1340,70,1,10,205,90.28,,0,0.0,11.05
+12,G000535,Luis,Gutiérrez,1953-12-10,M,D,400163,23476,103,House,IL,4,,D,,2,1122,83,0,17,343,91.33,,0,0.0,7.97

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000169,James,Leach,1942-10-15,M,,400236,,109,House,IA,2,,R,,30,1214,52,2,17,284,78.97,,0,0.0,21.29
+1,L000169,James,Leach,1942-10-15,M,,400236,,108,House,IA,2,,R,,28,1221,62,1,16,252,82.62,,0,0.0,17.46
+2,L000169,James,Leach,1942-10-15,M,,400236,,107,House,IA,1,,R,,26,996,38,0,18,258,87.9,,0,0.0,12.63
+3,L000169,James,Leach,1942-10-15,M,,400236,,106,House,IA,1,,R,,24,1214,29,0,27,227,84.85,,0,0.0,15.4
+4,L000169,James,Leach,1942-10-15,M,,400236,,105,House,IA,1,,R,,22,1187,25,2,24,178,80.94,,0,0.0,19.59
+5,L000169,James,Leach,1942-10-15,M,,400236,,104,House,IA,1,,R,,20,1340,16,1,15,142,82.72,,0,0.0,18.53
+6,L000169,James,Leach,1942-10-15,M,,400236,,103,House,IA,1,,R,,18,1122,53,0,11,207,76.94,,0,0.0,22.29
+7,L000169,James,Leach,1942-10-15,M,,400236,,102,House,IA,1,,R,,16,933,21,2,,,71.82,,0,0.0,24.69
+8,L000169,James,Leach,1942-10-15,M,,400236,,101,House,IA,1,,R,,14,,,,,,,,0,0.0,
+9,L000169,James,Leach,1942-10-15,M,,400236,,100,House,IA,1,,R,,12,,,,,,,,0,0.0,
+10,L000169,James,Leach,1942-10-15,M,,400236,,99,House,IA,1,,R,,10,,,,,,,,0,0.0,
+11,L000169,James,Leach,1942-10-15,M,,400236,,98,House,IA,1,,R,,8,,,,,,,,0,0.0,

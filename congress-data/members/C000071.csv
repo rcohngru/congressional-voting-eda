@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,113,House,MI,4,,R,,24,1204,21,0,20,68,96.26,,0,1.0,3.65
+1,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,112,House,MI,4,,R,,22,1607,15,0,22,84,94.05,,0,2.0,5.89
+2,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,111,House,MI,4,,R,,20,1655,49,0,9,172,94.13,,0,1.0,5.81
+3,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,110,House,MI,4,,R,,18,1873,33,4,11,244,96.54,,0,1.0,3.85
+4,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,109,House,MI,4,,R,,16,1214,43,0,23,158,97.05,,0,0.0,3.21
+5,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,108,House,MI,4,,R,,14,1221,26,0,36,212,97.72,,0,0.0,2.36
+6,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,107,House,MI,4,,R,,12,996,13,0,28,232,97.83,,0,0.0,2.69
+7,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,106,House,MI,4,,R,,10,1214,39,0,17,227,94.54,,0,0.0,5.72
+8,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,105,House,MI,4,,R,,8,1187,7,0,10,211,94.32,,0,0.0,6.2
+9,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,104,House,MI,4,,R,,6,1340,14,0,7,182,93.99,,0,0.0,7.26
+10,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,103,House,MI,4,,R,,4,1122,12,0,12,230,91.87,,0,0.0,7.38
+11,C000071,Dave,Camp,1953-07-09,M,R,400058,23039,102,House,MI,10,,R,,2,933,6,0,,,86.78,,0,0.0,9.78

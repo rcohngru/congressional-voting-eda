@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001291,Brian,Babin,1948-03-23,M,R,412655,44883,116,House,TX,36,,R,,6,839,37,0,14,249,91.32,,5,2.0,8.55
+1,B001291,Brian,Babin,1948-03-23,M,R,412655,44883,115,House,TX,36,,R,,4,1211,20,0,22,304,96.29,,5,2.0,3.71
+2,B001291,Brian,Babin,1948-03-23,M,R,412655,44883,114,House,TX,36,,R,,2,1325,27,1,13,307,95.58,,0,2.0,4.34

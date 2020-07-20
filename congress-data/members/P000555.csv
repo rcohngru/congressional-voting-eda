@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000555,Deborah,Pryce,1951-07-29,F,,400327,,110,House,OH,15,,R,,16,1873,402,1,9,174,89.89,,0,1.0,10.53
+1,P000555,Deborah,Pryce,1951-07-29,F,,400327,,109,House,OH,15,,R,,14,1214,46,0,23,145,95.14,,0,0.0,5.12
+2,P000555,Deborah,Pryce,1951-07-29,F,,400327,,108,House,OH,15,,R,,12,1221,54,0,25,140,96.02,,0,0.0,4.15
+3,P000555,Deborah,Pryce,1951-07-29,F,,400327,,107,House,OH,15,,R,,10,996,76,0,38,213,96.91,,0,0.0,3.53
+4,P000555,Deborah,Pryce,1951-07-29,F,,400327,,106,House,OH,15,,R,,8,1214,121,0,43,289,92.16,,0,0.0,8.12
+5,P000555,Deborah,Pryce,1951-07-29,F,,400327,,105,House,OH,15,,R,,6,1187,159,1,24,203,92.38,,0,0.0,8.22
+6,P000555,Deborah,Pryce,1951-07-29,F,,400327,,104,House,OH,15,,R,,4,1340,65,1,32,182,93.34,,0,0.0,7.95
+7,P000555,Deborah,Pryce,1951-07-29,F,,400327,,103,House,OH,15,,R,,2,1122,38,0,4,256,90.33,,0,0.0,8.91

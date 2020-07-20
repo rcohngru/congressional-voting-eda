@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,90,Senate,IA,,3,R,,23,,,,,,,,0,0.0,
+1,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,89,Senate,IA,,3,R,,21,,,,,,,,0,0.0,
+2,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,88,Senate,IA,,3,R,,19,,,,,,,,0,0.0,
+3,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,87,Senate,IA,,3,R,,17,,,,,,,,0,0.0,
+4,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,86,Senate,IA,,3,R,,15,,,,,,,,0,0.0,
+5,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,85,Senate,IA,,3,R,,13,,,,,,,,0,0.0,
+6,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,84,Senate,IA,,3,R,,11,,,,,,,,0,0.0,
+7,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,83,Senate,IA,,3,R,,9,,,,,,,,0,0.0,
+8,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,82,Senate,IA,,3,R,,7,,,,,,,,0,0.0,
+9,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,81,Senate,IA,,3,R,,5,,,,,,,,0,0.0,
+10,H000559,Bourke,Hickenlooper,1896-07-21,,,405421,,80,Senate,IA,,3,R,,3,,,,,,,,0,0.0,

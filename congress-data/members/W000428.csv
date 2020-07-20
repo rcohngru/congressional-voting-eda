@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000428,Jamie,Whitten,1910-04-18,M,,411587,,103,House,MS,1,,D,,54,1122,293,0,4,96,87.11,,0,0.0,11.9
+1,W000428,Jamie,Whitten,1910-04-18,M,,411587,,102,House,MS,1,,D,,52,933,175,1,,,86.62,,0,0.0,10.68
+2,W000428,Jamie,Whitten,1910-04-18,M,,411587,,101,House,MS,1,,D,,50,,,,,,,,0,0.0,
+3,W000428,Jamie,Whitten,1910-04-18,M,,411587,,100,House,MS,1,,D,,48,,,,,,,,0,0.0,
+4,W000428,Jamie,Whitten,1910-04-18,M,,411587,,99,House,MS,1,,D,,46,,,,,,,,0,0.0,
+5,W000428,Jamie,Whitten,1910-04-18,M,,411587,,98,House,MS,1,,D,,44,,,,,,,,0,0.0,

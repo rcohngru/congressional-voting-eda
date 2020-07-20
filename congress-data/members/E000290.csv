@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000290,Donna,Edwards,1958-06-28,F,D,412263,38535,114,House,MD,4,,D,,10,1325,45,3,10,353,97.87,,0,2.0,2.05
+1,E000290,Donna,Edwards,1958-06-28,F,D,412263,38535,113,House,MD,4,,D,,8,1204,41,1,13,295,93.84,,0,2.0,6.07
+2,E000290,Donna,Edwards,1958-06-28,F,D,412263,38535,112,House,MD,4,,D,,6,1607,20,4,9,234,93.86,,0,3.0,6.07
+3,E000290,Donna,Edwards,1958-06-28,F,D,412263,38535,111,House,MD,4,,D,,4,1655,14,6,12,419,96.51,,0,2.0,3.43
+4,E000290,Donna,Edwards,1958-06-28,F,D,412263,38535,110,House,MD,4,,D,,2,262,3,3,2,46,97.3,,0,0.0,2.7

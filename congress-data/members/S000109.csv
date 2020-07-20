@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000109,Dan,Schaefer,1936-01-25,M,,409618,,105,House,CO,6,,R,,16,1187,46,0,14,129,94.95,,0,0.0,5.5
+1,S000109,Dan,Schaefer,1936-01-25,M,,409618,,104,House,CO,6,,R,,14,1340,17,0,10,158,96.32,,0,0.0,4.93
+2,S000109,Dan,Schaefer,1936-01-25,M,,409618,,103,House,CO,6,,R,,12,1122,32,0,9,220,90.59,,0,0.0,8.65
+3,S000109,Dan,Schaefer,1936-01-25,M,,409618,,102,House,CO,6,,R,,10,933,12,0,,,87.71,,0,0.0,8.83
+4,S000109,Dan,Schaefer,1936-01-25,M,,409618,,101,House,CO,6,,R,,8,,,,,,,,0,0.0,
+5,S000109,Dan,Schaefer,1936-01-25,M,,409618,,100,House,CO,6,,R,,6,,,,,,,,0,0.0,
+6,S000109,Dan,Schaefer,1936-01-25,M,,409618,,99,House,IL,1,,D,,4,,,,,,,,0,0.0,
+7,S000109,Dan,Schaefer,1936-01-25,M,,409618,,98,House,IL,1,,D,,2,,,,,,,,0,0.0,

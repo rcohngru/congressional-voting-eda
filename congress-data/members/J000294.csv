@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000294,Hakeem,Jeffries,1970-08-04,M,D,412561,79612,116,House,NY,8,,D,House Democratic Caucus Chair,8,839,21,0,35,248,98.9,,2,2.0,0.98
+1,J000294,Hakeem,Jeffries,1970-08-04,M,D,412561,79612,115,House,NY,8,,D,,6,1211,45,2,14,415,97.09,,2,2.0,2.91
+2,J000294,Hakeem,Jeffries,1970-08-04,M,D,412561,79612,114,House,NY,8,,D,,4,1325,46,0,16,249,98.18,,0,2.0,1.74
+3,J000294,Hakeem,Jeffries,1970-08-04,M,D,412561,79612,113,House,NY,8,,D,,2,1204,32,1,16,223,95.01,,0,2.0,4.91

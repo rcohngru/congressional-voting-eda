@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000444,John,Porter,1935-06-01,M,,400604,,106,House,IL,10,,R,,22,1214,64,0,16,204,80.83,,0,0.0,19.43
+1,P000444,John,Porter,1935-06-01,M,,400604,,105,House,IL,10,,R,,20,1187,37,0,17,225,82.81,,0,0.0,17.73
+2,P000444,John,Porter,1935-06-01,M,,400604,,104,House,IL,10,,R,,18,1340,27,0,21,183,86.3,,0,0.0,14.88
+3,P000444,John,Porter,1935-06-01,M,,400604,,103,House,IL,10,,R,,16,1122,43,0,15,318,78.0,,0,0.0,21.33
+4,P000444,John,Porter,1935-06-01,M,,400604,,102,House,IL,10,,R,,14,933,37,1,,,77.55,,0,0.0,18.9
+5,P000444,John,Porter,1935-06-01,M,,400604,,101,House,IL,10,,R,,12,,,,,,,,0,0.0,
+6,P000444,John,Porter,1935-06-01,M,,400604,,100,House,IL,10,,R,,10,,,,,,,,0,0.0,
+7,P000444,John,Porter,1935-06-01,M,,400604,,99,House,IL,10,,R,,8,,,,,,,,0,0.0,
+8,P000444,John,Porter,1935-06-01,M,,400604,,98,House,IL,10,,R,,6,,,,,,,,0,0.0,

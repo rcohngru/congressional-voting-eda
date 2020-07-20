@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000436,Alan,Bible,1909-11-20,,,401422,,93,Senate,NV,,3,D,,19,,,,,,,,0,0.0,
+1,B000436,Alan,Bible,1909-11-20,,,401422,,92,Senate,NV,,3,D,,17,,,,,,,,0,0.0,
+2,B000436,Alan,Bible,1909-11-20,,,401422,,91,Senate,NV,,3,D,,15,,,,,,,,0,0.0,
+3,B000436,Alan,Bible,1909-11-20,,,401422,,90,Senate,NV,,3,D,,13,,,,,,,,0,0.0,
+4,B000436,Alan,Bible,1909-11-20,,,401422,,89,Senate,NV,,3,D,,11,,,,,,,,0,0.0,
+5,B000436,Alan,Bible,1909-11-20,,,401422,,88,Senate,NV,,3,D,,9,,,,,,,,0,0.0,
+6,B000436,Alan,Bible,1909-11-20,,,401422,,87,Senate,NV,,3,D,,7,,,,,,,,0,0.0,
+7,B000436,Alan,Bible,1909-11-20,,,401422,,86,Senate,NV,,3,D,,5,,,,,,,,0,0.0,
+8,B000436,Alan,Bible,1909-11-20,,,401422,,85,Senate,NV,,3,D,,3,,,,,,,,0,0.0,
+9,B000436,Alan,Bible,1909-11-20,,,401422,,84,Senate,NV,,3,D,,1,,,,,,,,0,0.0,
+10,B000436,Alan,Bible,1909-11-20,,,401422,,83,Senate,NV,,3,D,,1,,,,,,,,0,0.0,

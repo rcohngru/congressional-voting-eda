@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000153,Sam,Gibbons,1920-01-20,M,,404520,,104,House,FL,11,,D,,34,1340,221,2,9,89,88.31,,0,0.0,12.72
+1,G000153,Sam,Gibbons,1920-01-20,M,,404520,,103,House,FL,11,,D,,32,1122,72,0,19,125,90.67,,0,0.0,8.55
+2,G000153,Sam,Gibbons,1920-01-20,M,,404520,,102,House,FL,7,,D,,30,933,42,0,,,87.75,,0,0.0,9.71
+3,G000153,Sam,Gibbons,1920-01-20,M,,404520,,101,House,FL,7,,D,,28,,,,,,,,0,0.0,
+4,G000153,Sam,Gibbons,1920-01-20,M,,404520,,100,House,FL,7,,D,,26,,,,,,,,0,0.0,
+5,G000153,Sam,Gibbons,1920-01-20,M,,404520,,99,House,FL,7,,D,,24,,,,,,,,0,0.0,
+6,G000153,Sam,Gibbons,1920-01-20,M,,404520,,98,House,FL,7,,D,,22,,,,,,,,0,0.0,

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,104,House,CO,1,,D,,24,1340,40,3,19,207,88.92,,0,0.0,12.38
+1,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,103,House,CO,1,,D,,22,1122,16,1,38,264,81.22,,0,0.0,18.04
+2,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,102,House,CO,1,,D,,20,933,18,0,,,78.63,,0,0.0,18.56
+3,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,101,House,CO,1,,D,,18,,,,,,,,0,0.0,
+4,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,100,House,CO,1,,D,,16,,,,,,,,0,0.0,
+5,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,99,House,CO,1,,D,,14,,,,,,,,0,0.0,
+6,S000142,Patricia,Schroeder,1940-07-30,F,,409650,,98,House,CO,1,,D,,12,,,,,,,,0,0.0,

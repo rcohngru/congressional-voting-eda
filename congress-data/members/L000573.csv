@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000573,Raúl,Labrador,1967-12-08,M,R,412419,94987,115,House,ID,1,,R,,8,1211,173,0,9,108,93.71,,4,2.0,6.29
+1,L000573,Raúl,Labrador,1967-12-08,M,R,412419,94987,114,House,ID,1,,R,,6,1325,40,1,7,99,90.13,,0,2.0,9.8
+2,L000573,Raúl,Labrador,1967-12-08,M,R,412419,94987,113,House,ID,1,,R,,4,1204,50,1,8,136,90.08,,0,2.0,9.92
+3,L000573,Raúl,Labrador,1967-12-08,M,R,412419,94987,112,House,ID,1,,R,,2,1607,74,0,7,140,89.62,,0,2.0,10.32

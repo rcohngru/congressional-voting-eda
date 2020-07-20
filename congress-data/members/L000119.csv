@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000119,Gregory,Laughlin,1942-01-21,M,,406625,,104,House,TX,14,,R,,8,921,48,0,4,145,96.36,,0,0.0,4.47
+1,L000119,Gregory,Laughlin,1942-01-21,M,,406625,,104,House,TX,14,,D,,8,419,29,0,,,44.23,,0,0.0,57.97
+2,L000119,Gregory,Laughlin,1942-01-21,M,,406625,,103,House,TX,14,,D,,6,1122,109,0,3,160,80.59,,0,0.0,18.79
+3,L000119,Gregory,Laughlin,1942-01-21,M,,406625,,102,House,TX,14,,D,,4,933,72,0,,,77.69,,0,0.0,19.57
+4,L000119,Gregory,Laughlin,1942-01-21,M,,406625,,101,House,TX,14,,D,,2,,,,,,,,0,0.0,

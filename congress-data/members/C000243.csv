@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000243,Michael,Castle,1939-07-02,M,R,400070,70,111,House,DE,At-Large,,R,,18,1655,4,0,22,265,87.15,,0,2.0,12.78
+1,C000243,Michael,Castle,1939-07-02,M,R,400070,70,110,House,DE,At-Large,,R,,16,1873,8,0,27,241,82.55,,0,2.0,18.0
+2,C000243,Michael,Castle,1939-07-02,M,R,400070,70,109,House,DE,At-Large,,R,,14,1214,50,0,52,156,86.29,,0,0.0,13.97
+3,C000243,Michael,Castle,1939-07-02,M,R,400070,70,108,House,DE,At-Large,,R,,12,1221,20,0,19,107,88.4,,0,0.0,11.76
+4,C000243,Michael,Castle,1939-07-02,M,R,400070,70,107,House,DE,At-Large,,R,,10,996,2,0,32,117,90.08,,0,0.0,10.43
+5,C000243,Michael,Castle,1939-07-02,M,R,400070,70,106,House,DE,At-Large,,R,,8,1214,11,0,49,146,84.43,,0,0.0,15.74
+6,C000243,Michael,Castle,1939-07-02,M,R,400070,70,105,House,DE,At-Large,,R,,6,1187,8,1,33,125,80.52,,0,0.0,20.0
+7,C000243,Michael,Castle,1939-07-02,M,R,400070,70,104,House,DE,At-Large,,R,,4,1340,0,1,18,107,86.49,,0,0.0,14.75
+8,C000243,Michael,Castle,1939-07-02,M,R,400070,70,103,House,DE,At-Large,,R,,2,1122,6,0,12,233,85.87,,0,0.0,13.38

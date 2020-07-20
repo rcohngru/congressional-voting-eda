@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000536,Gilbert,Gutknecht,1951-03-20,M,,400164,,109,House,MN,1,,R,,12,1214,16,3,11,188,89.23,,0,0.0,11.03
+1,G000536,Gilbert,Gutknecht,1951-03-20,M,,400164,,108,House,MN,1,,R,,10,1221,47,0,2,171,91.76,,0,0.0,8.33
+2,G000536,Gilbert,Gutknecht,1951-03-20,M,,400164,,107,House,MN,1,,R,,8,996,11,0,3,170,89.16,,0,0.0,11.35
+3,G000536,Gilbert,Gutknecht,1951-03-20,M,,400164,,106,House,MN,1,,R,,6,1214,20,0,3,168,88.41,,0,0.0,11.76
+4,G000536,Gilbert,Gutknecht,1951-03-20,M,,400164,,105,House,MN,1,,R,,4,1187,15,0,6,124,91.4,,0,0.0,9.13
+5,G000536,Gilbert,Gutknecht,1951-03-20,M,,400164,,104,House,MN,1,,R,,2,1340,14,0,4,139,91.65,,0,0.0,9.6

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000603,David,Rouzer,1972-02-16,M,R,412641,79710,116,House,NC,7,,R,,6,839,9,0,6,217,95.15,,5,2.0,4.73
+1,R000603,David,Rouzer,1972-02-16,M,R,412641,79710,115,House,NC,7,,R,,4,1211,21,0,11,265,95.11,,6,3.0,4.89
+2,R000603,David,Rouzer,1972-02-16,M,R,412641,79710,114,House,NC,7,,R,,2,1325,2,0,10,252,95.89,,0,2.0,4.04

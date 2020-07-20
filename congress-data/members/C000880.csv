@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,116,Senate,ID,,3,R,,21,557,4,0,21,181,96.9,,12,5.0,3.1
+1,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,115,Senate,ID,,3,R,,19,599,5,0,31,195,96.77,,7,6.0,3.23
+2,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,114,Senate,ID,,3,R,,17,502,11,0,27,188,90.68,,0,6.0,9.32
+3,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,113,Senate,ID,,3,R,,15,657,7,0,8,242,91.07,,9,5.0,8.93
+4,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,112,Senate,ID,,3,R,,13,486,8,0,29,265,88.51,,0,0.0,11.49
+5,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,111,Senate,ID,,3,R,,11,696,10,0,36,237,94.08,,0,5.0,5.92
+6,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,110,Senate,ID,,3,R,,9,657,24,0,29,205,90.91,,0,4.0,9.09
+7,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,109,Senate,ID,,3,R,,7,645,4,0,30,181,94.66,,0,0.0,5.34
+8,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,108,Senate,ID,,3,R,,5,675,9,0,20,175,96.67,,0,0.0,3.33
+9,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,107,Senate,ID,,3,R,,3,633,32,0,23,169,95.31,,0,0.0,4.69
+10,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,106,Senate,ID,,3,R,,1,672,24,0,23,188,96.59,,0,0.0,3.41
+11,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,105,House,ID,2,,R,,6,1187,33,0,10,174,92.94,,0,0.0,7.6
+12,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,104,House,ID,2,,R,,4,1340,26,0,9,164,95.04,,0,0.0,6.14
+13,C000880,Michael,Crapo,1951-05-20,M,R,300030,26440,103,House,ID,2,,R,,2,1122,11,0,4,218,90.85,,0,0.0,8.4

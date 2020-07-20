@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000306,James,Kolbe,1942-06-28,M,,400226,,109,House,AZ,8,,R,,22,1214,61,1,18,114,91.57,,0,0.0,8.6
+1,K000306,James,Kolbe,1942-06-28,M,,400226,,108,House,AZ,8,,R,,20,1221,28,0,17,140,93.06,,0,0.0,7.11
+2,K000306,James,Kolbe,1942-06-28,M,,400226,,107,House,AZ,5,,R,,18,996,8,0,21,172,93.62,,0,0.0,6.89
+3,K000306,James,Kolbe,1942-06-28,M,,400226,,106,House,AZ,5,,R,,16,1214,46,0,16,250,89.43,,0,0.0,10.83
+4,K000306,James,Kolbe,1942-06-28,M,,400226,,105,House,AZ,5,,R,,14,1187,25,1,14,145,87.17,,0,0.0,13.27
+5,K000306,James,Kolbe,1942-06-28,M,,400226,,104,House,AZ,5,,R,,12,1340,13,0,2,124,91.03,,0,0.0,10.22
+6,K000306,James,Kolbe,1942-06-28,M,,400226,,103,House,AZ,5,,R,,10,1122,22,0,11,171,85.39,,0,0.0,13.85
+7,K000306,James,Kolbe,1942-06-28,M,,400226,,102,House,AZ,5,,R,,8,933,22,1,,,83.33,,0,0.0,13.29
+8,K000306,James,Kolbe,1942-06-28,M,,400226,,101,House,AZ,5,,R,,6,,,,,,,,0,0.0,
+9,K000306,James,Kolbe,1942-06-28,M,,400226,,100,House,AZ,5,,R,,4,,,,,,,,0,0.0,
+10,K000306,James,Kolbe,1942-06-28,M,,400226,,99,House,AZ,5,,R,,2,,,,,,,,0,0.0,

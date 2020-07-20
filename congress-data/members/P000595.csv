@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000595,Gary,Peters,1958-12-01,M,D,412305,50199,116,Senate,MI,,2,D,,5,557,1,1,80,458,95.17,,6,4.0,4.83
+1,P000595,Gary,Peters,1958-12-01,M,D,412305,50199,115,Senate,MI,,2,D,,3,599,5,1,41,389,92.14,,14,4.0,7.86
+2,P000595,Gary,Peters,1958-12-01,M,D,412305,50199,114,Senate,MI,,2,D,,1,502,7,0,26,266,96.92,,0,4.0,3.08
+3,P000595,Gary,Peters,1958-12-01,M,D,412305,50199,113,House,MI,14,,D,,6,1204,42,1,19,282,87.15,,0,1.0,12.76
+4,P000595,Gary,Peters,1958-12-01,M,D,412305,50199,112,House,MI,9,,D,,4,1607,51,1,13,265,89.82,,0,2.0,10.12
+5,P000595,Gary,Peters,1958-12-01,M,D,412305,50199,111,House,MI,9,,D,,2,1655,8,1,17,288,94.44,,0,2.0,5.5

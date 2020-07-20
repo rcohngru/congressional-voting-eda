@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000384,Tim,Kaine,1958-02-26,M,D,412582,49219,116,Senate,VA,,1,D,,7,557,12,1,32,400,94.5,,7,4.0,5.5
+1,K000384,Tim,Kaine,1958-02-26,M,D,412582,49219,115,Senate,VA,,1,D,,5,599,3,1,35,341,94.21,,9,4.0,5.79
+2,K000384,Tim,Kaine,1958-02-26,M,D,412582,49219,114,Senate,VA,,1,D,,3,502,16,0,21,166,93.1,,0,4.0,6.9
+3,K000384,Tim,Kaine,1958-02-26,M,D,412582,49219,113,Senate,VA,,1,D,,1,657,9,0,18,160,97.84,,0,3.0,2.16

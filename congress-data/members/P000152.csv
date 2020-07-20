@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000152,Lewis,Payne,1945-07-09,M,,408556,,104,House,VA,5,,D,,10,1340,29,0,2,160,75.38,,0,0.0,25.91
+1,P000152,Lewis,Payne,1945-07-09,M,,408556,,103,House,VA,5,,D,,8,1122,18,0,14,216,82.58,,0,0.0,16.67
+2,P000152,Lewis,Payne,1945-07-09,M,,408556,,102,House,VA,5,,D,,6,933,17,0,,,80.45,,0,0.0,16.63
+3,P000152,Lewis,Payne,1945-07-09,M,,408556,,101,House,TX,5,,D,,4,,,,,,,,0,0.0,
+4,P000152,Lewis,Payne,1945-07-09,M,,408556,,100,House,VA,5,,D,,2,,,,,,,,0,0.0,

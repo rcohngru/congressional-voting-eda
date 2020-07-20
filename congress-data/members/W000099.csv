@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000099,James,Walsh,1947-06-19,M,,400420,,110,House,NY,25,,R,,20,1873,105,3,8,324,85.03,,0,1.0,15.55
+1,W000099,James,Walsh,1947-06-19,M,,400420,,109,House,NY,25,,R,,18,1214,54,0,10,254,93.18,,0,0.0,7.09
+2,W000099,James,Walsh,1947-06-19,M,,400420,,108,House,NY,25,,R,,16,1221,32,0,15,282,95.43,,0,0.0,4.66
+3,W000099,James,Walsh,1947-06-19,M,,400420,,107,House,NY,25,,R,,14,996,32,0,7,254,95.68,,0,0.0,4.85
+4,W000099,James,Walsh,1947-06-19,M,,400420,,106,House,NY,25,,R,,12,1214,31,0,10,235,89.4,,0,0.0,10.86
+5,W000099,James,Walsh,1947-06-19,M,,400420,,105,House,NY,25,,R,,10,1187,21,1,8,245,89.04,,0,0.0,11.49
+6,W000099,James,Walsh,1947-06-19,M,,400420,,104,House,NY,25,,R,,8,1340,28,0,6,171,91.17,,0,0.0,10.01
+7,W000099,James,Walsh,1947-06-19,M,,400420,,103,House,NY,25,,R,,6,1122,22,0,5,457,82.22,,0,0.0,17.12
+8,W000099,James,Walsh,1947-06-19,M,,400420,,102,House,NY,27,,R,,6,933,19,0,,,74.78,,0,0.0,21.75
+9,W000099,James,Walsh,1947-06-19,M,,400420,,101,House,NY,27,,R,,2,,,,,,,,0,0.0,

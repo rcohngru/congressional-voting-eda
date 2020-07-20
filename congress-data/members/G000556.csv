@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000556,Alan,Grayson,1958-03-13,M,D,412276,1013409,114,House,FL,9,,D,,4,1325,54,2,106,291,94.76,,0,2.0,5.08
+1,G000556,Alan,Grayson,1958-03-13,M,D,412276,1013409,113,House,FL,9,,D,,2,1204,35,1,96,259,94.14,,0,2.0,5.78
+2,G000556,Alan,Grayson,1958-03-13,M,D,412276,1013409,111,House,FL,8,,D,,2,1655,40,2,21,396,98.07,,0,2.0,1.87

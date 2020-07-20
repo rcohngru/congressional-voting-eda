@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000878,Carroll,Hubbard,1937-07-07,,,405724,,102,House,KY,1,,D,,18,933,65,0,,,73.58,,0,0.0,23.82
+1,H000878,Carroll,Hubbard,1937-07-07,,,405724,,101,House,KY,1,,D,,16,,,,,,,,0,0.0,
+2,H000878,Carroll,Hubbard,1937-07-07,,,405724,,100,House,KY,1,,D,,14,,,,,,,,0,0.0,
+3,H000878,Carroll,Hubbard,1937-07-07,,,405724,,99,House,KY,1,,D,,12,,,,,,,,0,0.0,
+4,H000878,Carroll,Hubbard,1937-07-07,,,405724,,98,House,KY,1,,D,,10,,,,,,,,0,0.0,

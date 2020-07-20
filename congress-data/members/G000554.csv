@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000554,Gabrielle,Giffords,1970-06-08,F,D,412188,1021830,112,House,AZ,8,,D,,6,960,947,0,0,0,90.0,,0,2.0,0.0
+1,G000554,Gabrielle,Giffords,1970-06-08,F,D,412188,1021830,111,House,AZ,8,,D,,4,1655,27,1,36,367,87.64,,0,3.0,12.3
+2,G000554,Gabrielle,Giffords,1970-06-08,F,D,412188,1021830,110,House,AZ,8,,D,,2,1873,54,0,19,320,92.3,,0,3.0,8.2

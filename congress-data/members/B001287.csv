@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001287,Ami,Bera,1965-03-02,M,D,412512,1033636,116,House,CA,7,,D,,8,839,3,0,15,322,98.2,,3,2.0,1.68
+1,B001287,Ami,Bera,1965-03-02,M,D,412512,1033636,115,House,CA,7,,D,,6,1211,1,0,12,230,93.3,,4,2.0,6.7
+2,B001287,Ami,Bera,1965-03-02,M,D,412512,1033636,114,House,CA,7,,D,,4,1325,18,0,10,161,92.03,,0,2.0,7.89
+3,B001287,Ami,Bera,1965-03-02,M,D,412512,1033636,113,House,CA,7,,D,,2,1204,6,0,6,236,89.39,,0,2.0,10.52

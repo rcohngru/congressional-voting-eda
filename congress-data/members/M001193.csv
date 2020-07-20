@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001193,Tom,MacArthur,1960-10-16,M,R,412643,76315,115,House,NJ,3,,R,,4,1211,13,0,25,300,90.6,,2,1.0,9.4
+1,M001193,Tom,MacArthur,1960-10-16,M,R,412643,76315,114,House,NJ,3,,R,,2,1325,20,0,16,168,88.96,,0,2.0,10.97

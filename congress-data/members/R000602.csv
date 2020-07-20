@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000602,Kathleen,Rice,1965-02-15,F,D,412647,76332,116,House,NY,4,,D,,6,839,31,0,24,505,97.15,,4,2.0,2.73
+1,R000602,Kathleen,Rice,1965-02-15,F,D,412647,76332,115,House,NY,4,,D,,4,1211,68,2,23,424,95.07,,4,2.0,4.93
+2,R000602,Kathleen,Rice,1965-02-15,F,D,412647,76332,114,House,NY,4,,D,,2,1325,62,0,13,303,93.53,,0,2.0,6.39

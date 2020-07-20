@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000058,William,Tauzin,1943-06-14,M,,400397,,108,House,LA,3,,R,,26,1221,423,0,11,85,98.35,,0,0.0,1.9
+1,T000058,William,Tauzin,1943-06-14,M,,400397,,107,House,LA,3,,R,,24,996,32,0,30,117,99.16,,0,0.0,1.37
+2,T000058,William,Tauzin,1943-06-14,M,,400397,,106,House,LA,3,,R,,22,1214,50,0,10,166,95.63,,0,0.0,4.55
+3,T000058,William,Tauzin,1943-06-14,M,,400397,,105,House,LA,3,,R,,20,1187,59,0,20,121,95.16,,0,0.0,5.39
+4,T000058,William,Tauzin,1943-06-14,M,,400397,,104,House,LA,3,,D,,18,635,32,0,11,114,39.15,,0,0.0,62.81
+5,T000058,William,Tauzin,1943-06-14,M,,400397,,104,House,LA,3,,R,,18,705,42,0,,,95.25,,0,0.0,5.36
+6,T000058,William,Tauzin,1943-06-14,M,,400397,,103,House,LA,3,,D,,16,1122,51,0,55,211,66.34,,0,0.0,32.98
+7,T000058,William,Tauzin,1943-06-14,M,,400397,,102,House,LA,3,,D,,14,933,60,0,,,70.67,,0,0.0,26.38
+8,T000058,William,Tauzin,1943-06-14,M,,400397,,101,House,LA,3,,D,,12,,,,,,,,0,0.0,
+9,T000058,William,Tauzin,1943-06-14,M,,400397,,100,House,LA,3,,D,,10,,,,,,,,0,0.0,
+10,T000058,William,Tauzin,1943-06-14,M,,400397,,99,House,LA,3,,D,,8,,,,,,,,0,0.0,
+11,T000058,William,Tauzin,1943-06-14,M,,400397,,98,House,LA,3,,D,,6,,,,,,,,0,0.0,

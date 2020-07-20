@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000568,Morgan,Griffith,1958-03-15,M,R,412485,62766,116,House,VA,9,,R,,10,839,22,0,28,130,90.52,,3,2.0,9.36
+1,G000568,Morgan,Griffith,1958-03-15,M,R,412485,62766,115,House,VA,9,,R,,8,1211,20,2,31,173,93.25,,3,1.0,6.75
+2,G000568,Morgan,Griffith,1958-03-15,M,R,412485,62766,114,House,VA,9,,R,,6,1325,13,4,26,150,90.25,,0,1.0,9.68
+3,G000568,Morgan,Griffith,1958-03-15,M,R,412485,62766,113,House,VA,9,,R,,4,1204,9,0,14,149,90.34,,0,1.0,9.58
+4,G000568,Morgan,Griffith,1958-03-15,M,R,412485,62766,112,House,VA,9,,R,,2,1607,26,1,7,152,89.74,,0,1.0,10.2

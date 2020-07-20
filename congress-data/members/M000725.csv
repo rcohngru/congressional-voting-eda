@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000725,George,Miller,1945-05-17,M,D,400278,622,113,House,CA,11,,D,,40,1204,105,0,30,266,91.57,,0,1.0,8.34
+1,M000725,George,Miller,1945-05-17,M,D,400278,622,112,House,CA,7,,D,,38,1607,74,1,13,261,92.52,,0,1.0,7.41
+2,M000725,George,Miller,1945-05-17,M,D,400278,622,111,House,CA,7,,D,,36,1655,63,4,33,388,97.73,,0,2.0,2.21
+3,M000725,George,Miller,1945-05-17,M,D,400278,622,110,House,CA,7,,D,,34,1873,149,1,47,501,98.0,,0,2.0,2.35
+4,M000725,George,Miller,1945-05-17,M,D,400278,622,109,House,CA,7,,D,,32,1214,38,3,31,484,92.68,,0,0.0,7.49
+5,M000725,George,Miller,1945-05-17,M,D,400278,622,108,House,CA,7,,D,,30,1221,86,5,32,512,92.49,,0,0.0,7.6
+6,M000725,George,Miller,1945-05-17,M,D,400278,622,107,House,CA,7,,D,,28,996,84,2,27,558,87.33,,0,0.0,13.23
+7,M000725,George,Miller,1945-05-17,M,D,400278,622,106,House,CA,7,,D,,26,1210,76,3,30,417,85.98,,0,0.0,14.29
+8,M000725,George,Miller,1945-05-17,M,D,400278,622,105,House,CA,7,,D,,24,1187,98,1,27,318,86.6,,0,0.0,13.88
+9,M000725,George,Miller,1945-05-17,M,D,400278,622,104,House,CA,7,,D,,22,1340,71,1,22,242,91.23,,0,0.0,10.02
+10,M000725,George,Miller,1945-05-17,M,D,400278,622,103,House,CA,7,,D,,20,1122,82,0,24,358,91.45,,0,0.0,7.85
+11,M000725,George,Miller,1945-05-17,M,D,400278,622,102,House,CA,7,,D,,18,933,56,0,,,89.78,,0,0.0,7.4
+12,M000725,George,Miller,1945-05-17,M,D,400278,622,101,House,CA,7,,D,,16,,,,,,,,0,0.0,
+13,M000725,George,Miller,1945-05-17,M,D,400278,622,100,House,CA,7,,D,,14,,,,,,,,0,0.0,
+14,M000725,George,Miller,1945-05-17,M,D,400278,622,99,House,CA,7,,D,,12,,,,,,,,0,0.0,
+15,M000725,George,Miller,1945-05-17,M,D,400278,622,98,House,CA,7,,D,,10,,,,,,,,0,0.0,

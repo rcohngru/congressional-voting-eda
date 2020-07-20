@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000597,Nick,Smith,1934-11-05,M,,400382,,108,House,MI,7,,R,,12,1221,79,0,20,148,92.57,,0,0.0,7.6
+1,S000597,Nick,Smith,1934-11-05,M,,400382,,107,House,MI,7,,R,,10,996,56,0,36,108,92.33,,0,0.0,8.1
+2,S000597,Nick,Smith,1934-11-05,M,,400382,,106,House,MI,7,,R,,8,1214,61,2,36,123,91.33,,0,0.0,8.94
+3,S000597,Nick,Smith,1934-11-05,M,,400382,,105,House,MI,7,,R,,6,1187,28,1,38,145,89.81,,0,0.0,10.73
+4,S000597,Nick,Smith,1934-11-05,M,,400382,,104,House,MI,7,,R,,4,1340,37,1,18,99,90.4,,0,0.0,10.79
+5,S000597,Nick,Smith,1934-11-05,M,,400382,,103,House,MI,7,,R,,2,1122,39,0,15,131,87.77,,0,0.0,11.46

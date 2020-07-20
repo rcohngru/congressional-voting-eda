@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000360,Everett,Dirksen,1896-01-04,,,403477,,91,Senate,IL,,3,R,,19,,,,,,,,0,0.0,
+1,D000360,Everett,Dirksen,1896-01-04,,,403477,,90,Senate,IL,,3,R,,17,,,,,,,,0,0.0,
+2,D000360,Everett,Dirksen,1896-01-04,,,403477,,89,Senate,IL,,3,R,,15,,,,,,,,0,0.0,
+3,D000360,Everett,Dirksen,1896-01-04,,,403477,,88,Senate,IL,,3,R,,13,,,,,,,,0,0.0,
+4,D000360,Everett,Dirksen,1896-01-04,,,403477,,87,Senate,IL,,3,R,,11,,,,,,,,0,0.0,
+5,D000360,Everett,Dirksen,1896-01-04,,,403477,,86,Senate,IL,,3,R,,9,,,,,,,,0,0.0,
+6,D000360,Everett,Dirksen,1896-01-04,,,403477,,85,Senate,IL,,3,R,,7,,,,,,,,0,0.0,
+7,D000360,Everett,Dirksen,1896-01-04,,,403477,,84,Senate,IL,,3,R,,5,,,,,,,,0,0.0,
+8,D000360,Everett,Dirksen,1896-01-04,,,403477,,83,Senate,IL,,3,R,,3,,,,,,,,0,0.0,
+9,D000360,Everett,Dirksen,1896-01-04,,,403477,,82,Senate,IL,,3,R,,2,,,,,,,,0,0.0,

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,115,House,NM,2,,R,,8,1211,82,0,23,254,93.24,,4,2.0,6.76
+1,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,114,House,NM,2,,R,,6,1325,72,0,15,250,94.61,,0,1.0,5.31
+2,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,113,House,NM,2,,R,,4,1204,18,0,19,324,92.38,,0,1.0,7.54
+3,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,112,House,NM,2,,R,,2,1607,36,0,23,243,92.43,,0,1.0,7.5
+4,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,110,House,NM,2,,R,,6,1873,58,0,35,259,95.25,,0,2.0,5.26
+5,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,109,House,NM,2,,R,,4,1214,28,0,28,198,95.8,,0,0.0,4.46
+6,P000588,Steve,Pearce,1947-08-24,M,R,400313,12063,108,House,NM,2,,R,,2,1221,35,0,11,160,97.02,,0,0.0,3.15

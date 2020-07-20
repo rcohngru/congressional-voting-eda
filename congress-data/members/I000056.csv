@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,115,House,CA,49,,R,,18,1211,102,0,36,155,96.74,,6,3.0,3.26
+1,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,114,House,CA,49,,R,,16,1325,48,3,21,98,95.19,,0,2.0,4.73
+2,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,113,House,CA,49,,R,,14,1204,13,2,41,117,96.04,,0,2.0,3.87
+3,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,112,House,CA,49,,R,,12,1607,35,0,35,159,96.47,,0,2.0,3.46
+4,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,111,House,CA,49,,R,,10,1655,36,1,25,307,94.55,,0,2.0,5.39
+5,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,110,House,CA,49,,R,,8,1873,79,2,28,354,94.77,,0,3.0,5.8
+6,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,109,House,CA,49,,R,,6,1214,55,0,33,287,95.62,,0,0.0,4.65
+7,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,108,House,CA,49,,R,,4,1221,45,0,19,182,97.42,,0,0.0,2.75
+8,I000056,Darrell,Issa,1953-11-01,M,R,400196,90066,107,House,CA,48,,R,,2,996,30,0,15,214,97.37,,0,0.0,3.16

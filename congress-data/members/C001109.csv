@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001109,Liz,Cheney,1966-07-28,F,R,412732,86147,116,House,WY,At-Large,,R,House Republican Conference Chair,4,839,32,0,29,130,93.63,,3,2.0,6.24
+1,C001109,Liz,Cheney,1966-07-28,F,R,412732,86147,115,House,WY,At-Large,,R,,2,1211,53,0,28,103,96.79,,5,3.0,3.21

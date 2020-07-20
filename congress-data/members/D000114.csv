@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000114,James,Davis,1957-10-11,M,,400094,,109,House,FL,11,,D,,10,1214,301,0,7,201,94.21,,0,0.0,6.01
+1,D000114,James,Davis,1957-10-11,M,,400094,,108,House,FL,11,,D,,8,1221,54,0,9,217,93.65,,0,0.0,6.44
+2,D000114,James,Davis,1957-10-11,M,,400094,,107,House,FL,11,,D,,6,996,25,0,1,184,91.92,,0,0.0,8.5
+3,D000114,James,Davis,1957-10-11,M,,400094,,106,House,FL,11,,D,,4,1214,26,0,3,173,91.28,,0,0.0,8.97
+4,D000114,James,Davis,1957-10-11,M,,400094,,105,House,FL,11,,D,,2,1187,22,0,4,101,87.23,,0,0.0,13.04

@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,116,House,TX,18,,D,,26,839,23,0,63,1073,98.65,,5,3.0,1.23
+1,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,115,House,TX,18,,D,,24,1211,36,2,65,779,96.42,,4,3.0,3.58
+2,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,114,House,TX,18,,D,,22,1325,164,0,76,487,96.08,,0,2.0,3.83
+3,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,113,House,TX,18,,D,,20,1204,90,1,56,507,93.85,,0,2.0,6.06
+4,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,112,House,TX,18,,D,,18,1607,151,1,50,406,92.26,,0,2.0,7.67
+5,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,111,House,TX,18,,D,,16,1655,103,1,65,694,97.73,,0,3.0,2.2
+6,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,110,House,TX,18,,D,,14,1873,98,2,67,1089,97.94,,0,3.0,2.57
+7,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,109,House,TX,18,,D,,12,1214,79,1,51,839,93.03,,0,0.0,7.24
+8,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,108,House,TX,18,,D,,10,1221,70,3,34,709,93.9,,0,0.0,6.28
+9,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,107,House,TX,18,,D,,8,996,36,1,40,488,93.83,,0,0.0,6.7
+10,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,106,House,TX,18,,D,,6,1214,77,3,22,448,93.32,,0,0.0,6.86
+11,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,105,House,TX,18,,D,,4,1187,30,2,9,358,92.06,,0,0.0,8.48
+12,J000032,Sheila,Jackson Lee,1950-01-12,F,D,400199,36819,104,House,TX,18,,D,,2,1340,39,2,5,177,94.81,,0,0.0,6.49

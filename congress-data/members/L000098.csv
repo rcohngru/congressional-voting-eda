@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000098,Larry,LaRocco,1946-08-25,M,,406605,,103,House,ID,1,,D,,4,1122,16,1,29,148,89.54,,0,0.0,9.71
+1,L000098,Larry,LaRocco,1946-08-25,M,,406605,,102,House,ID,1,,D,,2,933,14,0,,,87.01,,0,0.0,10.19

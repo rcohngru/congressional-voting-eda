@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001035,Katherine,Harris,1957-04-05,F,,400167,,109,House,FL,13,,R,,4,1214,124,0,19,334,91.91,,0,0.0,8.37
+1,H001035,Katherine,Harris,1957-04-05,F,,400167,,108,House,FL,13,,R,,2,1221,30,0,5,216,97.63,,0,0.0,2.54

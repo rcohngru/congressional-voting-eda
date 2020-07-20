@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000586,Adam,Putnam,1974-07-31,M,R,400328,87910,111,House,FL,12,,R,,10,1655,168,0,12,238,93.51,,0,1.0,6.42
+1,P000586,Adam,Putnam,1974-07-31,M,R,400328,87910,110,House,FL,12,,R,,8,1873,68,1,21,259,96.3,,0,1.0,4.21
+2,P000586,Adam,Putnam,1974-07-31,M,R,400328,87910,109,House,FL,12,,R,,6,1214,9,0,31,213,97.39,,0,0.0,2.87
+3,P000586,Adam,Putnam,1974-07-31,M,R,400328,87910,108,House,FL,12,,R,,4,1221,43,0,6,186,97.86,,0,0.0,2.31
+4,P000586,Adam,Putnam,1974-07-31,M,R,400328,87910,107,House,FL,12,,R,,2,996,41,0,4,152,98.51,,0,0.0,2.02

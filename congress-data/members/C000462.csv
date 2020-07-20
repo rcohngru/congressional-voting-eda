@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000462,James,Clarke,1917-06-12,M,,402600,,101,House,NC,11,,D,,6,,,,,,,,0,0.0,
+1,C000462,James,Clarke,1917-06-12,M,,402600,,100,House,NC,11,,D,,4,,,,,,,,0,0.0,
+2,C000462,James,Clarke,1917-06-12,M,,402600,,98,House,NC,11,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000557,John,Larson,1948-07-22,M,D,400233,36596,116,House,CT,1,,D,,22,839,8,0,16,336,99.52,,2,1.0,0.36
+1,L000557,John,Larson,1948-07-22,M,D,400233,36596,115,House,CT,1,,D,,20,1211,62,1,8,326,97.32,,2,1.0,2.68
+2,L000557,John,Larson,1948-07-22,M,D,400233,36596,114,House,CT,1,,D,,18,1325,58,0,14,271,96.96,,0,2.0,2.96
+3,L000557,John,Larson,1948-07-22,M,D,400233,36596,113,House,CT,1,,D,,16,1204,28,1,19,279,96.23,,0,1.0,3.69
+4,L000557,John,Larson,1948-07-22,M,D,400233,36596,112,House,CT,1,,D,,14,1607,75,1,32,251,95.17,,0,1.0,4.76
+5,L000557,John,Larson,1948-07-22,M,D,400233,36596,111,House,CT,1,,D,,12,1655,94,0,36,296,98.84,,0,1.0,1.09
+6,L000557,John,Larson,1948-07-22,M,D,400233,36596,110,House,CT,1,,D,,10,1873,106,0,24,345,99.31,,0,2.0,1.15
+7,L000557,John,Larson,1948-07-22,M,D,400233,36596,109,House,CT,1,,D,,8,1214,113,0,14,293,96.04,,0,0.0,4.15
+8,L000557,John,Larson,1948-07-22,M,D,400233,36596,108,House,CT,1,,D,,6,1221,56,0,25,242,95.45,,0,0.0,4.72
+9,L000557,John,Larson,1948-07-22,M,D,400233,36596,107,House,CT,1,,D,,4,996,27,1,10,217,94.43,,0,0.0,5.99
+10,L000557,John,Larson,1948-07-22,M,D,400233,36596,106,House,CT,1,,D,,2,1214,43,4,10,234,94.98,,0,0.0,5.19

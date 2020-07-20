@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,116,Senate,NM,,2,D,,12,555,12,1,62,290,92.59,,14,7.0,7.41
+1,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,115,Senate,NM,,2,D,,10,599,6,1,46,322,94.01,,18,7.0,5.99
+2,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,114,Senate,NM,,2,D,,8,502,4,0,53,208,96.32,,0,7.0,3.68
+3,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,113,Senate,NM,,2,D,,6,657,2,0,54,220,98.17,,7,5.0,1.83
+4,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,112,Senate,NM,,2,D,,4,486,13,0,25,195,97.45,,0,0.0,2.55
+5,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,111,Senate,NM,,2,D,,2,696,6,0,27,192,96.65,,0,5.0,3.35
+6,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,110,House,NM,3,,D,,10,1873,81,0,27,220,98.64,,0,1.0,1.93
+7,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,109,House,NM,3,,D,,8,1214,35,0,25,261,93.73,,0,0.0,6.53
+8,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,108,House,NM,3,,D,,6,1221,3,0,23,341,94.32,,0,0.0,5.85
+9,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,107,House,NM,3,,D,,4,996,3,0,23,336,89.41,,0,0.0,11.1
+10,U000039,Tom,Udall,1948-05-18,M,D,400413,10075,106,House,NM,3,,D,,2,1214,38,0,22,259,89.81,,0,0.0,10.45

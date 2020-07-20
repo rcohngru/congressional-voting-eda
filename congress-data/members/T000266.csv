@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000266,John,Tierney,1951-09-18,M,D,400407,37546,113,House,MA,6,,D,,18,1204,40,1,15,378,93.43,,0,2.0,6.49
+1,T000266,John,Tierney,1951-09-18,M,D,400407,37546,112,House,MA,6,,D,,16,1607,49,1,14,239,94.66,,0,2.0,5.28
+2,T000266,John,Tierney,1951-09-18,M,D,400407,37546,111,House,MA,6,,D,,14,1655,54,2,6,253,97.61,,0,3.0,2.33
+3,T000266,John,Tierney,1951-09-18,M,D,400407,37546,110,House,MA,6,,D,,12,1873,51,1,9,338,98.38,,0,3.0,2.17
+4,T000266,John,Tierney,1951-09-18,M,D,400407,37546,109,House,MA,6,,D,,10,1214,18,3,9,299,93.38,,0,0.0,6.87
+5,T000266,John,Tierney,1951-09-18,M,D,400407,37546,108,House,MA,6,,D,,8,1221,29,5,8,336,94.62,,0,0.0,5.55
+6,T000266,John,Tierney,1951-09-18,M,D,400407,37546,107,House,MA,6,,D,,6,996,18,2,9,364,93.53,,0,0.0,6.99
+7,T000266,John,Tierney,1951-09-18,M,D,400407,37546,106,House,MA,6,,D,,4,1214,37,3,10,383,90.45,,0,0.0,9.72
+8,T000266,John,Tierney,1951-09-18,M,D,400407,37546,105,House,MA,6,,D,,2,1187,25,1,2,215,91.69,,0,0.0,8.85

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000229,Herbert,Bateman,1928-08-07,M,,400569,,106,House,VA,1,,R,,18,1070,52,6,10,102,92.37,,0,0.0,7.93
+1,B000229,Herbert,Bateman,1928-08-07,M,,400569,,105,House,VA,1,,R,,16,1187,114,1,6,109,93.76,,0,0.0,6.81
+2,B000229,Herbert,Bateman,1928-08-07,M,,400569,,104,House,VA,1,,R,,14,1340,131,6,9,91,93.15,,0,0.0,8.13
+3,B000229,Herbert,Bateman,1928-08-07,M,,400569,,103,House,VA,1,,R,,12,1122,58,0,9,359,79.05,,0,0.0,20.17
+4,B000229,Herbert,Bateman,1928-08-07,M,,400569,,102,House,VA,1,,R,,10,933,23,6,,,77.29,,0,0.0,19.44
+5,B000229,Herbert,Bateman,1928-08-07,M,,400569,,101,House,VA,1,,R,,8,,,,,,,,0,0.0,
+6,B000229,Herbert,Bateman,1928-08-07,M,,400569,,100,House,VA,1,,R,,6,,,,,,,,0,0.0,
+7,B000229,Herbert,Bateman,1928-08-07,M,,400569,,99,House,VA,1,,R,,4,,,,,,,,0,0.0,
+8,B000229,Herbert,Bateman,1928-08-07,M,,400569,,98,House,VA,1,,R,,2,,,,,,,,0,0.0,

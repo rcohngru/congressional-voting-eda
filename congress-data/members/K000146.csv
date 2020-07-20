@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000146,J. Robert,Kerrey,1943-08-27,M,,400561,,106,Senate,NE,,1,D,,11,672,7,0,19,277,89.77,,0,0.0,10.23
+1,K000146,J. Robert,Kerrey,1943-08-27,M,,400561,,105,Senate,NE,,1,D,,9,612,7,0,17,149,88.4,,0,0.0,11.6
+2,K000146,J. Robert,Kerrey,1943-08-27,M,,400561,,104,Senate,NE,,1,D,,7,916,22,0,14,86,85.19,,0,0.0,14.81
+3,K000146,J. Robert,Kerrey,1943-08-27,M,,400561,,103,Senate,NE,,1,D,,5,724,9,0,7,113,85.65,,0,0.0,14.35
+4,K000146,J. Robert,Kerrey,1943-08-27,M,,400561,,102,Senate,NE,,1,D,,3,550,105,2,,,88.3,,0,0.0,11.7
+5,K000146,J. Robert,Kerrey,1943-08-27,M,,400561,,101,Senate,NE,,1,D,,1,638,2,0,,,,,0,0.0,

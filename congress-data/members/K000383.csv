@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000383,Angus,King,1944-03-31,M,ID,412545,37413,116,Senate,ME,,1,ID,,7,557,0,0,23,414,90.33,,6,4.0,9.67
+1,K000383,Angus,King,1944-03-31,M,ID,412545,37413,115,Senate,ME,,1,ID,,5,599,0,0,28,413,87.12,,7,5.0,12.88
+2,K000383,Angus,King,1944-03-31,M,ID,412545,37413,114,Senate,ME,,1,ID,,3,502,11,0,26,203,90.04,,0,5.0,9.96
+3,K000383,Angus,King,1944-03-31,M,ID,412545,37413,113,Senate,ME,,1,ID,,1,657,5,0,15,213,95.4,,0,4.0,4.6

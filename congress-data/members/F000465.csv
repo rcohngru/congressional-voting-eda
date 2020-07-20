@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000465,A.,Ferguson,1966-11-15,M,R,412700,104731,116,House,GA,3,,R,,4,839,7,0,2,140,92.74,,2,1.0,7.13
+1,F000465,A.,Ferguson,1966-11-15,M,R,412700,104731,115,House,GA,3,,R,,2,1211,6,0,10,190,98.5,,5,3.0,1.5

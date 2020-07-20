@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000585,Todd,Platts,1962-03-05,M,R,400321,87190,112,House,PA,19,,R,,12,1607,57,0,9,295,87.91,,0,3.0,12.02
+1,P000585,Todd,Platts,1962-03-05,M,R,400321,87190,111,House,PA,19,,R,,10,1655,68,0,28,545,89.27,,0,4.0,10.67
+2,P000585,Todd,Platts,1962-03-05,M,R,400321,87190,110,House,PA,19,,R,,8,1873,47,1,19,567,86.28,,0,3.0,14.11
+3,P000585,Todd,Platts,1962-03-05,M,R,400321,87190,109,House,PA,19,,R,,6,1214,34,0,23,402,86.75,,0,0.0,13.51
+4,P000585,Todd,Platts,1962-03-05,M,R,400321,87190,108,House,PA,19,,R,,4,1221,43,0,20,361,93.4,,0,0.0,6.77
+5,P000585,Todd,Platts,1962-03-05,M,R,400321,87190,107,House,PA,19,,R,,2,996,50,0,13,379,92.47,,0,0.0,8.06

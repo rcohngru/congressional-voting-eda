@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000592,Corinne,Boggs,1916-03-13,F,,401560,,101,House,LA,2,,D,,18,,,,,,,,0,0.0,
+1,B000592,Corinne,Boggs,1916-03-13,F,,401560,,100,House,LA,2,,D,,16,,,,,,,,0,0.0,
+2,B000592,Corinne,Boggs,1916-03-13,F,,401560,,99,House,LA,2,,D,,14,,,,,,,,0,0.0,
+3,B000592,Corinne,Boggs,1916-03-13,F,,401560,,98,House,LA,2,,D,,12,,,,,,,,0,0.0,

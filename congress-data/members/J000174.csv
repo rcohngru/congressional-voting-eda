@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,115,House,TX,3,,R,,28,1211,182,0,42,157,98.34,,2,2.0,1.66
+1,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,114,House,TX,3,,R,,26,1325,126,0,35,183,96.55,,0,2.0,3.36
+2,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,113,House,TX,3,,R,,24,1204,69,0,23,160,96.55,,0,1.0,3.36
+3,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,112,House,TX,3,,R,,22,1607,91,0,37,214,95.61,,0,2.0,4.32
+4,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,111,House,TX,3,,R,,20,1655,108,0,11,275,94.56,,0,1.0,5.37
+5,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,110,House,TX,3,,R,,18,1873,200,2,8,303,93.01,,0,1.0,7.48
+6,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,109,House,TX,3,,R,,16,1214,115,0,20,262,92.29,,0,0.0,7.81
+7,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,108,House,TX,3,,R,,14,1221,61,1,20,175,94.09,,0,0.0,6.09
+8,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,107,House,TX,3,,R,,12,996,44,0,23,164,94.87,,0,0.0,5.66
+9,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,106,House,TX,3,,R,,10,1214,53,0,19,211,92.18,,0,0.0,8.08
+10,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,105,House,TX,3,,R,,8,1184,85,0,14,227,93.63,,0,0.0,6.93
+11,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,104,House,TX,3,,R,,6,1340,28,0,4,191,95.19,,0,0.0,6.08
+12,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,103,House,TX,3,,R,,4,1122,32,0,6,232,89.44,,0,0.0,9.8
+13,J000174,Sam,Johnson,1930-10-11,M,R,400206,18711,102,House,TX,3,,R,,2,828,32,1,,,81.99,,0,0.0,14.64

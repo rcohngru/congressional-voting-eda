@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000511,Frank,Guarini,1924-08-20,M,,404856,,102,House,NJ,14,,D,,14,927,59,0,,,88.49,,0,0.0,8.9
+1,G000511,Frank,Guarini,1924-08-20,M,,404856,,101,House,NJ,14,,D,,12,,,,,,,,0,0.0,
+2,G000511,Frank,Guarini,1924-08-20,M,,404856,,100,House,NJ,14,,D,,10,,,,,,,,0,0.0,
+3,G000511,Frank,Guarini,1924-08-20,M,,404856,,99,House,NJ,14,,D,,8,,,,,,,,0,0.0,
+4,G000511,Frank,Guarini,1924-08-20,M,,404856,,98,House,NJ,14,,D,,6,,,,,,,,0,0.0,

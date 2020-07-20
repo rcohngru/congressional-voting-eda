@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,113,Senate,NJ,,2,D,,29,139,106,0,32,97,96.97,,14,3.0,3.03
+1,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,112,Senate,NJ,,2,D,,27,486,37,0,66,291,96.19,,0,3.0,3.81
+2,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,111,Senate,NJ,,2,D,,25,696,18,0,68,304,98.22,,0,3.0,1.78
+3,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,110,Senate,NJ,,2,D,,23,657,16,0,63,412,96.85,,0,4.0,3.15
+4,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,109,Senate,NJ,,2,D,,21,645,15,0,79,483,94.36,,0,0.0,5.64
+5,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,108,Senate,NJ,,2,D,,19,675,19,0,28,448,94.24,,0,0.0,5.76
+6,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,106,Senate,NJ,,1,D,,17,672,23,0,48,247,93.68,,0,0.0,6.32
+7,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,105,Senate,NJ,,1,D,,15,612,4,0,47,198,93.81,,0,0.0,6.19
+8,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,104,Senate,NJ,,1,D,,13,916,8,0,36,115,91.24,,0,0.0,8.76
+9,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,103,Senate,NJ,,1,D,,11,724,5,0,65,247,85.73,,0,0.0,14.27
+10,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,102,Senate,NJ,,1,D,,9,550,0,0,,,88.29,,0,0.0,11.71
+11,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,101,Senate,NJ,,1,D,,7,638,5,0,,,,,0,0.0,
+12,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,100,Senate,NJ,,1,D,,5,,,,,,,,0,0.0,
+13,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,99,Senate,NJ,,1,D,,3,,,,,,,,0,0.0,
+14,L000123,Frank,Lautenberg,1924-01-23,M,D,300064,2515,98,Senate,NJ,,1,D,,1,,,,,,,,0,0.0,

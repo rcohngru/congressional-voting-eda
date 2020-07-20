@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000349,Willis,Gradison,1928-12-28,M,,404705,,103,House,OH,2,,R,,20,11,0,0,0,1,70.0,,0,0.0,10.0
+1,G000349,Willis,Gradison,1928-12-28,M,,404705,,102,House,OH,2,,R,,18,933,33,0,,,79.22,,0,0.0,17.35
+2,G000349,Willis,Gradison,1928-12-28,M,,404705,,101,House,OH,2,,R,,16,,,,,,,,0,0.0,
+3,G000349,Willis,Gradison,1928-12-28,M,,404705,,100,House,OH,2,,R,,14,,,,,,,,0,0.0,
+4,G000349,Willis,Gradison,1928-12-28,M,,404705,,99,House,OH,2,,R,,12,,,,,,,,0,0.0,
+5,G000349,Willis,Gradison,1928-12-28,M,,404705,,98,House,OH,2,,R,,10,,,,,,,,0,0.0,

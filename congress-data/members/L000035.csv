@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,111,Senate,AR,,3,D,,11,696,31,0,81,265,83.66,,0,4.0,16.34
+1,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,110,Senate,AR,,3,D,,9,657,23,0,36,329,90.11,,0,4.0,9.89
+2,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,109,Senate,AR,,3,D,,7,645,6,0,43,277,88.24,,0,0.0,11.76
+3,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,108,Senate,AR,,3,D,,5,675,8,0,40,249,88.02,,0,0.0,11.98
+4,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,107,Senate,AR,,3,D,,3,633,5,0,41,276,85.11,,0,0.0,14.89
+5,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,106,Senate,AR,,3,D,,1,672,4,0,21,256,88.17,,0,0.0,11.83
+6,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,104,House,AR,1,,D,,4,1340,251,0,14,122,72.12,,0,0.0,29.33
+7,L000035,Blanche,Lincoln,1960-09-30,F,D,300068,26202,103,House,AR,1,,D,,2,1122,19,0,13,118,86.82,,0,0.0,12.43

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001059,Randy,Hultgren,1966-03-01,M,R,412422,62575,115,House,IL,14,,R,,8,1211,70,0,23,256,97.8,,4,2.0,2.2
+1,H001059,Randy,Hultgren,1966-03-01,M,R,412422,62575,114,House,IL,14,,R,,6,1325,27,0,16,172,96.74,,0,2.0,3.18
+2,H001059,Randy,Hultgren,1966-03-01,M,R,412422,62575,113,House,IL,14,,R,,4,1204,16,0,12,188,96.28,,0,2.0,3.63
+3,H001059,Randy,Hultgren,1966-03-01,M,R,412422,62575,112,House,IL,14,,R,,2,1607,5,0,14,305,93.71,,0,3.0,6.23

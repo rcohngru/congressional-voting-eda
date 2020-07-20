@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000472,John,McHugh,1948-09-29,M,,400264,,111,House,NY,23,,R,,18,719,53,0,15,165,77.4,,0,2.0,22.44
+1,M000472,John,McHugh,1948-09-29,M,,400264,,110,House,NY,23,,R,,16,1873,28,3,27,452,85.04,,0,3.0,15.46
+2,M000472,John,McHugh,1948-09-29,M,,400264,,109,House,NY,23,,R,,14,1214,38,1,18,391,92.31,,0,0.0,7.94
+3,M000472,John,McHugh,1948-09-29,M,,400264,,108,House,NY,23,,R,,12,1221,22,0,14,361,93.36,,0,0.0,6.81
+4,M000472,John,McHugh,1948-09-29,M,,400264,,107,House,NY,24,,R,,10,996,48,0,5,363,95.93,,0,0.0,4.61
+5,M000472,John,McHugh,1948-09-29,M,,400264,,106,House,NY,24,,R,,8,1214,23,1,9,356,91.52,,0,0.0,8.73
+6,M000472,John,McHugh,1948-09-29,M,,400264,,105,House,NY,24,,R,,6,1187,31,0,3,262,90.2,,0,0.0,10.33
+7,M000472,John,McHugh,1948-09-29,M,,400264,,104,House,NY,24,,R,,4,1340,34,1,5,203,92.95,,0,0.0,8.23
+8,M000472,John,McHugh,1948-09-29,M,,400264,,103,House,NY,24,,R,,2,1122,22,0,1,342,91.32,,0,0.0,7.92

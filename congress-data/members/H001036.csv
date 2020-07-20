@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,115,House,TX,5,,R,,16,1211,17,0,3,133,97.98,,6,1.0,2.02
+1,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,114,House,TX,5,,R,,14,1325,15,0,2,198,97.46,,0,1.0,2.46
+2,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,113,House,TX,5,,R,,12,1204,14,0,0,130,96.2,,0,1.0,3.71
+3,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,112,House,TX,5,,R,,10,1607,3,0,20,148,94.66,,0,1.0,5.28
+4,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,111,House,TX,5,,R,,8,1655,34,0,14,263,93.05,,0,2.0,6.89
+5,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,110,House,TX,5,,R,,6,1873,32,2,16,285,91.22,,0,2.0,9.33
+6,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,109,House,TX,5,,R,,4,1214,5,2,10,197,89.41,,0,0.0,10.84
+7,H001036,Jeb,Hensarling,1957-05-29,M,R,400175,1003619,108,House,TX,5,,R,,2,1221,31,0,4,140,92.88,,0,0.0,7.29

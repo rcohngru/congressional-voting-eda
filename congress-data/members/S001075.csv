@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001075,Donald,Sundquist,1936-03-15,M,,410529,,103,House,TN,7,,R,,12,1122,195,0,13,272,87.86,,0,0.0,11.47
+1,S001075,Donald,Sundquist,1936-03-15,M,,410529,,102,House,TN,7,,R,,10,933,62,0,,,86.89,,0,0.0,9.68
+2,S001075,Donald,Sundquist,1936-03-15,M,,410529,,101,House,TN,7,,R,,8,,,,,,,,0,0.0,
+3,S001075,Donald,Sundquist,1936-03-15,M,,410529,,100,House,TN,7,,R,,6,,,,,,,,0,0.0,
+4,S001075,Donald,Sundquist,1936-03-15,M,,410529,,99,House,TN,7,,R,,4,,,,,,,,0,0.0,
+5,S001075,Donald,Sundquist,1936-03-15,M,,410529,,98,House,TN,7,,R,,2,,,,,,,,0,0.0,

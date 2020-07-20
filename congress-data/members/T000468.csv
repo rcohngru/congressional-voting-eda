@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000468,Dina,Titus,1950-05-23,F,D,412318,1021622,116,House,NV,1,,D,,8,839,27,0,21,449,98.64,,7,3.0,1.23
+1,T000468,Dina,Titus,1950-05-23,F,D,412318,1021622,115,House,NV,1,,D,,6,1211,94,2,16,430,96.41,,5,2.0,3.59
+2,T000468,Dina,Titus,1950-05-23,F,D,412318,1021622,114,House,NV,1,,D,,4,1325,74,0,23,248,96.37,,0,2.0,3.55
+3,T000468,Dina,Titus,1950-05-23,F,D,412318,1021622,113,House,NV,1,,D,,2,1204,7,1,26,323,95.62,,0,2.0,4.29
+4,T000468,Dina,Titus,1950-05-23,F,D,412318,1021622,111,House,NV,3,,D,,2,1655,12,0,16,341,96.94,,0,3.0,3.0

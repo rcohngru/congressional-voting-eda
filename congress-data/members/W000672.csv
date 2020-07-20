@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,113,House,VA,10,,R,,34,1204,24,0,11,206,91.66,,0,1.0,8.26
+1,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,112,House,VA,10,,R,,32,1607,8,1,16,226,88.78,,0,1.0,11.15
+2,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,111,House,VA,10,,R,,30,1655,9,0,10,489,91.68,,0,1.0,8.26
+3,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,110,House,VA,10,,R,,28,1873,29,3,14,525,89.29,,0,1.0,11.21
+4,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,109,House,VA,10,,R,,26,1214,16,1,12,357,92.79,,0,0.0,7.46
+5,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,108,House,VA,10,,R,,24,1221,12,0,14,292,94.82,,0,0.0,5.34
+6,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,107,House,VA,10,,R,,22,996,11,0,11,297,96.18,,0,0.0,4.33
+7,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,106,House,VA,10,,R,,20,1214,10,1,15,259,91.87,,0,0.0,8.38
+8,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,105,House,VA,10,,R,,18,1187,15,1,10,208,92.17,,0,0.0,8.36
+9,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,104,House,VA,10,,R,,16,1340,13,2,17,147,90.02,,0,0.0,11.23
+10,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,103,House,VA,10,,R,,14,1122,9,0,12,309,89.57,,0,0.0,9.68
+11,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,102,House,VA,10,,R,,12,933,9,1,,,85.98,,0,0.0,10.68
+12,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,101,House,VA,10,,R,,10,,,,,,,,0,0.0,
+13,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,100,House,VA,10,,R,,8,,,,,,,,0,0.0,
+14,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,99,House,VA,10,,R,,6,,,,,,,,0,0.0,
+15,W000672,Frank,Wolf,1939-01-30,M,R,400435,7508,98,House,VA,10,,R,,4,,,,,,,,0,0.0,

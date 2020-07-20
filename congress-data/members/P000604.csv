@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000604,Donald,Payne,1958-12-17,M,D,412506,65639,116,House,NJ,10,,D,,10,839,80,0,20,557,98.55,,5,2.0,1.32
+1,P000604,Donald,Payne,1958-12-17,M,D,412506,65639,115,House,NJ,10,,D,,8,1211,99,3,19,530,97.41,,4,2.0,2.59
+2,P000604,Donald,Payne,1958-12-17,M,D,412506,65639,114,House,NJ,10,,D,,6,1325,248,1,16,252,96.72,,0,2.0,3.19
+3,P000604,Donald,Payne,1958-12-17,M,D,412506,65639,113,House,NJ,10,,D,,4,1204,40,2,13,364,95.06,,0,2.0,4.85
+4,P000604,Donald,Payne,1958-12-17,M,D,412506,65639,112,House,NJ,10,,D,,2,54,1,0,0,4,98.11,,0,0.0,1.89

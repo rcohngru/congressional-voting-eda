@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,116,House,TN,5,,D,,18,839,16,1,5,372,96.95,,4,3.0,3.05
+1,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,115,House,TN,5,,D,,16,1211,6,1,8,217,89.68,,4,2.0,10.32
+2,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,114,House,TN,5,,D,,14,1325,21,0,7,125,87.12,,0,2.0,12.8
+3,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,113,House,TN,5,,D,,12,1204,21,1,7,177,88.24,,0,2.0,11.68
+4,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,112,House,TN,5,,D,,10,1607,12,1,8,126,80.32,,0,2.0,19.62
+5,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,111,House,TN,5,,D,,8,1655,28,2,7,177,89.98,,0,2.0,9.96
+6,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,110,House,TN,5,,D,,6,1873,56,0,14,209,91.33,,0,3.0,9.23
+7,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,109,House,TN,5,,D,,4,1214,29,0,14,199,84.6,,0,0.0,15.65
+8,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,108,House,TN,5,,D,,2,1221,27,0,12,270,90.23,,0,0.0,9.86
+9,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,103,House,TN,4,,D,,12,1122,81,0,9,198,75.6,,0,0.0,23.71
+10,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,102,House,TN,4,,D,,10,933,14,23,,,80.25,,0,0.0,16.95
+11,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,101,House,TN,4,,D,,8,,,,,,,,0,0.0,
+12,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,100,House,TN,4,,D,,6,,,,,,,,0,0.0,
+13,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,99,House,TN,4,,D,,4,,,,,,,,0,0.0,
+14,C000754,Jim,Cooper,1954-06-19,M,D,400081,1201,98,House,TN,4,,D,,2,,,,,,,,0,0.0,

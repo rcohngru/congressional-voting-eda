@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000584,Mia,Love,1975-12-06,F,R,412656,67205,115,House,UT,4,,R,,4,1211,78,0,22,212,96.18,,3,1.0,3.82
+1,L000584,Mia,Love,1975-12-06,F,R,412656,67205,114,House,UT,4,,R,,2,1325,25,0,11,127,95.81,,0,2.0,4.11

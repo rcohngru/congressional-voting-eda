@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000284,J. James,Exon,1921-08-09,M,,403962,,104,Senate,NE,,2,D,,17,916,22,1,21,83,82.06,,0,0.0,17.94
+1,E000284,J. James,Exon,1921-08-09,M,,403962,,103,Senate,NE,,2,D,,15,724,6,1,20,140,81.21,,0,0.0,18.79
+2,E000284,J. James,Exon,1921-08-09,M,,403962,,102,Senate,NE,,2,D,,13,550,5,1,,,81.09,,0,0.0,18.91
+3,E000284,J. James,Exon,1921-08-09,M,,403962,,101,Senate,NE,,2,D,,11,638,13,0,,,,,0,0.0,
+4,E000284,J. James,Exon,1921-08-09,M,,403962,,100,Senate,NE,,2,D,,9,,,,,,,,0,0.0,
+5,E000284,J. James,Exon,1921-08-09,M,,403962,,99,Senate,NE,,2,D,,7,,,,,,,,0,0.0,
+6,E000284,J. James,Exon,1921-08-09,M,,403962,,98,Senate,NE,,2,D,,5,,,,,,,,0,0.0,
+7,E000284,J. James,Exon,1921-08-09,M,,403962,,97,Senate,NE,,2,D,,3,,,,,,,,0,0.0,
+8,E000284,J. James,Exon,1921-08-09,M,,403962,,96,Senate,NE,,2,D,,1,,,,,,,,0,0.0,

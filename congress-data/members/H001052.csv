@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001052,Andy,Harris,1957-01-25,M,R,412434,1033464,116,House,MD,1,,R,,10,839,11,0,1,179,84.65,,2,1.0,15.23
+1,H001052,Andy,Harris,1957-01-25,M,R,412434,1033464,115,House,MD,1,,R,,8,1211,32,0,5,217,94.12,,3,1.0,5.88
+2,H001052,Andy,Harris,1957-01-25,M,R,412434,1033464,114,House,MD,1,,R,,6,1325,16,0,7,156,93.54,,0,2.0,6.38
+3,H001052,Andy,Harris,1957-01-25,M,R,412434,1033464,113,House,MD,1,,R,,4,1204,20,0,13,254,94.66,,0,4.0,5.25
+4,H001052,Andy,Harris,1957-01-25,M,R,412434,1033464,112,House,MD,1,,R,,2,1607,14,0,7,294,89.06,,0,3.0,10.88

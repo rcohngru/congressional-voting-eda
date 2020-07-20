@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,116,House,FL,23,,D,,16,839,26,0,19,514,99.14,,5,2.0,0.74
+1,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,115,House,FL,23,,D,,14,1211,76,2,12,585,96.75,,3,2.0,3.25
+2,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,114,House,FL,23,,D,,12,1325,110,0,8,205,97.5,,0,1.0,2.41
+3,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,113,House,FL,23,,D,,10,1204,90,0,7,242,94.03,,0,2.0,5.88
+4,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,112,House,FL,20,,D,,8,1607,104,1,8,197,95.81,,0,2.0,4.12
+5,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,111,House,FL,20,,D,,6,1655,77,1,12,437,98.98,,0,2.0,0.96
+6,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,110,House,FL,20,,D,,4,1873,59,1,7,432,98.94,,0,2.0,1.62
+7,W000797,Debbie,Wasserman Schultz,1966-09-27,F,D,400623,86882,109,House,FL,20,,D,,2,1214,44,0,6,396,94.79,,0,0.0,5.47

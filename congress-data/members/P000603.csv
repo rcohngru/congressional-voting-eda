@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000603,Rand,Paul,1963-01-07,M,R,412492,9265241,116,Senate,KY,,3,R,,9,557,48,0,57,123,79.8,,8,4.0,20.2
+1,P000603,Rand,Paul,1963-01-07,M,R,412492,9265241,115,Senate,KY,,3,R,,7,599,21,0,52,118,80.28,,7,4.0,19.72
+2,P000603,Rand,Paul,1963-01-07,M,R,412492,9265241,114,Senate,KY,,3,R,,5,502,24,1,61,101,76.33,,0,4.0,23.67
+3,P000603,Rand,Paul,1963-01-07,M,R,412492,9265241,113,Senate,KY,,3,R,,3,657,18,0,50,120,87.24,,4,4.0,12.76
+4,P000603,Rand,Paul,1963-01-07,M,R,412492,9265241,112,Senate,KY,,3,R,,1,486,21,3,50,140,74.34,,0,4.0,25.66

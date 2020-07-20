@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000494,Eva,Clayton,1934-09-16,F,,400532,,107,House,NC,1,,D,,12,996,55,4,9,341,95.12,,0,0.0,5.42
+1,C000494,Eva,Clayton,1934-09-16,F,,400532,,106,House,NC,1,,D,,10,1214,44,5,7,352,94.55,,0,0.0,5.62
+2,C000494,Eva,Clayton,1934-09-16,F,,400532,,105,House,NC,1,,D,,8,1187,66,2,4,275,92.93,,0,0.0,7.53
+3,C000494,Eva,Clayton,1934-09-16,F,,400532,,104,House,NC,1,,D,,6,1340,37,1,2,240,94.18,,0,0.0,7.03
+4,C000494,Eva,Clayton,1934-09-16,F,,400532,,103,House,NC,1,,D,,4,1122,41,3,5,325,92.45,,0,0.0,6.79

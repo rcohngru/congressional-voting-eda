@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001246,Jeb,Bradley,1952-10-20,M,,400045,,109,House,NH,1,,R,,4,1214,2,0,24,256,88.35,,0,0.0,11.9
+1,B001246,Jeb,Bradley,1952-10-20,M,,400045,,108,House,NH,1,,R,,2,1221,27,0,13,240,94.17,,0,0.0,6.0

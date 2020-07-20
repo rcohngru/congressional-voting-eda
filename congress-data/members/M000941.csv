@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000941,Constance,Morella,1931-02-12,F,,400524,,107,House,MD,8,,R,,16,996,33,0,45,528,81.73,,0,0.0,18.8
+1,M000941,Constance,Morella,1931-02-12,F,,400524,,106,House,MD,8,,R,,14,1214,39,1,36,547,74.94,,0,0.0,25.33
+2,M000941,Constance,Morella,1931-02-12,F,,400524,,105,House,MD,8,,R,,12,1187,28,1,43,405,69.84,,0,0.0,30.69
+3,M000941,Constance,Morella,1931-02-12,F,,400524,,104,House,MD,8,,R,,10,1340,42,1,31,269,72.57,,0,0.0,28.71
+4,M000941,Constance,Morella,1931-02-12,F,,400524,,103,House,MD,8,,R,,8,1122,22,0,28,463,63.02,,0,0.0,36.23
+5,M000941,Constance,Morella,1931-02-12,F,,400524,,102,House,MD,8,,R,,6,933,34,0,,,61.97,,0,0.0,34.59
+6,M000941,Constance,Morella,1931-02-12,F,,400524,,101,House,MD,8,,R,,4,,,,,,,,0,0.0,
+7,M000941,Constance,Morella,1931-02-12,F,,400524,,100,House,MD,8,,R,,2,,,,,,,,0,0.0,

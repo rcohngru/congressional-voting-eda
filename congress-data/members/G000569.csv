@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000569,Mike,Grimm,1970-02-07,M,R,412451,62667,114,House,NY,11,,R,,6,,,,0,0,,,0,0.0,
+1,G000569,Mike,Grimm,1970-02-07,M,R,412451,62667,113,House,NY,11,,R,,4,1204,87,0,31,317,89.04,,0,1.0,10.87
+2,G000569,Mike,Grimm,1970-02-07,M,R,412451,62667,112,House,NY,13,,R,,2,1607,26,0,28,337,89.55,,0,1.0,10.39

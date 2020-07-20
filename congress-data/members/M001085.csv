@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001085,Frank,Murkowski,1933-03-28,M,,300150,,107,Senate,AK,,3,R,,21,633,49,0,37,161,95.01,,0,0.0,4.99
+1,M001085,Frank,Murkowski,1933-03-28,M,,300150,,106,Senate,AK,,3,R,,19,672,29,0,79,245,96.56,,0,0.0,3.44
+2,M001085,Frank,Murkowski,1933-03-28,M,,300150,,105,Senate,AK,,3,R,,17,612,23,0,72,198,94.69,,0,0.0,5.31
+3,M001085,Frank,Murkowski,1933-03-28,M,,300150,,104,Senate,AK,,3,R,,15,916,36,0,47,137,95.09,,0,0.0,4.91
+4,M001085,Frank,Murkowski,1933-03-28,M,,300150,,103,Senate,AK,,3,R,,13,724,56,0,33,235,90.84,,0,0.0,9.16
+5,M001085,Frank,Murkowski,1933-03-28,M,,300150,,102,Senate,AK,,3,R,,11,550,23,0,,,90.4,,0,0.0,9.6
+6,M001085,Frank,Murkowski,1933-03-28,M,,300150,,101,Senate,AK,,3,R,,9,638,21,0,,,,,0,0.0,
+7,M001085,Frank,Murkowski,1933-03-28,M,,300150,,100,Senate,AK,,3,R,,7,,,,,,,,0,0.0,
+8,M001085,Frank,Murkowski,1933-03-28,M,,300150,,99,Senate,AK,,3,R,,5,,,,,,,,0,0.0,
+9,M001085,Frank,Murkowski,1933-03-28,M,,300150,,98,Senate,AK,,3,R,,3,,,,,,,,0,0.0,
+10,M001085,Frank,Murkowski,1933-03-28,M,,300150,,97,Senate,AK,,3,R,,1,,,,,,,,0,0.0,

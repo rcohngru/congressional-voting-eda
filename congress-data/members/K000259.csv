@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,108,House,WI,4,,D,,22,1221,98,0,14,206,95.29,,0,0.0,4.89
+1,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,107,House,WI,4,,D,,20,996,36,0,12,244,94.79,,0,0.0,5.74
+2,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,106,House,WI,4,,D,,18,1214,24,1,13,251,90.61,,0,0.0,9.64
+3,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,105,House,WI,4,,D,,16,1187,22,0,12,249,87.8,,0,0.0,12.56
+4,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,104,House,WI,4,,D,,14,1340,74,0,10,173,85.87,,0,0.0,15.3
+5,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,103,House,WI,4,,D,,12,1122,36,0,11,233,92.5,,0,0.0,6.84
+6,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,102,House,WI,4,,D,,10,933,46,0,,,92.69,,0,0.0,4.29
+7,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,101,House,WI,4,,D,,8,,,,,,,,0,0.0,
+8,K000259,Gerald,Kleczka,1943-11-26,M,,400223,,100,House,WI,4,,D,,6,,,,,,,,0,0.0,

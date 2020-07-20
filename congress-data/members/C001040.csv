@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001040,Lincoln,Chafee,1953-03-26,M,,300020,,109,Senate,RI,,3,R,,7,645,20,0,8,222,62.32,,0,0.0,37.68
+1,C001040,Lincoln,Chafee,1953-03-26,M,,300020,,108,Senate,RI,,3,R,,5,675,7,0,10,152,78.88,,0,0.0,21.12
+2,C001040,Lincoln,Chafee,1953-03-26,M,,300020,,107,Senate,RI,,3,R,,3,633,1,0,12,194,70.86,,0,0.0,29.14
+3,C001040,Lincoln,Chafee,1953-03-26,M,,300020,,106,Senate,RI,,1,R,,1,319,0,0,11,184,68.77,,0,0.0,31.23

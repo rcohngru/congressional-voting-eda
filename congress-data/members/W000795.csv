@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,116,House,SC,2,,R,,20,839,27,0,18,244,94.78,,4,2.0,5.09
+1,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,115,House,SC,2,,R,,18,1211,15,0,28,257,98.32,,6,3.0,1.68
+2,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,114,House,SC,2,,R,,16,1325,22,0,12,228,97.91,,0,3.0,2.01
+3,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,113,House,SC,2,,R,,14,1204,35,0,7,282,96.31,,0,3.0,3.61
+4,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,112,House,SC,2,,R,,12,1607,27,0,32,342,95.34,,0,3.0,4.59
+5,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,111,House,SC,2,,R,,10,1655,22,0,25,521,97.2,,0,3.0,2.73
+6,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,110,House,SC,2,,R,,8,1873,23,1,34,506,94.83,,0,3.0,5.73
+7,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,109,House,SC,2,,R,,6,1214,44,0,30,485,94.7,,0,0.0,5.56
+8,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,108,House,SC,2,,R,,4,1221,32,0,46,497,96.26,,0,0.0,3.9
+9,W000795,Joe,Wilson,1947-07-31,M,R,400433,1002567,107,House,SC,2,,R,,2,493,3,0,16,280,97.33,,0,0.0,2.88

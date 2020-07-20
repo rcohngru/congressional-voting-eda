@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001188,Marlin,Stutzman,1976-08-31,M,R,412392,9267685,114,House,IN,3,,R,,8,1325,91,1,5,105,94.78,,0,2.0,5.14
+1,S001188,Marlin,Stutzman,1976-08-31,M,R,412392,9267685,113,House,IN,3,,R,,6,1204,34,0,9,157,94.25,,0,1.0,5.67
+2,S001188,Marlin,Stutzman,1976-08-31,M,R,412392,9267685,112,House,IN,3,,R,,4,1607,42,0,12,192,91.82,,0,3.0,8.11
+3,S001188,Marlin,Stutzman,1976-08-31,M,R,412392,9267685,111,House,IN,3,,R,,2,94,4,0,0,0,94.32,,0,0.0,5.68

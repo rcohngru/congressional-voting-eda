@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000615,Jeffrey,Duncan,1966-01-07,M,R,412472,62713,116,House,SC,3,,R,,10,839,13,0,14,197,90.35,,3,1.0,9.52
+1,D000615,Jeffrey,Duncan,1966-01-07,M,R,412472,62713,115,House,SC,3,,R,,8,1211,91,0,10,300,95.07,,3,3.0,4.93
+2,D000615,Jeffrey,Duncan,1966-01-07,M,R,412472,62713,114,House,SC,3,,R,,6,1325,47,0,6,278,93.85,,0,3.0,6.07
+3,D000615,Jeffrey,Duncan,1966-01-07,M,R,412472,62713,113,House,SC,3,,R,,4,1204,2,0,12,325,91.65,,0,3.0,8.27
+4,D000615,Jeffrey,Duncan,1966-01-07,M,R,412472,62713,112,House,SC,3,,R,,2,1607,10,2,16,356,92.3,,0,3.0,7.63

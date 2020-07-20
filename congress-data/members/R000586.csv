@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000586,Jim,Renacci,1958-12-03,M,R,412462,62686,115,House,OH,16,,R,,8,1211,150,0,21,248,94.22,,2,2.0,5.78
+1,R000586,Jim,Renacci,1958-12-03,M,R,412462,62686,114,House,OH,16,,R,,6,1325,15,0,20,189,93.31,,0,2.0,6.62
+2,R000586,Jim,Renacci,1958-12-03,M,R,412462,62686,113,House,OH,16,,R,,4,1204,7,0,11,195,92.45,,0,3.0,7.47
+3,R000586,Jim,Renacci,1958-12-03,M,R,412462,62686,112,House,OH,16,,R,,2,1607,16,0,9,135,91.71,,0,1.0,8.23

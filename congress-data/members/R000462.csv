@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,112,House,NJ,9,,D,,16,1607,91,1,17,399,95.19,,0,1.0,4.75
+1,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,111,House,NJ,9,,D,,14,1655,54,1,12,593,99.25,,0,2.0,0.69
+2,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,110,House,NJ,9,,D,,12,1873,91,0,20,655,98.69,,0,2.0,1.88
+3,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,109,House,NJ,9,,D,,10,1214,79,0,15,472,94.81,,0,0.0,5.46
+4,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,108,House,NJ,9,,D,,8,1221,61,1,13,298,94.13,,0,0.0,6.05
+5,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,107,House,NJ,9,,D,,6,996,77,0,13,290,93.33,,0,0.0,7.22
+6,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,106,House,NJ,9,,D,,4,1214,35,0,14,314,91.67,,0,0.0,8.51
+7,R000462,Steven,Rothman,1952-10-14,M,D,400346,45112,105,House,NJ,9,,D,,2,1187,41,1,10,266,91.42,,0,0.0,9.12

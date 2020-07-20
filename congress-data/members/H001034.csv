@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,114,House,CA,17,,D,,16,1325,23,0,53,629,96.19,,0,1.0,3.73
+1,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,113,House,CA,17,,D,,14,1204,93,1,36,661,92.48,,0,1.0,7.43
+2,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,112,House,CA,15,,D,,12,1607,78,2,39,492,92.9,,0,2.0,7.03
+3,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,111,House,CA,15,,D,,10,1655,67,3,20,669,96.64,,0,1.0,3.3
+4,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,110,House,CA,15,,D,,8,1873,121,1,22,835,97.63,,0,2.0,2.72
+5,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,109,House,CA,15,,D,,6,1209,27,1,13,597,94.18,,0,0.0,6.08
+6,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,108,House,CA,15,,D,,4,1221,64,0,15,442,94.29,,0,0.0,5.88
+7,H001034,Michael,Honda,1941-06-27,M,D,400185,85565,107,House,CA,15,,D,,2,996,19,1,6,421,92.06,,0,0.0,8.46

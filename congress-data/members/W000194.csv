@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000194,Wes,Watkins,1938-12-15,M,,400540,,107,House,OK,3,,R,,20,996,55,0,19,184,98.38,,0,0.0,2.05
+1,W000194,Wes,Watkins,1938-12-15,M,,400540,,106,House,OK,3,,R,,18,1214,66,0,16,226,94.85,,0,0.0,5.42
+2,W000194,Wes,Watkins,1938-12-15,M,,400540,,105,House,OK,3,,R,,16,1187,43,0,10,198,96.05,,0,0.0,4.49
+3,W000194,Wes,Watkins,1938-12-15,M,,400540,,101,House,OK,3,,D,,14,,,,,,,,0,0.0,
+4,W000194,Wes,Watkins,1938-12-15,M,,400540,,100,House,OK,3,,D,,12,,,,,,,,0,0.0,
+5,W000194,Wes,Watkins,1938-12-15,M,,400540,,99,House,OK,3,,D,,10,,,,,,,,0,0.0,
+6,W000194,Wes,Watkins,1938-12-15,M,,400540,,98,House,OK,3,,D,,8,,,,,,,,0,0.0,

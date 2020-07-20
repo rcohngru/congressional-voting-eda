@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000448,Bill,Hefner,1930-04-11,M,,405313,,105,House,NC,8,,D,,24,1187,168,0,1,134,90.57,,0,0.0,10.04
+1,H000448,Bill,Hefner,1930-04-11,M,,405313,,104,House,NC,8,,D,,22,1340,75,0,1,111,85.77,,0,0.0,15.39
+2,H000448,Bill,Hefner,1930-04-11,M,,405313,,103,House,NC,8,,D,,20,1122,51,0,4,225,91.73,,0,0.0,7.6
+3,H000448,Bill,Hefner,1930-04-11,M,,405313,,102,House,NC,8,,D,,18,933,189,0,,,88.81,,0,0.0,8.7
+4,H000448,Bill,Hefner,1930-04-11,M,,405313,,101,House,NC,8,,D,,16,,,,,,,,0,0.0,
+5,H000448,Bill,Hefner,1930-04-11,M,,405313,,100,House,NC,8,,D,,14,,,,,,,,0,0.0,
+6,H000448,Bill,Hefner,1930-04-11,M,,405313,,99,House,NC,8,,D,,12,,,,,,,,0,0.0,
+7,H000448,Bill,Hefner,1930-04-11,M,,405313,,98,House,NC,8,,D,,10,,,,,,,,0,0.0,

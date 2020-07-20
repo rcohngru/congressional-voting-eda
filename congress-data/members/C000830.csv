@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000830,Christopher,Cox,1952-10-16,M,,400083,,109,House,CA,48,,R,,18,453,58,0,12,71,93.37,,0,0.0,6.63
+1,C000830,Christopher,Cox,1952-10-16,M,,400083,,108,House,CA,48,,R,,16,1221,94,0,26,164,95.35,,0,0.0,4.74
+2,C000830,Christopher,Cox,1952-10-16,M,,400083,,107,House,CA,47,,R,,14,996,98,0,20,132,95.14,,0,0.0,5.32
+3,C000830,Christopher,Cox,1952-10-16,M,,400083,,106,House,CA,47,,R,,12,1214,109,0,21,193,91.52,,0,0.0,8.76
+4,C000830,Christopher,Cox,1952-10-16,M,,400083,,105,House,CA,47,,R,,10,1187,83,0,8,166,91.6,,0,0.0,8.96
+5,C000830,Christopher,Cox,1952-10-16,M,,400083,,104,House,CA,47,,R,,8,1340,66,0,17,176,96.19,,0,0.0,5.03
+6,C000830,Christopher,Cox,1952-10-16,M,,400083,,103,House,CA,47,,R,,6,1122,79,0,26,380,90.35,,0,0.0,8.86
+7,C000830,Christopher,Cox,1952-10-16,M,,400083,,102,House,CA,40,,R,,4,933,55,1,,,83.35,,0,0.0,13.25
+8,C000830,Christopher,Cox,1952-10-16,M,,400083,,101,House,CA,40,,R,,2,,,,,,,,0,0.0,

@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,113,House,WI,6,,R,,36,1204,6,0,18,190,91.79,,0,2.0,8.13
+1,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,112,House,WI,6,,R,,34,1607,5,0,16,180,88.24,,0,2.0,11.7
+2,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,111,House,WI,6,,R,,32,1655,13,1,7,221,92.71,,0,2.0,7.23
+3,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,110,House,WI,6,,R,,30,1873,7,0,12,201,90.12,,0,2.0,10.43
+4,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,109,House,WI,6,,R,,28,1214,8,0,13,157,86.96,,0,0.0,13.29
+5,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,108,House,WI,6,,R,,26,1221,7,1,15,154,89.36,,0,0.0,10.81
+6,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,107,House,WI,6,,R,,24,996,4,1,19,194,90.06,,0,0.0,10.45
+7,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,106,House,WI,6,,R,,22,1214,4,0,9,176,88.96,,0,0.0,11.29
+8,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,105,House,WI,6,,R,,20,1187,6,1,12,154,86.56,,0,0.0,13.96
+9,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,104,House,WI,6,,R,,18,1340,10,1,15,168,86.93,,0,0.0,14.32
+10,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,103,House,WI,6,,R,,16,1122,16,0,13,258,86.6,,0,0.0,12.65
+11,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,102,House,WI,6,,R,,14,933,7,0,,,70.29,,0,0.0,26.27
+12,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,101,House,WI,6,,R,,12,,,,,,,,0,0.0,
+13,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,100,House,WI,6,,R,,10,,,,,,,,0,0.0,
+14,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,99,House,WI,6,,R,,8,,,,,,,,0,0.0,
+15,P000265,Tom,Petri,1940-05-28,M,R,400318,3190,98,House,WI,6,,R,,6,,,,,,,,0,0.0,

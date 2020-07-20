@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000993,Richard,Bryan,1937-07-16,M,,400557,,106,Senate,NV,,1,D,,11,672,3,0,9,213,93.27,,0,0.0,6.73
+1,B000993,Richard,Bryan,1937-07-16,M,,400557,,105,Senate,NV,,1,D,,9,612,3,0,11,125,86.31,,0,0.0,13.69
+2,B000993,Richard,Bryan,1937-07-16,M,,400557,,104,Senate,NV,,1,D,,7,916,2,0,10,93,83.8,,0,0.0,16.2
+3,B000993,Richard,Bryan,1937-07-16,M,,400557,,103,Senate,NV,,1,D,,5,724,8,0,18,179,87.66,,0,0.0,12.34
+4,B000993,Richard,Bryan,1937-07-16,M,,400557,,102,Senate,NV,,1,D,,3,550,1,0,,,84.54,,0,0.0,15.46
+5,B000993,Richard,Bryan,1937-07-16,M,,400557,,101,Senate,NV,,1,D,,1,638,2,0,,,,,0,0.0,

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001095,Tom,Cotton,1977-05-13,M,R,412508,63928,116,Senate,AR,,2,R,,5,557,4,0,61,221,97.45,,6,4.0,2.55
+1,C001095,Tom,Cotton,1977-05-13,M,R,412508,63928,115,Senate,AR,,2,R,,3,599,2,0,29,228,97.3,,6,5.0,2.7
+2,C001095,Tom,Cotton,1977-05-13,M,R,412508,63928,114,Senate,AR,,2,R,,1,502,14,0,20,166,92.69,,0,5.0,7.31
+3,C001095,Tom,Cotton,1977-05-13,M,R,412508,63928,113,House,AR,4,,R,,2,1204,12,0,10,318,93.68,,0,2.0,6.23

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000152,James,Gibbons,1944-12-16,M,,400148,,109,House,NV,2,,R,,10,1214,115,0,19,125,89.11,,0,0.0,11.07
+1,G000152,James,Gibbons,1944-12-16,M,,400148,,108,House,NV,2,,R,,8,1221,56,0,29,200,95.06,,0,0.0,5.11
+2,G000152,James,Gibbons,1944-12-16,M,,400148,,107,House,NV,2,,R,,6,996,31,0,27,221,96.64,,0,0.0,3.78
+3,G000152,James,Gibbons,1944-12-16,M,,400148,,106,House,NV,2,,R,,4,1214,10,0,25,267,90.12,,0,0.0,10.05
+4,G000152,James,Gibbons,1944-12-16,M,,400148,,105,House,NV,2,,R,,2,1187,30,0,14,297,89.4,,0,0.0,11.13

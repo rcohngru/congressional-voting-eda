@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,113,House,AZ,7,,D,,24,1204,147,0,5,166,92.56,,0,2.0,7.34
+1,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,112,House,AZ,4,,D,,22,1607,41,1,3,156,90.59,,0,1.0,9.34
+2,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,111,House,AZ,4,,D,,20,1655,29,0,9,307,98.27,,0,1.0,1.67
+3,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,110,House,AZ,4,,D,,18,1873,47,1,9,458,98.22,,0,1.0,2.34
+4,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,109,House,AZ,4,,D,,16,1214,9,0,4,294,91.5,,0,0.0,8.75
+5,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,108,House,AZ,4,,D,,14,1221,40,0,3,291,94.05,,0,0.0,6.12
+6,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,107,House,AZ,2,,D,,12,996,5,0,5,321,93.51,,0,0.0,7.0
+7,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,106,House,AZ,2,,D,,10,1214,11,2,5,402,92.91,,0,0.0,7.34
+8,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,105,House,AZ,2,,D,,8,1187,9,1,4,206,90.77,,0,0.0,9.76
+9,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,104,House,AZ,2,,D,,6,1340,29,1,3,159,91.27,,0,0.0,9.94
+10,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,103,House,AZ,2,,D,,4,1122,13,1,5,326,91.52,,0,0.0,7.74
+11,P000099,Ed,Pastor,1943-06-28,M,D,400310,20628,102,House,AZ,2,,D,,2,643,16,0,,,89.09,,0,0.0,8.26

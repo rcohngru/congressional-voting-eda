@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000113,Frank,Tejeda,1945-10-02,M,,410695,,105,House,TX,28,,D,,6,1,1,0,0,2,0.0,,0,0.0,
+1,T000113,Frank,Tejeda,1945-10-02,M,,410695,,104,House,TX,28,,D,,4,1340,67,1,5,99,77.1,,0,0.0,23.97
+2,T000113,Frank,Tejeda,1945-10-02,M,,410695,,103,House,TX,28,,D,,2,1122,3,0,4,151,85.77,,0,0.0,13.49

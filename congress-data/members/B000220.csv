@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,112,House,NH,2,,R,,2,1607,40,0,10,114,83.79,,0,1.0,16.14
+1,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,109,House,NH,2,,R,,12,1214,18,0,12,206,88.39,,0,0.0,11.86
+2,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,108,House,NH,2,,R,,10,1221,18,0,6,131,92.62,,0,0.0,7.55
+3,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,107,House,NH,2,,R,,8,996,10,0,7,126,92.47,,0,0.0,8.04
+4,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,106,House,NH,2,,R,,6,1214,22,0,12,157,90.61,,0,0.0,9.56
+5,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,105,House,NH,2,,R,,4,1187,10,0,11,87,87.95,,0,0.0,12.49
+6,B000220,Charles,Bass,1952-01-08,M,R,400019,37079,104,House,NH,2,,R,,2,1340,13,0,10,89,92.77,,0,0.0,8.32

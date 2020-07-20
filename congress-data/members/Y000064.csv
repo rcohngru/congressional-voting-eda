@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000064,Todd,Young,1972-08-24,M,R,412428,1033743,116,Senate,IN,,3,R,,3,557,8,0,41,272,93.95,,10,4.0,6.06
+1,Y000064,Todd,Young,1972-08-24,M,R,412428,1033743,115,Senate,IN,,3,R,,1,599,4,0,42,217,97.8,,11,4.0,2.2
+2,Y000064,Todd,Young,1972-08-24,M,R,412428,1033743,114,House,IN,9,,R,,6,1325,51,0,26,131,96.2,,0,1.0,3.72
+3,Y000064,Todd,Young,1972-08-24,M,R,412428,1033743,113,House,IN,9,,R,,4,1204,13,0,8,209,95.62,,0,1.0,4.3
+4,Y000064,Todd,Young,1972-08-24,M,R,412428,1033743,112,House,IN,9,,R,,2,1607,10,0,17,165,95.08,,0,2.0,4.85

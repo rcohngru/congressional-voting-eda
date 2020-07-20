@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000097,H. James,Saxton,1943-01-22,M,,400359,,110,House,NJ,3,,R,,26,1873,150,1,17,314,85.4,,0,3.0,15.14
+1,S000097,H. James,Saxton,1943-01-22,M,,400359,,109,House,NJ,3,,R,,24,1214,16,1,26,249,89.84,,0,0.0,10.41
+2,S000097,H. James,Saxton,1943-01-22,M,,400359,,108,House,NJ,3,,R,,22,1221,40,0,39,200,92.82,,0,0.0,7.35
+3,S000097,H. James,Saxton,1943-01-22,M,,400359,,107,House,NJ,3,,R,,20,996,29,0,26,224,94.95,,0,0.0,5.57
+4,S000097,H. James,Saxton,1943-01-22,M,,400359,,106,House,NJ,3,,R,,18,1214,25,1,59,279,89.62,,0,0.0,10.63
+5,S000097,H. James,Saxton,1943-01-22,M,,400359,,105,House,NJ,3,,R,,16,1187,23,0,46,221,90.18,,0,0.0,10.35
+6,S000097,H. James,Saxton,1943-01-22,M,,400359,,104,House,NJ,3,,R,,14,1340,25,0,25,264,92.6,,0,0.0,8.66
+7,S000097,H. James,Saxton,1943-01-22,M,,400359,,103,House,NJ,3,,R,,12,1122,20,0,15,416,87.21,,0,0.0,12.14
+8,S000097,H. James,Saxton,1943-01-22,M,,400359,,102,House,NJ,13,,R,,8,933,29,0,,,84.61,,0,0.0,12.09
+9,S000097,H. James,Saxton,1943-01-22,M,,400359,,101,House,NJ,13,,R,,6,,,,,,,,0,0.0,
+10,S000097,H. James,Saxton,1943-01-22,M,,400359,,100,House,NJ,13,,R,,4,,,,,,,,0,0.0,
+11,S000097,H. James,Saxton,1943-01-22,M,,400359,,99,House,NJ,13,,R,,2,,,,,,,,0,0.0,

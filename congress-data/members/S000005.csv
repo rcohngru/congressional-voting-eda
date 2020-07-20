@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000005,Martin,Sabo,1938-02-28,M,,400354,,109,House,MN,5,,D,,28,1214,48,2,5,177,91.82,,0,0.0,8.44
+1,S000005,Martin,Sabo,1938-02-28,M,,400354,,108,House,MN,5,,D,,26,1221,30,3,6,169,91.88,,0,0.0,8.29
+2,S000005,Martin,Sabo,1938-02-28,M,,400354,,107,House,MN,5,,D,,24,996,21,2,4,180,86.51,,0,0.0,14.02
+3,S000005,Martin,Sabo,1938-02-28,M,,400354,,106,House,MN,5,,D,,22,1214,25,4,5,182,87.53,,0,0.0,12.72
+4,S000005,Martin,Sabo,1938-02-28,M,,400354,,105,House,MN,5,,D,,20,1187,14,2,6,150,86.27,,0,0.0,14.26
+5,S000005,Martin,Sabo,1938-02-28,M,,400354,,104,House,MN,5,,D,,18,1340,15,1,3,111,91.51,,0,0.0,9.67
+6,S000005,Martin,Sabo,1938-02-28,M,,400354,,103,House,MN,5,,D,,16,1122,27,0,9,235,91.89,,0,0.0,7.35
+7,S000005,Martin,Sabo,1938-02-28,M,,400354,,102,House,MN,5,,D,,14,933,26,1,,,91.02,,0,0.0,6.25
+8,S000005,Martin,Sabo,1938-02-28,M,,400354,,101,House,MN,5,,D,,12,,,,,,,,0,0.0,
+9,S000005,Martin,Sabo,1938-02-28,M,,400354,,100,House,MN,5,,D,,10,,,,,,,,0,0.0,
+10,S000005,Martin,Sabo,1938-02-28,M,,400354,,99,House,MN,5,,D,,8,,,,,,,,0,0.0,
+11,S000005,Martin,Sabo,1938-02-28,M,,400354,,98,House,MN,5,,D,,6,,,,,,,,0,0.0,

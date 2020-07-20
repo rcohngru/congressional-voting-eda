@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,104,House,MS,3,,D,,30,1340,35,0,17,204,54.47,,0,0.0,46.74
+1,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,103,House,MS,3,,D,,28,1122,14,0,55,317,80.21,,0,0.0,19.05
+2,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,102,House,MS,3,,D,,26,933,12,0,,,72.51,,0,0.0,24.69
+3,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,101,House,MS,3,,D,,24,,,,,,,,0,0.0,
+4,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,100,House,MS,3,,D,,22,,,,,,,,0,0.0,
+5,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,99,House,MS,3,,D,,20,,,,,,,,0,0.0,
+6,M000865,Sonny,Montgomery,1920-08-05,M,,407838,,98,House,MS,3,,D,,18,,,,,,,,0,0.0,

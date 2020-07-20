@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000423,Paul,Simon,1928-11-29,M,,409917,,104,Senate,IL,,2,D,,11,916,11,0,39,197,86.02,,0,0.0,13.98
+1,S000423,Paul,Simon,1928-11-29,M,,409917,,103,Senate,IL,,2,D,,9,724,11,0,84,354,89.2,,0,0.0,10.8
+2,S000423,Paul,Simon,1928-11-29,M,,409917,,102,Senate,IL,,2,D,,7,550,7,0,,,87.03,,0,0.0,12.97
+3,S000423,Paul,Simon,1928-11-29,M,,409917,,101,Senate,IL,,2,D,,5,638,8,0,,,,,0,0.0,
+4,S000423,Paul,Simon,1928-11-29,M,,409917,,100,Senate,IL,,2,D,,3,,,,,,,,0,0.0,
+5,S000423,Paul,Simon,1928-11-29,M,,409917,,99,Senate,IL,,2,D,,1,,,,,,,,0,0.0,
+6,S000423,Paul,Simon,1928-11-29,M,,409917,,98,House,IL,22,,D,,10,,,,,,,,0,0.0,

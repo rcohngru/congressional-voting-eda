@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,116,House,CA,30,,D,,24,839,18,0,34,476,99.02,,6,3.0,0.85
+1,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,115,House,CA,30,,D,,22,1211,16,2,11,373,95.53,,5,2.0,4.47
+2,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,114,House,CA,30,,D,,20,1325,15,0,8,221,96.06,,0,2.0,3.86
+3,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,113,House,CA,30,,D,,18,1204,11,1,4,231,94.93,,0,2.0,4.99
+4,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,112,House,CA,27,,D,,16,1607,11,2,9,260,95.29,,0,2.0,4.65
+5,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,111,House,CA,27,,D,,14,1655,28,1,16,340,98.14,,0,3.0,1.79
+6,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,110,House,CA,27,,D,,12,1873,23,1,17,389,98.19,,0,3.0,2.36
+7,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,109,House,CA,27,,D,,10,1214,14,2,9,363,95.69,,0,0.0,4.56
+8,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,108,House,CA,27,,D,,8,1221,22,3,15,319,96.19,,0,0.0,3.9
+9,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,107,House,CA,24,,D,,6,996,12,1,8,322,95.33,,0,0.0,5.19
+10,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,106,House,CA,24,,D,,4,1214,5,1,4,286,93.2,,0,0.0,7.05
+11,S000344,Brad,Sherman,1954-10-24,M,D,400371,45124,105,House,CA,24,,D,,2,1187,15,1,10,264,87.07,,0,0.0,13.47

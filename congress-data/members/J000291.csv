@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000291,Mike,Johanns,1950-06-18,M,R,412320,56552,113,Senate,NE,,2,R,,5,657,38,0,23,243,92.9,,9,4.0,7.1
+1,J000291,Mike,Johanns,1950-06-18,M,R,412320,56552,112,Senate,NE,,2,R,,3,486,2,0,25,258,88.42,,0,5.0,11.58
+2,J000291,Mike,Johanns,1950-06-18,M,R,412320,56552,111,Senate,NE,,2,R,,1,696,30,0,15,180,92.86,,0,5.0,7.14

@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000148,John,Kerry,1943-12-11,M,D,300060,1485,113,Senate,MA,,2,D,,29,11,6,1,0,0,80.0,,10,4.0,20.0
+1,K000148,John,Kerry,1943-12-11,M,D,300060,1485,112,Senate,MA,,2,D,,27,486,25,0,121,302,96.94,,0,4.0,3.06
+2,K000148,John,Kerry,1943-12-11,M,D,300060,1485,111,Senate,MA,,2,D,,25,696,16,0,113,403,97.78,,0,4.0,2.22
+3,K000148,John,Kerry,1943-12-11,M,D,300060,1485,110,Senate,MA,,2,D,,23,657,28,0,115,614,95.66,,0,4.0,4.34
+4,K000148,John,Kerry,1943-12-11,M,D,300060,1485,109,Senate,MA,,2,D,,21,645,26,0,69,414,94.12,,0,0.0,5.88
+5,K000148,John,Kerry,1943-12-11,M,D,300060,1485,108,Senate,MA,,2,D,,19,675,488,0,30,349,98.92,,0,0.0,1.08
+6,K000148,John,Kerry,1943-12-11,M,D,300060,1485,107,Senate,MA,,2,D,,17,633,20,0,81,372,95.7,,0,0.0,4.3
+7,K000148,John,Kerry,1943-12-11,M,D,300060,1485,106,Senate,MA,,2,D,,15,672,19,0,33,392,96.02,,0,0.0,3.98
+8,K000148,John,Kerry,1943-12-11,M,D,300060,1485,105,Senate,MA,,2,D,,13,612,6,0,19,219,94.63,,0,0.0,5.37
+9,K000148,John,Kerry,1943-12-11,M,D,300060,1485,104,Senate,MA,,2,D,,11,916,8,0,32,145,91.92,,0,0.0,8.08
+10,K000148,John,Kerry,1943-12-11,M,D,300060,1485,103,Senate,MA,,2,D,,9,724,3,0,29,182,93.39,,0,0.0,6.61
+11,K000148,John,Kerry,1943-12-11,M,D,300060,1485,102,Senate,MA,,2,D,,7,550,2,0,,,90.5,,0,0.0,9.5
+12,K000148,John,Kerry,1943-12-11,M,D,300060,1485,101,Senate,MA,,2,D,,5,638,13,0,,,,,0,0.0,
+13,K000148,John,Kerry,1943-12-11,M,D,300060,1485,100,Senate,MA,,2,D,,3,,,,,,,,0,0.0,
+14,K000148,John,Kerry,1943-12-11,M,D,300060,1485,99,Senate,MA,,2,D,,1,,,,,,,,0,0.0,

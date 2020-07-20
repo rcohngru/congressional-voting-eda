@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000044,Max,Sandlin,1952-09-29,M,,400358,,108,House,TX,1,,D,,8,1221,41,0,7,377,86.22,,0,0.0,13.95
+1,S000044,Max,Sandlin,1952-09-29,M,,400358,,107,House,TX,1,,D,,6,996,16,0,6,337,89.28,,0,0.0,11.24
+2,S000044,Max,Sandlin,1952-09-29,M,,400358,,106,House,TX,1,,D,,4,1214,22,0,4,472,87.4,,0,0.0,12.85
+3,S000044,Max,Sandlin,1952-09-29,M,,400358,,105,House,TX,1,,D,,2,1187,16,2,7,317,85.29,,0,0.0,15.24

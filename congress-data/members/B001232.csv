@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,112,House,IL,13,,R,,14,1607,13,0,37,166,89.25,,0,3.0,10.68
+1,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,111,House,IL,13,,R,,12,1655,14,0,29,295,90.36,,0,3.0,9.58
+2,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,110,House,IL,13,,R,,10,1873,13,1,33,284,89.93,,0,3.0,10.62
+3,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,109,House,IL,13,,R,,8,1214,10,2,19,204,91.22,,0,0.0,9.03
+4,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,108,House,IL,13,,R,,6,1221,9,0,16,186,94.01,,0,0.0,6.16
+5,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,107,House,IL,13,,R,,4,996,5,0,17,194,95.28,,0,0.0,5.23
+6,B001232,Judy,Biggert,1937-08-15,F,R,400027,57890,106,House,IL,13,,R,,2,1214,4,0,13,197,88.96,,0,0.0,11.29

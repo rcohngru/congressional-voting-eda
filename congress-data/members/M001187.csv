@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001187,Mark,Meadows,1959-07-28,M,R,412552,79621,116,House,NC,11,,R,,8,803,51,0,36,397,91.82,,5,2.0,8.04
+1,M001187,Mark,Meadows,1959-07-28,M,R,412552,79621,115,House,NC,11,,R,,6,1211,33,0,50,356,96.5,,7,3.0,3.5
+2,M001187,Mark,Meadows,1959-07-28,M,R,412552,79621,114,House,NC,11,,R,,4,1325,18,0,27,199,95.53,,0,3.0,4.39
+3,M001187,Mark,Meadows,1959-07-28,M,R,412552,79621,113,House,NC,11,,R,,2,1204,13,0,17,321,94.44,,0,3.0,5.48

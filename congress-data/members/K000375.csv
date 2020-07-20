@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000375,Bill,Keating,1952-09-06,M,D,412435,61856,116,House,MA,9,,D,,10,839,15,0,17,340,98.78,,4,2.0,1.09
+1,K000375,Bill,Keating,1952-09-06,M,D,412435,61856,115,House,MA,9,,D,,8,1211,101,2,20,397,96.77,,4,2.0,3.23
+2,K000375,Bill,Keating,1952-09-06,M,D,412435,61856,114,House,MA,9,,D,,6,1325,31,0,12,322,95.39,,0,2.0,4.53
+3,K000375,Bill,Keating,1952-09-06,M,D,412435,61856,113,House,MA,9,,D,,4,1204,34,1,4,324,93.64,,0,2.0,6.28
+4,K000375,Bill,Keating,1952-09-06,M,D,412435,61856,112,House,MA,10,,D,,2,1607,37,0,8,227,93.03,,0,3.0,6.91

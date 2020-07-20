@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000639,David,Boren,1941-04-21,M,,401604,,103,Senate,OK,,2,D,,15,722,35,1,20,163,84.47,,0,0.0,15.53
+1,B000639,David,Boren,1941-04-21,M,,401604,,102,Senate,OK,,2,D,,13,550,31,0,,,78.04,,0,0.0,21.96
+2,B000639,David,Boren,1941-04-21,M,,401604,,101,Senate,OK,,2,D,,11,638,35,1,,,,,0,0.0,
+3,B000639,David,Boren,1941-04-21,M,,401604,,100,Senate,OK,,2,D,,9,,,,,,,,0,0.0,
+4,B000639,David,Boren,1941-04-21,M,,401604,,99,Senate,OK,,2,D,,7,,,,,,,,0,0.0,
+5,B000639,David,Boren,1941-04-21,M,,401604,,98,Senate,OK,,2,D,,5,,,,,,,,0,0.0,
+6,B000639,David,Boren,1941-04-21,M,,401604,,97,Senate,OK,,2,D,,3,,,,,,,,0,0.0,
+7,B000639,David,Boren,1941-04-21,M,,401604,,96,Senate,OK,,2,D,,1,,,,,,,,0,0.0,

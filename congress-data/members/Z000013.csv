@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,100,Senate,NE,,1,D,,11,,,,,,,,0,0.0,
+1,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,99,Senate,NE,,1,D,,9,,,,,,,,0,0.0,
+2,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,98,Senate,NE,,1,D,,7,,,,,,,,0,0.0,
+3,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,97,Senate,NE,,1,D,,5,,,,,,,,0,0.0,
+4,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,96,Senate,NE,,1,D,,3,,,,,,,,0,0.0,
+5,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,95,Senate,NE,,1,D,,1,,,,,,,,0,0.0,
+6,Z000013,Edward,Zorinsky,1928-11-11,M,,412006,,94,Senate,NE,,1,D,,1,,,,,,,,0,0.0,

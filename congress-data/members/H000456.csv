@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000456,Henry,Heinz,1938-10-23,M,,405321,,102,Senate,PA,,1,R,,15,41,0,0,,,82.5,,0,0.0,17.5
+1,H000456,Henry,Heinz,1938-10-23,M,,405321,,101,Senate,PA,,1,R,,13,638,8,0,,,,,0,0.0,
+2,H000456,Henry,Heinz,1938-10-23,M,,405321,,100,Senate,PA,,1,R,,11,,,,,,,,0,0.0,
+3,H000456,Henry,Heinz,1938-10-23,M,,405321,,99,Senate,PA,,1,R,,9,,,,,,,,0,0.0,
+4,H000456,Henry,Heinz,1938-10-23,M,,405321,,98,Senate,PA,,1,R,,7,,,,,,,,0,0.0,
+5,H000456,Henry,Heinz,1938-10-23,M,,405321,,97,Senate,PA,,1,R,,5,,,,,,,,0,0.0,
+6,H000456,Henry,Heinz,1938-10-23,M,,405321,,96,Senate,PA,,1,R,,3,,,,,,,,0,0.0,
+7,H000456,Henry,Heinz,1938-10-23,M,,405321,,95,Senate,PA,,1,R,,1,,,,,,,,0,0.0,

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000371,Pete,Aguilar,1979-06-19,M,D,412615,79994,116,House,CA,31,,D,,6,839,8,0,4,369,97.47,,5,2.0,2.41
+1,A000371,Pete,Aguilar,1979-06-19,M,D,412615,79994,115,House,CA,31,,D,,4,1211,14,2,11,330,95.19,,2,2.0,4.81
+2,A000371,Pete,Aguilar,1979-06-19,M,D,412615,79994,114,House,CA,31,,D,,2,1325,47,0,8,160,91.53,,0,2.0,8.39

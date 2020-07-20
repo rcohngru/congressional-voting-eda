@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000517,Dan,Lungren,1946-09-22,M,R,400617,,112,House,CA,3,,R,,8,1607,15,0,36,199,93.54,,0,5.0,6.39
+1,L000517,Dan,Lungren,1946-09-22,M,R,400617,,111,House,CA,3,,R,,6,1655,19,0,18,262,95.53,,0,4.0,4.4
+2,L000517,Dan,Lungren,1946-09-22,M,R,400617,,110,House,CA,3,,R,,4,1873,46,4,14,226,93.74,,0,4.0,6.82
+3,L000517,Dan,Lungren,1946-09-22,M,R,400617,,109,House,CA,3,,R,,2,1214,2,2,15,137,94.05,,0,0.0,6.2
+4,L000517,Dan,Lungren,1946-09-22,M,R,400617,,100,House,CA,42,,R,,10,,,,,,,,0,0.0,
+5,L000517,Dan,Lungren,1946-09-22,M,R,400617,,99,House,CA,42,,R,,8,,,,,,,,0,0.0,
+6,L000517,Dan,Lungren,1946-09-22,M,R,400617,,98,House,CA,42,,R,,6,,,,,,,,0,0.0,

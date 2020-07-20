@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001068,Jared,Huffman,1964-02-18,M,D,412511,622431,116,House,CA,2,,D,,8,839,32,1,33,624,97.89,,5,3.0,1.99
+1,H001068,Jared,Huffman,1964-02-18,M,D,412511,622431,115,House,CA,2,,D,,6,1211,66,0,34,500,94.8,,6,2.0,5.2
+2,H001068,Jared,Huffman,1964-02-18,M,D,412511,622431,114,House,CA,2,,D,,4,1325,30,0,33,435,96.56,,0,2.0,3.36
+3,H001068,Jared,Huffman,1964-02-18,M,D,412511,622431,113,House,CA,2,,D,,2,1204,35,1,13,495,94.66,,0,2.0,5.26

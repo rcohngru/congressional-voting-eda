@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,113,House,VI,At-Large,,D,,18,0,0,0,19,272,0.0,,0,1.0,
+1,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,112,House,VI,At-Large,,D,,16,0,0,0,22,305,0.0,,0,3.0,
+2,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,111,House,VI,At-Large,,D,,14,4,3,0,20,459,100.0,,0,2.0,0.0
+3,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,110,House,VI,At-Large,,D,,12,471,57,1,21,551,95.83,,0,2.0,4.41
+4,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,109,House,VI,At-Large,,D,,10,0,0,0,21,471,0.0,,0,0.0,
+5,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,108,House,VI,At-Large,,D,,8,0,0,0,10,497,0.0,,0,0.0,
+6,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,107,House,VI,At-Large,,D,,6,0,0,0,14,423,0.0,,0,0.0,
+7,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,106,House,VI,At-Large,,D,,4,0,0,0,12,388,0.0,,0,0.0,
+8,C000380,Donna,Christensen,1945-09-19,F,D,400073,48879,105,House,VI,At-Large,,D,,2,0,0,0,9,377,0.0,,0,0.0,

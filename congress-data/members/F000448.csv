@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,115,House,AZ,8,,R,,16,672,25,0,12,250,95.66,,4,2.0,4.34
+1,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,114,House,AZ,8,,R,,14,1325,40,0,19,313,95.45,,0,2.0,4.47
+2,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,113,House,AZ,8,,R,,12,1204,52,0,22,382,95.3,,0,2.0,4.62
+3,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,112,House,AZ,2,,R,,10,1607,31,0,16,366,92.33,,0,2.0,7.6
+4,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,111,House,AZ,2,,R,,8,1655,19,0,15,436,93.3,,0,2.0,6.64
+5,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,110,House,AZ,2,,R,,6,1873,27,4,8,370,90.77,,0,2.0,9.68
+6,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,109,House,AZ,2,,R,,4,1214,26,2,3,270,88.97,,0,0.0,11.28
+7,F000448,Trent,Franks,1957-06-19,M,R,400141,1003550,108,House,AZ,2,,R,,2,1221,22,0,5,218,89.9,,0,0.0,10.27

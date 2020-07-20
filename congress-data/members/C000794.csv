@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,112,House,IL,12,,D,,26,1607,131,1,7,171,79.79,,0,2.0,20.14
+1,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,111,House,IL,12,,D,,24,1655,90,0,7,285,95.57,,0,2.0,4.37
+2,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,110,House,IL,12,,D,,22,1873,85,0,7,267,95.96,,0,2.0,4.6
+3,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,109,House,IL,12,,D,,20,1214,46,0,6,271,88.62,,0,0.0,11.64
+4,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,108,House,IL,12,,D,,18,1221,31,0,10,297,87.97,,0,0.0,12.12
+5,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,107,House,IL,12,,D,,16,996,20,0,5,327,80.9,,0,0.0,19.52
+6,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,106,House,IL,12,,D,,14,1214,29,0,3,298,80.24,,0,0.0,19.93
+7,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,105,House,IL,12,,D,,12,1187,29,0,7,169,84.13,,0,0.0,16.41
+8,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,104,House,IL,12,,D,,10,1340,27,0,5,108,81.67,,0,0.0,19.54
+9,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,103,House,IL,12,,D,,8,1122,16,0,5,175,81.25,,0,0.0,18.0
+10,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,102,House,IL,21,,D,,6,933,23,0,,,83.13,,0,0.0,13.93
+11,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,101,House,IL,21,,D,,4,,,,,,,,0,0.0,
+12,C000794,Jerry,Costello,1949-09-25,M,D,400082,6352,100,House,IL,21,,D,,2,,,,,,,,0,0.0,

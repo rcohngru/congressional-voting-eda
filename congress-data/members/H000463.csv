@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000463,Jesse,Helms,1921-10-18,M,,300154,,107,Senate,NC,,2,R,,29,633,187,0,76,219,93.02,,0,0.0,6.98
+1,H000463,Jesse,Helms,1921-10-18,M,,300154,,106,Senate,NC,,2,R,,27,672,35,1,61,361,88.03,,0,0.0,11.97
+2,H000463,Jesse,Helms,1921-10-18,M,,300154,,105,Senate,NC,,2,R,,25,612,76,0,90,236,89.27,,0,0.0,10.73
+3,H000463,Jesse,Helms,1921-10-18,M,,300154,,104,Senate,NC,,2,R,,23,916,38,0,63,210,92.55,,0,0.0,7.45
+4,H000463,Jesse,Helms,1921-10-18,M,,300154,,103,Senate,NC,,2,R,,21,724,46,0,49,208,83.93,,0,0.0,16.07
+5,H000463,Jesse,Helms,1921-10-18,M,,300154,,102,Senate,NC,,2,R,,19,550,137,0,,,80.15,,0,0.0,19.85
+6,H000463,Jesse,Helms,1921-10-18,M,,300154,,101,Senate,NC,,2,R,,17,638,7,1,,,,,0,0.0,
+7,H000463,Jesse,Helms,1921-10-18,M,,300154,,100,Senate,NC,,2,R,,15,,,,,,,,0,0.0,
+8,H000463,Jesse,Helms,1921-10-18,M,,300154,,99,Senate,NC,,2,R,,13,,,,,,,,0,0.0,
+9,H000463,Jesse,Helms,1921-10-18,M,,300154,,98,Senate,NC,,2,R,,11,,,,,,,,0,0.0,
+10,H000463,Jesse,Helms,1921-10-18,M,,300154,,97,Senate,NC,,2,R,,9,,,,,,,,0,0.0,
+11,H000463,Jesse,Helms,1921-10-18,M,,300154,,96,Senate,NC,,2,R,,7,,,,,,,,0,0.0,
+12,H000463,Jesse,Helms,1921-10-18,M,,300154,,95,Senate,NC,,2,R,,5,,,,,,,,0,0.0,
+13,H000463,Jesse,Helms,1921-10-18,M,,300154,,94,Senate,NC,,2,R,,3,,,,,,,,0,0.0,
+14,H000463,Jesse,Helms,1921-10-18,M,,300154,,93,Senate,NC,,2,R,,1,,,,,,,,0,0.0,

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,116,Senate,WY,,2,R,,23,555,8,0,30,132,95.4,,6,5.0,4.6
+1,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,115,Senate,WY,,2,R,,21,599,1,0,29,167,96.12,,6,5.0,3.88
+2,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,114,Senate,WY,,2,R,,19,502,17,0,39,170,93.5,,0,5.0,6.5
+3,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,113,Senate,WY,,2,R,,17,657,6,0,28,282,93.73,,3,5.0,6.27
+4,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,112,Senate,WY,,2,R,,15,486,12,0,26,256,92.69,,0,4.0,7.31
+5,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,111,Senate,WY,,2,R,,13,696,13,0,11,152,94.5,,0,4.0,5.5
+6,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,110,Senate,WY,,2,R,,11,657,21,0,29,188,88.98,,0,4.0,11.02
+7,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,109,Senate,WY,,2,R,,9,645,36,0,43,182,92.73,,0,0.0,7.27
+8,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,108,Senate,WY,,2,R,,7,675,4,0,27,146,94.44,,0,0.0,5.56
+9,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,107,Senate,WY,,2,R,,5,633,22,0,19,149,92.59,,0,0.0,7.41
+10,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,106,Senate,WY,,2,R,,3,672,5,0,16,209,92.02,,0,0.0,7.98
+11,E000285,Michael,Enzi,1944-02-01,M,R,300041,45824,105,Senate,WY,,2,R,,1,612,7,0,8,154,93.49,,0,0.0,6.51

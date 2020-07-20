@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000962,Barbara,Cubin,1946-11-30,F,,400088,,110,House,WY,At-Large,,R,,14,1873,920,2,18,330,93.07,,0,1.0,7.26
+1,C000962,Barbara,Cubin,1946-11-30,F,,400088,,109,House,WY,At-Large,,R,,12,1214,122,0,27,233,93.23,,0,0.0,6.96
+2,C000962,Barbara,Cubin,1946-11-30,F,,400088,,108,House,WY,At-Large,,R,,10,1221,142,0,13,153,94.38,,0,0.0,5.81
+3,C000962,Barbara,Cubin,1946-11-30,F,,400088,,107,House,WY,At-Large,,R,,8,996,267,0,15,162,96.36,,0,0.0,4.2
+4,C000962,Barbara,Cubin,1946-11-30,F,,400088,,106,House,WY,At-Large,,R,,6,1214,71,0,17,202,94.3,,0,0.0,5.88
+5,C000962,Barbara,Cubin,1946-11-30,F,,400088,,105,House,WY,At-Large,,R,,4,1187,152,0,10,167,94.32,,0,0.0,6.18
+6,C000962,Barbara,Cubin,1946-11-30,F,,400088,,104,House,WY,At-Large,,R,,2,1340,77,0,3,119,96.07,,0,0.0,5.07

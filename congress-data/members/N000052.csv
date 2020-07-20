@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000052,Maurine,Neuberger,1907-01-09,F,,408140,,89,Senate,OR,,2,D,,5,,,,,,,,0,0.0,
+1,N000052,Maurine,Neuberger,1907-01-09,F,,408140,,88,Senate,OR,,2,D,,3,,,,,,,,0,0.0,
+2,N000052,Maurine,Neuberger,1907-01-09,F,,408140,,87,Senate,OR,,2,D,,1,,,,,,,,0,0.0,
+3,N000052,Maurine,Neuberger,1907-01-09,F,,408140,,86,Senate,OR,,2,D,,1,,,,,,,,0,0.0,

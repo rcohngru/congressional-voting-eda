@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000670,Gary,Condit,1948-04-21,M,,400505,,107,House,CA,18,,D,,14,996,81,0,10,169,84.6,,0,0.0,15.96
+1,C000670,Gary,Condit,1948-04-21,M,,400505,,106,House,CA,18,,D,,12,1214,8,0,13,225,80.59,,0,0.0,19.58
+2,C000670,Gary,Condit,1948-04-21,M,,400505,,105,House,CA,18,,D,,10,1187,14,0,24,236,75.78,,0,0.0,24.76
+3,C000670,Gary,Condit,1948-04-21,M,,400505,,104,House,CA,18,,D,,8,1340,35,0,21,194,62.4,,0,0.0,38.73
+4,C000670,Gary,Condit,1948-04-21,M,,400505,,103,House,CA,18,,D,,6,1122,43,1,14,162,69.86,,0,0.0,29.47
+5,C000670,Gary,Condit,1948-04-21,M,,400505,,102,House,CA,15,,D,,4,933,31,0,,,72.46,,0,0.0,24.69
+6,C000670,Gary,Condit,1948-04-21,M,,400505,,101,House,CA,15,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,110,House,IL,18,,R,,14,1873,307,0,12,273,85.18,,0,1.0,15.41
+1,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,109,House,IL,18,,R,,12,1214,62,0,19,276,92.86,,0,0.0,7.41
+2,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,108,House,IL,18,,R,,10,1221,60,0,7,273,93.92,,0,0.0,6.26
+3,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,107,House,IL,18,,R,,8,996,38,0,26,289,95.44,,0,0.0,5.1
+4,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,106,House,IL,18,,R,,6,1214,26,1,17,314,90.05,,0,0.0,10.21
+5,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,105,House,IL,18,,R,,4,1187,8,0,16,185,91.0,,0,0.0,9.53
+6,L000552,Ray,LaHood,1945-12-06,M,,400228,26394,104,House,IL,18,,R,,2,1340,3,4,4,185,91.64,,0,0.0,9.6

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000457,Al,Franken,1951-05-21,M,D,412378,23334,115,Senate,MN,,2,D,,9,325,13,1,23,328,98.71,,10,4.0,1.29
+1,F000457,Al,Franken,1951-05-21,M,D,412378,23334,114,Senate,MN,,2,D,,7,502,14,0,44,355,96.66,,0,4.0,3.34
+2,F000457,Al,Franken,1951-05-21,M,D,412378,23334,113,Senate,MN,,2,D,,5,657,3,0,43,358,99.24,,9,4.0,0.76
+3,F000457,Al,Franken,1951-05-21,M,D,412378,23334,112,Senate,MN,,2,D,,3,486,2,0,34,328,96.26,,0,4.0,3.74
+4,F000457,Al,Franken,1951-05-21,M,D,412378,23334,111,Senate,MN,,2,D,,1,479,0,0,18,233,97.07,,0,4.0,2.94

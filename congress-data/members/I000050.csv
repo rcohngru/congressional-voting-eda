@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,I000050,Irving,Ives,1896-01-24,,,405905,,85,Senate,NY,,1,R,,11,,,,,,,,0,0.0,
+1,I000050,Irving,Ives,1896-01-24,,,405905,,84,Senate,NY,,1,R,,9,,,,,,,,0,0.0,
+2,I000050,Irving,Ives,1896-01-24,,,405905,,83,Senate,NY,,1,R,,7,,,,,,,,0,0.0,
+3,I000050,Irving,Ives,1896-01-24,,,405905,,82,Senate,NY,,1,R,,5,,,,,,,,0,0.0,
+4,I000050,Irving,Ives,1896-01-24,,,405905,,81,Senate,NY,,1,R,,3,,,,,,,,0,0.0,
+5,I000050,Irving,Ives,1896-01-24,,,405905,,80,Senate,NY,,1,R,,1,,,,,,,,0,0.0,

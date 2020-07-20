@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000368,Ann,Kirkpatrick,1950-03-24,F,D,412286,1031338,116,House,AZ,2,,D,,2,839,108,0,7,370,97.67,,4,2.0,2.19
+1,K000368,Ann,Kirkpatrick,1950-03-24,F,D,412286,1031338,114,House,AZ,1,,D,,4,1325,139,0,11,334,89.35,,0,2.0,10.56
+2,K000368,Ann,Kirkpatrick,1950-03-24,F,D,412286,1031338,113,House,AZ,1,,D,,2,1204,90,1,19,284,87.59,,0,2.0,12.32
+3,K000368,Ann,Kirkpatrick,1950-03-24,F,D,412286,1031338,111,House,AZ,1,,D,,2,1655,57,1,31,190,86.08,,0,3.0,13.85

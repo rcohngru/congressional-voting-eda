@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000736,John,Miller,1938-05-23,M,,407721,,102,House,WA,1,,R,,8,933,83,0,,,80.77,,0,0.0,15.96
+1,M000736,John,Miller,1938-05-23,M,,407721,,101,House,WA,1,,R,,6,,,,,,,,0,0.0,
+2,M000736,John,Miller,1938-05-23,M,,407721,,100,House,WA,1,,R,,4,,,,,,,,0,0.0,
+3,M000736,John,Miller,1938-05-23,M,,407721,,99,House,WA,1,,R,,2,,,,,,,,0,0.0,

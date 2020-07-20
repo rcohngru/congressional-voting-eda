@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000576,Glenn,Grothman,1955-07-03,M,R,412661,77282,116,House,WI,6,,R,,6,839,27,0,15,263,89.32,,4,2.0,10.56
+1,G000576,Glenn,Grothman,1955-07-03,M,R,412661,77282,115,House,WI,6,,R,,4,1211,35,1,23,321,94.44,,4,3.0,5.56
+2,G000576,Glenn,Grothman,1955-07-03,M,R,412661,77282,114,House,WI,6,,R,,2,1325,13,0,10,249,94.09,,0,4.0,5.84

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000599,Bill,Posey,1947-12-18,M,R,412309,88959,116,House,FL,8,,R,,12,839,21,0,30,334,89.4,,3,2.0,10.48
+1,P000599,Bill,Posey,1947-12-18,M,R,412309,88959,115,House,FL,8,,R,,10,1211,111,0,30,294,95.62,,5,2.0,4.38
+2,P000599,Bill,Posey,1947-12-18,M,R,412309,88959,114,House,FL,8,,R,,8,1325,7,0,17,209,93.27,,0,2.0,6.65
+3,P000599,Bill,Posey,1947-12-18,M,R,412309,88959,113,House,FL,8,,R,,6,1204,5,0,27,289,91.71,,0,2.0,8.21
+4,P000599,Bill,Posey,1947-12-18,M,R,412309,88959,112,House,FL,15,,R,,4,1607,9,0,22,341,92.31,,0,1.0,7.63
+5,P000599,Bill,Posey,1947-12-18,M,R,412309,88959,111,House,FL,15,,R,,2,1655,14,0,18,410,94.37,,0,1.0,5.57

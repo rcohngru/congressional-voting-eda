@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000497,Warren,Rudman,1930-05-18,M,,409456,,102,Senate,NH,,3,R,,11,550,13,0,,,79.77,,0,0.0,20.23
+1,R000497,Warren,Rudman,1930-05-18,M,,409456,,101,Senate,NH,,3,R,,9,638,19,0,,,,,0,0.0,
+2,R000497,Warren,Rudman,1930-05-18,M,,409456,,100,Senate,NH,,3,R,,7,,,,,,,,0,0.0,
+3,R000497,Warren,Rudman,1930-05-18,M,,409456,,99,Senate,NH,,3,R,,5,,,,,,,,0,0.0,
+4,R000497,Warren,Rudman,1930-05-18,M,,409456,,98,Senate,NH,,3,R,,3,,,,,,,,0,0.0,
+5,R000497,Warren,Rudman,1930-05-18,M,,409456,,97,Senate,NH,,3,R,,1,,,,,,,,0,0.0,
+6,R000497,Warren,Rudman,1930-05-18,M,,409456,,96,Senate,NH,,3,R,,1,,,,,,,,0,0.0,

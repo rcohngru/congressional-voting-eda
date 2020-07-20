@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000209,Ron,de Lugo,1930-08-02,M,,403314,,103,House,VI,At-Large,,D,,20,424,25,0,21,275,89.78,,0,0.0,10.22
+1,D000209,Ron,de Lugo,1930-08-02,M,,403314,,102,House,VI,At-Large,,D,,18,0,0,0,,,0.0,,0,0.0,
+2,D000209,Ron,de Lugo,1930-08-02,M,,403314,,101,House,VI,At-Large,,D,,16,,,,,,,,0,0.0,
+3,D000209,Ron,de Lugo,1930-08-02,M,,403314,,100,House,VI,At-Large,,D,,14,,,,,,,,0,0.0,
+4,D000209,Ron,de Lugo,1930-08-02,M,,403314,,99,House,VI,At-Large,,D,,12,,,,,,,,0,0.0,
+5,D000209,Ron,de Lugo,1930-08-02,M,,403314,,98,House,VI,At-Large,,D,,10,,,,,,,,0,0.0,

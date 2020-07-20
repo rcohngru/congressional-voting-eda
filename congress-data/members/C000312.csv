@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000312,Jim,Chapman,1945-03-08,M,,402454,,104,House,TX,1,,D,,12,1340,271,0,5,91,74.39,,0,0.0,26.49
+1,C000312,Jim,Chapman,1945-03-08,M,,402454,,103,House,TX,1,,D,,10,1122,111,0,6,184,83.16,,0,0.0,16.02
+2,C000312,Jim,Chapman,1945-03-08,M,,402454,,102,House,TX,1,,D,,8,927,83,0,,,84.25,,0,0.0,13.06
+3,C000312,Jim,Chapman,1945-03-08,M,,402454,,101,House,TX,1,,D,,6,,,,,,,,0,0.0,
+4,C000312,Jim,Chapman,1945-03-08,M,,402454,,100,House,TX,1,,D,,4,,,,,,,,0,0.0,
+5,C000312,Jim,Chapman,1945-03-08,M,,402454,,99,House,TX,1,,D,,2,,,,,,,,0,0.0,

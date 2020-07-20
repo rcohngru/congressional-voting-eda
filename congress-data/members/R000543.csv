@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000543,Martin,Russo,1944-01-23,M,,409500,,102,House,IL,3,,D,,18,933,95,1,,,87.48,,0,0.0,9.69
+1,R000543,Martin,Russo,1944-01-23,M,,409500,,101,House,IL,3,,D,,16,,,,,,,,0,0.0,
+2,R000543,Martin,Russo,1944-01-23,M,,409500,,100,House,IL,3,,D,,14,,,,,,,,0,0.0,
+3,R000543,Martin,Russo,1944-01-23,M,,409500,,99,House,IL,3,,D,,12,,,,,,,,0,0.0,
+4,R000543,Martin,Russo,1944-01-23,M,,409500,,98,House,IL,3,,D,,10,,,,,,,,0,0.0,

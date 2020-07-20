@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000816,Roger,Williams,1949-09-13,M,R,412578,623742,116,House,TX,25,,R,,8,839,24,0,11,133,95.43,,2,1.0,4.45
+1,W000816,Roger,Williams,1949-09-13,M,R,412578,623742,115,House,TX,25,,R,,6,1211,16,0,14,181,97.39,,3,1.0,2.61
+2,W000816,Roger,Williams,1949-09-13,M,R,412578,623742,114,House,TX,25,,R,,4,1325,84,0,20,159,96.91,,0,1.0,3.01
+3,W000816,Roger,Williams,1949-09-13,M,R,412578,623742,113,House,TX,25,,R,,2,1204,44,0,7,138,97.32,,0,2.0,2.6

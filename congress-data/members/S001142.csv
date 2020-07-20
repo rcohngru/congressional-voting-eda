@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001142,Gordon,Smith,1952-05-25,M,,300090,,110,Senate,OR,,2,R,,11,657,5,0,82,359,72.67,,0,5.0,27.33
+1,S001142,Gordon,Smith,1952-05-25,M,,300090,,109,Senate,OR,,2,R,,9,645,9,0,94,232,87.5,,0,0.0,12.5
+2,S001142,Gordon,Smith,1952-05-25,M,,300090,,108,Senate,OR,,2,R,,7,675,36,0,62,260,94.64,,0,0.0,5.36
+3,S001142,Gordon,Smith,1952-05-25,M,,300090,,107,Senate,OR,,2,R,,5,633,10,1,26,235,85.46,,0,0.0,14.54
+4,S001142,Gordon,Smith,1952-05-25,M,,300090,,106,Senate,OR,,2,R,,3,672,13,0,21,228,91.46,,0,0.0,8.54
+5,S001142,Gordon,Smith,1952-05-25,M,,300090,,105,Senate,OR,,2,R,,1,612,6,0,18,151,90.5,,0,0.0,9.5

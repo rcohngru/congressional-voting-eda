@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,112,Senate,ME,,1,R,,17,486,0,8,52,278,68.76,,0,0.0,31.24
+1,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,111,Senate,ME,,1,R,,15,696,0,0,70,306,69.68,,0,4.0,30.32
+2,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,110,Senate,ME,,1,R,,13,657,0,1,92,486,64.73,,0,4.0,35.27
+3,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,109,Senate,ME,,1,R,,11,645,8,0,89,294,71.72,,0,0.0,28.28
+4,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,108,Senate,ME,,1,R,,9,675,0,0,91,237,82.09,,0,0.0,17.91
+5,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,107,Senate,ME,,1,R,,7,633,0,0,70,267,77.42,,0,0.0,22.58
+6,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,106,Senate,ME,,1,R,,5,672,1,0,76,303,78.14,,0,0.0,21.86
+7,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,105,Senate,ME,,1,R,,3,612,1,0,58,163,77.36,,0,0.0,22.64
+8,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,104,Senate,ME,,1,R,,1,916,1,0,55,114,78.68,,0,0.0,21.32
+9,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,103,House,ME,2,,R,,16,1122,6,0,46,245,76.77,,0,0.0,22.49
+10,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,102,House,ME,2,,R,,14,933,16,0,,,68.09,,0,0.0,28.43
+11,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,101,House,ME,2,,R,,12,,,,,,,,0,0.0,
+12,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,100,House,ME,2,,R,,10,,,,,,,,0,0.0,
+13,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,99,House,ME,2,,R,,8,,,,,,,,0,0.0,
+14,S000663,Olympia,Snowe,1947-02-21,F,R,300091,,98,House,ME,2,,R,,6,,,,,,,,0,0.0,

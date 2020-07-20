@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,116,Senate,ME,,2,R,,23,557,0,0,67,449,87.34,,7,4.0,12.66
+1,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,115,Senate,ME,,2,R,,21,599,0,0,58,354,90.4,,7,4.0,9.6
+2,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,114,Senate,ME,,2,R,,19,502,0,0,47,262,75.25,,0,4.0,24.75
+3,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,113,Senate,ME,,2,R,,17,657,0,0,37,337,60.87,,8,3.0,39.13
+4,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,112,Senate,ME,,2,R,,15,486,0,0,40,332,66.46,,0,4.0,33.54
+5,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,111,Senate,ME,,2,R,,13,696,0,0,47,342,67.78,,0,4.0,32.22
+6,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,110,Senate,ME,,2,R,,11,657,0,0,51,468,67.87,,0,3.0,32.13
+7,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,109,Senate,ME,,2,R,,9,645,0,0,54,304,75.04,,0,0.0,24.96
+8,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,108,Senate,ME,,2,R,,7,675,0,0,55,296,84.03,,0,0.0,15.97
+9,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,107,Senate,ME,,2,R,,5,633,0,0,52,330,78.86,,0,0.0,21.14
+10,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,106,Senate,ME,,2,R,,3,672,0,0,39,306,80.42,,0,0.0,19.58
+11,C001035,Susan,Collins,1952-12-07,F,R,300025,45738,105,Senate,ME,,2,R,,1,612,0,0,16,186,79.37,,0,0.0,20.63

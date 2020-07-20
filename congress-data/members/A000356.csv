@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000356,John,Ashcroft,1942-05-09,M,,400556,,106,Senate,MO,,1,R,,3,672,14,0,60,250,93.28,,0,0.0,6.72
+1,A000356,John,Ashcroft,1942-05-09,M,,400556,,105,Senate,MO,,1,R,,3,612,3,0,29,153,88.72,,0,0.0,11.28
+2,A000356,John,Ashcroft,1942-05-09,M,,400556,,104,Senate,MO,,1,R,,1,916,14,0,12,89,93.31,,0,0.0,6.69

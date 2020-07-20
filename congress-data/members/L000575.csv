@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000575,James,Lankford,1968-03-04,M,R,412464,1033847,116,Senate,OK,,3,R,,5,557,0,0,32,233,94.94,,10,4.0,5.06
+1,L000575,James,Lankford,1968-03-04,M,R,412464,1033847,115,Senate,OK,,3,R,,3,599,2,0,30,183,96.11,,9,4.0,3.89
+2,L000575,James,Lankford,1968-03-04,M,R,412464,1033847,114,Senate,OK,,3,R,,1,502,1,0,20,146,89.43,,0,4.0,10.57
+3,L000575,James,Lankford,1968-03-04,M,R,412464,1033847,113,House,OK,5,,R,,4,1204,112,0,10,193,96.14,,0,2.0,3.77
+4,L000575,James,Lankford,1968-03-04,M,R,412464,1033847,112,House,OK,5,,R,,2,1607,7,0,11,234,95.72,,0,3.0,4.22

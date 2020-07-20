@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000452,Glenn,Poshard,1945-10-30,M,,408839,,105,House,IL,19,,D,,10,1187,192,0,4,242,85.07,,0,0.0,15.46
+1,P000452,Glenn,Poshard,1945-10-30,M,,408839,,104,House,IL,19,,D,,8,1340,0,0,5,165,78.07,,0,0.0,23.19
+2,P000452,Glenn,Poshard,1945-10-30,M,,408839,,103,House,IL,19,,D,,6,1122,0,0,8,262,76.68,,0,0.0,22.58
+3,P000452,Glenn,Poshard,1945-10-30,M,,408839,,102,House,IL,22,,D,,4,933,8,0,,,82.96,,0,0.0,14.14
+4,P000452,Glenn,Poshard,1945-10-30,M,,408839,,101,House,IL,22,,D,,2,,,,,,,,0,0.0,

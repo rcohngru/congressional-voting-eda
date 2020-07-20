@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001147,Thaddeus,McCotter,1965-08-22,M,R,400260,,112,House,MI,11,,R,,10,1399,69,0,10,294,91.07,,0,1.0,8.86
+1,M001147,Thaddeus,McCotter,1965-08-22,M,R,400260,,111,House,MI,11,,R,,8,1655,21,0,20,586,93.66,,0,1.0,6.27
+2,M001147,Thaddeus,McCotter,1965-08-22,M,R,400260,,110,House,MI,11,,R,,6,1873,23,3,22,887,91.88,,0,4.0,8.68
+3,M001147,Thaddeus,McCotter,1965-08-22,M,R,400260,,109,House,MI,11,,R,,4,1214,10,2,16,671,91.56,,0,0.0,8.69
+4,M001147,Thaddeus,McCotter,1965-08-22,M,R,400260,,108,House,MI,11,,R,,2,1221,37,0,9,326,95.99,,0,0.0,4.18

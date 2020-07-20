@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000357,Thomas,Allen,1945-04-16,M,,400007,,110,House,ME,1,,D,,12,1873,54,0,26,610,98.99,,0,2.0,1.56
+1,A000357,Thomas,Allen,1945-04-16,M,,400007,,109,House,ME,1,,D,,10,1214,12,1,11,394,95.87,,0,0.0,4.38
+2,A000357,Thomas,Allen,1945-04-16,M,,400007,,108,House,ME,1,,D,,8,1221,22,0,13,364,95.16,,0,0.0,5.01
+3,A000357,Thomas,Allen,1945-04-16,M,,400007,,107,House,ME,1,,D,,6,996,29,1,14,309,95.78,,0,0.0,4.75
+4,A000357,Thomas,Allen,1945-04-16,M,,400007,,106,House,ME,1,,D,,4,1214,23,1,6,275,95.49,,0,0.0,4.77
+5,A000357,Thomas,Allen,1945-04-16,M,,400007,,105,House,ME,1,,D,,2,1187,17,0,10,213,94.11,,0,0.0,6.33

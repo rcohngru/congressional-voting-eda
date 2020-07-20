@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000077,Ben,Campbell,1933-04-13,M,,300017,,108,Senate,CO,,3,R,,11,675,64,0,97,143,93.11,,0,0.0,6.89
+1,C000077,Ben,Campbell,1933-04-13,M,,300017,,107,Senate,CO,,3,R,,9,633,17,0,57,99,90.86,,0,0.0,9.14
+2,C000077,Ben,Campbell,1933-04-13,M,,300017,,106,Senate,CO,,3,R,,7,672,10,0,82,117,90.59,,0,0.0,9.41
+3,C000077,Ben,Campbell,1933-04-13,M,,300017,,105,Senate,CO,,3,R,,5,612,3,0,58,121,86.9,,0,0.0,13.1
+4,C000077,Ben,Campbell,1933-04-13,M,,300017,,104,Senate,CO,,3,R,,3,819,34,0,18,140,84.64,,0,0.0,15.36
+5,C000077,Ben,Campbell,1933-04-13,M,,300017,,104,Senate,CO,,3,D,,3,97,2,0,,,59.57,,0,0.0,40.43
+6,C000077,Ben,Campbell,1933-04-13,M,,300017,,103,Senate,CO,,3,D,,1,724,35,0,21,226,84.56,,0,0.0,15.44
+7,C000077,Ben,Campbell,1933-04-13,M,,300017,,102,House,CO,3,,D,,6,933,166,0,,,82.74,,0,0.0,13.94
+8,C000077,Ben,Campbell,1933-04-13,M,,300017,,101,House,CO,3,,D,,4,,,,,,,,0,0.0,
+9,C000077,Ben,Campbell,1933-04-13,M,,300017,,100,House,CO,3,,D,,2,,,,,,,,0,0.0,

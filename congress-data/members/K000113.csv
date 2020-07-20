@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,111,House,RI,1,,D,,16,1655,283,1,37,464,98.9,,0,2.0,1.03
+1,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,110,House,RI,1,,D,,14,1873,97,0,28,502,99.37,,0,2.0,1.14
+2,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,109,House,RI,1,,D,,12,1214,141,0,14,380,95.55,,0,0.0,4.74
+3,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,108,House,RI,1,,D,,10,1221,49,0,20,360,95.49,,0,0.0,4.6
+4,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,107,House,RI,1,,D,,8,996,40,0,22,358,94.03,,0,0.0,6.4
+5,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,106,House,RI,1,,D,,6,1214,89,1,19,453,94.7,,0,0.0,5.39
+6,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,105,House,RI,1,,D,,4,1187,27,0,20,340,90.36,,0,0.0,10.18
+7,K000113,Patrick,Kennedy,1967-07-14,M,D,400215,17987,104,House,RI,1,,D,,2,1340,42,1,10,118,89.39,,0,0.0,11.74

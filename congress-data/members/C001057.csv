@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001057,Norm,Coleman,1949-08-17,M,,300024,,110,Senate,MN,,2,R,,5,657,23,0,65,444,79.09,,0,5.0,20.91
+1,C001057,Norm,Coleman,1949-08-17,M,,300024,,109,Senate,MN,,2,R,,3,645,25,0,65,299,85.23,,0,0.0,14.77
+2,C001057,Norm,Coleman,1949-08-17,M,,300024,,108,Senate,MN,,2,R,,1,675,5,0,40,232,94.14,,0,0.0,5.86

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,111,Senate,KY,,3,R,,11,696,49,0,34,108,91.22,,0,4.0,8.78
+1,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,110,Senate,KY,,3,R,,9,657,21,0,18,173,87.74,,0,4.0,12.26
+2,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,109,Senate,KY,,3,R,,7,645,20,0,29,174,93.56,,0,0.0,6.44
+3,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,108,Senate,KY,,3,R,,5,675,21,0,34,197,98.0,,0,0.0,2.0
+4,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,107,Senate,KY,,3,R,,3,633,14,0,14,148,94.31,,0,0.0,5.69
+5,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,106,Senate,KY,,3,R,,1,672,21,0,13,171,90.74,,0,0.0,9.26
+6,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,105,House,KY,4,,R,,12,1187,17,0,17,237,96.13,,0,0.0,4.39
+7,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,104,House,KY,4,,R,,10,1340,17,0,12,167,96.56,,0,0.0,4.69
+8,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,103,House,KY,4,,R,,8,1122,20,0,10,216,91.17,,0,0.0,8.08
+9,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,102,House,KY,4,,R,,6,933,37,0,,,86.7,,0,0.0,9.98
+10,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,101,House,KY,4,,R,,4,,,,,,,,0,0.0,
+11,B001066,Jim,Bunning,1931-10-23,M,R,300014,1457,100,House,KY,4,,R,,2,,,,,,,,0,0.0,

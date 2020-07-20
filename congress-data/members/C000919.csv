@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000919,George,Crockett,1909-08-10,M,,403031,,101,House,MI,13,,D,,12,,,,,,,,0,0.0,
+1,C000919,George,Crockett,1909-08-10,M,,403031,,100,House,MI,13,,D,,10,,,,,,,,0,0.0,
+2,C000919,George,Crockett,1909-08-10,M,,403031,,99,House,MI,13,,D,,8,,,,,,,,0,0.0,
+3,C000919,George,Crockett,1909-08-10,M,,403031,,98,House,MI,13,,D,,6,,,,,,,,0,0.0,

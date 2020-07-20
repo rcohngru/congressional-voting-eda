@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,113,Senate,WV,,2,D,,29,657,82,0,49,179,98.43,,4,5.0,1.57
+1,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,112,Senate,WV,,2,D,,27,486,45,0,66,176,95.89,,0,5.0,4.11
+2,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,111,Senate,WV,,2,D,,25,696,71,0,73,139,97.12,,0,4.0,2.88
+3,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,110,Senate,WV,,2,D,,23,657,29,0,49,184,92.91,,0,4.0,7.09
+4,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,109,Senate,WV,,2,D,,21,645,143,0,50,208,92.34,,0,0.0,7.66
+5,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,108,Senate,WV,,2,D,,19,675,3,0,26,200,94.51,,0,0.0,5.49
+6,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,107,Senate,WV,,2,D,,17,633,7,0,63,199,94.97,,0,0.0,5.03
+7,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,106,Senate,WV,,2,D,,15,672,18,0,24,198,95.41,,0,0.0,4.59
+8,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,105,Senate,WV,,2,D,,13,612,37,0,15,148,92.05,,0,0.0,7.95
+9,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,104,Senate,WV,,2,D,,11,916,29,0,18,100,90.38,,0,0.0,9.62
+10,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,103,Senate,WV,,2,D,,9,724,25,0,70,171,93.76,,0,0.0,6.24
+11,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,102,Senate,WV,,2,D,,7,550,8,0,,,91.34,,0,0.0,8.66
+12,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,101,Senate,WV,,2,D,,5,638,6,0,,,,,0,0.0,
+13,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,100,Senate,WV,,2,D,,3,,,,,,,,0,0.0,
+14,R000361,John,Rockefeller,1937-06-18,M,D,300084,1238,99,Senate,WV,,2,D,,1,,,,,,,,0,0.0,

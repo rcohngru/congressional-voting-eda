@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,115,House,GU,At-Large,,D,,16,0,,,19,301,,,4,2.0,
+1,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,114,House,GU,At-Large,,D,,14,,,,11,273,,,0,2.0,
+2,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,113,House,GU,At-Large,,D,,12,0,0,0,10,340,0.0,,0,2.0,
+3,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,112,House,GU,At-Large,,D,,10,0,0,0,11,390,0.0,,0,2.0,
+4,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,111,House,GU,At-Large,,D,,8,324,57,0,30,721,95.51,,0,2.0,4.49
+5,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,110,House,GU,At-Large,,D,,6,471,120,0,22,699,93.31,,0,2.0,6.98
+6,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,109,House,GU,At-Large,,D,,4,0,0,0,10,421,0.0,,0,0.0,
+7,B001245,Madeleine,Bordallo,1933-05-31,F,D,400041,1003568,108,House,GU,At-Large,,D,,2,0,0,0,14,314,0.0,,0,0.0,

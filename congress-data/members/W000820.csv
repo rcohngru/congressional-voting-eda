@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000820,Mimi,Walters,1962-05-14,F,R,412618,76141,115,House,CA,45,,R,,4,1211,83,0,9,153,98.93,,3,2.0,1.07
+1,W000820,Mimi,Walters,1962-05-14,F,R,412618,76141,114,House,CA,45,,R,,2,1325,60,0,7,128,96.18,,0,2.0,3.75

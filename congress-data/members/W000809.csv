@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000809,Steve,Womack,1957-02-18,M,R,412402,1033625,116,House,AR,3,,R,,10,839,0,0,3,116,95.55,,2,2.0,4.33
+1,W000809,Steve,Womack,1957-02-18,M,R,412402,1033625,115,House,AR,3,,R,,8,1211,0,0,7,111,98.51,,3,2.0,1.49
+2,W000809,Steve,Womack,1957-02-18,M,R,412402,1033625,114,House,AR,3,,R,,6,1325,0,0,10,125,96.12,,0,2.0,3.8
+3,W000809,Steve,Womack,1957-02-18,M,R,412402,1033625,113,House,AR,3,,R,,4,1204,0,0,8,192,95.91,,0,1.0,4.0
+4,W000809,Steve,Womack,1957-02-18,M,R,412402,1033625,112,House,AR,3,,R,,2,1607,0,0,5,190,93.92,,0,1.0,6.02

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000166,C.L.,Otter,1942-05-03,M,,400305,,109,House,ID,1,,R,,6,1214,33,4,13,256,85.85,,0,0.0,14.32
+1,O000166,C.L.,Otter,1942-05-03,M,,400305,,108,House,ID,1,,R,,4,1221,16,0,22,275,89.55,,0,0.0,10.54
+2,O000166,C.L.,Otter,1942-05-03,M,,400305,,107,House,ID,1,,R,,2,996,9,2,14,268,93.31,,0,0.0,7.21

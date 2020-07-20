@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001090,Matt,Cartwright,1961-05-01,M,D,412571,79865,116,House,PA,8,,D,,8,839,38,0,46,470,99.5,,5,2.0,0.38
+1,C001090,Matt,Cartwright,1961-05-01,M,D,412571,79865,115,House,PA,17,,D,,6,1211,12,0,67,451,96.4,,3,2.0,3.6
+2,C001090,Matt,Cartwright,1961-05-01,M,D,412571,79865,114,House,PA,17,,D,,4,1325,31,0,65,494,96.95,,0,2.0,2.97
+3,C001090,Matt,Cartwright,1961-05-01,M,D,412571,79865,113,House,PA,17,,D,,2,1204,7,1,57,675,95.79,,0,2.0,4.13

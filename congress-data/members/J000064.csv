@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000064,Jacob,Javits,1904-05-18,M,,405969,,96,Senate,NY,,3,R,,23,,,,,,,,0,0.0,
+1,J000064,Jacob,Javits,1904-05-18,M,,405969,,95,Senate,NY,,3,R,,21,,,,,,,,0,0.0,
+2,J000064,Jacob,Javits,1904-05-18,M,,405969,,94,Senate,NY,,3,R,,19,,,,,,,,0,0.0,
+3,J000064,Jacob,Javits,1904-05-18,M,,405969,,93,Senate,NY,,3,R,,17,,,,,,,,0,0.0,
+4,J000064,Jacob,Javits,1904-05-18,M,,405969,,92,Senate,NY,,3,R,,15,,,,,,,,0,0.0,
+5,J000064,Jacob,Javits,1904-05-18,M,,405969,,91,Senate,NY,,3,R,,13,,,,,,,,0,0.0,
+6,J000064,Jacob,Javits,1904-05-18,M,,405969,,90,Senate,NY,,3,R,,11,,,,,,,,0,0.0,
+7,J000064,Jacob,Javits,1904-05-18,M,,405969,,89,Senate,NY,,3,R,,9,,,,,,,,0,0.0,
+8,J000064,Jacob,Javits,1904-05-18,M,,405969,,88,Senate,NY,,3,R,,7,,,,,,,,0,0.0,
+9,J000064,Jacob,Javits,1904-05-18,M,,405969,,87,Senate,NY,,3,R,,5,,,,,,,,0,0.0,
+10,J000064,Jacob,Javits,1904-05-18,M,,405969,,86,Senate,NY,,3,R,,3,,,,,,,,0,0.0,
+11,J000064,Jacob,Javits,1904-05-18,M,,405969,,85,Senate,NY,,3,R,,1,,,,,,,,0,0.0,

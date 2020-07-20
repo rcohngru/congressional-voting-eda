@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,114,Senate,IL,,3,R,,7,502,31,0,73,282,78.57,,0,4.0,21.43
+1,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,113,Senate,IL,,3,R,,5,657,47,0,47,276,84.14,,10,4.0,15.86
+2,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,112,Senate,IL,,3,R,,3,486,263,0,18,201,87.84,,0,0.0,12.16
+3,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,111,Senate,IL,,3,R,,1,48,8,0,0,0,80.0,,0,3.0,20.0
+4,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,111,House,IL,10,,R,,10,1571,167,0,27,343,88.38,,0,1.0,11.55
+5,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,110,House,IL,10,,R,,8,1873,62,2,46,382,82.58,,0,1.0,17.99
+6,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,109,House,IL,10,,R,,6,1214,33,0,31,255,88.3,,0,0.0,11.96
+7,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,108,House,IL,10,,R,,4,1221,50,0,8,202,92.59,,0,0.0,7.59
+8,K000360,Mark,Kirk,1959-09-15,M,R,400222,85221,107,House,IL,10,,R,,2,996,17,0,10,245,93.56,,0,0.0,6.96

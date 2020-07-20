@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000368,Kelly,Ayotte,1968-06-27,F,R,412493,95241,114,Senate,NH,,3,R,,5,502,7,0,41,341,80.86,,0,5.0,19.14
+1,A000368,Kelly,Ayotte,1968-06-27,F,R,412493,95241,113,Senate,NH,,3,R,,3,657,10,0,35,274,83.12,,8,5.0,16.88
+2,A000368,Kelly,Ayotte,1968-06-27,F,R,412493,95241,112,Senate,NH,,3,R,,1,486,4,0,11,208,90.91,,0,5.0,9.09

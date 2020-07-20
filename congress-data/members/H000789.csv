@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000789,Stephen,Horn,1931-05-31,M,,400506,,107,House,CA,38,,R,,10,996,19,0,15,351,91.05,,0,0.0,9.47
+1,H000789,Stephen,Horn,1931-05-31,M,,400506,,106,House,CA,38,,R,,8,1214,18,0,15,323,84.06,,0,0.0,16.2
+2,H000789,Stephen,Horn,1931-05-31,M,,400506,,105,House,CA,38,,R,,6,1187,7,0,13,298,83.51,,0,0.0,17.02
+3,H000789,Stephen,Horn,1931-05-31,M,,400506,,104,House,CA,38,,R,,4,1340,14,0,12,263,83.78,,0,0.0,17.47
+4,H000789,Stephen,Horn,1931-05-31,M,,400506,,103,House,CA,38,,R,,2,1122,38,0,5,227,76.92,,0,0.0,22.32

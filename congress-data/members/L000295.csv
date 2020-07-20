@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000295,Thomas,Lewis,1924-10-26,M,,406790,,103,House,FL,16,,R,,12,1122,101,0,13,338,92.49,,0,0.0,6.8
+1,L000295,Thomas,Lewis,1924-10-26,M,,406790,,102,House,FL,12,,R,,10,933,33,1,,,87.2,,0,0.0,9.26
+2,L000295,Thomas,Lewis,1924-10-26,M,,406790,,101,House,FL,12,,R,,8,,,,,,,,0,0.0,
+3,L000295,Thomas,Lewis,1924-10-26,M,,406790,,100,House,FL,12,,R,,6,,,,,,,,0,0.0,
+4,L000295,Thomas,Lewis,1924-10-26,M,,406790,,99,House,FL,12,,R,,4,,,,,,,,0,0.0,
+5,L000295,Thomas,Lewis,1924-10-26,M,,406790,,98,House,FL,12,,R,,2,,,,,,,,0,0.0,

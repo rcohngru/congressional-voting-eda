@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000842,Guy,Molinari,1928-11-23,M,,407816,,101,House,NY,14,,R,,10,,,,,,,,0,0.0,
+1,M000842,Guy,Molinari,1928-11-23,M,,407816,,100,House,NY,14,,R,,8,,,,,,,,0,0.0,
+2,M000842,Guy,Molinari,1928-11-23,M,,407816,,99,House,NY,14,,R,,6,,,,,,,,0,0.0,
+3,M000842,Guy,Molinari,1928-11-23,M,,407816,,98,House,NY,14,,R,,4,,,,,,,,0,0.0,

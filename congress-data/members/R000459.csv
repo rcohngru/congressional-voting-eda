@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000459,Toby,Roth,1938-10-10,M,,409423,,104,House,WI,8,,R,,18,1340,67,0,15,91,91.47,,0,0.0,9.75
+1,R000459,Toby,Roth,1938-10-10,M,,409423,,103,House,WI,8,,R,,16,1122,32,0,12,166,86.98,,0,0.0,12.36
+2,R000459,Toby,Roth,1938-10-10,M,,409423,,102,House,WI,8,,R,,14,933,25,0,,,79.89,,0,0.0,16.61
+3,R000459,Toby,Roth,1938-10-10,M,,409423,,101,House,WI,8,,R,,12,,,,,,,,0,0.0,
+4,R000459,Toby,Roth,1938-10-10,M,,409423,,100,House,WI,8,,R,,10,,,,,,,,0,0.0,
+5,R000459,Toby,Roth,1938-10-10,M,,409423,,99,House,WI,8,,R,,8,,,,,,,,0,0.0,
+6,R000459,Toby,Roth,1938-10-10,M,,409423,,98,House,WI,8,,R,,6,,,,,,,,0,0.0,

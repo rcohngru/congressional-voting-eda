@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001055,Joe,Heck,1961-10-30,M,R,412446,62662,114,House,NV,3,,R,,6,1325,63,0,16,196,91.22,,0,3.0,8.7
+1,H001055,Joe,Heck,1961-10-30,M,R,412446,62662,113,House,NV,3,,R,,4,1204,11,0,16,216,89.07,,0,3.0,10.85
+2,H001055,Joe,Heck,1961-10-30,M,R,412446,62662,112,House,NV,3,,R,,2,1607,1,0,20,169,89.27,,0,3.0,10.66

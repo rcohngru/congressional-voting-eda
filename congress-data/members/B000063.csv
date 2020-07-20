@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000063,Howard,Baker,1925-11-15,M,,401067,,98,Senate,TN,,2,R,,17,,,,,,,,0,0.0,
+1,B000063,Howard,Baker,1925-11-15,M,,401067,,97,Senate,TN,,2,R,,15,,,,,,,,0,0.0,
+2,B000063,Howard,Baker,1925-11-15,M,,401067,,96,Senate,TN,,2,R,,13,,,,,,,,0,0.0,
+3,B000063,Howard,Baker,1925-11-15,M,,401067,,95,Senate,TN,,2,R,,11,,,,,,,,0,0.0,
+4,B000063,Howard,Baker,1925-11-15,M,,401067,,94,Senate,TN,,2,R,,9,,,,,,,,0,0.0,
+5,B000063,Howard,Baker,1925-11-15,M,,401067,,93,Senate,TN,,2,R,,7,,,,,,,,0,0.0,
+6,B000063,Howard,Baker,1925-11-15,M,,401067,,92,Senate,TN,,2,R,,5,,,,,,,,0,0.0,
+7,B000063,Howard,Baker,1925-11-15,M,,401067,,91,Senate,TN,,2,R,,3,,,,,,,,0,0.0,
+8,B000063,Howard,Baker,1925-11-15,M,,401067,,90,Senate,TN,,2,R,,1,,,,,,,,0,0.0,

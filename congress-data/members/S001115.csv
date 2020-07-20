@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001115,Allan,Swift,1935-09-12,M,,410567,,103,House,WA,2,,D,,16,1122,28,0,18,187,90.46,,0,0.0,8.78
+1,S001115,Allan,Swift,1935-09-12,M,,410567,,102,House,WA,2,,D,,14,933,16,0,,,90.33,,0,0.0,6.75
+2,S001115,Allan,Swift,1935-09-12,M,,410567,,101,House,WA,2,,D,,12,,,,,,,,0,0.0,
+3,S001115,Allan,Swift,1935-09-12,M,,410567,,100,House,WA,2,,D,,10,,,,,,,,0,0.0,
+4,S001115,Allan,Swift,1935-09-12,M,,410567,,99,House,WA,2,,D,,8,,,,,,,,0,0.0,
+5,S001115,Allan,Swift,1935-09-12,M,,410567,,98,House,WA,2,,D,,6,,,,,,,,0,0.0,

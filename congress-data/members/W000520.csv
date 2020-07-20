@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000520,John,Williams,1937-10-30,M,,411677,,104,House,MT,At-Large,,D,,18,1340,154,4,20,100,86.47,,0,0.0,14.68
+1,W000520,John,Williams,1937-10-30,M,,411677,,103,House,MT,At-Large,,D,,16,1122,124,1,24,176,86.27,,0,0.0,13.31
+2,W000520,John,Williams,1937-10-30,M,,411677,,102,House,MT,At-Large,,D,,14,933,93,0,,,85.54,,0,0.0,12.13
+3,W000520,John,Williams,1937-10-30,M,,411677,,101,House,MT,At-Large,,D,,12,,,,,,,,0,0.0,
+4,W000520,John,Williams,1937-10-30,M,,411677,,100,House,MT,At-Large,,D,,10,,,,,,,,0,0.0,
+5,W000520,John,Williams,1937-10-30,M,,411677,,99,House,MT,At-Large,,D,,8,,,,,,,,0,0.0,
+6,W000520,John,Williams,1937-10-30,M,,411677,,98,House,MT,At-Large,,D,,6,,,,,,,,0,0.0,

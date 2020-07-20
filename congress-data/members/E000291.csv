@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000291,Renee,Ellmers,1964-02-09,F,R,412457,1033793,114,House,NC,2,,R,,6,1325,132,0,28,228,94.51,,0,1.0,5.4
+1,E000291,Renee,Ellmers,1964-02-09,F,R,412457,1033793,113,House,NC,2,,R,,4,1204,19,0,16,242,94.75,,0,1.0,5.17
+2,E000291,Renee,Ellmers,1964-02-09,F,R,412457,1033793,112,House,NC,2,,R,,2,1607,31,0,13,293,95.84,,0,3.0,4.09

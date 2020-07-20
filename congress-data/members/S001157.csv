@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001157,David,Scott,1945-06-27,M,D,400363,1003567,116,House,GA,13,,D,,18,839,15,0,20,361,99.39,,4,2.0,0.49
+1,S001157,David,Scott,1945-06-27,M,D,400363,1003567,115,House,GA,13,,D,,16,1211,92,0,8,280,94.4,,4,2.0,5.6
+2,S001157,David,Scott,1945-06-27,M,D,400363,1003567,114,House,GA,13,,D,,14,1325,73,0,7,254,93.55,,0,2.0,6.29
+3,S001157,David,Scott,1945-06-27,M,D,400363,1003567,113,House,GA,13,,D,,12,1204,46,1,1,261,93.12,,0,2.0,6.79
+4,S001157,David,Scott,1945-06-27,M,D,400363,1003567,112,House,GA,13,,D,,10,1607,27,1,1,177,92.88,,0,2.0,7.06
+5,S001157,David,Scott,1945-06-27,M,D,400363,1003567,111,House,GA,13,,D,,8,1655,24,0,2,269,98.4,,0,3.0,1.54
+6,S001157,David,Scott,1945-06-27,M,D,400363,1003567,110,House,GA,13,,D,,6,1873,27,0,7,386,98.18,,0,3.0,2.37
+7,S001157,David,Scott,1945-06-27,M,D,400363,1003567,109,House,GA,13,,D,,4,1214,34,0,6,366,89.93,,0,0.0,10.33
+8,S001157,David,Scott,1945-06-27,M,D,400363,1003567,108,House,GA,13,,D,,2,1221,29,0,6,271,88.64,,0,0.0,11.53

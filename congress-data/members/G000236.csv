@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000236,John,Glenn,1921-07-18,M,,404598,,105,Senate,OH,,3,D,,23,612,81,0,12,115,92.19,,0,0.0,7.81
+1,G000236,John,Glenn,1921-07-18,M,,404598,,104,Senate,OH,,3,D,,21,916,13,0,18,68,89.03,,0,0.0,10.97
+2,G000236,John,Glenn,1921-07-18,M,,404598,,103,Senate,OH,,3,D,,19,724,8,0,40,175,91.08,,0,0.0,8.92
+3,G000236,John,Glenn,1921-07-18,M,,404598,,102,Senate,OH,,3,D,,17,550,12,0,,,86.88,,0,0.0,13.12
+4,G000236,John,Glenn,1921-07-18,M,,404598,,101,Senate,OH,,3,D,,15,638,6,0,,,,,0,0.0,
+5,G000236,John,Glenn,1921-07-18,M,,404598,,100,Senate,OH,,3,D,,13,,,,,,,,0,0.0,
+6,G000236,John,Glenn,1921-07-18,M,,404598,,99,Senate,OH,,3,D,,11,,,,,,,,0,0.0,
+7,G000236,John,Glenn,1921-07-18,M,,404598,,98,Senate,OH,,3,D,,9,,,,,,,,0,0.0,
+8,G000236,John,Glenn,1921-07-18,M,,404598,,97,Senate,OH,,3,D,,7,,,,,,,,0,0.0,
+9,G000236,John,Glenn,1921-07-18,M,,404598,,96,Senate,OH,,3,D,,5,,,,,,,,0,0.0,
+10,G000236,John,Glenn,1921-07-18,M,,404598,,95,Senate,OH,,3,D,,3,,,,,,,,0,0.0,
+11,G000236,John,Glenn,1921-07-18,M,,404598,,94,Senate,OH,,3,D,,1,,,,,,,,0,0.0,
+12,G000236,John,Glenn,1921-07-18,M,,404598,,93,Senate,OH,,3,D,,1,,,,,,,,0,0.0,

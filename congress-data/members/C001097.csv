@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001097,Tony,Cárdenas,1963-03-31,M,D,412517,63934,116,House,CA,29,,D,,8,839,38,0,28,593,98.37,,3,1.0,1.5
+1,C001097,Tony,Cárdenas,1963-03-31,M,D,412517,63934,115,House,CA,29,,D,,6,1211,81,1,30,389,97.0,,3,1.0,3.0
+2,C001097,Tony,Cárdenas,1963-03-31,M,D,412517,63934,114,House,CA,29,,D,,4,1325,112,0,29,352,96.67,,0,1.0,3.25
+3,C001097,Tony,Cárdenas,1963-03-31,M,D,412517,63934,113,House,CA,29,,D,,2,1204,63,1,23,382,94.16,,0,3.0,5.75

@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000523,David,Price,1940-08-17,M,D,400326,6748,116,House,NC,4,,D,,32,839,7,0,13,348,99.28,,3,2.0,0.6
+1,P000523,David,Price,1940-08-17,M,D,400326,6748,115,House,NC,4,,D,,30,1211,26,1,17,297,98.79,,3,1.0,1.21
+2,P000523,David,Price,1940-08-17,M,D,400326,6748,114,House,NC,4,,D,,28,1324,45,0,13,205,97.95,,0,1.0,1.97
+3,P000523,David,Price,1940-08-17,M,D,400326,6748,113,House,NC,4,,D,,26,1204,2,1,11,305,96.31,,0,1.0,3.61
+4,P000523,David,Price,1940-08-17,M,D,400326,6748,112,House,NC,4,,D,,24,1607,8,1,15,259,95.56,,0,1.0,4.38
+5,P000523,David,Price,1940-08-17,M,D,400326,6748,111,House,NC,4,,D,,22,1655,11,0,20,400,98.96,,0,1.0,0.98
+6,P000523,David,Price,1940-08-17,M,D,400326,6748,110,House,NC,4,,D,,20,1873,29,0,26,458,99.28,,0,1.0,1.21
+7,P000523,David,Price,1940-08-17,M,D,400326,6748,109,House,NC,4,,D,,18,1214,15,0,14,417,96.02,,0,0.0,4.23
+8,P000523,David,Price,1940-08-17,M,D,400326,6748,108,House,NC,4,,D,,16,1221,18,0,12,333,95.85,,0,0.0,4.31
+9,P000523,David,Price,1940-08-17,M,D,400326,6748,107,House,NC,4,,D,,14,996,16,0,2,352,95.0,,0,0.0,5.52
+10,P000523,David,Price,1940-08-17,M,D,400326,6748,106,House,NC,4,,D,,12,1214,27,1,4,317,94.21,,0,0.0,5.88
+11,P000523,David,Price,1940-08-17,M,D,400326,6748,105,House,NC,4,,D,,10,1187,18,2,4,166,92.44,,0,0.0,8.01
+12,P000523,David,Price,1940-08-17,M,D,400326,6748,103,House,NC,4,,D,,8,1122,14,0,5,203,94.58,,0,0.0,4.67
+13,P000523,David,Price,1940-08-17,M,D,400326,6748,102,House,NC,4,,D,,6,930,16,0,,,91.2,,0,0.0,6.09
+14,P000523,David,Price,1940-08-17,M,D,400326,6748,101,House,NC,4,,D,,4,,,,,,,,0,0.0,
+15,P000523,David,Price,1940-08-17,M,D,400326,6748,100,House,NC,4,,D,,2,,,,,,,,0,0.0,

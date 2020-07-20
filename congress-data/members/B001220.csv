@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001220,Beverly,Byron,1932-07-27,F,,402159,,102,House,MD,6,,D,,14,933,61,0,,,76.89,,0,0.0,20.17
+1,B001220,Beverly,Byron,1932-07-27,F,,402159,,101,House,MD,6,,D,,12,,,,,,,,0,0.0,
+2,B001220,Beverly,Byron,1932-07-27,F,,402159,,100,House,MD,6,,D,,10,,,,,,,,0,0.0,
+3,B001220,Beverly,Byron,1932-07-27,F,,402159,,99,House,MD,6,,D,,8,,,,,,,,0,0.0,
+4,B001220,Beverly,Byron,1932-07-27,F,,402159,,98,House,MD,6,,D,,6,,,,,,,,0,0.0,

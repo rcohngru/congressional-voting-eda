@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000339,Barney,Frank,1940-03-31,M,D,400140,,112,House,MA,4,,D,,32,1607,77,1,31,335,93.32,,0,1.0,6.61
+1,F000339,Barney,Frank,1940-03-31,M,D,400140,,111,House,MA,4,,D,,30,1655,80,2,42,559,97.2,,0,1.0,2.74
+2,F000339,Barney,Frank,1940-03-31,M,D,400140,,110,House,MA,4,,D,,28,1873,75,3,52,637,97.32,,0,1.0,2.68
+3,F000339,Barney,Frank,1940-03-31,M,D,400140,,109,House,MA,4,,D,,26,1214,28,1,32,658,91.05,,0,0.0,9.04
+4,F000339,Barney,Frank,1940-03-31,M,D,400140,,108,House,MA,4,,D,,24,1221,51,0,25,752,94.27,,0,0.0,5.82
+5,F000339,Barney,Frank,1940-03-31,M,D,400140,,107,House,MA,4,,D,,22,996,32,2,29,764,89.83,,0,0.0,10.17
+6,F000339,Barney,Frank,1940-03-31,M,D,400140,,106,House,MA,4,,D,,20,1214,59,12,26,564,88.37,,0,0.0,11.71
+7,F000339,Barney,Frank,1940-03-31,M,D,400140,,105,House,MA,4,,D,,18,1187,69,4,38,477,86.18,,0,0.0,13.82
+8,F000339,Barney,Frank,1940-03-31,M,D,400140,,104,House,MA,4,,D,,16,1340,60,3,30,349,85.9,,0,0.0,14.02
+9,F000339,Barney,Frank,1940-03-31,M,D,400140,,103,House,MA,4,,D,,14,1122,60,0,45,614,90.26,,0,0.0,9.55
+10,F000339,Barney,Frank,1940-03-31,M,D,400140,,102,House,MA,4,,D,,12,933,62,1,,,91.83,,0,0.0,7.93
+11,F000339,Barney,Frank,1940-03-31,M,D,400140,,101,House,MA,4,,D,,10,,,,,,,,0,0.0,
+12,F000339,Barney,Frank,1940-03-31,M,D,400140,,100,House,MA,4,,D,,8,,,,,,,,0,0.0,
+13,F000339,Barney,Frank,1940-03-31,M,D,400140,,99,House,MA,4,,D,,6,,,,,,,,0,0.0,
+14,F000339,Barney,Frank,1940-03-31,M,D,400140,,98,House,MA,4,,D,,4,,,,,,,,0,0.0,

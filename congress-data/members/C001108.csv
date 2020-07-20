@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001108,James,Comer,1972-08-19,M,R,412676,76619,116,House,KY,1,,R,,6,839,7,0,3,157,91.39,,7,3.0,8.48
+1,C001108,James,Comer,1972-08-19,M,R,412676,76619,115,House,KY,1,,R,,4,1211,7,0,5,117,95.41,,6,3.0,4.59
+2,C001108,James,Comer,1972-08-19,M,R,412676,76619,114,House,KY,1,,R,,2,47,0,0,0,0,97.87,,0,0.0,2.13

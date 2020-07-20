@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Q000016,Jack,Quinn,1951-04-13,M,,400329,,108,House,NY,27,,R,,12,1221,197,0,6,230,94.68,,0,0.0,5.52
+1,Q000016,Jack,Quinn,1951-04-13,M,,400329,,107,House,NY,30,,R,,10,996,81,0,14,230,93.58,,0,0.0,6.76
+2,Q000016,Jack,Quinn,1951-04-13,M,,400329,,106,House,NY,30,,R,,8,1214,77,0,9,254,88.16,,0,0.0,12.11
+3,Q000016,Jack,Quinn,1951-04-13,M,,400329,,105,House,NY,30,,R,,6,1187,50,1,13,236,88.41,,0,0.0,12.14
+4,Q000016,Jack,Quinn,1951-04-13,M,,400329,,104,House,NY,30,,R,,4,1340,58,0,10,157,87.96,,0,0.0,13.33
+5,Q000016,Jack,Quinn,1951-04-13,M,,400329,,103,House,NY,30,,R,,2,1122,31,1,2,335,87.25,,0,0.0,11.99

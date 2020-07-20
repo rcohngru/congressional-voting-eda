@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,111,House,PA,11,,D,,26,1655,23,0,22,158,97.29,,0,2.0,2.65
+1,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,110,House,PA,11,,D,,24,1873,84,0,22,177,96.65,,0,3.0,3.92
+2,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,109,House,PA,11,,D,,22,1214,37,0,8,160,88.35,,0,0.0,11.91
+3,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,108,House,PA,11,,D,,20,1221,16,1,6,150,91.22,,0,0.0,8.95
+4,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,107,House,PA,11,,D,,18,996,12,0,9,182,89.94,,0,0.0,10.58
+5,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,106,House,PA,11,,D,,16,1214,31,1,12,174,90.15,,0,0.0,10.1
+6,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,105,House,PA,11,,D,,14,1187,7,1,10,118,86.47,,0,0.0,13.97
+7,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,104,House,PA,11,,D,,12,1340,7,0,24,70,85.55,,0,0.0,15.72
+8,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,103,House,PA,11,,D,,10,1122,4,0,29,164,87.05,,0,0.0,12.21
+9,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,102,House,PA,11,,D,,8,933,5,0,,,86.33,,0,0.0,10.89
+10,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,101,House,PA,11,,D,,6,,,,,,,,0,0.0,
+11,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,100,House,PA,11,,D,,4,,,,,,,,0,0.0,
+12,K000008,Paul,Kanjorski,1937-04-02,M,D,400210,5974,99,House,PA,11,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,112,House,FL,6,,R,,24,1607,14,0,27,177,92.22,,0,2.0,7.72
+1,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,111,House,FL,6,,R,,22,1655,22,0,25,186,95.4,,0,2.0,4.53
+2,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,110,House,FL,6,,R,,20,1873,16,1,23,215,92.36,,0,2.0,8.14
+3,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,109,House,FL,6,,R,,18,1214,13,0,33,150,89.27,,0,0.0,10.98
+4,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,108,House,FL,6,,R,,16,1221,13,0,33,156,91.58,,0,0.0,8.51
+5,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,107,House,FL,6,,R,,14,996,45,0,26,178,93.05,,0,0.0,7.49
+6,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,106,House,FL,6,,R,,12,1214,22,0,29,254,91.89,,0,0.0,8.28
+7,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,105,House,FL,6,,R,,10,1187,16,0,32,217,90.76,,0,0.0,9.77
+8,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,104,House,FL,6,,R,,8,1340,5,0,28,276,93.64,,0,0.0,7.6
+9,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,103,House,FL,6,,R,,6,1122,16,0,18,272,90.83,,0,0.0,8.42
+10,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,102,House,FL,6,,R,,4,933,25,0,,,85.94,,0,0.0,10.54
+11,S000822,Cliff,Stearns,1941-04-16,M,R,400388,6095,101,House,FL,6,,R,,2,,,,,,,,0,0.0,

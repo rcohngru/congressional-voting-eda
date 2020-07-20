@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000781,Chalmers,Wylie,1920-11-23,,,411929,,102,House,OH,15,,R,,26,933,35,1,,,82.25,,0,0.0,14.43
+1,W000781,Chalmers,Wylie,1920-11-23,,,411929,,101,House,OH,15,,R,,24,,,,,,,,0,0.0,
+2,W000781,Chalmers,Wylie,1920-11-23,,,411929,,100,House,OH,15,,R,,22,,,,,,,,0,0.0,
+3,W000781,Chalmers,Wylie,1920-11-23,,,411929,,99,House,OH,15,,R,,20,,,,,,,,0,0.0,
+4,W000781,Chalmers,Wylie,1920-11-23,,,411929,,98,House,OH,15,,R,,18,,,,,,,,0,0.0,

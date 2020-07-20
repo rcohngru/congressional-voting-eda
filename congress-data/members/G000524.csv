@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000524,Steve,Gunderson,1951-05-10,M,,404869,,104,House,WI,3,,R,,16,1340,63,5,9,130,88.41,,0,0.0,12.8
+1,G000524,Steve,Gunderson,1951-05-10,M,,404869,,103,House,WI,3,,R,,14,1122,16,0,15,325,82.46,,0,0.0,16.89
+2,G000524,Steve,Gunderson,1951-05-10,M,,404869,,102,House,WI,3,,R,,12,933,12,1,,,75.42,,0,0.0,21.12
+3,G000524,Steve,Gunderson,1951-05-10,M,,404869,,101,House,WI,3,,R,,10,,,,,,,,0,0.0,
+4,G000524,Steve,Gunderson,1951-05-10,M,,404869,,100,House,WI,3,,R,,8,,,,,,,,0,0.0,
+5,G000524,Steve,Gunderson,1951-05-10,M,,404869,,99,House,WI,3,,R,,6,,,,,,,,0,0.0,
+6,G000524,Steve,Gunderson,1951-05-10,M,,404869,,98,House,WI,3,,R,,4,,,,,,,,0,0.0,

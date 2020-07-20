@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000259,Edward,Thye,,M,,410834,,85,Senate,MN,,1,R,,11,,,,,,,,0,0.0,
+1,T000259,Edward,Thye,,M,,410834,,84,Senate,MN,,1,R,,9,,,,,,,,0,0.0,
+2,T000259,Edward,Thye,,M,,410834,,83,Senate,MN,,1,R,,7,,,,,,,,0,0.0,
+3,T000259,Edward,Thye,,M,,410834,,82,Senate,MN,,1,R,,5,,,,,,,,0,0.0,
+4,T000259,Edward,Thye,,M,,410834,,81,Senate,MN,,1,R,,3,,,,,,,,0,0.0,
+5,T000259,Edward,Thye,,M,,410834,,80,Senate,MN,,1,R,,1,,,,,,,,0,0.0,

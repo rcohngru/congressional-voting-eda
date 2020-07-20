@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,116,House,CA,13,,D,,24,839,9,0,50,930,97.34,,3,2.0,2.54
+1,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,115,House,CA,13,,D,,22,1211,23,1,52,751,95.59,,3,2.0,4.41
+2,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,114,House,CA,13,,D,,20,1325,134,0,44,585,95.59,,0,2.0,4.33
+3,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,113,House,CA,13,,D,,18,1204,55,1,51,730,91.4,,0,2.0,8.51
+4,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,112,House,CA,9,,D,,16,1607,77,4,52,625,90.72,,0,1.0,9.21
+5,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,111,House,CA,9,,D,,14,1655,41,6,61,733,95.76,,0,2.0,4.17
+6,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,110,House,CA,9,,D,,12,1873,59,0,69,797,96.53,,0,1.0,4.03
+7,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,109,House,CA,9,,D,,10,1214,46,3,46,667,90.53,,0,0.0,9.73
+8,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,108,House,CA,9,,D,,8,1221,30,7,26,824,92.48,,0,0.0,7.69
+9,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,107,House,CA,9,,D,,6,996,9,5,20,720,88.62,,0,0.0,11.89
+10,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,106,House,CA,9,,D,,4,1214,22,1,8,598,88.34,,0,0.0,11.91
+11,L000551,Barbara,Lee,1946-07-16,F,D,400237,54579,105,House,CA,9,,D,,2,448,3,1,1,128,89.23,,0,0.0,11.48

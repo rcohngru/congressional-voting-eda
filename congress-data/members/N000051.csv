@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000051,George,Nethercutt,1944-10-07,M,,400292,,108,House,WA,5,,R,,10,1221,115,0,21,217,95.8,,0,0.0,4.38
+1,N000051,George,Nethercutt,1944-10-07,M,,400292,,107,House,WA,5,,R,,8,996,48,1,14,227,97.53,,0,0.0,3.0
+2,N000051,George,Nethercutt,1944-10-07,M,,400292,,106,House,WA,5,,R,,6,1214,44,0,21,324,94.69,,0,0.0,5.57
+3,N000051,George,Nethercutt,1944-10-07,M,,400292,,105,House,WA,5,,R,,4,1198,24,1,8,282,95.43,,0,0.0,5.09
+4,N000051,George,Nethercutt,1944-10-07,M,,400292,,104,House,WA,5,,R,,2,1340,26,0,9,142,96.3,,0,0.0,4.96

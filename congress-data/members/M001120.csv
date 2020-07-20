@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001120,John,Murtha,1932-06-17,M,D,400286,,111,House,PA,12,,D,,38,1039,125,0,2,139,98.68,,0,1.0,1.21
+1,M001120,John,Murtha,1932-06-17,M,D,400286,,110,House,PA,12,,D,,36,1873,115,0,6,216,97.51,,0,1.0,3.06
+2,M001120,John,Murtha,1932-06-17,M,D,400286,,109,House,PA,12,,D,,34,1214,102,0,3,169,84.93,,0,0.0,15.34
+3,M001120,John,Murtha,1932-06-17,M,D,400286,,108,House,PA,12,,D,,32,1221,99,0,5,136,86.41,,0,0.0,13.68
+4,M001120,John,Murtha,1932-06-17,M,D,400286,,107,House,PA,12,,D,,30,996,113,0,14,169,87.15,,0,0.0,13.43
+5,M001120,John,Murtha,1932-06-17,M,D,400286,,106,House,PA,12,,D,,28,1214,51,0,8,155,83.87,,0,0.0,16.3
+6,M001120,John,Murtha,1932-06-17,M,D,400286,,105,House,PA,12,,D,,26,1187,42,0,3,127,80.49,,0,0.0,20.05
+7,M001120,John,Murtha,1932-06-17,M,D,400286,,104,House,PA,12,,D,,24,1340,54,0,4,74,74.65,,0,0.0,26.57
+8,M001120,John,Murtha,1932-06-17,M,D,400286,,103,House,PA,12,,D,,22,1122,64,1,9,186,87.33,,0,0.0,11.89
+9,M001120,John,Murtha,1932-06-17,M,D,400286,,102,House,PA,12,,D,,20,933,53,0,,,87.6,,0,0.0,9.71
+10,M001120,John,Murtha,1932-06-17,M,D,400286,,101,House,PA,12,,D,,18,,,,,,,,0,0.0,
+11,M001120,John,Murtha,1932-06-17,M,D,400286,,100,House,PA,12,,D,,16,,,,,,,,0,0.0,
+12,M001120,John,Murtha,1932-06-17,M,D,400286,,99,House,PA,12,,D,,14,,,,,,,,0,0.0,
+13,M001120,John,Murtha,1932-06-17,M,D,400286,,98,House,PA,12,,D,,12,,,,,,,,0,0.0,

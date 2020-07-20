@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,116,House,VT,At-Large,,D,,14,839,27,0,37,631,98.64,,6,3.0,1.23
+1,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,115,House,VT,At-Large,,D,,12,1211,26,1,38,568,96.53,,4,2.0,3.47
+2,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,114,House,VT,At-Large,,D,,10,1324,41,0,21,392,95.75,,0,2.0,4.17
+3,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,113,House,VT,At-Large,,D,,8,1204,15,1,28,418,94.06,,0,2.0,5.85
+4,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,112,House,VT,At-Large,,D,,6,1607,36,2,25,347,93.16,,0,2.0,6.78
+5,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,111,House,VT,At-Large,,D,,4,1655,57,33,39,451,95.28,,0,4.0,4.66
+6,W000800,Peter,Welch,1947-05-02,M,D,412239,1019990,110,House,VT,At-Large,,D,,2,1873,25,1,55,448,97.58,,0,2.0,2.97

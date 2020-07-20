@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000257,Michael,Forbes,1952-07-16,M,,400582,,106,House,NY,1,,D,,6,907,97,0,18,409,82.92,,0,0.0,17.46
+1,F000257,Michael,Forbes,1952-07-16,M,,400582,,106,House,NY,1,,R,,6,307,6,1,,,81.02,,0,0.0,18.98
+2,F000257,Michael,Forbes,1952-07-16,M,,400582,,105,House,NY,1,,R,,4,1187,101,0,15,225,80.32,,0,0.0,20.25
+3,F000257,Michael,Forbes,1952-07-16,M,,400582,,104,House,NY,1,,R,,2,1340,36,1,18,222,87.56,,0,0.0,13.63

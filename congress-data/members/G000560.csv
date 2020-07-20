@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000560,Tom,Graves,1970-02-03,M,R,412388,11519,116,House,GA,14,,R,,12,839,31,0,1,87,91.26,,3,2.0,8.61
+1,G000560,Tom,Graves,1970-02-03,M,R,412388,11519,115,House,GA,14,,R,,10,1211,14,0,5,134,94.46,,3,1.0,5.54
+2,G000560,Tom,Graves,1970-02-03,M,R,412388,11519,114,House,GA,14,,R,,8,1325,28,0,3,95,95.03,,0,2.0,4.9
+3,G000560,Tom,Graves,1970-02-03,M,R,412388,11519,113,House,GA,14,,R,,6,1204,17,0,7,149,92.47,,0,1.0,7.45
+4,G000560,Tom,Graves,1970-02-03,M,R,412388,11519,112,House,GA,9,,R,,4,1607,8,0,4,155,90.36,,0,1.0,9.58
+5,G000560,Tom,Graves,1970-02-03,M,R,412388,11519,111,House,GA,9,,R,,2,309,0,0,1,34,89.74,,0,2.0,10.26

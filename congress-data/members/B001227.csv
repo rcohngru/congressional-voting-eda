@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,115,House,PA,1,,D,,22,1211,92,1,7,375,97.35,,1,4.0,2.65
+1,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,114,House,PA,1,,D,,20,1325,71,0,17,238,96.94,,0,4.0,2.98
+2,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,113,House,PA,1,,D,,18,1204,20,1,7,266,94.47,,0,2.0,5.45
+3,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,112,House,PA,1,,D,,16,1607,22,1,5,256,94.31,,0,4.0,5.63
+4,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,111,House,PA,1,,D,,14,1655,61,0,25,498,99.05,,0,2.0,0.88
+5,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,110,House,PA,1,,D,,12,1873,177,0,28,770,99.46,,0,3.0,1.14
+6,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,109,House,PA,1,,D,,10,1214,70,0,10,429,93.45,,0,0.0,6.73
+7,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,108,House,PA,1,,D,,8,1221,46,0,7,285,93.86,,0,0.0,6.23
+8,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,107,House,PA,1,,D,,6,996,47,0,5,343,88.27,,0,0.0,12.27
+9,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,106,House,PA,1,,D,,4,1214,54,0,4,376,91.77,,0,0.0,8.49
+10,B001227,Robert,Brady,1945-04-07,M,D,400047,55227,105,House,PA,1,,D,,2,372,16,1,0,54,92.11,,0,0.0,8.48

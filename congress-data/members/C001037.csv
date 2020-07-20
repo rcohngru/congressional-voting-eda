@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,115,House,MA,7,,D,,20,1211,81,2,25,469,96.45,,7,2.0,3.55
+1,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,114,House,MA,7,,D,,18,1325,38,0,20,233,95.05,,0,3.0,4.87
+2,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,113,House,MA,7,,D,,16,1204,71,3,22,332,91.82,,0,3.0,8.09
+3,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,112,House,MA,8,,D,,14,1607,40,1,14,296,93.01,,0,2.0,6.92
+4,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,111,House,MA,8,,D,,12,1655,202,1,17,433,98.06,,0,3.0,1.87
+5,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,110,House,MA,8,,D,,10,1873,46,3,17,520,97.44,,0,4.0,3.11
+6,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,109,House,MA,8,,D,,8,1214,32,13,8,353,91.07,,0,0.0,9.18
+7,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,108,House,MA,8,,D,,6,1221,44,4,15,291,90.74,,0,0.0,9.43
+8,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,107,House,MA,8,,D,,4,996,31,6,15,445,85.71,,0,0.0,14.81
+9,C001037,Michael,Capuano,1952-01-09,M,D,400063,56760,106,House,MA,8,,D,,2,1214,30,7,6,485,89.79,,0,0.0,10.46

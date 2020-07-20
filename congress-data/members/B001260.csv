@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,116,House,FL,16,,R,,14,839,36,0,13,141,90.48,,2,1.0,9.4
+1,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,115,House,FL,16,,R,,12,1211,93,1,18,123,96.04,,4,1.0,3.96
+2,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,114,House,FL,16,,R,,10,1325,79,1,19,125,92.72,,0,1.0,7.2
+3,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,113,House,FL,16,,R,,8,1204,53,0,11,184,95.11,,0,1.0,4.8
+4,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,112,House,FL,13,,R,,6,1607,34,0,12,170,94.43,,0,1.0,5.51
+5,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,111,House,FL,13,,R,,4,1655,40,4,13,224,92.22,,0,3.0,7.72
+6,B001260,Vern,Buchanan,1951-05-08,M,R,412196,1021626,110,House,FL,13,,R,,2,1873,23,0,9,214,91.72,,0,3.0,8.84

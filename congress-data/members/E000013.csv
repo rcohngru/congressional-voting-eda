@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000013,Joseph,Early,1933-01-31,M,,403709,,102,House,MA,3,,D,,18,933,53,0,,,83.76,,0,0.0,13.2
+1,E000013,Joseph,Early,1933-01-31,M,,403709,,101,House,MA,3,,D,,16,,,,,,,,0,0.0,
+2,E000013,Joseph,Early,1933-01-31,M,,403709,,100,House,MA,3,,D,,14,,,,,,,,0,0.0,
+3,E000013,Joseph,Early,1933-01-31,M,,403709,,99,House,MA,3,,D,,12,,,,,,,,0,0.0,
+4,E000013,Joseph,Early,1933-01-31,M,,403709,,98,House,MA,3,,D,,10,,,,,,,,0,0.0,

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001049,Kay,Hagan,1953-05-26,F,D,412324,1028015,113,Senate,NC,,2,D,,5,657,17,0,27,185,94.84,,8,4.0,5.16
+1,H001049,Kay,Hagan,1953-05-26,F,D,412324,1028015,112,Senate,NC,,2,D,,3,486,9,0,116,184,92.19,,0,4.0,7.81
+2,H001049,Kay,Hagan,1953-05-26,F,D,412324,1028015,111,Senate,NC,,2,D,,1,696,9,0,63,157,91.36,,0,3.0,8.64

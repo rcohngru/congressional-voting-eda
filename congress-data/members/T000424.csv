@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000424,James,Turner,1946-02-06,M,,400410,,108,House,TX,2,,D,,8,1221,50,0,11,250,86.47,,0,0.0,13.7
+1,T000424,James,Turner,1946-02-06,M,,400410,,107,House,TX,2,,D,,6,996,8,0,9,240,86.78,,0,0.0,13.74
+2,T000424,James,Turner,1946-02-06,M,,400410,,106,House,TX,2,,D,,4,1214,37,0,5,229,84.93,,0,0.0,15.33
+3,T000424,James,Turner,1946-02-06,M,,400410,,105,House,TX,2,,D,,2,1187,26,1,2,139,79.82,,0,0.0,20.72

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000049,Harris,Fawell,1929-03-25,M,,404009,,105,House,IL,13,,R,,14,1187,77,0,12,106,86.43,,0,0.0,13.93
+1,F000049,Harris,Fawell,1929-03-25,M,,404009,,104,House,IL,13,,R,,12,1340,13,0,16,97,90.25,,0,0.0,11.0
+2,F000049,Harris,Fawell,1929-03-25,M,,404009,,103,House,IL,13,,R,,10,1122,6,0,9,269,84.85,,0,0.0,14.41
+3,F000049,Harris,Fawell,1929-03-25,M,,404009,,102,House,IL,13,,R,,8,933,26,1,,,80.05,,0,0.0,16.44
+4,F000049,Harris,Fawell,1929-03-25,M,,404009,,101,House,IL,13,,R,,6,,,,,,,,0,0.0,
+5,F000049,Harris,Fawell,1929-03-25,M,,404009,,100,House,IL,13,,R,,4,,,,,,,,0,0.0,
+6,F000049,Harris,Fawell,1929-03-25,M,,404009,,99,House,IL,13,,R,,2,,,,,,,,0,0.0,

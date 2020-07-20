@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000812,Ann,Wagner,1962-09-13,F,R,412548,82702,116,House,MO,2,,R,,8,839,23,0,16,256,92.47,,4,2.0,7.41
+1,W000812,Ann,Wagner,1962-09-13,F,R,412548,82702,115,House,MO,2,,R,,6,1211,46,0,19,280,98.53,,4,2.0,1.47
+2,W000812,Ann,Wagner,1962-09-13,F,R,412548,82702,114,House,MO,2,,R,,4,1325,89,0,14,187,96.82,,0,1.0,3.09
+3,W000812,Ann,Wagner,1962-09-13,F,R,412548,82702,113,House,MO,2,,R,,2,1204,28,0,11,195,97.27,,0,1.0,2.65

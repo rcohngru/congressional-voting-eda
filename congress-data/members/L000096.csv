@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000096,Steve,Largent,1954-09-28,M,,400593,,107,House,OK,1,,R,,10,550,48,0,3,120,95.51,,0,0.0,5.31
+1,L000096,Steve,Largent,1954-09-28,M,,400593,,106,House,OK,1,,R,,8,1214,111,0,5,250,89.66,,0,0.0,10.53
+2,L000096,Steve,Largent,1954-09-28,M,,400593,,105,House,OK,1,,R,,6,1187,74,0,3,185,89.55,,0,0.0,11.01
+3,L000096,Steve,Largent,1954-09-28,M,,400593,,104,House,OK,1,,R,,4,1340,65,0,2,172,94.01,,0,0.0,7.12
+4,L000096,Steve,Largent,1954-09-28,M,,400593,,103,House,OK,1,,R,,2,1,0,0,,,0.0,,0,0.0,100.0

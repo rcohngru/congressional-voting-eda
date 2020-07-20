@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,112,Senate,TX,,1,R,,19,486,33,0,38,258,88.51,,0,3.0,11.49
+1,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,111,Senate,TX,,1,R,,17,696,67,0,42,169,92.94,,0,4.0,7.06
+2,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,110,Senate,TX,,1,R,,15,657,15,0,36,199,91.21,,0,4.0,8.79
+3,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,109,Senate,TX,,1,R,,13,645,7,0,40,156,91.96,,0,0.0,8.04
+4,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,108,Senate,TX,,1,R,,11,675,12,0,48,145,92.4,,0,0.0,7.6
+5,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,107,Senate,TX,,1,R,,9,633,14,0,42,177,90.89,,0,0.0,9.11
+6,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,106,Senate,TX,,1,R,,7,672,10,0,43,242,92.87,,0,0.0,7.13
+7,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,105,Senate,TX,,1,R,,5,612,16,0,35,191,92.37,,0,0.0,7.63
+8,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,104,Senate,TX,,1,R,,3,916,7,0,36,151,95.8,,0,0.0,4.2
+9,H001016,Kay,Hutchison,1943-07-22,F,R,300054,24713,103,Senate,TX,,1,R,,1,578,26,0,13,128,91.06,,0,0.0,8.94

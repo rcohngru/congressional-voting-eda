@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000288,Keith,Ellison,1963-08-04,M,D,412215,1022556,115,House,MN,5,,D,,12,1211,210,5,42,583,94.66,,3,1.0,5.34
+1,E000288,Keith,Ellison,1963-08-04,M,D,412215,1022556,114,House,MN,5,,D,,10,1325,60,0,39,428,96.73,,0,1.0,3.11
+2,E000288,Keith,Ellison,1963-08-04,M,D,412215,1022556,113,House,MN,5,,D,,8,1204,51,1,25,666,93.61,,0,1.0,6.3
+3,E000288,Keith,Ellison,1963-08-04,M,D,412215,1022556,112,House,MN,5,,D,,6,1607,137,5,41,487,94.21,,0,1.0,5.72
+4,E000288,Keith,Ellison,1963-08-04,M,D,412215,1022556,111,House,MN,5,,D,,4,1655,117,2,26,660,96.86,,0,2.0,3.08
+5,E000288,Keith,Ellison,1963-08-04,M,D,412215,1022556,110,House,MN,5,,D,,2,1873,84,3,33,745,97.5,,0,2.0,3.07

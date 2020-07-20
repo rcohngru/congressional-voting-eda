@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000078,Sue,Kelly,1936-09-26,F,,400213,,109,House,NY,19,,R,,12,1214,29,0,31,270,88.77,,0,0.0,11.49
+1,K000078,Sue,Kelly,1936-09-26,F,,400213,,108,House,NY,19,,R,,10,1221,8,0,26,248,92.18,,0,0.0,7.99
+2,K000078,Sue,Kelly,1936-09-26,F,,400213,,107,House,NY,19,,R,,8,996,11,0,35,308,92.47,,0,0.0,8.05
+3,K000078,Sue,Kelly,1936-09-26,F,,400213,,106,House,NY,19,,R,,6,1214,3,2,30,505,84.6,,0,0.0,15.66
+4,K000078,Sue,Kelly,1936-09-26,F,,400213,,105,House,NY,19,,R,,4,1187,12,0,14,400,84.12,,0,0.0,16.4
+5,K000078,Sue,Kelly,1936-09-26,F,,400213,,104,House,NY,19,,R,,2,1340,5,0,6,217,88.91,,0,0.0,12.33

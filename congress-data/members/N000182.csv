@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,114,House,TX,19,,R,,14,1325,11,0,12,176,96.7,,0,3.0,3.22
+1,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,113,House,TX,19,,R,,12,1204,10,0,18,212,96.13,,0,3.0,3.78
+2,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,112,House,TX,19,,R,,10,1607,20,0,21,222,95.05,,0,3.0,4.89
+3,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,111,House,TX,19,,R,,8,1655,60,2,16,299,94.85,,0,3.0,5.09
+4,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,110,House,TX,19,,R,,6,1873,53,2,10,293,93.79,,0,3.0,6.72
+5,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,109,House,TX,19,,R,,4,1214,15,0,8,242,93.39,,0,0.0,6.86
+6,N000182,Randy,Neugebauer,1949-12-24,M,R,400441,1010920,108,House,TX,19,,R,,2,979,7,0,7,142,95.22,,0,0.0,4.98

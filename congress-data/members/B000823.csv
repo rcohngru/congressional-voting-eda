@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000823,Henry,Bridges,1898-09-09,M,,401780,,87,Senate,NH,,2,R,,25,,,,,,,,0,0.0,
+1,B000823,Henry,Bridges,1898-09-09,M,,401780,,86,Senate,NH,,2,R,,23,,,,,,,,0,0.0,
+2,B000823,Henry,Bridges,1898-09-09,M,,401780,,85,Senate,NH,,2,R,,21,,,,,,,,0,0.0,
+3,B000823,Henry,Bridges,1898-09-09,M,,401780,,84,Senate,NH,,2,R,,19,,,,,,,,0,0.0,
+4,B000823,Henry,Bridges,1898-09-09,M,,401780,,83,Senate,NH,,2,R,,17,,,,,,,,0,0.0,
+5,B000823,Henry,Bridges,1898-09-09,M,,401780,,82,Senate,NH,,2,R,,16,,,,,,,,0,0.0,
+6,B000823,Henry,Bridges,1898-09-09,M,,401780,,81,Senate,NH,,2,R,,13,,,,,,,,0,0.0,
+7,B000823,Henry,Bridges,1898-09-09,M,,401780,,80,Senate,NH,,2,R,,11,,,,,,,,0,0.0,

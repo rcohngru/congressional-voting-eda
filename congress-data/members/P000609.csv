@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000609,Gary,Palmer,1954-05-14,M,R,412608,76094,116,House,AL,6,,R,House Republican Policy Committee Chair,6,839,2,0,7,85,92.89,,3,2.0,6.99
+1,P000609,Gary,Palmer,1954-05-14,M,R,412608,76094,115,House,AL,6,,R,,4,1211,16,0,9,92,95.54,,2,4.0,4.46
+2,P000609,Gary,Palmer,1954-05-14,M,R,412608,76094,114,House,AL,6,,R,,2,1325,5,0,4,101,94.66,,0,3.0,5.27

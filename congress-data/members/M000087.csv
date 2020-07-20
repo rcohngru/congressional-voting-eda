@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,116,House,NY,12,,D,,28,839,3,0,57,503,98.56,,3,2.0,1.32
+1,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,115,House,NY,12,,D,,26,1211,52,2,46,436,97.43,,4,3.0,2.57
+2,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,114,House,NY,12,,D,,24,1320,72,0,35,262,97.58,,0,3.0,2.34
+3,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,113,House,NY,12,,D,,22,1204,54,1,47,385,94.75,,0,3.0,5.17
+4,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,112,House,NY,14,,D,,20,1607,71,1,65,462,94.71,,0,3.0,5.22
+5,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,111,House,NY,14,,D,,18,1655,119,3,72,662,98.62,,0,2.0,1.31
+6,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,110,House,NY,14,,D,,16,1873,109,0,88,767,99.65,,0,3.0,0.92
+7,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,109,House,NY,14,,D,,14,1214,32,1,78,715,94.94,,0,0.0,5.32
+8,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,108,House,NY,14,,D,,12,1221,29,0,57,588,96.0,,0,0.0,4.0
+9,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,107,House,NY,14,,D,,10,996,51,0,52,523,94.16,,0,0.0,6.38
+10,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,106,House,NY,14,,D,,8,1214,47,3,53,492,93.41,,0,0.0,6.76
+11,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,105,House,NY,14,,D,,6,1187,46,3,52,439,91.96,,0,0.0,8.58
+12,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,104,House,NY,14,,D,,4,1340,48,0,29,246,94.55,,0,0.0,6.75
+13,M000087,Carolyn,Maloney,1946-02-19,F,D,400251,26162,103,House,NY,14,,D,,2,1122,50,0,24,442,92.09,,0,0.0,7.23

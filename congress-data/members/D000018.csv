@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,105,Senate,NY,,3,R,,17,612,16,0,79,300,78.81,,0,0.0,21.19
+1,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,104,Senate,NY,,3,R,,15,916,13,1,61,190,90.2,,0,0.0,9.8
+2,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,103,Senate,NY,,3,R,,13,724,22,0,44,266,86.44,,0,0.0,13.56
+3,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,102,Senate,NY,,3,R,,11,550,13,0,,,79.4,,0,0.0,20.6
+4,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,101,Senate,NY,,3,R,,9,638,5,0,,,,,0,0.0,
+5,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,100,Senate,NY,,3,R,,7,,,,,,,,0,0.0,
+6,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,99,Senate,NY,,3,R,,5,,,,,,,,0,0.0,
+7,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,98,Senate,NY,,3,R,,3,,,,,,,,0,0.0,
+8,D000018,Alfonse,D'Amato,1937-08-01,M,,403142,,97,Senate,NY,,3,R,,1,,,,,,,,0,0.0,

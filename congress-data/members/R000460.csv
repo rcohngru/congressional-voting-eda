@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000460,William,Roth,1921-07-22,M,,400565,,106,Senate,DE,,1,R,,29,672,30,1,45,117,88.26,,0,0.0,11.74
+1,R000460,William,Roth,1921-07-22,M,,400565,,105,Senate,DE,,1,R,,27,612,18,0,54,66,86.22,,0,0.0,13.78
+2,R000460,William,Roth,1921-07-22,M,,400565,,104,Senate,DE,,1,R,,25,916,13,0,21,75,86.97,,0,0.0,13.03
+3,R000460,William,Roth,1921-07-22,M,,400565,,103,Senate,DE,,1,R,,23,724,7,0,57,125,78.77,,0,0.0,21.23
+4,R000460,William,Roth,1921-07-22,M,,400565,,102,Senate,DE,,1,R,,21,550,36,1,,,80.12,,0,0.0,19.88
+5,R000460,William,Roth,1921-07-22,M,,400565,,101,Senate,DE,,1,R,,19,638,10,0,,,,,0,0.0,
+6,R000460,William,Roth,1921-07-22,M,,400565,,100,Senate,DE,,1,R,,17,,,,,,,,0,0.0,
+7,R000460,William,Roth,1921-07-22,M,,400565,,99,Senate,DE,,1,R,,15,,,,,,,,0,0.0,
+8,R000460,William,Roth,1921-07-22,M,,400565,,98,Senate,DE,,1,R,,13,,,,,,,,0,0.0,
+9,R000460,William,Roth,1921-07-22,M,,400565,,97,Senate,DE,,1,R,,11,,,,,,,,0,0.0,
+10,R000460,William,Roth,1921-07-22,M,,400565,,96,Senate,DE,,1,R,,9,,,,,,,,0,0.0,
+11,R000460,William,Roth,1921-07-22,M,,400565,,95,Senate,DE,,1,R,,7,,,,,,,,0,0.0,
+12,R000460,William,Roth,1921-07-22,M,,400565,,94,Senate,DE,,1,R,,5,,,,,,,,0,0.0,
+13,R000460,William,Roth,1921-07-22,M,,400565,,93,Senate,DE,,1,R,,3,,,,,,,,0,0.0,
+14,R000460,William,Roth,1921-07-22,M,,400565,,92,Senate,DE,,1,R,,1,,,,,,,,0,0.0,
+15,R000460,William,Roth,1921-07-22,M,,400565,,91,Senate,DE,,1,R,,1,,,,,,,,0,0.0,

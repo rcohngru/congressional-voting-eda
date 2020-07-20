@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,116,Senate,WI,,1,D,,7,557,1,1,62,540,93.85,,11,3.0,6.15
+1,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,115,Senate,WI,,1,D,,5,599,3,1,70,545,95.92,,21,3.0,4.08
+2,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,114,Senate,WI,,1,D,,3,502,0,0,46,328,96.15,,0,4.0,3.85
+3,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,113,Senate,WI,,1,D,,1,657,3,0,21,235,98.62,,0,4.0,1.38
+4,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,112,House,WI,2,,D,,14,1607,49,1,17,227,93.42,,0,1.0,6.52
+5,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,111,House,WI,2,,D,,12,1655,37,3,36,585,97.45,,0,2.0,2.49
+6,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,110,House,WI,2,,D,,10,1873,18,1,23,577,98.08,,0,1.0,2.46
+7,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,109,House,WI,2,,D,,8,1214,1,0,13,448,93.65,,0,0.0,6.61
+8,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,108,House,WI,2,,D,,6,1221,7,0,16,393,94.39,,0,0.0,5.69
+9,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,107,House,WI,2,,D,,4,996,19,1,14,506,90.61,,0,0.0,9.92
+10,B001230,Tammy,Baldwin,1962-02-11,F,D,400013,57884,106,House,WI,2,,D,,2,1214,30,2,8,336,91.0,,0,0.0,9.25

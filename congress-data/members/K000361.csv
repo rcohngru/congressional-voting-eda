@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000361,Ric,Keller,1964-09-05,M,,400212,,110,House,FL,8,,R,,8,1873,77,0,9,228,94.04,,0,2.0,6.47
+1,K000361,Ric,Keller,1964-09-05,M,,400212,,109,House,FL,8,,R,,6,1214,61,0,16,127,94.18,,0,0.0,6.08
+2,K000361,Ric,Keller,1964-09-05,M,,400212,,108,House,FL,8,,R,,4,1221,29,0,7,156,96.78,,0,0.0,3.39
+3,K000361,Ric,Keller,1964-09-05,M,,400212,,107,House,FL,8,,R,,2,996,45,0,13,176,97.75,,0,0.0,2.78

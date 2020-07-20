@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,115,Senate,FL,,1,D,,17,599,38,1,74,381,89.31,,4,4.0,10.69
+1,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,114,Senate,FL,,1,D,,15,502,32,0,45,145,93.94,,0,4.0,6.06
+2,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,113,Senate,FL,,1,D,,13,657,19,0,44,192,98.59,,8,5.0,1.41
+3,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,112,Senate,FL,,1,D,,11,486,3,0,46,214,94.38,,0,0.0,5.63
+4,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,111,Senate,FL,,1,D,,9,696,14,0,62,196,93.07,,0,6.0,6.93
+5,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,110,Senate,FL,,1,D,,7,657,11,0,57,281,92.8,,0,6.0,7.2
+6,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,109,Senate,FL,,1,D,,5,645,10,0,41,269,85.92,,0,0.0,14.08
+7,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,108,Senate,FL,,1,D,,3,675,13,0,32,194,93.81,,0,0.0,6.19
+8,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,107,Senate,FL,,1,D,,1,633,5,0,30,140,91.11,,0,0.0,8.89
+9,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,101,House,FL,11,,D,,12,,,,,,,,0,0.0,
+10,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,100,House,FL,11,,D,,10,,,,,,,,0,0.0,
+11,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,99,House,FL,11,,D,,8,,,,,,,,0,0.0,
+12,N000032,Bill,Nelson,1942-09-29,M,D,300078,1931,98,House,FL,11,,D,,6,,,,,,,,0,0.0,

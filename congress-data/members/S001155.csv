@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001155,John,Sullivan,1965-01-01,M,R,400392,92716,112,House,OK,1,,R,,12,1607,128,0,15,146,94.89,,0,1.0,5.04
+1,S001155,John,Sullivan,1965-01-01,M,R,400392,92716,111,House,OK,1,,R,,10,1655,263,0,12,178,96.72,,0,1.0,3.21
+2,S001155,John,Sullivan,1965-01-01,M,R,400392,92716,110,House,OK,1,,R,,8,1873,165,2,14,192,94.52,,0,3.0,6.02
+3,S001155,John,Sullivan,1965-01-01,M,R,400392,92716,109,House,OK,1,,R,,6,1214,72,0,11,184,94.12,,0,0.0,6.14
+4,S001155,John,Sullivan,1965-01-01,M,R,400392,92716,108,House,OK,1,,R,,4,1221,94,0,9,180,96.06,,0,0.0,4.12
+5,S001155,John,Sullivan,1965-01-01,M,R,400392,92716,107,House,OK,1,,R,,2,443,9,0,5,81,97.92,,0,0.0,2.08

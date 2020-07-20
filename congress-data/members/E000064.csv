@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000064,Don,Edwards,1915-01-06,M,,403776,,103,House,CA,16,,D,,32,1122,58,0,18,242,90.21,,0,0.0,9.3
+1,E000064,Don,Edwards,1915-01-06,M,,403776,,102,House,CA,10,,D,,30,933,30,1,,,89.6,,0,0.0,7.54
+2,E000064,Don,Edwards,1915-01-06,M,,403776,,101,House,CA,10,,D,,28,,,,,,,,0,0.0,
+3,E000064,Don,Edwards,1915-01-06,M,,403776,,100,House,CA,10,,D,,26,,,,,,,,0,0.0,
+4,E000064,Don,Edwards,1915-01-06,M,,403776,,99,House,CA,10,,D,,24,,,,,,,,0,0.0,
+5,E000064,Don,Edwards,1915-01-06,M,,403776,,98,House,CA,10,,D,,22,,,,,,,,0,0.0,

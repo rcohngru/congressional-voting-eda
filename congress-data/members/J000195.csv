@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000195,Olin,Johnston,1896-11-18,,,406090,,89,Senate,SC,,3,D,,21,,,,,,,,0,0.0,
+1,J000195,Olin,Johnston,1896-11-18,,,406090,,88,Senate,SC,,3,D,,19,,,,,,,,0,0.0,
+2,J000195,Olin,Johnston,1896-11-18,,,406090,,87,Senate,SC,,3,D,,17,,,,,,,,0,0.0,
+3,J000195,Olin,Johnston,1896-11-18,,,406090,,86,Senate,SC,,3,D,,15,,,,,,,,0,0.0,
+4,J000195,Olin,Johnston,1896-11-18,,,406090,,85,Senate,SC,,3,D,,13,,,,,,,,0,0.0,
+5,J000195,Olin,Johnston,1896-11-18,,,406090,,84,Senate,SC,,3,D,,11,,,,,,,,0,0.0,
+6,J000195,Olin,Johnston,1896-11-18,,,406090,,83,Senate,SC,,3,D,,9,,,,,,,,0,0.0,
+7,J000195,Olin,Johnston,1896-11-18,,,406090,,82,Senate,SC,,3,D,,7,,,,,,,,0,0.0,
+8,J000195,Olin,Johnston,1896-11-18,,,406090,,81,Senate,SC,,3,D,,5,,,,,,,,0,0.0,
+9,J000195,Olin,Johnston,1896-11-18,,,406090,,80,Senate,SC,,3,D,,3,,,,,,,,0,0.0,

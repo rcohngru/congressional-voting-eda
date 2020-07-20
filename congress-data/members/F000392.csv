@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000392,Martin,Frost,1942-01-01,M,,400143,,108,House,TX,24,,D,,26,1221,51,0,11,1097,92.87,,0,0.0,7.3
+1,F000392,Martin,Frost,1942-01-01,M,,400143,,107,House,TX,24,,D,,24,996,30,0,26,961,92.84,,0,0.0,7.47
+2,F000392,Martin,Frost,1942-01-01,M,,400143,,106,House,TX,24,,D,,22,1214,62,0,18,920,93.08,,0,0.0,7.01
+3,F000392,Martin,Frost,1942-01-01,M,,400143,,105,House,TX,24,,D,,20,1187,55,3,3,805,90.56,,0,0.0,9.81
+4,F000392,Martin,Frost,1942-01-01,M,,400143,,104,House,TX,24,,D,,18,1340,99,0,3,482,88.31,,0,0.0,12.45
+5,F000392,Martin,Frost,1942-01-01,M,,400143,,103,House,TX,24,,D,,16,1122,101,2,30,758,89.97,,0,0.0,9.23
+6,F000392,Martin,Frost,1942-01-01,M,,400143,,102,House,TX,24,,D,,14,933,76,0,,,90.37,,0,0.0,7.46
+7,F000392,Martin,Frost,1942-01-01,M,,400143,,101,House,TX,24,,D,,12,,,,,,,,0,0.0,
+8,F000392,Martin,Frost,1942-01-01,M,,400143,,100,House,TX,24,,D,,10,,,,,,,,0,0.0,
+9,F000392,Martin,Frost,1942-01-01,M,,400143,,99,House,TX,24,,D,,8,,,,,,,,0,0.0,
+10,F000392,Martin,Frost,1942-01-01,M,,400143,,98,House,TX,24,,D,,6,,,,,,,,0,0.0,

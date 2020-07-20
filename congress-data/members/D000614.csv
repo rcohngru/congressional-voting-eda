@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000614,Sean,Duffy,1971-10-03,M,R,412488,623570,116,House,WI,7,,R,,10,540,37,0,10,72,91.4,,2,1.0,8.4
+1,D000614,Sean,Duffy,1971-10-03,M,R,412488,623570,115,House,WI,7,,R,,8,1211,44,0,34,158,95.09,,2,1.0,4.91
+2,D000614,Sean,Duffy,1971-10-03,M,R,412488,623570,114,House,WI,7,,R,,6,1325,70,0,33,127,94.94,,0,2.0,4.98
+3,D000614,Sean,Duffy,1971-10-03,M,R,412488,623570,113,House,WI,7,,R,,4,1204,62,0,26,172,92.97,,0,4.0,6.94
+4,D000614,Sean,Duffy,1971-10-03,M,R,412488,623570,112,House,WI,7,,R,,2,1607,28,0,5,135,91.9,,0,2.0,8.04

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000258,Bob,Riley,1944-10-03,M,,400501,,107,House,AL,3,,R,,6,996,267,0,7,168,96.5,,0,0.0,4.06
+1,R000258,Bob,Riley,1944-10-03,M,,400501,,106,House,AL,3,,R,,4,1214,49,0,6,218,93.08,,0,0.0,7.18
+2,R000258,Bob,Riley,1944-10-03,M,,400501,,105,House,AL,3,,R,,2,1187,82,0,6,143,94.12,,0,0.0,6.44

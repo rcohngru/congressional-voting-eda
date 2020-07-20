@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000222,Ronald,Dellums,1935-11-24,M,,403364,,105,House,CA,9,,D,,28,651,60,0,3,471,88.05,,0,0.0,11.95
+1,D000222,Ronald,Dellums,1935-11-24,M,,403364,,104,House,CA,9,,D,,26,1340,40,3,2,406,90.62,,0,0.0,10.51
+2,D000222,Ronald,Dellums,1935-11-24,M,,403364,,103,House,CA,9,,D,,24,1122,79,0,14,553,89.46,,0,0.0,9.84
+3,D000222,Ronald,Dellums,1935-11-24,M,,403364,,102,House,CA,8,,D,,22,933,62,1,,,88.52,,0,0.0,8.88
+4,D000222,Ronald,Dellums,1935-11-24,M,,403364,,101,House,CA,8,,D,,20,,,,,,,,0,0.0,
+5,D000222,Ronald,Dellums,1935-11-24,M,,403364,,100,House,CA,8,,D,,18,,,,,,,,0,0.0,
+6,D000222,Ronald,Dellums,1935-11-24,M,,403364,,99,House,CA,8,,D,,16,,,,,,,,0,0.0,
+7,D000222,Ronald,Dellums,1935-11-24,M,,403364,,98,House,CA,8,,D,,14,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000131,Walter,George,1878-01-29,M,,404501,,84,Senate,GA,,3,D,,33,,,,,,,,0,0.0,
+1,G000131,Walter,George,1878-01-29,M,,404501,,83,Senate,GA,,3,D,,31,,,,,,,,0,0.0,
+2,G000131,Walter,George,1878-01-29,M,,404501,,82,Senate,GA,,3,D,,29,,,,,,,,0,0.0,
+3,G000131,Walter,George,1878-01-29,M,,404501,,81,Senate,GA,,3,D,,27,,,,,,,,0,0.0,
+4,G000131,Walter,George,1878-01-29,M,,404501,,80,Senate,GA,,3,D,,25,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000337,Les,AuCoin,1942-10-21,,,400987,,102,House,OR,1,,D,,18,933,149,0,,,89.65,,0,0.0,7.21
+1,A000337,Les,AuCoin,1942-10-21,,,400987,,101,House,OR,1,,D,,16,,,,,,,,0,0.0,
+2,A000337,Les,AuCoin,1942-10-21,,,400987,,100,House,OR,1,,D,,14,,,,,,,,0,0.0,
+3,A000337,Les,AuCoin,1942-10-21,,,400987,,99,House,OR,1,,D,,12,,,,,,,,0,0.0,
+4,A000337,Les,AuCoin,1942-10-21,,,400987,,98,House,OR,1,,D,,10,,,,,,,,0,0.0,

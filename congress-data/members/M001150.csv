@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,114,House,MI,10,,R,,14,1325,95,0,21,160,95.33,,0,5.0,4.59
+1,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,113,House,MI,10,,R,,12,1204,2,0,19,210,95.99,,0,3.0,3.93
+2,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,112,House,MI,10,,R,,10,1607,6,0,14,227,92.45,,0,2.0,7.49
+3,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,111,House,MI,10,,R,,8,1655,7,0,5,325,91.45,,0,2.0,8.49
+4,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,110,House,MI,10,,R,,6,1873,11,0,7,239,90.55,,0,3.0,10.0
+5,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,109,House,MI,10,,R,,4,1214,51,0,10,195,94.06,,0,0.0,6.21
+6,M001150,Candice,Miller,1954-05-07,F,R,400276,1003594,108,House,MI,10,,R,,2,1221,25,0,6,191,97.22,,0,0.0,2.95

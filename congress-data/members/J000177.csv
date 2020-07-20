@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,113,Senate,SD,,2,D,,17,657,4,0,16,214,98.47,,12,4.0,1.53
+1,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,112,Senate,SD,,2,D,,15,486,5,0,25,230,96.65,,0,1.0,3.35
+2,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,111,Senate,SD,,2,D,,13,696,16,0,24,243,96.6,,0,4.0,3.4
+3,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,110,Senate,SD,,2,D,,11,657,311,0,24,402,90.88,,0,5.0,9.12
+4,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,109,Senate,SD,,2,D,,9,645,9,0,27,408,88.84,,0,0.0,11.16
+5,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,108,Senate,SD,,2,D,,7,675,40,0,26,360,95.15,,0,0.0,4.85
+6,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,107,Senate,SD,,2,D,,5,633,8,0,37,417,92.37,,0,0.0,7.63
+7,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,106,Senate,SD,,2,D,,3,672,3,0,22,363,93.57,,0,0.0,6.43
+8,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,105,Senate,SD,,2,D,,1,612,6,0,17,227,91.12,,0,0.0,8.88
+9,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,104,House,SD,At-Large,,D,,10,1340,27,0,37,175,85.57,,0,0.0,15.72
+10,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,103,House,SD,At-Large,,D,,8,1122,16,0,21,381,89.65,,0,0.0,9.7
+11,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,102,House,SD,At-Large,,D,,6,933,8,0,,,84.43,,0,0.0,12.79
+12,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,101,House,SD,At-Large,,D,,4,,,,,,,,0,0.0,
+13,J000177,Tim,Johnson,1946-12-28,M,D,300058,2545,100,House,SD,At-Large,,D,,2,,,,,,,,0,0.0,

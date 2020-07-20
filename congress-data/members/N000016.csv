@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000016,Stephen,Neal,1934-11-07,M,,408109,,103,House,NC,5,,D,,20,1122,134,0,25,264,90.25,,0,0.0,8.91
+1,N000016,Stephen,Neal,1934-11-07,M,,408109,,102,House,NC,5,,D,,18,933,75,0,,,82.87,,0,0.0,14.25
+2,N000016,Stephen,Neal,1934-11-07,M,,408109,,101,House,NC,5,,D,,16,,,,,,,,0,0.0,
+3,N000016,Stephen,Neal,1934-11-07,M,,408109,,100,House,NC,5,,D,,14,,,,,,,,0,0.0,
+4,N000016,Stephen,Neal,1934-11-07,M,,408109,,99,House,NC,5,,D,,12,,,,,,,,0,0.0,
+5,N000016,Stephen,Neal,1934-11-07,M,,408109,,98,House,NC,5,,D,,10,,,,,,,,0,0.0,

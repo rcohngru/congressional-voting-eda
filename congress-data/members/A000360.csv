@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,116,Senate,TN,,2,R,,17,557,105,0,17,130,96.21,,12,4.0,3.79
+1,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,115,Senate,TN,,2,R,,15,599,27,0,31,123,97.0,,9,4.0,3.0
+2,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,114,Senate,TN,,2,R,,13,502,14,0,49,124,87.06,,0,4.0,12.94
+3,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,113,Senate,TN,,2,R,,11,657,44,0,27,156,87.4,,8,4.0,12.6
+4,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,112,Senate,TN,,2,R,,9,486,16,0,10,193,88.55,,0,6.0,11.45
+5,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,111,Senate,TN,,2,R,,7,696,10,0,29,149,84.34,,0,5.0,15.66
+6,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,110,Senate,TN,,2,R,,5,657,29,0,22,197,89.74,,0,4.0,10.26
+7,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,109,Senate,TN,,2,R,,3,645,15,0,26,181,92.97,,0,0.0,7.03
+8,A000360,Lamar,Alexander,1940-07-03,M,R,300002,5,108,Senate,TN,,2,R,,1,675,13,0,16,123,96.65,,0,0.0,3.35

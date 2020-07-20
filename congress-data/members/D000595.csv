@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,112,Senate,SC,,3,R,,7,486,55,0,35,130,75.89,,0,0.0,24.11
+1,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,111,Senate,SC,,3,R,,5,696,22,0,24,90,90.98,,0,4.0,9.02
+2,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,110,Senate,SC,,3,R,,3,657,22,1,28,127,82.39,,0,5.0,17.61
+3,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,109,Senate,SC,,3,R,,1,645,11,0,77,158,90.79,,0,0.0,9.21
+4,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,108,House,SC,4,,R,,6,1221,307,0,31,211,94.91,,0,0.0,5.32
+5,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,107,House,SC,4,,R,,4,996,12,0,37,175,95.66,,0,0.0,4.86
+6,D000595,Jim,DeMint,1951-09-02,M,R,400105,57895,106,House,SC,4,,R,,2,1214,44,0,17,223,92.34,,0,0.0,7.92

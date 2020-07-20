@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,116,Senate,WA,,3,D,Assistant Senate Minority Leader,27,557,26,1,42,366,91.23,,9,4.0,8.77
+1,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,115,Senate,WA,,3,D,Assistant Leader,25,599,16,1,43,359,96.86,,6,4.0,3.14
+2,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,114,Senate,WA,,3,D,,23,502,6,0,53,254,95.29,,0,4.0,4.71
+3,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,113,Senate,WA,,3,D,,21,657,17,0,54,258,99.22,,8,5.0,0.78
+4,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,112,Senate,WA,,3,D,,19,486,8,0,54,254,96.0,,0,6.0,4.0
+5,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,111,Senate,WA,,3,D,,17,696,14,0,61,301,97.05,,0,6.0,2.95
+6,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,110,Senate,WA,,3,D,,15,657,14,0,42,376,97.8,,0,6.0,2.2
+7,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,109,Senate,WA,,3,D,,13,645,5,0,32,340,93.49,,0,0.0,6.51
+8,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,108,Senate,WA,,3,D,,11,675,9,0,23,420,96.16,,0,0.0,3.84
+9,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,107,Senate,WA,,3,D,,9,633,8,0,26,325,93.01,,0,0.0,6.99
+10,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,106,Senate,WA,,3,D,,7,672,27,0,21,345,94.57,,0,0.0,5.43
+11,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,105,Senate,WA,,3,D,,5,612,2,0,18,241,93.17,,0,0.0,6.83
+12,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,104,Senate,WA,,3,D,,3,916,9,0,8,118,92.23,,0,0.0,7.77
+13,M001111,Patty,Murray,1950-10-11,F,D,300076,25277,103,Senate,WA,,3,D,,1,724,39,0,20,170,94.07,,0,0.0,5.93

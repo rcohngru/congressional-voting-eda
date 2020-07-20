@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000256,Walter,Jones,1913-08-19,M,,406148,,102,House,NC,1,,D,,28,835,68,0,,,88.99,,0,0.0,8.19
+1,J000256,Walter,Jones,1913-08-19,M,,406148,,101,House,NC,1,,D,,26,,,,,,,,0,0.0,
+2,J000256,Walter,Jones,1913-08-19,M,,406148,,100,House,NC,1,,D,,24,,,,,,,,0,0.0,
+3,J000256,Walter,Jones,1913-08-19,M,,406148,,99,House,NC,1,,D,,22,,,,,,,,0,0.0,
+4,J000256,Walter,Jones,1913-08-19,M,,406148,,98,House,NC,1,,D,,20,,,,,,,,0,0.0,

@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001149,Dan,Burton,1938-06-21,M,R,400055,,112,House,IN,5,,R,,30,1607,162,0,46,453,93.73,,0,2.0,6.2
+1,B001149,Dan,Burton,1938-06-21,M,R,400055,,111,House,IN,5,,R,,28,1655,32,4,26,698,95.94,,0,2.0,4.0
+2,B001149,Dan,Burton,1938-06-21,M,R,400055,,110,House,IN,5,,R,,26,1873,77,5,62,739,94.09,,0,3.0,6.49
+3,B001149,Dan,Burton,1938-06-21,M,R,400055,,109,House,IN,5,,R,,24,1214,81,2,21,524,93.92,,0,0.0,6.26
+4,B001149,Dan,Burton,1938-06-21,M,R,400055,,108,House,IN,5,,R,,22,1221,111,0,16,301,94.65,,0,0.0,5.44
+5,B001149,Dan,Burton,1938-06-21,M,R,400055,,107,House,IN,6,,R,,20,996,189,0,22,238,96.1,,0,0.0,4.41
+6,B001149,Dan,Burton,1938-06-21,M,R,400055,,106,House,IN,6,,R,,18,1214,84,0,16,293,92.61,,0,0.0,7.57
+7,B001149,Dan,Burton,1938-06-21,M,R,400055,,105,House,IN,6,,R,,16,1187,62,1,27,297,93.78,,0,0.0,6.67
+8,B001149,Dan,Burton,1938-06-21,M,R,400055,,104,House,IN,6,,R,,14,1340,24,0,17,249,95.28,,0,0.0,5.97
+9,B001149,Dan,Burton,1938-06-21,M,R,400055,,103,House,IN,6,,R,,12,1122,23,0,19,328,89.74,,0,0.0,9.51
+10,B001149,Dan,Burton,1938-06-21,M,R,400055,,102,House,IN,6,,R,,10,933,20,1,,,82.3,,0,0.0,14.32
+11,B001149,Dan,Burton,1938-06-21,M,R,400055,,101,House,IN,6,,R,,8,,,,,,,,0,0.0,
+12,B001149,Dan,Burton,1938-06-21,M,R,400055,,100,House,IN,6,,R,,6,,,,,,,,0,0.0,
+13,B001149,Dan,Burton,1938-06-21,M,R,400055,,99,House,IN,6,,R,,4,,,,,,,,0,0.0,
+14,B001149,Dan,Burton,1938-06-21,M,R,400055,,98,House,IN,6,,R,,2,,,,,,,,0,0.0,

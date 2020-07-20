@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,115,House,CA,48,,R,,30,1211,112,0,16,145,92.41,,5,2.0,7.59
+1,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,114,House,CA,48,,R,,28,1325,84,0,17,159,91.15,,0,2.0,8.77
+2,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,113,House,CA,48,,R,,26,1204,92,1,13,153,88.9,,0,2.0,11.01
+3,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,112,House,CA,46,,R,,24,1607,71,1,23,170,89.19,,0,2.0,10.74
+4,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,111,House,CA,46,,R,,22,1655,121,0,11,301,92.6,,0,2.0,7.34
+5,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,110,House,CA,46,,R,,20,1873,118,4,20,284,91.16,,0,2.0,9.31
+6,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,109,House,CA,46,,R,,18,1214,19,3,25,253,88.18,,0,0.0,12.07
+7,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,108,House,CA,46,,R,,16,1221,35,1,39,197,90.04,,0,0.0,10.13
+8,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,107,House,CA,45,,R,,14,996,12,0,18,252,91.24,,0,0.0,9.18
+9,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,106,House,CA,45,,R,,12,1214,11,0,24,279,89.17,,0,0.0,11.0
+10,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,105,House,CA,45,,R,,10,1187,11,0,14,289,87.29,,0,0.0,13.23
+11,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,104,House,CA,45,,R,,8,1340,11,1,16,306,90.81,,0,0.0,10.44
+12,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,103,House,CA,45,,R,,6,1122,6,0,7,353,87.84,,0,0.0,11.42
+13,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,102,House,CA,42,,R,,4,933,13,1,,,83.69,,0,0.0,13.07
+14,R000409,Dana,Rohrabacher,1947-06-21,M,R,400343,5590,101,House,CA,42,,R,,2,,,,,,,,0,0.0,

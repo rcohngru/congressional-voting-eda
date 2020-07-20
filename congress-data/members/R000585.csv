@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000585,Tom,Reed,1971-11-18,M,R,412393,623468,116,House,NY,23,,R,,12,839,24,0,12,162,84.41,,3,1.0,15.47
+1,R000585,Tom,Reed,1971-11-18,M,R,412393,623468,115,House,NY,23,,R,,10,1211,23,0,31,164,91.79,,4,1.0,8.21
+2,R000585,Tom,Reed,1971-11-18,M,R,412393,623468,114,House,NY,23,,R,,8,1325,20,0,32,183,91.66,,0,1.0,8.26
+3,R000585,Tom,Reed,1971-11-18,M,R,412393,623468,113,House,NY,23,,R,,6,1204,46,0,36,236,90.03,,0,1.0,9.88
+4,R000585,Tom,Reed,1971-11-18,M,R,412393,623468,112,House,NY,29,,R,,4,1607,19,0,47,193,90.23,,0,4.0,9.71
+5,R000585,Tom,Reed,1971-11-18,M,R,412393,623468,111,House,NY,29,,R,,2,85,0,0,0,0,96.39,,0,0.0,3.61

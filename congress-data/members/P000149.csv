@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,112,House,NJ,10,,D,,24,1046,160,1,18,286,93.71,,0,2.0,6.17
+1,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,111,House,NJ,10,,D,,22,1655,110,1,20,623,97.07,,0,2.0,2.87
+2,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,110,House,NJ,10,,D,,20,1873,130,1,25,915,97.27,,0,2.0,3.14
+3,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,109,House,NJ,10,,D,,18,1214,169,2,9,853,91.55,,0,0.0,8.64
+4,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,108,House,NJ,10,,D,,16,1221,121,3,18,668,93.91,,0,0.0,6.27
+5,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,107,House,NJ,10,,D,,14,996,60,2,10,589,92.59,,0,0.0,7.84
+6,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,106,House,NJ,10,,D,,12,1214,93,0,10,485,90.07,,0,0.0,10.02
+7,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,105,House,NJ,10,,D,,10,1187,103,1,12,332,89.07,,0,0.0,11.31
+8,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,104,House,NJ,10,,D,,8,1340,42,2,11,166,90.91,,0,0.0,10.31
+9,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,103,House,NJ,10,,D,,6,1122,49,0,13,302,90.96,,0,0.0,8.37
+10,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,102,House,NJ,10,,D,,6,933,45,3,,,90.02,,0,0.0,7.31
+11,P000149,Donald,Payne,1934-07-16,M,D,400312,6108,101,House,NJ,10,,D,,4,,,,,,,,0,0.0,

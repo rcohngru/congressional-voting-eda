@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000298,Ron,Estes,1956-07-19,M,R,412735,107963,116,House,KS,4,,R,,4,839,13,0,6,123,93.9,,2,1.0,5.98
+1,E000298,Ron,Estes,1956-07-19,M,R,412735,107963,115,House,KS,4,,R,,2,988,10,0,9,125,98.46,,4,3.0,1.54

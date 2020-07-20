@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000589,John,Boehner,1949-11-17,M,R,400036,16740,114,House,OH,8,,R,,26,580,564,0,2,1,84.62,,0,0.0,15.38
+1,B000589,John,Boehner,1949-11-17,M,R,400036,16740,114,House,OH,8,,R,,6,,,,2,0,,,0,0.0,
+2,B000589,John,Boehner,1949-11-17,M,R,400036,16740,113,House,OH,8,,R,,24,28,1,0,0,0,92.31,,0,0.0,7.69
+3,B000589,John,Boehner,1949-11-17,M,R,400036,16740,113,House,OH,8,,R,,4,,,,0,0,,,0,0.0,
+4,B000589,John,Boehner,1949-11-17,M,R,400036,16740,112,House,OH,8,,R,,2,0,0,0,7,3,,,0,0.0,
+5,B000589,John,Boehner,1949-11-17,M,R,400036,16740,112,House,OH,8,,R,,22,1605,1594,0,0,0,88.89,,0,0.0,11.11
+6,B000589,John,Boehner,1949-11-17,M,R,400036,16740,111,House,OH,8,,R,,20,1655,157,0,13,120,96.35,,0,0.0,3.65
+7,B000589,John,Boehner,1949-11-17,M,R,400036,16740,110,House,OH,8,,R,,18,1873,102,2,18,116,95.36,,0,0.0,5.17
+8,B000589,John,Boehner,1949-11-17,M,R,400036,16740,109,House,OH,8,,R,,16,1214,30,0,26,115,97.17,,0,0.0,3.09
+9,B000589,John,Boehner,1949-11-17,M,R,400036,16740,108,House,OH,8,,R,,14,1221,43,0,8,165,97.43,,0,0.0,2.74
+10,B000589,John,Boehner,1949-11-17,M,R,400036,16740,107,House,OH,8,,R,,12,996,50,0,11,125,98.39,,0,0.0,2.15
+11,B000589,John,Boehner,1949-11-17,M,R,400036,16740,106,House,OH,8,,R,,10,1214,29,1,13,169,93.99,,0,0.0,6.18
+12,B000589,John,Boehner,1949-11-17,M,R,400036,16740,105,House,OH,8,,R,,8,1187,21,0,13,172,96.2,,0,0.0,4.24
+13,B000589,John,Boehner,1949-11-17,M,R,400036,16740,104,House,OH,8,,R,,6,1340,27,0,10,113,97.95,,0,0.0,3.31
+14,B000589,John,Boehner,1949-11-17,M,R,400036,16740,103,House,OH,8,,R,,4,1122,30,1,6,286,91.94,,0,0.0,7.3
+15,B000589,John,Boehner,1949-11-17,M,R,400036,16740,102,House,OH,8,,R,,2,933,21,1,,,88.49,,0,0.0,8.24

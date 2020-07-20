@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001148,Kendrick,Meek,1966-09-06,M,D,400270,,111,House,FL,17,,D,,8,1655,125,0,35,369,98.36,,0,1.0,1.58
+1,M001148,Kendrick,Meek,1966-09-06,M,D,400270,,110,House,FL,17,,D,,6,1873,89,0,23,379,99.15,,0,2.0,1.42
+2,M001148,Kendrick,Meek,1966-09-06,M,D,400270,,109,House,FL,17,,D,,4,1214,44,1,12,278,94.62,,0,0.0,5.64
+3,M001148,Kendrick,Meek,1966-09-06,M,D,400270,,108,House,FL,17,,D,,2,1221,83,0,10,198,94.9,,0,0.0,5.28

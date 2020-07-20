@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,113,House,NE,2,,R,,16,1204,8,0,23,245,92.45,,0,1.0,7.47
+1,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,112,House,NE,2,,R,,14,1607,17,0,13,234,90.62,,0,1.0,9.32
+2,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,111,House,NE,2,,R,,12,1655,31,1,14,336,94.69,,0,1.0,5.25
+3,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,110,House,NE,2,,R,,10,1873,59,0,38,524,92.86,,0,1.0,7.65
+4,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,109,House,NE,2,,R,,8,1214,27,0,37,370,94.44,,0,0.0,5.82
+5,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,108,House,NE,2,,R,,6,1221,34,0,13,392,94.47,,0,0.0,5.7
+6,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,107,House,NE,2,,R,,4,996,20,0,9,295,95.21,,0,0.0,5.31
+7,T000459,Lee,Terry,1962-01-29,M,R,400400,57891,106,House,NE,2,,R,,2,1214,5,0,10,246,93.76,,0,0.0,6.49

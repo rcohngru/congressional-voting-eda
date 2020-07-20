@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,113,House,CA,31,,R,,16,1204,417,0,10,98,95.92,,0,2.0,3.95
+1,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,112,House,CA,42,,R,,14,1607,112,0,16,213,94.95,,0,2.0,4.98
+2,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,111,House,CA,42,,R,,12,1645,203,6,14,248,93.95,,0,2.0,6.05
+3,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,110,House,CA,42,,R,,10,1873,157,1,12,233,94.97,,0,2.0,5.51
+4,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,109,House,CA,42,,R,,8,1214,74,0,13,195,94.69,,0,0.0,5.4
+5,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,108,House,CA,42,,R,,6,1221,68,0,10,144,95.63,,0,0.0,4.46
+6,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,107,House,CA,41,,R,,4,996,44,0,8,144,97.44,,0,0.0,2.99
+7,M001139,Gary,Miller,1948-10-16,M,R,400277,57888,106,House,CA,41,,R,,2,1214,43,0,12,390,95.12,,0,0.0,5.14

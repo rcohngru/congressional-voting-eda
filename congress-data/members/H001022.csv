@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001022,Henry,Hyde,1924-04-18,M,,400192,,109,House,IL,6,,R,,32,1214,149,0,36,163,95.91,,0,0.0,4.28
+1,H001022,Henry,Hyde,1924-04-18,M,,400192,,108,House,IL,6,,R,,30,1221,145,0,28,167,95.68,,0,0.0,4.51
+2,H001022,Henry,Hyde,1924-04-18,M,,400192,,107,House,IL,6,,R,,28,996,36,0,25,161,98.31,,0,0.0,2.11
+3,H001022,Henry,Hyde,1924-04-18,M,,400192,,106,House,IL,6,,R,,26,1214,32,0,28,176,93.01,,0,0.0,7.25
+4,H001022,Henry,Hyde,1924-04-18,M,,400192,,105,House,IL,6,,R,,24,1187,43,0,36,157,93.62,,0,0.0,6.83
+5,H001022,Henry,Hyde,1924-04-18,M,,400192,,104,House,IL,6,,R,,22,1340,16,0,27,115,95.47,,0,0.0,5.79
+6,H001022,Henry,Hyde,1924-04-18,M,,400192,,103,House,IL,6,,R,,20,1122,30,8,18,376,86.41,,0,0.0,12.83
+7,H001022,Henry,Hyde,1924-04-18,M,,400192,,102,House,IL,6,,R,,18,933,144,0,,,83.33,,0,0.0,13.05
+8,H001022,Henry,Hyde,1924-04-18,M,,400192,,101,House,IL,6,,R,,16,,,,,,,,0,0.0,
+9,H001022,Henry,Hyde,1924-04-18,M,,400192,,100,House,IL,6,,R,,14,,,,,,,,0,0.0,
+10,H001022,Henry,Hyde,1924-04-18,M,,400192,,99,House,IL,6,,R,,12,,,,,,,,0,0.0,
+11,H001022,Henry,Hyde,1924-04-18,M,,400192,,98,House,IL,6,,R,,10,,,,,,,,0,0.0,

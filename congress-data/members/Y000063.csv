@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000063,Kevin,Yoder,1976-01-08,M,R,412430,61843,115,House,KS,3,,R,,8,1211,18,0,7,185,94.69,,3,2.0,5.31
+1,Y000063,Kevin,Yoder,1976-01-08,M,R,412430,61843,114,House,KS,3,,R,,6,1325,18,0,6,153,94.68,,0,1.0,5.24
+2,Y000063,Kevin,Yoder,1976-01-08,M,R,412430,61843,113,House,KS,3,,R,,4,1204,12,0,6,193,93.69,,0,1.0,6.23
+3,Y000063,Kevin,Yoder,1976-01-08,M,R,412430,61843,112,House,KS,3,,R,,2,1607,5,0,6,234,93.52,,0,1.0,6.42

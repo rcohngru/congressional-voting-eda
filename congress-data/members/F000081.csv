@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000081,Homer,Ferguson,1889-02-25,M,,404039,,83,Senate,MI,,2,R,,11,,,,,,,,0,0.0,
+1,F000081,Homer,Ferguson,1889-02-25,M,,404039,,82,Senate,MI,,2,R,,9,,,,,,,,0,0.0,
+2,F000081,Homer,Ferguson,1889-02-25,M,,404039,,81,Senate,MI,,2,R,,7,,,,,,,,0,0.0,
+3,F000081,Homer,Ferguson,1889-02-25,M,,404039,,80,Senate,MI,,2,R,,5,,,,,,,,0,0.0,

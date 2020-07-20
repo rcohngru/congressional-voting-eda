@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,104,House,IL,7,,D,,24,1340,224,4,37,121,91.12,,0,0.0,10.2
+1,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,103,House,IL,7,,D,,22,1122,105,0,46,193,89.93,,0,0.0,9.26
+2,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,102,House,IL,7,,D,,20,933,112,2,,,89.72,,0,0.0,7.02
+3,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,101,House,IL,7,,D,,18,,,,,,,,0,0.0,
+4,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,100,House,IL,7,,D,,16,,,,,,,,0,0.0,
+5,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,99,House,IL,7,,D,,14,,,,,,,,0,0.0,
+6,C000634,Cardiss,Collins,1931-09-24,F,,402763,1965,98,House,IL,7,,D,,12,,,,,,,,0,0.0,

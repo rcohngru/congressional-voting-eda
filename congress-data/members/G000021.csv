@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,112,House,CA,24,,R,,26,1607,125,0,17,212,94.5,,0,2.0,5.43
+1,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,111,House,CA,24,,R,,24,1655,81,0,26,295,95.81,,0,4.0,4.12
+2,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,110,House,CA,24,,R,,22,1873,95,1,28,330,96.23,,0,4.0,4.35
+3,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,109,House,CA,24,,R,,20,1214,108,0,12,195,97.35,,0,0.0,2.83
+4,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,108,House,CA,24,,R,,18,1221,92,0,15,184,96.97,,0,0.0,3.12
+5,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,107,House,CA,23,,R,,16,996,43,0,20,160,97.23,,0,0.0,3.19
+6,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,106,House,CA,23,,R,,14,1210,23,0,26,197,93.32,,0,0.0,6.93
+7,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,105,House,CA,23,,R,,12,1187,34,0,25,184,95.0,,0,0.0,5.53
+8,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,104,House,CA,23,,R,,10,1340,96,0,23,186,97.84,,0,0.0,3.49
+9,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,103,House,CA,23,,R,,8,1122,61,0,28,360,94.04,,0,0.0,5.28
+10,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,102,House,CA,21,,R,,6,933,30,1,,,90.67,,0,0.0,5.92
+11,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,101,House,CA,21,,R,,4,,,,,,,,0,0.0,
+12,G000021,Elton,Gallegly,1944-03-07,M,R,400144,6712,100,House,CA,21,,R,,2,,,,,,,,0,0.0,

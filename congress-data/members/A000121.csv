@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000121,George,Allen,1952-03-08,M,,300004,,109,Senate,VA,,1,R,,5,645,2,0,65,288,93.27,,0,0.0,6.73
+1,A000121,George,Allen,1952-03-08,M,,300004,,108,Senate,VA,,1,R,,3,675,2,1,32,256,96.11,,0,0.0,3.89
+2,A000121,George,Allen,1952-03-08,M,,300004,,107,Senate,VA,,1,R,,1,633,5,0,20,229,93.11,,0,0.0,6.89
+3,A000121,George,Allen,1952-03-08,M,,300004,,102,House,VA,7,,R,,2,545,4,1,,,86.59,,0,0.0,10.15

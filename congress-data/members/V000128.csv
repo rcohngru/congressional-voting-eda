@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,116,Senate,MD,,3,D,,3,557,1,1,44,666,91.62,,10,4.0,8.38
+1,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,115,Senate,MD,,3,D,,1,599,4,1,21,469,96.08,,13,5.0,3.92
+2,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,114,House,MD,8,,D,,14,1325,40,0,17,424,98.27,,0,1.0,1.65
+3,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,113,House,MD,8,,D,,12,1204,15,1,19,325,96.1,,0,1.0,3.81
+4,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,112,House,MD,8,,D,,10,1607,29,1,12,266,96.33,,0,1.0,3.6
+5,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,111,House,MD,8,,D,,8,1655,31,0,25,413,99.38,,0,2.0,0.56
+6,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,110,House,MD,8,,D,,6,1873,29,0,26,630,99.34,,0,2.0,1.21
+7,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,109,House,MD,8,,D,,4,1214,3,1,8,622,97.07,,0,0.0,3.19
+8,V000128,Chris,Van Hollen,1959-01-10,M,D,400415,20756,108,House,MD,8,,D,,2,1221,4,1,12,515,96.66,,0,0.0,3.51

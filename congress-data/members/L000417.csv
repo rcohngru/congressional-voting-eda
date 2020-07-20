@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000417,Gillis,Long,1923-05-04,M,,406908,,99,House,LA,8,,D,,16,,,,,,,,0,0.0,
+1,L000417,Gillis,Long,1923-05-04,M,,406908,,98,House,LA,8,,D,,14,,,,,,,,0,0.0,

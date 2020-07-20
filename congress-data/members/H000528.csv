@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,112,House,CA,2,,R,,26,1607,71,0,22,195,96.2,,0,2.0,3.74
+1,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,111,House,CA,2,,R,,24,1655,31,0,13,284,95.75,,0,1.0,4.19
+2,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,110,House,CA,2,,R,,22,1873,85,1,17,311,94.48,,0,2.0,6.09
+3,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,109,House,CA,2,,R,,20,1214,18,0,19,289,95.34,,0,0.0,4.92
+4,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,108,House,CA,2,,R,,18,1221,55,0,20,245,95.76,,0,0.0,4.42
+5,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,107,House,CA,2,,R,,16,996,36,0,23,207,95.97,,0,0.0,4.56
+6,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,106,House,CA,2,,R,,14,1214,34,1,19,249,92.83,,0,0.0,7.43
+7,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,105,House,CA,2,,R,,12,1187,52,0,22,236,94.01,,0,0.0,6.53
+8,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,104,House,CA,2,,R,,10,1340,23,0,15,247,95.83,,0,0.0,5.42
+9,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,103,House,CA,2,,R,,8,1122,41,1,12,296,90.99,,0,0.0,8.25
+10,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,102,House,CA,2,,R,,6,933,54,0,,,85.61,,0,0.0,11.23
+11,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,101,House,CA,2,,R,,4,,,,,,,,0,0.0,
+12,H000528,Wally,Herger,1945-05-20,M,R,400176,12557,100,House,CA,2,,R,,2,,,,,,,,0,0.0,

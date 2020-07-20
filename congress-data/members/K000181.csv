@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000181,Jay,Kim,1939-03-27,M,,406343,,105,House,CA,41,,R,,6,1187,0,10,10,113,92.27,,0,0.0,8.25
+1,K000181,Jay,Kim,1939-03-27,M,,406343,,104,House,CA,41,,R,,4,1340,0,0,10,159,97.68,,0,0.0,3.55
+2,K000181,Jay,Kim,1939-03-27,M,,406343,,103,House,CA,41,,R,,2,1122,0,0,8,261,93.07,,0,0.0,6.19

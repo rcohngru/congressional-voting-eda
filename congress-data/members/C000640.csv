@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000640,Michael,Collins,1944-10-15,M,,400078,,108,House,GA,8,,R,,12,1221,205,0,21,147,95.43,,0,0.0,4.77
+1,C000640,Michael,Collins,1944-10-15,M,,400078,,107,House,GA,3,,R,,10,996,37,0,27,123,94.17,,0,0.0,6.36
+2,C000640,Michael,Collins,1944-10-15,M,,400078,,106,House,GA,3,,R,,8,1214,48,0,39,177,93.53,,0,0.0,6.74
+3,C000640,Michael,Collins,1944-10-15,M,,400078,,105,House,GA,3,,R,,6,1187,46,0,13,172,93.7,,0,0.0,6.84
+4,C000640,Michael,Collins,1944-10-15,M,,400078,,104,House,GA,3,,R,,4,1340,12,0,2,131,96.88,,0,0.0,4.36
+5,C000640,Michael,Collins,1944-10-15,M,,400078,,103,House,GA,3,,R,,2,1122,16,0,4,162,89.61,,0,0.0,9.64

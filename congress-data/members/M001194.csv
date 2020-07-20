@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001194,John,Moolenaar,1961-05-08,M,R,412634,76660,116,House,MI,4,,R,,6,839,2,0,8,184,96.14,,2,1.0,3.73
+1,M001194,John,Moolenaar,1961-05-08,M,R,412634,76660,115,House,MI,4,,R,,4,1211,3,0,5,192,96.51,,3,1.0,3.49
+2,M001194,John,Moolenaar,1961-05-08,M,R,412634,76660,114,House,MI,4,,R,,2,1325,17,0,6,131,96.69,,0,3.0,3.24

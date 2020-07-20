@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,113,House,LA,5,,R,,12,490,12,0,6,60,92.86,,0,1.0,6.93
+1,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,112,House,LA,5,,R,,10,1607,42,0,8,151,93.19,,0,1.0,6.75
+2,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,111,House,LA,5,,R,,8,1655,88,0,13,369,94.82,,0,2.0,5.12
+3,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,110,House,LA,5,,R,,6,1873,103,2,10,329,93.95,,0,2.0,6.63
+4,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,109,House,LA,5,,R,,4,1214,15,0,5,310,97.63,,0,0.0,2.63
+5,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,108,House,LA,5,,R,,2,0,0,0,3,166,0.0,,0,0.0,
+6,A000361,Rodney,Alexander,1946-12-05,M,R,400006,1004256,108,House,LA,5,,D,,2,1221,18,0,,,80.56,,0,0.0,19.61

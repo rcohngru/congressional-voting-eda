@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,116,House,MD,2,,D,,18,839,12,0,7,382,99.27,,3,1.0,0.61
+1,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,115,House,MD,2,,D,,16,1211,24,2,6,333,94.55,,3,1.0,5.45
+2,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,114,House,MD,2,,D,,14,1325,59,0,5,142,92.49,,0,1.0,7.43
+3,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,113,House,MD,2,,D,,12,1204,69,1,5,174,93.26,,0,2.0,6.65
+4,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,112,House,MD,2,,D,,10,1607,74,1,21,160,90.32,,0,2.0,9.61
+5,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,111,House,MD,2,,D,,8,1655,92,0,12,194,98.33,,0,2.0,1.61
+6,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,110,House,MD,2,,D,,6,1873,98,0,10,303,98.17,,0,2.0,2.41
+7,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,109,House,MD,2,,D,,4,1214,35,0,7,412,93.04,,0,0.0,7.22
+8,R000576,C.A. Dutch,Ruppersberger,1946-01-31,M,D,400349,49155,108,House,MD,2,,D,,2,1221,32,14,7,216,92.9,,0,0.0,7.27

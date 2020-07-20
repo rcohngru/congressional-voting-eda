@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000358,Mark,Kennedy,1957-04-11,M,,400214,,109,House,MN,6,,R,,6,1214,24,0,29,324,91.03,,0,0.0,9.22
+1,K000358,Mark,Kennedy,1957-04-11,M,,400214,,108,House,MN,6,,R,,4,1221,3,0,14,193,95.12,,0,0.0,4.96
+2,K000358,Mark,Kennedy,1957-04-11,M,,400214,,107,House,MN,2,,R,,2,996,28,0,7,161,90.97,,0,0.0,9.56

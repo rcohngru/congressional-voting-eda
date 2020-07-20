@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000919,Hank,Brown,1940-02-12,M,,401874,,104,Senate,CO,,2,R,,5,916,0,0,40,140,86.5,,0,0.0,13.5
+1,B000919,Hank,Brown,1940-02-12,M,,401874,,103,Senate,CO,,2,R,,3,724,3,0,36,210,84.96,,0,0.0,15.04
+2,B000919,Hank,Brown,1940-02-12,M,,401874,,102,Senate,CO,,2,R,,1,550,9,0,,,83.15,,0,0.0,16.85
+3,B000919,Hank,Brown,1940-02-12,M,,401874,,101,House,CO,4,,R,,10,,,,,,,,0,0.0,
+4,B000919,Hank,Brown,1940-02-12,M,,401874,,100,House,CO,4,,R,,8,,,,,,,,0,0.0,
+5,B000919,Hank,Brown,1940-02-12,M,,401874,,99,House,CO,4,,R,,6,,,,,,,,0,0.0,
+6,B000919,Hank,Brown,1940-02-12,M,,401874,,98,House,CO,4,,R,,4,,,,,,,,0,0.0,

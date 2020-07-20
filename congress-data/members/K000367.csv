@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,116,Senate,MN,,1,D,Senate Democratic Steering Committee Chair,13,557,201,1,102,715,83.77,,13,7.0,16.23
+1,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,115,Senate,MN,,1,D,,11,599,3,1,92,590,97.1,,14,7.0,2.9
+2,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,114,Senate,MN,,1,D,,9,502,8,0,68,303,95.88,,0,5.0,4.12
+3,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,113,Senate,MN,,1,D,,7,657,5,0,78,375,98.62,,15,5.0,1.38
+4,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,112,Senate,MN,,1,D,,5,486,2,0,96,330,94.18,,0,4.0,5.82
+5,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,111,Senate,MN,,1,D,,3,696,6,0,76,328,91.69,,0,5.0,8.31
+6,K000367,Amy,Klobuchar,1960-05-25,F,D,412242,83701,110,Senate,MN,,1,D,,1,657,7,0,29,295,94.87,,0,4.0,5.13

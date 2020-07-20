@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000051,Mark,Sanford,1960-05-28,M,R,400607,6513,115,House,SC,1,,R,,6,1211,40,16,14,132,83.78,,6,3.0,16.22
+1,S000051,Mark,Sanford,1960-05-28,M,R,400607,6513,114,House,SC,1,,R,,4,1325,39,1,10,93,85.68,,0,2.0,14.16
+2,S000051,Mark,Sanford,1960-05-28,M,R,400607,6513,113,House,SC,1,,R,,2,1057,15,0,3,44,86.51,,0,2.0,13.49
+3,S000051,Mark,Sanford,1960-05-28,M,R,400607,6513,106,House,SC,1,,R,,6,1214,33,1,22,113,74.66,,0,0.0,25.52
+4,S000051,Mark,Sanford,1960-05-28,M,R,400607,6513,105,House,SC,1,,R,,4,1187,25,1,15,87,79.89,,0,0.0,20.64
+5,S000051,Mark,Sanford,1960-05-28,M,R,400607,6513,104,House,SC,1,,R,,2,1340,6,0,7,96,85.1,,0,0.0,16.14

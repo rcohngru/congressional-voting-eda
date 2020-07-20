@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001040,Phil,Hare,1949-02-21,M,D,412204,1021566,111,House,IL,17,,D,,4,1655,12,2,21,575,98.84,,0,2.0,1.1
+1,H001040,Phil,Hare,1949-02-21,M,D,412204,1021566,110,House,IL,17,,D,,2,1873,29,0,11,749,98.68,,0,2.0,1.87

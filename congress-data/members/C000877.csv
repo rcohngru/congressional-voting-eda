@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000877,Alan,Cranston,1914-06-19,,,402990,,102,Senate,CA,,3,D,,23,550,73,1,,,88.03,,0,0.0,11.97
+1,C000877,Alan,Cranston,1914-06-19,,,402990,,101,Senate,CA,,3,D,,21,638,8,0,,,,,0,0.0,
+2,C000877,Alan,Cranston,1914-06-19,,,402990,,100,Senate,CA,,3,D,,19,,,,,,,,0,0.0,
+3,C000877,Alan,Cranston,1914-06-19,,,402990,,99,Senate,CA,,3,D,,17,,,,,,,,0,0.0,
+4,C000877,Alan,Cranston,1914-06-19,,,402990,,98,Senate,CA,,3,D,,15,,,,,,,,0,0.0,
+5,C000877,Alan,Cranston,1914-06-19,,,402990,,97,Senate,CA,,3,D,,13,,,,,,,,0,0.0,
+6,C000877,Alan,Cranston,1914-06-19,,,402990,,96,Senate,CA,,3,D,,11,,,,,,,,0,0.0,
+7,C000877,Alan,Cranston,1914-06-19,,,402990,,95,Senate,CA,,3,D,,9,,,,,,,,0,0.0,
+8,C000877,Alan,Cranston,1914-06-19,,,402990,,94,Senate,CA,,3,D,,7,,,,,,,,0,0.0,
+9,C000877,Alan,Cranston,1914-06-19,,,402990,,93,Senate,CA,,3,D,,5,,,,,,,,0,0.0,
+10,C000877,Alan,Cranston,1914-06-19,,,402990,,92,Senate,CA,,3,D,,3,,,,,,,,0,0.0,
+11,C000877,Alan,Cranston,1914-06-19,,,402990,,91,Senate,CA,,3,D,,1,,,,,,,,0,0.0,

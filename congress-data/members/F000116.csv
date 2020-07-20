@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,112,House,CA,51,,D,,20,1561,500,1,65,709,92.65,,0,2.0,7.26
+1,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,111,House,CA,51,,D,,18,1655,32,0,72,966,96.59,,0,2.0,3.35
+2,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,110,House,CA,51,,D,,16,1873,62,0,63,914,96.69,,0,2.0,3.87
+3,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,109,House,CA,51,,D,,14,1214,40,1,32,671,93.86,,0,0.0,6.4
+4,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,108,House,CA,51,,D,,12,1221,69,4,41,718,90.72,,0,0.0,9.46
+5,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,107,House,CA,50,,D,,10,996,34,3,26,823,83.14,,0,0.0,17.39
+6,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,106,House,CA,50,,D,,8,1214,59,3,27,613,88.33,,0,0.0,11.84
+7,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,105,House,CA,50,,D,,6,1187,26,4,27,633,84.35,,0,0.0,16.19
+8,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,104,House,CA,50,,D,,4,1340,70,2,14,333,90.04,,0,0.0,11.29
+9,F000116,Bob,Filner,1942-09-04,M,D,400133,26133,103,House,CA,50,,D,,2,1122,0,0,11,531,91.15,,0,0.0,8.11

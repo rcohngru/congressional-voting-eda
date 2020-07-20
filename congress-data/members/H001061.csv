@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001061,John,Hoeven,1957-03-13,M,R,412494,85233,116,Senate,ND,,3,R,,9,557,10,0,34,202,99.08,,12,4.0,0.92
+1,H001061,John,Hoeven,1957-03-13,M,R,412494,85233,115,Senate,ND,,3,R,,7,599,7,0,37,175,99.15,,14,5.0,0.85
+2,H001061,John,Hoeven,1957-03-13,M,R,412494,85233,114,Senate,ND,,3,R,,5,502,6,0,27,124,94.05,,0,4.0,5.95
+3,H001061,John,Hoeven,1957-03-13,M,R,412494,85233,113,Senate,ND,,3,R,,3,657,6,0,25,175,93.57,,12,4.0,6.43
+4,H001061,John,Hoeven,1957-03-13,M,R,412494,85233,112,Senate,ND,,3,R,,1,486,10,0,14,193,83.51,,0,4.0,16.49

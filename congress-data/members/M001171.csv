@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001171,Dan,Maffei,1968-07-04,M,D,412297,51904,113,House,NY,24,,D,,2,1204,9,1,13,233,80.68,,0,2.0,19.24
+1,M001171,Dan,Maffei,1968-07-04,M,D,412297,51904,111,House,NY,25,,D,,2,1655,33,2,19,330,96.34,,0,2.0,3.6

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000046,Pat,Danner,1934-01-13,F,,400578,,106,House,MO,6,,D,,8,1214,186,0,4,313,77.58,,0,0.0,22.52
+1,D000046,Pat,Danner,1934-01-13,F,,400578,,105,House,MO,6,,D,,6,1187,33,0,2,205,76.65,,0,0.0,23.89
+2,D000046,Pat,Danner,1934-01-13,F,,400578,,104,House,MO,6,,D,,4,1340,15,0,6,168,73.97,,0,0.0,27.22
+3,D000046,Pat,Danner,1934-01-13,F,,400578,,103,House,MO,6,,D,,2,1122,13,0,4,242,87.6,,0,0.0,11.65

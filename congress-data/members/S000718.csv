@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000718,Floyd,Spence,1928-04-09,M,,400610,,107,House,SC,2,,R,,32,332,113,0,1,72,96.31,,0,0.0,3.69
+1,S000718,Floyd,Spence,1928-04-09,M,,400610,,106,House,SC,2,,R,,30,1214,62,1,10,183,94.96,,0,0.0,5.31
+2,S000718,Floyd,Spence,1928-04-09,M,,400610,,105,House,SC,2,,R,,28,1187,10,0,13,198,96.85,,0,0.0,3.68
+3,S000718,Floyd,Spence,1928-04-09,M,,400610,,104,House,SC,2,,R,,26,1340,19,0,11,119,96.64,,0,0.0,4.54
+4,S000718,Floyd,Spence,1928-04-09,M,,400610,,103,House,SC,2,,R,,24,1122,19,0,3,287,88.71,,0,0.0,10.54
+5,S000718,Floyd,Spence,1928-04-09,M,,400610,,102,House,SC,2,,R,,22,933,39,1,,,83.79,,0,0.0,12.64
+6,S000718,Floyd,Spence,1928-04-09,M,,400610,,101,House,SC,2,,R,,20,,,,,,,,0,0.0,
+7,S000718,Floyd,Spence,1928-04-09,M,,400610,,100,House,SC,2,,R,,18,,,,,,,,0,0.0,
+8,S000718,Floyd,Spence,1928-04-09,M,,400610,,99,House,SC,2,,R,,16,,,,,,,,0,0.0,
+9,S000718,Floyd,Spence,1928-04-09,M,,400610,,98,House,SC,2,,R,,14,,,,,,,,0,0.0,

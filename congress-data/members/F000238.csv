@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000238,Mark,Foley,1954-09-08,M,,400136,,109,House,FL,16,,R,,12,1187,53,0,30,408,92.4,,0,0.0,7.77
+1,F000238,Mark,Foley,1954-09-08,M,,400136,,108,House,FL,16,,R,,10,1221,29,0,35,394,95.77,,0,0.0,4.4
+2,F000238,Mark,Foley,1954-09-08,M,,400136,,107,House,FL,16,,R,,8,996,21,0,38,458,94.99,,0,0.0,5.53
+3,F000238,Mark,Foley,1954-09-08,M,,400136,,106,House,FL,16,,R,,6,1214,12,1,23,538,89.65,,0,0.0,10.6
+4,F000238,Mark,Foley,1954-09-08,M,,400136,,105,House,FL,16,,R,,4,1187,35,0,7,340,91.15,,0,0.0,9.38
+5,F000238,Mark,Foley,1954-09-08,M,,400136,,104,House,FL,16,,R,,2,1340,14,0,5,220,91.1,,0,0.0,10.15

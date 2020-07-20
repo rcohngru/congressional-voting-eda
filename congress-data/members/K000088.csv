@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000088,Dirk,Kempthorne,1951-10-29,M,,406256,,105,Senate,ID,,3,R,,5,612,8,0,8,140,94.65,,0,0.0,5.35
+1,K000088,Dirk,Kempthorne,1951-10-29,M,,406256,,104,Senate,ID,,3,R,,3,916,5,0,12,132,95.59,,0,0.0,4.42
+2,K000088,Dirk,Kempthorne,1951-10-29,M,,406256,,103,Senate,ID,,3,R,,1,724,3,0,10,163,92.62,,0,0.0,7.38

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000177,Craig,Washington,1941-10-12,M,,411350,,103,House,TX,18,,D,,6,1122,575,1,9,249,84.51,,0,0.0,14.55
+1,W000177,Craig,Washington,1941-10-12,M,,411350,,102,House,TX,18,,D,,4,933,172,1,,,85.37,,0,0.0,13.14
+2,W000177,Craig,Washington,1941-10-12,M,,411350,,101,House,TX,18,,D,,2,,,,,,,,0,0.0,

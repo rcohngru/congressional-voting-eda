@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,113,House,WA,4,,R,,20,1204,24,0,20,83,94.38,,0,2.0,5.53
+1,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,112,House,WA,4,,R,,18,1607,92,0,24,81,94.28,,0,1.0,5.66
+2,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,111,House,WA,4,,R,,16,1651,57,19,13,119,93.13,,0,1.0,6.87
+3,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,110,House,WA,4,,R,,14,1873,68,9,10,127,95.79,,0,2.0,4.66
+4,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,109,House,WA,4,,R,,12,1214,52,2,34,106,96.68,,0,0.0,3.59
+5,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,108,House,WA,4,,R,,10,1221,27,0,39,138,97.21,,0,0.0,2.96
+6,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,107,House,WA,4,,R,,8,996,38,0,38,160,98.62,,0,0.0,1.91
+7,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,106,House,WA,4,,R,,6,1214,21,0,45,202,96.67,,0,0.0,3.59
+8,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,105,House,WA,4,,R,,4,1187,19,0,35,194,97.09,,0,0.0,3.44
+9,H000329,Doc,Hastings,1941-02-07,M,R,400171,31324,104,House,WA,4,,R,,2,1340,18,0,14,169,98.2,,0,0.0,3.05

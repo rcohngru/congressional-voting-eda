@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000349,Bob,Franks,1951-09-21,M,,400584,,106,House,NJ,7,,R,,8,1214,210,1,42,300,85.4,,0,0.0,14.91
+1,F000349,Bob,Franks,1951-09-21,M,,400584,,105,House,NJ,7,,R,,6,1187,12,1,33,196,82.98,,0,0.0,17.54
+2,F000349,Bob,Franks,1951-09-21,M,,400584,,104,House,NJ,7,,R,,4,1340,10,1,23,139,83.35,,0,0.0,17.9
+3,F000349,Bob,Franks,1951-09-21,M,,400584,,103,House,NJ,7,,R,,2,1122,13,0,15,217,80.92,,0,0.0,18.33

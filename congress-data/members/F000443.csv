@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000443,Michael,Ferguson,1970-06-22,M,,400132,,110,House,NJ,7,,R,,8,1873,149,2,23,263,83.82,,0,1.0,16.72
+1,F000443,Michael,Ferguson,1970-06-22,M,,400132,,109,House,NJ,7,,R,,6,1214,17,0,18,163,90.32,,0,0.0,9.93
+2,F000443,Michael,Ferguson,1970-06-22,M,,400132,,108,House,NJ,7,,R,,4,1221,108,0,10,145,94.47,,0,0.0,5.71
+3,F000443,Michael,Ferguson,1970-06-22,M,,400132,,107,House,NJ,7,,R,,2,996,34,0,13,203,93.13,,0,0.0,7.4

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000628,Carrie,Meek,1926-04-29,F,,400511,,107,House,FL,17,,D,,10,996,115,0,9,318,93.76,,0,0.0,6.71
+1,M000628,Carrie,Meek,1926-04-29,F,,400511,,106,House,FL,17,,D,,8,1214,90,0,9,428,93.32,,0,0.0,6.95
+2,M000628,Carrie,Meek,1926-04-29,F,,400511,,105,House,FL,17,,D,,6,1187,69,0,13,341,89.33,,0,0.0,11.24
+3,M000628,Carrie,Meek,1926-04-29,F,,400511,,104,House,FL,17,,D,,4,1340,88,1,7,244,90.5,,0,0.0,10.85
+4,M000628,Carrie,Meek,1926-04-29,F,,400511,,103,House,FL,17,,D,,2,1122,66,0,15,436,89.62,,0,0.0,9.6

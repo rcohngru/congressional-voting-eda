@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000080,Stanford,Parris,1929-09-09,,,408490,,101,House,VA,8,,R,,12,,,,,,,,0,0.0,
+1,P000080,Stanford,Parris,1929-09-09,,,408490,,100,House,VA,8,,R,,10,,,,,,,,0,0.0,
+2,P000080,Stanford,Parris,1929-09-09,,,408490,,99,House,VA,8,,R,,8,,,,,,,,0,0.0,
+3,P000080,Stanford,Parris,1929-09-09,,,408490,,98,House,VA,8,,R,,6,,,,,,,,0,0.0,

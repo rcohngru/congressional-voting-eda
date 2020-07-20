@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000380,Dan,Kildee,1958-08-11,M,D,412546,623723,116,House,MI,5,,D,,8,839,0,0,25,428,99.04,,2,2.0,0.84
+1,K000380,Dan,Kildee,1958-08-11,M,D,412546,623723,115,House,MI,5,,D,,6,1211,10,2,22,338,96.92,,3,1.0,3.08
+2,K000380,Dan,Kildee,1958-08-11,M,D,412546,623723,114,House,MI,5,,D,,4,1325,40,0,20,199,98.11,,0,1.0,1.81
+3,K000380,Dan,Kildee,1958-08-11,M,D,412546,623723,113,House,MI,5,,D,,2,1204,3,1,12,180,96.31,,0,2.0,3.61

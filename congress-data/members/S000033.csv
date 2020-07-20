@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,116,Senate,VT,,1,ID,,13,557,347,1,31,450,79.81,,8,5.0,20.19
+1,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,115,Senate,VT,,1,ID,,11,599,15,1,31,316,80.9,,9,5.0,19.1
+2,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,114,Senate,VT,,1,ID,,9,502,143,0,30,188,90.91,,0,5.0,9.09
+3,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,113,Senate,VT,,1,ID,,7,657,43,0,69,197,94.95,,9,6.0,5.05
+4,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,112,Senate,VT,,1,ID,,5,486,16,0,30,297,91.01,,0,0.0,8.99
+5,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,111,Senate,VT,,1,ID,,3,696,9,0,37,309,94.29,,0,5.0,5.71
+6,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,110,Senate,VT,,1,ID,,1,657,6,0,27,433,94.72,,0,5.0,5.28
+7,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,109,House,VT,At-Large,,ID,,16,1214,52,0,21,600,45.16,,0,0.0,55.01
+8,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,108,House,VT,At-Large,,ID,,14,1221,69,3,17,538,45.66,,0,0.0,54.51
+9,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,107,House,VT,At-Large,,ID,,12,996,58,3,24,563,50.32,,0,0.0,50.11
+10,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,106,House,VT,At-Large,,ID,,10,1214,47,3,18,472,46.68,,0,0.0,53.49
+11,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,105,House,VT,At-Large,,ID,,8,1187,38,0,26,372,42.37,,0,0.0,58.17
+12,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,104,House,VT,At-Large,,ID,,6,1340,33,2,30,238,27.11,,0,0.0,73.92
+13,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,103,House,VT,At-Large,,ID,,4,1122,55,0,15,450,30.67,,0,0.0,68.65
+14,S000033,Bernard,Sanders,1941-09-08,M,I,400357,994,102,House,VT,At-Large,,ID,,2,933,70,0,,,35.28,,0,0.0,61.62

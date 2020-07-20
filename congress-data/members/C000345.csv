@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000345,Helen,Chenoweth-Hage,1938-01-27,F,,400575,,106,House,ID,1,,R,,6,1214,193,0,20,192,80.74,,0,0.0,19.56
+1,C000345,Helen,Chenoweth-Hage,1938-01-27,F,,400575,,105,House,ID,1,,R,,4,1187,39,1,17,213,87.96,,0,0.0,12.58
+2,C000345,Helen,Chenoweth-Hage,1938-01-27,F,,400575,,104,House,ID,1,,R,,2,1340,71,1,7,225,91.35,,0,0.0,9.87

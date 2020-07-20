@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000569,Blaine,Luetkemeyer,1952-05-07,M,R,412292,1031348,116,House,MO,3,,R,,12,839,8,0,20,191,93.94,,2,1.0,5.94
+1,L000569,Blaine,Luetkemeyer,1952-05-07,M,R,412292,1031348,115,House,MO,3,,R,,10,1211,15,0,19,228,98.15,,4,2.0,1.85
+2,L000569,Blaine,Luetkemeyer,1952-05-07,M,R,412292,1031348,114,House,MO,3,,R,,8,1325,22,0,23,215,96.83,,0,2.0,3.09
+3,L000569,Blaine,Luetkemeyer,1952-05-07,M,R,412292,1031348,113,House,MO,3,,R,,6,1204,8,0,22,249,96.64,,0,2.0,3.27
+4,L000569,Blaine,Luetkemeyer,1952-05-07,M,R,412292,1031348,112,House,MO,9,,R,,4,1607,11,0,48,286,96.28,,0,1.0,3.66
+5,L000569,Blaine,Luetkemeyer,1952-05-07,M,R,412292,1031348,111,House,MO,9,,R,,2,1655,18,0,8,280,97.34,,0,3.0,2.6

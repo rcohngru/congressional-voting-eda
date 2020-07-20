@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000684,Jan,Meyers,1928-07-20,F,,407669,,104,House,KS,3,,R,,12,1340,54,1,19,211,86.54,,0,0.0,14.75
+1,M000684,Jan,Meyers,1928-07-20,F,,407669,,103,House,KS,3,,R,,10,1122,20,0,14,430,82.5,,0,0.0,16.75
+2,M000684,Jan,Meyers,1928-07-20,F,,407669,,102,House,KS,3,,R,,8,933,16,0,,,79.91,,0,0.0,16.61
+3,M000684,Jan,Meyers,1928-07-20,F,,407669,,101,House,KS,3,,R,,6,,,,,,,,0,0.0,
+4,M000684,Jan,Meyers,1928-07-20,F,,407669,,100,House,KS,3,,R,,4,,,,,,,,0,0.0,
+5,M000684,Jan,Meyers,1928-07-20,F,,407669,,100,House,IN,5,,D,,2,,,,,,,,0,0.0,
+6,M000684,Jan,Meyers,1928-07-20,F,,407669,,99,House,KS,3,,R,,2,,,,,,,,0,0.0,

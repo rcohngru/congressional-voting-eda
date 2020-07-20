@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000565,Paul,Gosar,1958-11-22,M,R,412397,62470,116,House,AZ,4,,R,,10,839,60,2,27,346,82.25,,4,2.0,17.62
+1,G000565,Paul,Gosar,1958-11-22,M,R,412397,62470,115,House,AZ,4,,R,,8,1211,55,0,23,357,89.3,,4,2.0,10.7
+2,G000565,Paul,Gosar,1958-11-22,M,R,412397,62470,114,House,AZ,4,,R,,6,1325,54,1,40,332,91.59,,0,2.0,8.33
+3,G000565,Paul,Gosar,1958-11-22,M,R,412397,62470,113,House,AZ,4,,R,,4,1204,162,1,26,255,92.11,,0,2.0,7.8
+4,G000565,Paul,Gosar,1958-11-22,M,R,412397,62470,112,House,AZ,1,,R,,2,1607,76,0,26,255,94.28,,0,2.0,5.65

@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,115,House,CA,39,,R,,26,1211,22,0,34,212,97.55,,2,2.0,2.45
+1,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,114,House,CA,39,,R,,24,1325,13,0,36,144,95.39,,0,2.0,4.53
+2,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,113,House,CA,39,,R,,22,1204,25,0,41,142,95.83,,0,2.0,4.09
+3,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,112,House,CA,40,,R,,20,1607,14,0,15,192,91.02,,0,2.0,8.92
+4,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,111,House,CA,40,,R,,18,1655,11,0,15,246,94.45,,0,2.0,5.49
+5,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,110,House,CA,40,,R,,16,1873,48,1,9,198,92.28,,0,2.0,8.29
+6,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,109,House,CA,40,,R,,14,1214,24,0,12,151,90.86,,0,0.0,9.39
+7,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,108,House,CA,40,,R,,12,1221,37,0,15,132,91.05,,0,0.0,9.12
+8,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,107,House,CA,39,,R,,10,996,22,0,17,162,90.1,,0,0.0,10.31
+9,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,106,House,CA,39,,R,,8,1214,49,0,10,160,86.45,,0,0.0,13.72
+10,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,105,House,CA,39,,R,,6,1187,54,0,18,202,86.09,,0,0.0,14.45
+11,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,104,House,CA,39,,R,,4,1340,15,0,10,219,90.16,,0,0.0,11.09
+12,R000487,Edward,Royce,1951-10-12,M,R,400348,28461,103,House,CA,39,,R,,2,1122,33,0,4,309,87.42,,0,0.0,11.82

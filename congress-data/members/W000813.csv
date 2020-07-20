@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000813,Jackie,Walorski,1963-08-17,F,R,412538,95005,116,House,IN,2,,R,,8,839,32,0,13,264,95.13,,2,2.0,4.74
+1,W000813,Jackie,Walorski,1963-08-17,F,R,412538,95005,115,House,IN,2,,R,,6,1211,9,0,21,260,98.58,,2,1.0,1.42
+2,W000813,Jackie,Walorski,1963-08-17,F,R,412538,95005,114,House,IN,2,,R,,4,1325,19,0,17,202,97.92,,0,3.0,2.01
+3,W000813,Jackie,Walorski,1963-08-17,F,R,412538,95005,113,House,IN,2,,R,,2,1204,11,0,5,194,95.71,,0,3.0,4.21

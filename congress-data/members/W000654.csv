@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000654,Robert,Wise,1948-01-06,M,,400614,,106,House,WV,2,,D,,18,1214,248,1,7,198,86.39,,0,0.0,13.72
+1,W000654,Robert,Wise,1948-01-06,M,,400614,,105,House,WV,2,,D,,16,1187,54,1,11,131,90.46,,0,0.0,10.0
+2,W000654,Robert,Wise,1948-01-06,M,,400614,,104,House,WV,2,,D,,14,1340,46,1,8,101,89.62,,0,0.0,11.44
+3,W000654,Robert,Wise,1948-01-06,M,,400614,,103,House,WV,2,,D,,12,1122,41,0,12,190,92.73,,0,0.0,6.51
+4,W000654,Robert,Wise,1948-01-06,M,,400614,,102,House,WV,3,,D,,10,933,57,0,,,91.2,,0,0.0,5.99
+5,W000654,Robert,Wise,1948-01-06,M,,400614,,101,House,WV,3,,D,,8,,,,,,,,0,0.0,
+6,W000654,Robert,Wise,1948-01-06,M,,400614,,100,House,WV,3,,D,,6,,,,,,,,0,0.0,
+7,W000654,Robert,Wise,1948-01-06,M,,400614,,99,House,WV,3,,D,,4,,,,,,,,0,0.0,
+8,W000654,Robert,Wise,1948-01-06,M,,400614,,98,House,WV,3,,D,,2,,,,,,,,0,0.0,

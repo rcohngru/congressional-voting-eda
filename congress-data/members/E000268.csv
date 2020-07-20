@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000268,Terry,Everett,1937-02-15,M,,400127,,110,House,AL,2,,R,,16,1873,147,5,3,133,94.16,,0,3.0,6.44
+1,E000268,Terry,Everett,1937-02-15,M,,400127,,109,House,AL,2,,R,,14,1214,49,1,5,116,94.78,,0,0.0,5.39
+2,E000268,Terry,Everett,1937-02-15,M,,400127,,108,House,AL,2,,R,,12,1221,79,1,6,99,93.47,,0,0.0,6.62
+3,E000268,Terry,Everett,1937-02-15,M,,400127,,107,House,AL,2,,R,,10,996,63,0,1,94,96.3,,0,0.0,4.13
+4,E000268,Terry,Everett,1937-02-15,M,,400127,,106,House,AL,2,,R,,8,1214,63,0,3,122,95.32,,0,0.0,4.86
+5,E000268,Terry,Everett,1937-02-15,M,,400127,,105,House,AL,2,,R,,6,1187,11,0,2,123,94.66,,0,0.0,5.87
+6,E000268,Terry,Everett,1937-02-15,M,,400127,,104,House,AL,2,,R,,4,1340,14,1,7,109,94.46,,0,0.0,6.79
+7,E000268,Terry,Everett,1937-02-15,M,,400127,,103,House,AL,2,,R,,2,1122,14,1,5,213,88.13,,0,0.0,11.12

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000570,Ben,Luján,1972-06-07,M,D,412293,1031351,116,House,NM,3,,D,,12,839,4,0,35,446,98.68,,3,2.0,1.2
+1,L000570,Ben,Luján,1972-06-07,M,D,412293,1031351,115,House,NM,3,,D,,10,1211,3,2,43,324,97.37,,2,1.0,2.63
+2,L000570,Ben,Luján,1972-06-07,M,D,412293,1031351,114,House,NM,3,,D,,8,1325,15,0,23,198,96.68,,0,1.0,3.24
+3,L000570,Ben,Luján,1972-06-07,M,D,412293,1031351,113,House,NM,3,,D,,6,1204,14,1,18,257,94.58,,0,1.0,5.34
+4,L000570,Ben,Luján,1972-06-07,M,D,412293,1031351,112,House,NM,3,,D,,4,1607,43,1,12,230,93.64,,0,2.0,6.3
+5,L000570,Ben,Luján,1972-06-07,M,D,412293,1031351,111,House,NM,3,,D,,2,1655,15,1,19,282,99.02,,0,2.0,0.92

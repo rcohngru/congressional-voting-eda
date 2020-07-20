@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000619,Rodney,Davis,1970-01-05,M,R,412536,68337,116,House,IL,13,,R,,8,839,24,0,29,354,87.39,,6,4.0,12.48
+1,D000619,Rodney,Davis,1970-01-05,M,R,412536,68337,115,House,IL,13,,R,,6,1211,44,0,24,322,94.23,,6,4.0,5.77
+2,D000619,Rodney,Davis,1970-01-05,M,R,412536,68337,114,House,IL,13,,R,,4,1325,25,0,21,298,90.7,,0,4.0,9.22
+3,D000619,Rodney,Davis,1970-01-05,M,R,412536,68337,113,House,IL,13,,R,,2,1204,29,0,16,342,90.17,,0,2.0,9.74

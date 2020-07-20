@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001048,John,Culberson,1956-08-24,M,R,400089,88078,115,House,TX,7,,R,,18,1211,31,0,8,187,98.13,,3,1.0,1.87
+1,C001048,John,Culberson,1956-08-24,M,R,400089,88078,114,House,TX,7,,R,,16,1325,64,0,16,155,95.52,,0,1.0,4.4
+2,C001048,John,Culberson,1956-08-24,M,R,400089,88078,113,House,TX,7,,R,,14,1204,119,0,15,176,94.72,,0,1.0,5.19
+3,C001048,John,Culberson,1956-08-24,M,R,400089,88078,112,House,TX,7,,R,,12,1607,144,0,12,199,95.19,,0,1.0,4.75
+4,C001048,John,Culberson,1956-08-24,M,R,400089,88078,111,House,TX,7,,R,,10,1655,94,2,3,305,93.18,,0,1.0,6.76
+5,C001048,John,Culberson,1956-08-24,M,R,400089,88078,110,House,TX,7,,R,,8,1873,142,3,12,264,93.61,,0,1.0,6.75
+6,C001048,John,Culberson,1956-08-24,M,R,400089,88078,109,House,TX,7,,R,,6,1214,63,0,10,201,96.13,,0,0.0,4.05
+7,C001048,John,Culberson,1956-08-24,M,R,400089,88078,108,House,TX,7,,R,,4,1221,78,0,5,164,94.35,,0,0.0,5.83
+8,C001048,John,Culberson,1956-08-24,M,R,400089,88078,107,House,TX,7,,R,,2,996,23,0,1,100,95.72,,0,0.0,4.81

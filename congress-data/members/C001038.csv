@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,115,House,NY,14,,D,Caucus Chair,20,1211,117,0,46,328,98.03,,2,1.0,1.97
+1,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,114,House,NY,14,,D,,18,1320,46,0,20,190,98.02,,0,1.0,1.9
+2,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,113,House,NY,14,,D,,16,1204,32,1,22,229,94.15,,0,1.0,5.76
+3,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,112,House,NY,7,,D,,14,1607,58,1,18,223,95.74,,0,1.0,4.19
+4,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,111,House,NY,7,,D,,12,1655,54,0,29,363,98.11,,0,2.0,1.82
+5,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,110,House,NY,7,,D,,10,1873,34,0,25,567,98.45,,0,2.0,2.1
+6,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,109,House,NY,7,,D,,8,1214,43,0,18,610,94.37,,0,0.0,5.89
+7,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,108,House,NY,7,,D,,6,1221,36,0,12,487,95.19,,0,0.0,4.98
+8,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,107,House,NY,7,,D,,4,996,37,1,17,518,93.82,,0,0.0,6.71
+9,C001038,Joseph,Crowley,1962-03-16,M,D,400087,57880,106,House,NY,7,,D,,2,1214,52,2,19,387,92.67,,0,0.0,7.59

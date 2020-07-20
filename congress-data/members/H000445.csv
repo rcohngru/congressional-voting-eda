@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000445,Howell,Heflin,1921-06-19,M,,405310,,104,Senate,AL,,2,D,,17,916,28,0,17,102,69.35,,0,0.0,30.65
+1,H000445,Howell,Heflin,1921-06-19,M,,405310,,103,Senate,AL,,2,D,,15,724,32,0,30,202,74.63,,0,0.0,25.37
+2,H000445,Howell,Heflin,1921-06-19,M,,405310,,102,Senate,AL,,2,D,,13,550,2,0,,,68.53,,0,0.0,31.47
+3,H000445,Howell,Heflin,1921-06-19,M,,405310,,101,Senate,AL,,2,D,,11,638,2,0,,,,,0,0.0,
+4,H000445,Howell,Heflin,1921-06-19,M,,405310,,100,Senate,AL,,2,D,,9,,,,,,,,0,0.0,
+5,H000445,Howell,Heflin,1921-06-19,M,,405310,,99,Senate,AL,,2,D,,7,,,,,,,,0,0.0,
+6,H000445,Howell,Heflin,1921-06-19,M,,405310,,98,Senate,AL,,2,D,,5,,,,,,,,0,0.0,
+7,H000445,Howell,Heflin,1921-06-19,M,,405310,,97,Senate,AL,,2,D,,3,,,,,,,,0,0.0,
+8,H000445,Howell,Heflin,1921-06-19,M,,405310,,96,Senate,AL,,2,D,,1,,,,,,,,0,0.0,

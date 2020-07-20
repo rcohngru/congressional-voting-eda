@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000817,Bill,Brewster,1941-11-08,M,,401774,,104,House,OK,3,,D,,6,1340,50,0,7,186,56.76,,0,0.0,44.38
+1,B000817,Bill,Brewster,1941-11-08,M,,401774,,103,House,OK,3,,D,,4,1122,57,0,13,224,81.33,,0,0.0,17.99
+2,B000817,Bill,Brewster,1941-11-08,M,,401774,,102,House,OK,3,,D,,2,933,26,0,,,82.31,,0,0.0,14.97

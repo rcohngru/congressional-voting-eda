@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001101,Katherine,Clark,1963-07-17,F,D,412600,73178,116,House,MA,5,,D,,8,839,14,0,15,305,99.03,,3,1.0,0.85
+1,C001101,Katherine,Clark,1963-07-17,F,D,412600,73178,115,House,MA,5,,D,,6,1211,31,2,18,469,97.65,,2,1.0,2.35
+2,C001101,Katherine,Clark,1963-07-17,F,D,412600,73178,114,House,MA,5,,D,,4,1325,9,0,20,358,96.46,,0,2.0,3.46
+3,C001101,Katherine,Clark,1963-07-17,F,D,412600,73178,113,House,MA,5,,D,,2,567,28,0,3,239,95.53,,0,1.0,4.47

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001239,J.,Barrett,1961-02-14,M,R,400016,1003613,111,House,SC,3,,R,,8,1655,696,17,7,225,94.81,,0,3.0,5.08
+1,B001239,J.,Barrett,1961-02-14,M,R,400016,1003613,110,House,SC,3,,R,,6,1873,39,10,18,296,92.09,,0,4.0,8.47
+2,B001239,J.,Barrett,1961-02-14,M,R,400016,1003613,109,House,SC,3,,R,,4,1214,31,2,8,252,91.42,,0,0.0,8.84
+3,B001239,J.,Barrett,1961-02-14,M,R,400016,1003613,108,House,SC,3,,R,,2,1221,13,0,10,242,94.25,,0,0.0,5.84

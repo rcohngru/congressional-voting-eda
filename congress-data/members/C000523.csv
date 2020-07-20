@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000523,William,Clinger,1929-04-04,M,,402657,,104,House,PA,5,,R,,18,1340,59,0,25,143,93.21,,0,0.0,8.08
+1,C000523,William,Clinger,1929-04-04,M,,402657,,103,House,PA,5,,R,,16,1122,87,0,20,224,82.2,,0,0.0,17.0
+2,C000523,William,Clinger,1929-04-04,M,,402657,,102,House,PA,23,,R,,14,933,32,0,,,77.17,,0,0.0,19.41
+3,C000523,William,Clinger,1929-04-04,M,,402657,,101,House,PA,23,,R,,12,,,,,,,,0,0.0,
+4,C000523,William,Clinger,1929-04-04,M,,402657,,100,House,PA,23,,R,,10,,,,,,,,0,0.0,
+5,C000523,William,Clinger,1929-04-04,M,,402657,,99,House,PA,23,,R,,8,,,,,,,,0,0.0,
+6,C000523,William,Clinger,1929-04-04,M,,402657,,98,House,PA,23,,R,,6,,,,,,,,0,0.0,

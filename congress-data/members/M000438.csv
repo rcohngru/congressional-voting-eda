@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000438,Ernest,McFarland,1894-10-09,M,,407437,,82,Senate,AZ,,1,D,,10,,,,,,,,0,0.0,
+1,M000438,Ernest,McFarland,1894-10-09,M,,407437,,81,Senate,AZ,,1,D,,9,,,,,,,,0,0.0,
+2,M000438,Ernest,McFarland,1894-10-09,M,,407437,,80,Senate,AZ,,1,D,,7,,,,,,,,0,0.0,

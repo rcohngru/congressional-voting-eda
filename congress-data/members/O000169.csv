@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000169,Bill,Owens,1949-01-20,M,D,412383,9265845,113,House,NY,21,,D,,6,1204,19,32,15,264,75.66,,0,3.0,24.26
+1,O000169,Bill,Owens,1949-01-20,M,D,412383,9265845,112,House,NY,23,,D,,4,1607,29,13,27,263,73.25,,0,3.0,26.69
+2,O000169,Bill,Owens,1949-01-20,M,D,412383,9265845,111,House,NY,23,,D,,2,789,22,1,19,180,91.96,,0,2.0,8.04

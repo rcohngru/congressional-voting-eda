@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000394,Bud,Shuster,1932-01-23,M,,400374,,107,House,PA,9,,R,,30,882,4,0,2,1,97.8,,0,0.0,2.78
+1,S000394,Bud,Shuster,1932-01-23,M,,400374,,106,House,PA,9,,R,,28,1214,114,0,34,60,93.15,,0,0.0,7.04
+2,S000394,Bud,Shuster,1932-01-23,M,,400374,,105,House,PA,9,,R,,26,1187,62,0,23,70,95.01,,0,0.0,5.35
+3,S000394,Bud,Shuster,1932-01-23,M,,400374,,104,House,PA,9,,R,,24,1340,39,0,20,73,95.42,,0,0.0,5.53
+4,S000394,Bud,Shuster,1932-01-23,M,,400374,,103,House,PA,9,,R,,22,1122,39,0,1,107,90.39,,0,0.0,9.04
+5,S000394,Bud,Shuster,1932-01-23,M,,400374,,102,House,PA,9,,R,,20,933,38,0,,,81.97,,0,0.0,15.15
+6,S000394,Bud,Shuster,1932-01-23,M,,400374,,102,House,PA,14,,R,,20,,,,,,,,0,0.0,
+7,S000394,Bud,Shuster,1932-01-23,M,,400374,,101,House,PA,9,,R,,18,,,,,,,,0,0.0,
+8,S000394,Bud,Shuster,1932-01-23,M,,400374,,101,House,PA,14,,R,,18,,,,,,,,0,0.0,
+9,S000394,Bud,Shuster,1932-01-23,M,,400374,,100,House,PA,9,,R,,16,,,,,,,,0,0.0,
+10,S000394,Bud,Shuster,1932-01-23,M,,400374,,100,House,PA,14,,R,,16,,,,,,,,0,0.0,
+11,S000394,Bud,Shuster,1932-01-23,M,,400374,,99,House,PA,9,,R,,14,,,,,,,,0,0.0,
+12,S000394,Bud,Shuster,1932-01-23,M,,400374,,99,House,PA,14,,R,,14,,,,,,,,0,0.0,
+13,S000394,Bud,Shuster,1932-01-23,M,,400374,,98,House,PA,9,,R,,12,,,,,,,,0,0.0,
+14,S000394,Bud,Shuster,1932-01-23,M,,400374,,98,House,PA,14,,R,,12,,,,,,,,0,0.0,

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000618,Steve,Daines,1962-08-20,M,R,412549,1034037,116,Senate,MT,,2,R,,5,557,8,0,53,281,94.13,,11,4.0,5.87
+1,D000618,Steve,Daines,1962-08-20,M,R,412549,1034037,115,Senate,MT,,2,R,,3,599,2,0,66,240,95.61,,14,5.0,4.39
+2,D000618,Steve,Daines,1962-08-20,M,R,412549,1034037,114,Senate,MT,,2,R,,1,502,0,0,38,179,90.87,,0,4.0,9.13
+3,D000618,Steve,Daines,1962-08-20,M,R,412549,1034037,113,House,MT,At-Large,,R,,2,1204,10,0,22,196,94.7,,0,3.0,5.21

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001288,Cory,Booker,1969-04-27,M,D,412598,84679,116,Senate,NJ,,2,D,,7,557,287,1,99,640,83.21,,9,4.0,16.79
+1,B001288,Cory,Booker,1969-04-27,M,D,412598,84679,115,Senate,NJ,,2,D,,5,599,28,1,75,516,86.32,,16,5.0,13.68
+2,B001288,Cory,Booker,1969-04-27,M,D,412598,84679,114,Senate,NJ,,2,D,,3,502,8,0,47,224,96.3,,0,4.0,3.7
+3,B001288,Cory,Booker,1969-04-27,M,D,412598,84679,113,Senate,NJ,,2,D,,1,432,12,0,14,144,98.81,,0,0.0,1.19

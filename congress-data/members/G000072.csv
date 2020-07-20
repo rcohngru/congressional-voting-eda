@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000072,Edwin,Garn,1932-10-12,M,,404444,,102,Senate,UT,,3,R,,17,550,44,0,,,88.62,,0,0.0,11.38
+1,G000072,Edwin,Garn,1932-10-12,M,,404444,,101,Senate,UT,,3,R,,15,638,30,0,,,,,0,0.0,
+2,G000072,Edwin,Garn,1932-10-12,M,,404444,,100,Senate,UT,,3,R,,13,,,,,,,,0,0.0,
+3,G000072,Edwin,Garn,1932-10-12,M,,404444,,99,Senate,UT,,3,R,,11,,,,,,,,0,0.0,
+4,G000072,Edwin,Garn,1932-10-12,M,,404444,,98,Senate,UT,,3,R,,9,,,,,,,,0,0.0,
+5,G000072,Edwin,Garn,1932-10-12,M,,404444,,97,Senate,UT,,3,R,,7,,,,,,,,0,0.0,
+6,G000072,Edwin,Garn,1932-10-12,M,,404444,,96,Senate,UT,,3,R,,5,,,,,,,,0,0.0,
+7,G000072,Edwin,Garn,1932-10-12,M,,404444,,95,Senate,UT,,3,R,,3,,,,,,,,0,0.0,
+8,G000072,Edwin,Garn,1932-10-12,M,,404444,,94,Senate,UT,,3,R,,1,,,,,,,,0,0.0,
+9,G000072,Edwin,Garn,1932-10-12,M,,404444,,93,Senate,UT,,3,R,,1,,,,,,,,0,0.0,

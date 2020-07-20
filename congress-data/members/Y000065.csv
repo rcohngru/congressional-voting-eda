@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000065,Ted,Yoho,1955-04-13,M,R,412525,63943,116,House,FL,3,,R,,8,839,70,0,32,303,87.43,,4,2.0,12.43
+1,Y000065,Ted,Yoho,1955-04-13,M,R,412525,63943,115,House,FL,3,,R,,6,1211,47,0,25,297,94.74,,5,2.0,5.26
+2,Y000065,Ted,Yoho,1955-04-13,M,R,412525,63943,114,House,FL,3,,R,,4,1325,19,0,20,244,91.67,,0,2.0,8.26
+3,Y000065,Ted,Yoho,1955-04-13,M,R,412525,63943,113,House,FL,3,,R,,2,1204,9,0,15,295,91.68,,0,2.0,8.24

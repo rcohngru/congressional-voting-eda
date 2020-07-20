@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000174,Bill,Emerson,1938-01-01,M,,403864,,104,House,MO,8,,R,,16,0,0,0,26,248,0.0,,0,0.0,
+1,E000174,Bill,Emerson,1938-01-01,M,,403864,,103,House,MO,8,,R,,14,1122,23,0,28,510,89.05,,0,0.0,10.2
+2,E000174,Bill,Emerson,1938-01-01,M,,403864,,102,House,MO,8,,R,,12,933,8,0,,,82.22,,0,0.0,14.33
+3,E000174,Bill,Emerson,1938-01-01,M,,403864,,101,House,MO,8,,R,,10,,,,,,,,0,0.0,
+4,E000174,Bill,Emerson,1938-01-01,M,,403864,,100,House,MO,8,,R,,8,,,,,,,,0,0.0,
+5,E000174,Bill,Emerson,1938-01-01,M,,403864,,99,House,MO,8,,R,,6,,,,,,,,0,0.0,
+6,E000174,Bill,Emerson,1938-01-01,M,,403864,,98,House,MO,8,,R,,4,,,,,,,,0,0.0,

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000583,Barry,Loudermilk,1963-12-22,M,R,412624,76165,116,House,GA,11,,R,,6,839,82,0,8,144,92.02,,2,2.0,7.85
+1,L000583,Barry,Loudermilk,1963-12-22,M,R,412624,76165,115,House,GA,11,,R,,4,1211,83,0,13,193,97.24,,4,4.0,2.76
+2,L000583,Barry,Loudermilk,1963-12-22,M,R,412624,76165,114,House,GA,11,,R,,2,1325,35,0,7,149,95.47,,0,2.0,4.45

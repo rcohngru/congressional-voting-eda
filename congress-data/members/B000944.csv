@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,116,Senate,OH,,1,D,,13,557,12,1,78,558,92.06,,11,4.0,7.94
+1,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,115,Senate,OH,,1,D,,11,599,2,1,71,501,95.41,,6,4.0,4.59
+2,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,114,Senate,OH,,1,D,,9,502,11,0,71,319,95.23,,0,4.0,4.77
+3,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,113,Senate,OH,,1,D,,7,657,10,0,69,316,97.84,,9,5.0,2.16
+4,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,112,Senate,OH,,1,D,,5,486,6,0,119,357,95.39,,0,0.0,4.61
+5,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,111,Senate,OH,,1,D,,3,696,8,0,113,446,97.51,,0,5.0,2.49
+6,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,110,Senate,OH,,1,D,,1,657,10,0,76,545,96.72,,0,4.0,3.28
+7,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,109,House,OH,13,,D,,14,1214,81,0,23,704,95.16,,0,0.0,5.11
+8,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,108,House,OH,13,,D,,12,1221,56,1,19,568,95.28,,0,0.0,4.9
+9,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,107,House,OH,13,,D,,10,996,14,1,15,503,92.83,,0,0.0,7.68
+10,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,106,House,OH,13,,D,,8,1214,92,2,16,490,90.5,,0,0.0,9.77
+11,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,105,House,OH,13,,D,,6,1187,34,2,6,285,91.13,,0,0.0,9.41
+12,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,104,House,OH,13,,D,,4,1340,27,0,9,197,91.67,,0,0.0,9.62
+13,B000944,Sherrod,Brown,1952-11-09,M,D,400050,5051,103,House,OH,13,,D,,2,1122,26,0,10,233,91.7,,0,0.0,7.55

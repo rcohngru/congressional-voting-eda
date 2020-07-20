@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001283,Jim,Bridenstine,1975-06-15,M,R,412567,79705,115,House,OK,1,,R,,6,858,328,0,1,83,97.53,,4,2.0,2.47
+1,B001283,Jim,Bridenstine,1975-06-15,M,R,412567,79705,114,House,OK,1,,R,,4,1325,27,0,10,170,95.19,,0,2.0,4.74
+2,B001283,Jim,Bridenstine,1975-06-15,M,R,412567,79705,113,House,OK,1,,R,,2,1204,12,0,7,218,92.75,,0,2.0,7.16

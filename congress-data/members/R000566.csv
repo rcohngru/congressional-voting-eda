@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000566,Jim,Ryun,1947-04-29,M,,400353,,109,House,KS,2,,R,,12,1214,10,0,36,168,95.11,,0,0.0,5.14
+1,R000566,Jim,Ryun,1947-04-29,M,,400353,,108,House,KS,2,,R,,10,1221,61,0,16,191,96.09,,0,0.0,4.0
+2,R000566,Jim,Ryun,1947-04-29,M,,400353,,107,House,KS,2,,R,,8,996,20,0,14,198,95.01,,0,0.0,5.41
+3,R000566,Jim,Ryun,1947-04-29,M,,400353,,106,House,KS,2,,R,,6,1214,29,0,5,160,93.81,,0,0.0,6.36
+4,R000566,Jim,Ryun,1947-04-29,M,,400353,,105,House,KS,2,,R,,4,1187,21,0,6,123,95.15,,0,0.0,5.3
+5,R000566,Jim,Ryun,1947-04-29,M,,400353,,104,House,KS,2,,R,,2,0,0,0,,,0.0,,0,0.0,

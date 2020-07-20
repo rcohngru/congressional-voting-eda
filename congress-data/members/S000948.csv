@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000948,Louis,Stokes,1925-02-23,M,,410407,,105,House,OH,11,,D,,30,1187,88,0,3,166,93.05,,0,0.0,7.52
+1,S000948,Louis,Stokes,1925-02-23,M,,410407,,104,House,OH,11,,D,,28,1340,156,1,2,67,93.94,,0,0.0,7.3
+2,S000948,Louis,Stokes,1925-02-23,M,,410407,,103,House,OH,11,,D,,26,1122,74,0,6,264,89.34,,0,0.0,9.97
+3,S000948,Louis,Stokes,1925-02-23,M,,410407,,102,House,OH,21,,D,,24,933,50,0,,,90.19,,0,0.0,7.01
+4,S000948,Louis,Stokes,1925-02-23,M,,410407,,101,House,OH,21,,D,,22,,,,,,,,0,0.0,
+5,S000948,Louis,Stokes,1925-02-23,M,,410407,,100,House,OH,21,,D,,20,,,,,,,,0,0.0,
+6,S000948,Louis,Stokes,1925-02-23,M,,410407,,99,House,OH,21,,D,,18,,,,,,,,0,0.0,
+7,S000948,Louis,Stokes,1925-02-23,M,,410407,,98,House,OH,21,,D,,16,,,,,,,,0,0.0,

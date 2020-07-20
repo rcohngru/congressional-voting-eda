@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000556,John,LaFalce,1939-10-06,M,,400537,,107,House,NY,29,,D,,28,996,48,0,43,241,93.1,,0,0.0,7.44
+1,L000556,John,LaFalce,1939-10-06,M,,400537,,106,House,NY,29,,D,,26,1214,32,2,28,339,90.31,,0,0.0,9.95
+2,L000556,John,LaFalce,1939-10-06,M,,400537,,105,House,NY,29,,D,,24,1187,35,0,19,264,87.49,,0,0.0,13.06
+3,L000556,John,LaFalce,1939-10-06,M,,400537,,104,House,NY,29,,D,,22,1340,57,1,26,170,88.51,,0,0.0,12.81
+4,L000556,John,LaFalce,1939-10-06,M,,400537,,103,House,NY,29,,D,,20,1122,46,0,33,303,89.43,,0,0.0,9.89
+5,L000556,John,LaFalce,1939-10-06,M,,400537,,102,House,NY,32,,D,,18,933,46,0,,,90.73,,0,0.0,6.49
+6,L000556,John,LaFalce,1939-10-06,M,,400537,,101,House,NY,32,,D,,16,,,,,,,,0,0.0,
+7,L000556,John,LaFalce,1939-10-06,M,,400537,,100,House,NY,32,,D,,14,,,,,,,,0,0.0,
+8,L000556,John,LaFalce,1939-10-06,M,,400537,,99,House,NY,32,,D,,12,,,,,,,,0,0.0,
+9,L000556,John,LaFalce,1939-10-06,M,,400537,,98,House,NY,32,,D,,10,,,,,,,,0,0.0,

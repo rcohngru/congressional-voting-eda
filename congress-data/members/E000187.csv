@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000187,Phil,English,1956-06-20,M,,400123,,110,House,PA,3,,R,,14,1873,55,2,58,651,87.59,,0,2.0,12.8
+1,E000187,Phil,English,1956-06-20,M,,400123,,109,House,PA,3,,R,,12,1214,28,0,82,524,93.67,,0,0.0,6.59
+2,E000187,Phil,English,1956-06-20,M,,400123,,108,House,PA,3,,R,,10,1221,41,0,61,423,93.58,,0,0.0,6.59
+3,E000187,Phil,English,1956-06-20,M,,400123,,107,House,PA,21,,R,,8,996,24,0,50,540,89.77,,0,0.0,10.65
+4,E000187,Phil,English,1956-06-20,M,,400123,,106,House,PA,21,,R,,6,1214,39,0,55,655,86.83,,0,0.0,13.34
+5,E000187,Phil,English,1956-06-20,M,,400123,,105,House,PA,21,,R,,4,1187,19,2,45,586,85.04,,0,0.0,15.4
+6,E000187,Phil,English,1956-06-20,M,,400123,,104,House,PA,21,,R,,2,1340,20,0,33,360,90.67,,0,0.0,10.58

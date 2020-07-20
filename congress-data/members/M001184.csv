@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001184,Thomas,Massie,1971-01-13,M,R,412503,79951,116,House,KY,4,,R,,10,839,24,6,10,95,73.33,,5,2.0,26.54
+1,M001184,Thomas,Massie,1971-01-13,M,R,412503,79951,115,House,KY,4,,R,,8,1211,12,0,8,128,76.13,,7,3.0,23.87
+2,M001184,Thomas,Massie,1971-01-13,M,R,412503,79951,114,House,KY,4,,R,,6,1325,14,1,8,148,80.63,,0,3.0,19.29
+3,M001184,Thomas,Massie,1971-01-13,M,R,412503,79951,113,House,KY,4,,R,,4,1204,1,1,6,153,82.22,,0,3.0,17.7
+4,M001184,Thomas,Massie,1971-01-13,M,R,412503,79951,112,House,KY,4,,R,,2,55,0,0,0,4,70.91,,0,0.0,29.09

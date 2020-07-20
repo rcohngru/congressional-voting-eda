@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000315,Robert,Weygand,1948-05-10,M,,400613,,106,House,RI,2,,D,,4,1214,83,0,20,288,92.29,,0,0.0,7.97
+1,W000315,Robert,Weygand,1948-05-10,M,,400613,,105,House,RI,2,,D,,2,1187,24,0,23,186,91.01,,0,0.0,9.53

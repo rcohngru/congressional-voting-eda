@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000077,Marvin,Edwards,1937-07-12,,,403769,,102,House,OK,5,,R,,16,933,161,2,,,87.17,,0,0.0,8.96
+1,E000077,Marvin,Edwards,1937-07-12,,,403769,,101,House,OK,5,,R,,14,,,,,,,,0,0.0,
+2,E000077,Marvin,Edwards,1937-07-12,,,403769,,100,House,OK,5,,R,,12,,,,,,,,0,0.0,
+3,E000077,Marvin,Edwards,1937-07-12,,,403769,,99,House,OK,5,,R,,10,,,,,,,,0,0.0,
+4,E000077,Marvin,Edwards,1937-07-12,,,403769,,98,House,OK,5,,R,,8,,,,,,,,0,0.0,

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000163,Michael,Oxley,1944-02-11,M,,400307,,109,House,OH,4,,R,,26,1214,153,0,6,118,96.09,,0,0.0,4.1
+1,O000163,Michael,Oxley,1944-02-11,M,,400307,,108,House,OH,4,,R,,24,1221,73,0,4,138,96.84,,0,0.0,3.25
+2,O000163,Michael,Oxley,1944-02-11,M,,400307,,107,House,OH,4,,R,,22,996,70,0,12,173,98.57,,0,0.0,1.86
+3,O000163,Michael,Oxley,1944-02-11,M,,400307,,106,House,OH,4,,R,,20,1214,94,0,12,251,94.28,,0,0.0,5.9
+4,O000163,Michael,Oxley,1944-02-11,M,,400307,,105,House,OH,4,,R,,18,1187,65,0,6,155,93.81,,0,0.0,6.47
+5,O000163,Michael,Oxley,1944-02-11,M,,400307,,104,House,OH,4,,R,,16,1340,50,0,11,130,96.48,,0,0.0,4.56
+6,O000163,Michael,Oxley,1944-02-11,M,,400307,,103,House,OH,4,,R,,14,1122,38,0,6,265,89.31,,0,0.0,10.02
+7,O000163,Michael,Oxley,1944-02-11,M,,400307,,102,House,OH,4,,R,,12,933,27,0,,,84.03,,0,0.0,12.57
+8,O000163,Michael,Oxley,1944-02-11,M,,400307,,101,House,OH,4,,R,,10,,,,,,,,0,0.0,
+9,O000163,Michael,Oxley,1944-02-11,M,,400307,,100,House,OH,4,,R,,8,,,,,,,,0,0.0,
+10,O000163,Michael,Oxley,1944-02-11,M,,400307,,99,House,OH,4,,R,,6,,,,,,,,0,0.0,
+11,O000163,Michael,Oxley,1944-02-11,M,,400307,,98,House,OH,4,,R,,4,,,,,,,,0,0.0,

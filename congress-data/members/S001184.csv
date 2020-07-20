@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001184,Tim,Scott,1965-09-19,M,R,412471,623506,116,Senate,SC,,3,R,,7,557,6,0,30,185,96.71,,10,5.0,3.29
+1,S001184,Tim,Scott,1965-09-19,M,R,412471,623506,115,Senate,SC,,3,R,,5,599,5,0,30,181,98.3,,11,7.0,1.7
+2,S001184,Tim,Scott,1965-09-19,M,R,412471,623506,114,Senate,SC,,3,R,,3,502,11,0,19,156,90.89,,0,5.0,9.11
+3,S001184,Tim,Scott,1965-09-19,M,R,412471,623506,113,Senate,SC,,3,R,,1,657,18,0,7,156,92.34,,0,5.0,7.66
+4,S001184,Tim,Scott,1965-09-19,M,R,412471,623506,112,House,SC,1,,R,,2,1607,10,0,49,216,93.82,,0,1.0,6.12

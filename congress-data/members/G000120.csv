@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,106,House,CT,2,,D,,20,1214,33,1,24,409,94.42,,0,0.0,5.84
+1,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,105,House,CT,2,,D,,18,1187,26,0,8,293,91.89,,0,0.0,8.65
+2,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,104,House,CT,2,,D,,16,1340,39,0,10,223,94.09,,0,0.0,7.21
+3,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,103,House,CT,2,,D,,14,1122,26,0,23,291,93.77,,0,0.0,5.48
+4,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,102,House,CT,2,,D,,12,933,9,0,,,92.08,,0,0.0,5.02
+5,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,101,House,CT,2,,D,,10,,,,,,,,0,0.0,
+6,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,100,House,CT,2,,D,,8,,,,,,,,0,0.0,
+7,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,99,House,CT,2,,D,,6,,,,,,,,0,0.0,
+8,G000120,Sam,Gejdenson,1948-05-20,M,,400585,,98,House,CT,2,,D,,4,,,,,,,,0,0.0,

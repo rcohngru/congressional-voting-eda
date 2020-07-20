@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000622,Tammy,Duckworth,1968-03-12,F,D,412533,94484,116,Senate,IL,,3,D,,3,557,20,1,76,538,94.42,,9,4.0,5.58
+1,D000622,Tammy,Duckworth,1968-03-12,F,D,412533,94484,115,Senate,IL,,3,D,,1,599,77,1,55,410,93.82,,16,4.0,6.18
+2,D000622,Tammy,Duckworth,1968-03-12,F,D,412533,94484,114,House,IL,8,,D,,4,1325,162,0,29,266,94.7,,0,3.0,5.21
+3,D000622,Tammy,Duckworth,1968-03-12,F,D,412533,94484,113,House,IL,8,,D,,2,1204,78,1,8,206,90.23,,0,3.0,9.68

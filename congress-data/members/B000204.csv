@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000204,Harry,Bartlett,1947-09-19,M,,401203,,102,House,TX,3,,R,,10,37,7,0,,,93.33,,0,0.0,3.33
+1,B000204,Harry,Bartlett,1947-09-19,M,,401203,,101,House,TX,3,,R,,8,,,,,,,,0,0.0,
+2,B000204,Harry,Bartlett,1947-09-19,M,,401203,,100,House,TX,3,,R,,6,,,,,,,,0,0.0,
+3,B000204,Harry,Bartlett,1947-09-19,M,,401203,,99,House,TX,3,,R,,4,,,,,,,,0,0.0,
+4,B000204,Harry,Bartlett,1947-09-19,M,,401203,,98,House,TX,3,,R,,2,,,,,,,,0,0.0,

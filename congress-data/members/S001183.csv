@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001183,David,Schweikert,1962-03-03,M,R,412399,5205,116,House,AZ,6,,R,,10,839,5,0,9,203,89.96,,2,1.0,9.92
+1,S001183,David,Schweikert,1962-03-03,M,R,412399,5205,115,House,AZ,6,,R,,8,1211,8,0,12,197,96.16,,3,2.0,3.84
+2,S001183,David,Schweikert,1962-03-03,M,R,412399,5205,114,House,AZ,6,,R,,6,1325,11,0,26,210,93.71,,0,2.0,6.21
+3,S001183,David,Schweikert,1962-03-03,M,R,412399,5205,113,House,AZ,6,,R,,4,1204,35,0,14,221,93.65,,0,2.0,6.27
+4,S001183,David,Schweikert,1962-03-03,M,R,412399,5205,112,House,AZ,5,,R,,2,1607,11,0,21,195,92.8,,0,1.0,7.13

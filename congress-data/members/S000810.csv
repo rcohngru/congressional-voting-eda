@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,112,House,CA,13,,D,,40,1607,105,4,16,605,92.31,,0,1.0,7.62
+1,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,111,House,CA,13,,D,,38,1655,342,5,13,626,94.11,,0,1.0,5.81
+2,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,110,House,CA,13,,D,,36,1873,190,6,21,615,93.48,,0,2.0,6.58
+3,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,109,House,CA,13,,D,,34,1214,124,5,20,545,87.62,,0,0.0,12.38
+4,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,108,House,CA,13,,D,,32,1221,120,6,26,511,90.59,,0,0.0,9.5
+5,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,107,House,CA,13,,D,,30,994,117,3,29,500,85.86,,0,0.0,14.14
+6,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,106,House,CA,13,,D,,28,1210,128,2,62,468,84.48,,0,0.0,15.61
+7,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,105,House,CA,13,,D,,26,1187,139,0,60,401,87.48,,0,0.0,12.62
+8,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,104,House,CA,13,,D,,24,1340,146,1,42,225,87.83,,0,0.0,12.51
+9,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,103,House,CA,13,,D,,22,1122,88,0,67,292,88.97,,0,0.0,10.74
+10,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,102,House,CA,9,,D,,20,933,103,0,,,89.59,,0,0.0,9.17
+11,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,101,House,CA,9,,D,,18,,,,,,,,0,0.0,
+12,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,100,House,CA,9,,D,,16,,,,,,,,0,0.0,
+13,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,99,House,CA,9,,D,,14,,,,,,,,0,0.0,
+14,S000810,Pete,Stark,1931-11-11,M,D,400387,6747,98,House,CA,9,,D,,12,,,,,,,,0,0.0,

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000436,Charles,Rose,1939-08-10,M,,409400,,104,House,NC,7,,D,,24,1340,155,0,15,121,83.21,,0,0.0,18.12
+1,R000436,Charles,Rose,1939-08-10,M,,409400,,103,House,NC,7,,D,,22,1122,100,1,18,198,91.84,,0,0.0,7.45
+2,R000436,Charles,Rose,1939-08-10,M,,409400,,102,House,NC,7,,D,,20,933,45,0,,,90.49,,0,0.0,6.61
+3,R000436,Charles,Rose,1939-08-10,M,,409400,,101,House,NC,7,,D,,18,,,,,,,,0,0.0,
+4,R000436,Charles,Rose,1939-08-10,M,,409400,,100,House,NC,7,,D,,16,,,,,,,,0,0.0,
+5,R000436,Charles,Rose,1939-08-10,M,,409400,,99,House,NC,7,,D,,14,,,,,,,,0,0.0,
+6,R000436,Charles,Rose,1939-08-10,M,,409400,,98,House,NC,7,,D,,12,,,,,,,,0,0.0,

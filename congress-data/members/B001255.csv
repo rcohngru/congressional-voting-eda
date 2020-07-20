@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001255,Charles,Boustany,1956-02-21,M,R,400636,1013047,114,House,LA,3,,R,,12,1325,17,0,39,266,95.99,,0,1.0,3.93
+1,B001255,Charles,Boustany,1956-02-21,M,R,400636,1013047,113,House,LA,3,,R,,10,1204,8,0,22,233,95.8,,0,1.0,4.11
+2,B001255,Charles,Boustany,1956-02-21,M,R,400636,1013047,112,House,LA,7,,R,,8,1607,37,0,26,212,95.7,,0,1.0,4.24
+3,B001255,Charles,Boustany,1956-02-21,M,R,400636,1013047,111,House,LA,7,,R,,6,1655,60,0,9,236,95.93,,0,1.0,4.0
+4,B001255,Charles,Boustany,1956-02-21,M,R,400636,1013047,110,House,LA,7,,R,,4,1873,34,2,14,288,93.4,,0,3.0,7.1
+5,B001255,Charles,Boustany,1956-02-21,M,R,400636,1013047,109,House,LA,7,,R,,2,1214,27,0,16,285,96.49,,0,0.0,3.77

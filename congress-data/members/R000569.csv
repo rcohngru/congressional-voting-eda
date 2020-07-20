@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000569,Thomas,Reynolds,1950-09-03,M,,400338,,110,House,NY,26,,R,,10,1873,108,1,20,180,94.09,,0,1.0,6.26
+1,R000569,Thomas,Reynolds,1950-09-03,M,,400338,,109,House,NY,26,,R,,8,1214,61,0,20,142,95.87,,0,0.0,4.39
+2,R000569,Thomas,Reynolds,1950-09-03,M,,400338,,108,House,NY,26,,R,,6,1221,48,0,42,137,97.85,,0,0.0,2.32
+3,R000569,Thomas,Reynolds,1950-09-03,M,,400338,,107,House,NY,27,,R,,4,996,21,0,46,163,98.12,,0,0.0,2.4
+4,R000569,Thomas,Reynolds,1950-09-03,M,,400338,,106,House,NY,27,,R,,2,1214,28,0,45,137,95.19,,0,0.0,5.07

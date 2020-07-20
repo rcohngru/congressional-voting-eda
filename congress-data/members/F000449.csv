@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,116,House,NE,1,,R,,16,839,19,1,16,219,85.12,,2,1.0,14.76
+1,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,115,House,NE,1,,R,,14,1211,30,0,14,179,94.21,,3,1.0,5.79
+2,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,114,House,NE,1,,R,,12,1325,19,0,17,172,92.36,,0,1.0,7.56
+3,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,113,House,NE,1,,R,,10,1204,41,0,12,175,92.67,,0,1.0,7.25
+4,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,112,House,NE,1,,R,,8,1607,55,0,20,152,89.88,,0,2.0,10.06
+5,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,111,House,NE,1,,R,,6,1655,55,1,29,239,91.05,,0,3.0,8.88
+6,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,110,House,NE,1,,R,,4,1873,63,1,26,266,88.91,,0,3.0,11.65
+7,F000449,Jeff,Fortenberry,1960-12-27,M,R,400640,1013049,109,House,NE,1,,R,,2,1214,17,0,10,115,95.09,,0,0.0,5.08

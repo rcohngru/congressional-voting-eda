@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000549,Jennifer,Dunn,1941-07-29,F,,400117,,108,House,WA,8,,R,,12,1221,68,0,12,138,96.85,,0,0.0,3.23
+1,D000549,Jennifer,Dunn,1941-07-29,F,,400117,,107,House,WA,8,,R,,10,996,39,0,23,183,96.92,,0,0.0,3.61
+2,D000549,Jennifer,Dunn,1941-07-29,F,,400117,,106,House,WA,8,,R,,8,1214,70,0,21,249,93.86,,0,0.0,6.32
+3,D000549,Jennifer,Dunn,1941-07-29,F,,400117,,105,House,WA,8,,R,,6,1187,24,0,17,239,95.49,,0,0.0,4.95
+4,D000549,Jennifer,Dunn,1941-07-29,F,,400117,,104,House,WA,8,,R,,4,1340,44,0,7,196,95.92,,0,0.0,5.36
+5,D000549,Jennifer,Dunn,1941-07-29,F,,400117,,103,House,WA,8,,R,,2,1122,9,0,7,242,90.32,,0,0.0,8.94

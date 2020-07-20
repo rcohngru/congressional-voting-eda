@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000104,Cass,Ballenger,1926-12-06,M,,400015,,108,House,NC,10,,R,,20,1221,146,0,8,206,97.47,,0,0.0,2.72
+1,B000104,Cass,Ballenger,1926-12-06,M,,400015,,107,House,NC,10,,R,,18,996,39,0,11,192,97.35,,0,0.0,3.08
+2,B000104,Cass,Ballenger,1926-12-06,M,,400015,,106,House,NC,10,,R,,16,1214,30,0,11,183,95.52,,0,0.0,4.74
+3,B000104,Cass,Ballenger,1926-12-06,M,,400015,,105,House,NC,10,,R,,14,1187,52,0,12,177,94.75,,0,0.0,5.79
+4,B000104,Cass,Ballenger,1926-12-06,M,,400015,,104,House,NC,10,,R,,12,1340,18,0,7,179,96.56,,0,0.0,4.69
+5,B000104,Cass,Ballenger,1926-12-06,M,,400015,,103,House,NC,10,,R,,10,1115,24,0,17,373,90.79,,0,0.0,8.64
+6,B000104,Cass,Ballenger,1926-12-06,M,,400015,,102,House,NC,10,,R,,6,933,38,1,,,86.24,,0,0.0,10.44
+7,B000104,Cass,Ballenger,1926-12-06,M,,400015,,101,House,NC,10,,R,,4,,,,,,,,0,0.0,
+8,B000104,Cass,Ballenger,1926-12-06,M,,400015,,100,House,NC,10,,R,,2,,,,,,,,0,0.0,

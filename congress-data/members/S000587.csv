@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000587,Linda,Smith,1950-07-16,F,,410067,,105,House,WA,3,,R,,4,1187,50,1,11,151,90.78,,0,0.0,9.67
+1,S000587,Linda,Smith,1950-07-16,F,,410067,,104,House,WA,3,,R,,2,1340,41,0,15,118,93.54,,0,0.0,7.74

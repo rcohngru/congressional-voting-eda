@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000250,Lane,Evans,1951-08-04,M,,400126,,109,House,IL,17,,D,,24,1214,525,0,19,486,96.3,,0,0.0,3.99
+1,E000250,Lane,Evans,1951-08-04,M,,400126,,108,House,IL,17,,D,,22,1221,26,0,27,452,94.8,,0,0.0,5.37
+2,E000250,Lane,Evans,1951-08-04,M,,400126,,107,House,IL,17,,D,,20,996,21,0,24,503,94.56,,0,0.0,5.97
+3,E000250,Lane,Evans,1951-08-04,M,,400126,,106,House,IL,17,,D,,18,1214,19,0,22,532,92.52,,0,0.0,7.73
+4,E000250,Lane,Evans,1951-08-04,M,,400126,,105,House,IL,17,,D,,16,1187,9,0,25,490,91.42,,0,0.0,9.02
+5,E000250,Lane,Evans,1951-08-04,M,,400126,,104,House,IL,17,,D,,14,1340,6,1,15,422,93.3,,0,0.0,7.97
+6,E000250,Lane,Evans,1951-08-04,M,,400126,,103,House,IL,17,,D,,12,1122,20,0,18,596,91.55,,0,0.0,7.7
+7,E000250,Lane,Evans,1951-08-04,M,,400126,,102,House,IL,17,,D,,10,933,3,0,,,89.69,,0,0.0,7.43
+8,E000250,Lane,Evans,1951-08-04,M,,400126,,101,House,IL,17,,D,,8,,,,,,,,0,0.0,
+9,E000250,Lane,Evans,1951-08-04,M,,400126,,100,House,IL,17,,D,,6,,,,,,,,0,0.0,
+10,E000250,Lane,Evans,1951-08-04,M,,400126,,99,House,IL,17,,D,,4,,,,,,,,0,0.0,
+11,E000250,Lane,Evans,1951-08-04,M,,400126,,98,House,IL,17,,D,,2,,,,,,,,0,0.0,

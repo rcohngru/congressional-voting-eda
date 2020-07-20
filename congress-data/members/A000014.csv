@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,111,House,HI,1,,D,,22,1065,136,1,19,304,98.48,,0,2.0,1.41
+1,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,110,House,HI,1,,D,,20,1873,117,4,16,583,96.37,,0,2.0,4.04
+2,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,109,House,HI,1,,D,,18,1214,40,4,15,486,90.41,,0,0.0,9.84
+3,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,108,House,HI,1,,D,,16,1221,49,1,10,520,94.02,,0,0.0,6.07
+4,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,107,House,HI,1,,D,,14,996,48,1,13,501,89.22,,0,0.0,11.31
+5,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,106,House,HI,1,,D,,12,1214,57,5,10,482,91.08,,0,0.0,9.0
+6,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,105,House,HI,1,,D,,10,1187,15,3,16,345,88.67,,0,0.0,11.86
+7,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,104,House,HI,1,,D,,8,1340,45,2,7,206,87.4,,0,0.0,13.9
+8,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,103,House,HI,1,,D,,6,1122,57,0,3,320,88.63,,0,0.0,10.69
+9,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,102,House,HI,1,,D,,4,933,30,0,,,90.1,,0,0.0,7.28
+10,A000014,Neil,Abercrombie,1938-06-26,M,D,400001,,99,House,HI,1,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000620,John,Delaney,1963-04-16,M,D,412544,68432,115,House,MD,6,,D,,6,1211,39,2,21,409,95.37,,2,2.0,4.63
+1,D000620,John,Delaney,1963-04-16,M,D,412544,68432,114,House,MD,6,,D,,4,1325,72,0,22,242,92.49,,0,2.0,7.43
+2,D000620,John,Delaney,1963-04-16,M,D,412544,68432,113,House,MD,6,,D,,2,1204,26,0,9,279,92.81,,0,2.0,7.11

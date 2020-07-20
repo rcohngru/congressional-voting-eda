@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000112,Harold,Volkmer,1931-04-04,M,,411166,,104,House,MO,9,,D,,20,1340,148,0,10,81,81.34,,0,0.0,19.98
+1,V000112,Harold,Volkmer,1931-04-04,M,,411166,,103,House,MO,9,,D,,18,1122,16,0,19,181,83.1,,0,0.0,16.15
+2,V000112,Harold,Volkmer,1931-04-04,M,,411166,,102,House,MO,9,,D,,16,933,30,0,,,79.13,,0,0.0,17.9
+3,V000112,Harold,Volkmer,1931-04-04,M,,411166,,101,House,MO,9,,D,,14,,,,,,,,0,0.0,
+4,V000112,Harold,Volkmer,1931-04-04,M,,411166,,100,House,MO,9,,D,,12,,,,,,,,0,0.0,
+5,V000112,Harold,Volkmer,1931-04-04,M,,411166,,99,House,MO,9,,D,,10,,,,,,,,0,0.0,
+6,V000112,Harold,Volkmer,1931-04-04,M,,411166,,98,House,MO,9,,D,,8,,,,,,,,0,0.0,

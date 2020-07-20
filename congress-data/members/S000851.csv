@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000851,Charles,Stenholm,1938-10-26,M,,400389,,108,House,TX,17,,D,,26,1221,30,1,7,285,78.14,,0,0.0,22.03
+1,S000851,Charles,Stenholm,1938-10-26,M,,400389,,107,House,TX,17,,D,,24,996,11,0,1,201,77.2,,0,0.0,23.32
+2,S000851,Charles,Stenholm,1938-10-26,M,,400389,,106,House,TX,17,,D,,22,1214,10,1,5,211,75.13,,0,0.0,25.13
+3,S000851,Charles,Stenholm,1938-10-26,M,,400389,,105,House,TX,17,,D,,20,1187,23,1,5,181,71.35,,0,0.0,29.1
+4,S000851,Charles,Stenholm,1938-10-26,M,,400389,,104,House,TX,17,,D,,18,1340,17,0,1,166,59.98,,0,0.0,41.21
+5,S000851,Charles,Stenholm,1938-10-26,M,,400389,,103,House,TX,17,,D,,16,1122,10,0,19,226,61.13,,0,0.0,38.13
+6,S000851,Charles,Stenholm,1938-10-26,M,,400389,,102,House,TX,17,,D,,14,933,28,0,,,64.73,,0,0.0,32.54
+7,S000851,Charles,Stenholm,1938-10-26,M,,400389,,101,House,TX,17,,D,,12,,,,,,,,0,0.0,
+8,S000851,Charles,Stenholm,1938-10-26,M,,400389,,100,House,TX,17,,D,,10,,,,,,,,0,0.0,
+9,S000851,Charles,Stenholm,1938-10-26,M,,400389,,99,House,TX,17,,D,,8,,,,,,,,0,0.0,
+10,S000851,Charles,Stenholm,1938-10-26,M,,400389,,98,House,TX,17,,D,,6,,,,,,,,0,0.0,

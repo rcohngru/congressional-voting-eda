@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000472,Mark,Takano,1960-12-10,M,D,412520,2737,116,House,CA,41,,D,,8,839,18,0,31,499,98.78,,2,2.0,1.1
+1,T000472,Mark,Takano,1960-12-10,M,D,412520,2737,115,House,CA,41,,D,,6,1211,23,2,28,630,96.2,,5,3.0,3.8
+2,T000472,Mark,Takano,1960-12-10,M,D,412520,2737,114,House,CA,41,,D,,4,1325,5,0,28,506,97.32,,0,3.0,2.61
+3,T000472,Mark,Takano,1960-12-10,M,D,412520,2737,113,House,CA,41,,D,,2,1204,2,1,13,524,95.3,,0,3.0,4.61

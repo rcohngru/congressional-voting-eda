@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000329,Wyche,Fowler,1940-10-06,,,404277,,102,Senate,GA,,3,D,,5,550,14,0,,,83.97,,0,0.0,16.03
+1,F000329,Wyche,Fowler,1940-10-06,,,404277,,101,Senate,GA,,3,D,,3,638,10,0,,,,,0,0.0,
+2,F000329,Wyche,Fowler,1940-10-06,,,404277,,100,Senate,GA,,3,D,,1,,,,,,,,0,0.0,
+3,F000329,Wyche,Fowler,1940-10-06,,,404277,,99,House,GA,5,,D,,10,,,,,,,,0,0.0,
+4,F000329,Wyche,Fowler,1940-10-06,,,404277,,98,House,GA,5,,D,,8,,,,,,,,0,0.0,

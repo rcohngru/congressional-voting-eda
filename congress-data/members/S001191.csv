@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001191,Kyrsten,Sinema,1976-07-12,F,D,412509,68489,116,Senate,AZ,,1,D,,1,557,29,0,27,427,77.8,,10,5.0,22.2
+1,S001191,Kyrsten,Sinema,1976-07-12,F,D,412509,68489,115,House,AZ,9,,D,,6,1211,122,0,15,462,79.91,,2,1.0,20.09
+2,S001191,Kyrsten,Sinema,1976-07-12,F,D,412509,68489,114,House,AZ,9,,D,,4,1325,49,0,11,276,77.16,,0,1.0,22.76
+3,S001191,Kyrsten,Sinema,1976-07-12,F,D,412509,68489,113,House,AZ,9,,D,,2,1204,32,0,10,310,81.15,,0,1.0,18.76

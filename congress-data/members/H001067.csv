@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001067,Richard,Hudson,1971-11-04,M,R,412550,79622,116,House,NC,8,,R,,8,839,49,0,10,200,94.89,,3,1.0,4.98
+1,H001067,Richard,Hudson,1971-11-04,M,R,412550,79622,115,House,NC,8,,R,,6,1211,81,0,21,241,94.4,,3,1.0,5.6
+2,H001067,Richard,Hudson,1971-11-04,M,R,412550,79622,114,House,NC,8,,R,,4,1325,97,0,10,194,95.65,,0,1.0,4.27
+3,H001067,Richard,Hudson,1971-11-04,M,R,412550,79622,113,House,NC,8,,R,,2,1204,22,0,13,196,92.78,,0,3.0,7.13

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000081,Gus,Savage,1925-10-30,,,409593,,102,House,IL,2,,D,,18,933,222,3,,,83.41,,0,0.0,14.0
+1,S000081,Gus,Savage,1925-10-30,,,409593,,101,House,IL,2,,D,,10,,,,,,,,0,0.0,
+2,S000081,Gus,Savage,1925-10-30,,,409593,,100,House,IL,2,,D,,8,,,,,,,,0,0.0,
+3,S000081,Gus,Savage,1925-10-30,,,409593,,99,House,IL,2,,D,,6,,,,,,,,0,0.0,
+4,S000081,Gus,Savage,1925-10-30,,,409593,,98,House,IL,2,,D,,4,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000018,Matt,Salmon,1958-01-21,M,R,400606,37033,114,House,AZ,5,,R,,4,1325,37,0,61,237,94.21,,0,2.0,5.71
+1,S000018,Matt,Salmon,1958-01-21,M,R,400606,37033,113,House,AZ,5,,R,,2,1204,37,0,31,290,91.57,,0,2.0,8.34
+2,S000018,Matt,Salmon,1958-01-21,M,R,400606,37033,106,House,AZ,1,,R,,6,1214,95,0,28,192,90.44,,0,0.0,9.74
+3,S000018,Matt,Salmon,1958-01-21,M,R,400606,37033,105,House,AZ,1,,R,,4,1187,34,1,10,158,88.7,,0,0.0,11.74
+4,S000018,Matt,Salmon,1958-01-21,M,R,400606,37033,104,House,AZ,1,,R,,2,1340,12,1,5,147,93.93,,0,0.0,7.24

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000031,Dennis,Eckart,1950-04-06,,,403726,,102,House,OH,11,,D,,12,933,37,0,,,89.63,,0,0.0,7.6
+1,E000031,Dennis,Eckart,1950-04-06,,,403726,,101,House,OH,11,,D,,10,,,,,,,,0,0.0,
+2,E000031,Dennis,Eckart,1950-04-06,,,403726,,100,House,OH,11,,D,,8,,,,,,,,0,0.0,
+3,E000031,Dennis,Eckart,1950-04-06,,,403726,,99,House,OH,11,,D,,6,,,,,,,,0,0.0,
+4,E000031,Dennis,Eckart,1950-04-06,,,403726,,98,House,OH,11,,D,,4,,,,,,,,0,0.0,

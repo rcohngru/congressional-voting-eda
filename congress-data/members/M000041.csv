@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000041,Edward,Madigan,1936-01-13,M,,407069,,102,House,IL,15,,R,,20,37,7,0,,,93.33,,0,0.0,3.33
+1,M000041,Edward,Madigan,1936-01-13,M,,407069,,101,House,IL,15,,R,,18,,,,,,,,0,0.0,
+2,M000041,Edward,Madigan,1936-01-13,M,,407069,,100,House,IL,15,,R,,16,,,,,,,,0,0.0,
+3,M000041,Edward,Madigan,1936-01-13,M,,407069,,99,House,IL,15,,R,,14,,,,,,,,0,0.0,
+4,M000041,Edward,Madigan,1936-01-13,M,,407069,,98,House,IL,15,,R,,12,,,,,,,,0,0.0,

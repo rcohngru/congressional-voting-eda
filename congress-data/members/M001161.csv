@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001161,Charlie,Melancon,1947-10-03,M,D,400635,1011754,111,House,LA,3,,D,,6,1655,179,0,20,228,91.69,,0,2.0,8.24
+1,M001161,Charlie,Melancon,1947-10-03,M,D,400635,1011754,110,House,LA,3,,D,,4,1873,61,4,18,262,92.89,,0,2.0,7.62
+2,M001161,Charlie,Melancon,1947-10-03,M,D,400635,1011754,109,House,LA,3,,D,,2,1214,43,0,11,213,81.24,,0,0.0,18.93

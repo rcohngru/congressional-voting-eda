@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000209,Michael,Andrews,1944-02-07,M,,400882,,103,House,TX,25,,D,,12,1122,99,0,28,119,83.65,,0,0.0,15.54
+1,A000209,Michael,Andrews,1944-02-07,M,,400882,,102,House,TX,25,,D,,10,933,18,0,,,81.98,,0,0.0,15.09
+2,A000209,Michael,Andrews,1944-02-07,M,,400882,,101,House,TX,25,,D,,8,,,,,,,,0,0.0,
+3,A000209,Michael,Andrews,1944-02-07,M,,400882,,100,House,TX,25,,D,,6,,,,,,,,0,0.0,
+4,A000209,Michael,Andrews,1944-02-07,M,,400882,,99,House,TX,25,,D,,4,,,,,,,,0,0.0,
+5,A000209,Michael,Andrews,1944-02-07,M,,400882,,98,House,TX,25,,D,,2,,,,,,,,0,0.0,

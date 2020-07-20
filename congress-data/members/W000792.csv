@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,112,House,NY,9,,D,,14,463,59,1,12,64,89.97,,0,1.0,9.77
+1,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,111,House,NY,9,,D,,12,1655,50,1,44,374,97.87,,0,2.0,2.07
+2,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,110,House,NY,9,,D,,10,1873,113,0,50,412,98.44,,0,2.0,2.08
+3,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,109,House,NY,9,,D,,8,1214,60,0,27,365,96.4,,0,0.0,3.87
+4,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,108,House,NY,9,,D,,6,1221,64,0,27,395,97.54,,0,0.0,2.64
+5,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,107,House,NY,9,,D,,4,996,47,0,18,292,95.48,,0,0.0,5.06
+6,W000792,Anthony,Weiner,1964-09-04,M,D,400426,,106,House,NY,9,,D,,2,1214,80,2,19,471,94.44,,0,0.0,5.82

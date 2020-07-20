@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,113,House,AS,At-Large,,D,,26,0,0,0,7,111,0.0,,0,2.0,
+1,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,112,House,AS,At-Large,,D,,24,0,0,0,8,173,0.0,,0,2.0,
+2,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,111,House,AS,At-Large,,D,,22,324,91,0,23,257,97.41,,0,2.0,2.59
+3,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,110,House,AS,At-Large,,D,,20,471,233,0,22,194,96.57,,0,2.0,3.86
+4,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,109,House,AS,At-Large,,D,,18,0,0,0,11,164,0.0,,0,0.0,
+5,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,108,House,AS,At-Large,,D,,16,0,0,0,11,289,0.0,,0,0.0,
+6,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,107,House,AS,At-Large,,D,,14,0,0,0,13,335,0.0,,0,0.0,
+7,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,106,House,AS,At-Large,,D,,12,0,0,0,5,288,0.0,,0,0.0,
+8,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,105,House,AS,At-Large,,D,,10,0,0,0,10,375,0.0,,0,0.0,
+9,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,104,House,AS,At-Large,,D,,8,0,0,0,13,178,0.0,,0,0.0,
+10,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,103,House,AS,At-Large,,D,,6,424,174,0,12,329,93.62,,0,0.0,6.38
+11,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,102,House,AS,At-Large,,D,,4,0,0,0,,,0.0,,0,0.0,
+12,F000010,Eni,Faleomavaega,1943-08-15,M,D,400128,6713,101,House,AS,At-Large,,D,,2,,,,,,,,0,0.0,

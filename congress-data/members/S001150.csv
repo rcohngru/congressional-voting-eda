@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,116,House,CA,28,,D,,20,839,3,0,23,427,99.64,,0,1.0,0.24
+1,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,115,House,CA,28,,D,,18,1211,6,1,16,415,98.47,,0,1.0,1.53
+2,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,114,House,CA,28,,D,,16,1325,20,0,9,329,97.83,,0,2.0,2.09
+3,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,113,House,CA,28,,D,,14,1204,14,1,17,376,97.63,,0,3.0,2.29
+4,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,112,House,CA,29,,D,,12,1607,5,1,16,311,95.5,,0,2.0,4.44
+5,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,111,House,CA,29,,D,,10,1655,10,0,23,418,99.51,,0,3.0,0.43
+6,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,110,House,CA,29,,D,,8,1873,23,0,23,434,99.07,,0,2.0,1.48
+7,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,109,House,CA,29,,D,,6,1214,44,1,20,484,96.01,,0,0.0,4.25
+8,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,108,House,CA,29,,D,,4,1221,19,1,17,461,96.45,,0,0.0,3.63
+9,S001150,Adam,Schiff,1960-06-22,M,D,400361,90167,107,House,CA,27,,D,,2,996,9,0,14,370,93.59,,0,0.0,6.93

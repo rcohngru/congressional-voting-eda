@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,109,House,NY,24,,R,,24,1214,43,0,17,294,87.15,,0,0.0,13.11
+1,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,108,House,NY,24,,R,,22,1221,109,0,23,292,90.3,,0,0.0,9.79
+2,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,107,House,NY,23,,R,,20,996,15,0,17,262,91.09,,0,0.0,9.43
+3,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,106,House,NY,23,,R,,18,1214,17,1,11,372,82.88,,0,0.0,17.38
+4,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,105,House,NY,23,,R,,16,1187,9,0,4,237,80.44,,0,0.0,20.0
+5,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,104,House,NY,23,,R,,14,1340,9,0,0,145,80.87,,0,0.0,20.37
+6,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,103,House,NY,23,,R,,12,1122,18,0,9,250,71.6,,0,0.0,27.65
+7,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,102,House,NY,25,,R,,10,933,9,0,,,65.11,,0,0.0,31.44
+8,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,101,House,NY,25,,R,,8,,,,,,,,0,0.0,
+9,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,100,House,NY,25,,R,,6,,,,,,,,0,0.0,
+10,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,99,House,NY,25,,R,,4,,,,,,,,0,0.0,
+11,B000586,Sherwood,Boehlert,1936-09-28,M,,400035,,98,House,NY,25,,R,,2,,,,,,,,0,0.0,

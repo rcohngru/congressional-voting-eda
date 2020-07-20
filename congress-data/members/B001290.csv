@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001290,David,Brat,1964-07-27,M,R,412605,75248,115,House,VA,7,,R,,6,1211,22,0,28,236,95.35,,4,3.0,4.65
+1,B001290,David,Brat,1964-07-27,M,R,412605,75248,114,House,VA,7,,R,,4,1325,46,0,19,168,92.99,,0,3.0,6.93
+2,B001290,David,Brat,1964-07-27,M,R,412605,75248,113,House,VA,7,,R,,2,48,1,0,0,2,91.49,,0,0.0,8.51

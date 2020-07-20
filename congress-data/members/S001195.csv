@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001195,Jason,Smith,1980-06-16,M,R,412596,71083,116,House,MO,8,,R,,8,839,1,0,11,179,95.67,,1,2.0,4.21
+1,S001195,Jason,Smith,1980-06-16,M,R,412596,71083,115,House,MO,8,,R,,6,1211,27,0,25,199,95.84,,3,2.0,4.16
+2,S001195,Jason,Smith,1980-06-16,M,R,412596,71083,114,House,MO,8,,R,,4,1325,12,0,10,161,96.39,,0,1.0,3.53
+3,S001195,Jason,Smith,1980-06-16,M,R,412596,71083,113,House,MO,8,,R,,2,1007,8,0,4,149,96.48,,0,2.0,3.52

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,116,House,MA,2,,D,,24,839,7,0,47,1019,98.55,,1,2.0,1.33
+1,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,115,House,MA,2,,D,,22,1211,17,2,14,946,96.47,,3,2.0,3.53
+2,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,114,House,MA,2,,D,,20,1325,21,0,10,612,95.43,,0,2.0,4.5
+3,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,113,House,MA,2,,D,,18,1204,22,1,12,749,92.5,,0,2.0,7.42
+4,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,112,House,MA,3,,D,,16,1607,13,1,19,590,93.95,,0,2.0,5.99
+5,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,111,House,MA,3,,D,,14,1655,39,2,53,871,97.95,,0,2.0,1.99
+6,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,110,House,MA,3,,D,,12,1873,25,0,51,959,98.74,,0,2.0,1.81
+7,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,109,House,MA,3,,D,,10,1214,15,0,14,791,94.5,,0,0.0,5.75
+8,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,108,House,MA,3,,D,,8,1221,27,0,16,658,94.89,,0,0.0,5.19
+9,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,107,House,MA,3,,D,,6,996,9,0,13,922,90.8,,0,0.0,9.72
+10,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,106,House,MA,3,,D,,4,1214,17,3,14,681,92.88,,0,0.0,7.38
+11,M000312,Jim,McGovern,1959-11-20,M,D,400263,45976,105,House,MA,3,,D,,2,1187,22,3,5,536,92.56,,0,0.0,7.97

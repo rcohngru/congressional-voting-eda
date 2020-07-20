@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000328,Tillie,Fowler,1942-12-23,F,,400583,,106,House,FL,4,,R,,8,1214,94,0,11,228,94.45,,0,0.0,5.73
+1,F000328,Tillie,Fowler,1942-12-23,F,,400583,,105,House,FL,4,,R,,6,1187,52,0,9,166,94.22,,0,0.0,6.23
+2,F000328,Tillie,Fowler,1942-12-23,F,,400583,,104,House,FL,4,,R,,4,1340,72,0,7,147,94.04,,0,0.0,7.18
+3,F000328,Tillie,Fowler,1942-12-23,F,,400583,,103,House,FL,4,,R,,2,1122,38,0,12,310,87.4,,0,0.0,11.93

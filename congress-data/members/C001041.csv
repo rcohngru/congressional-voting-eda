@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001041,Hillary,Clinton,1947-10-26,F,,300022,,111,Senate,NY,,1,D,,9,6,1,0,2,17,100.0,,0,0.0,0.0
+1,C001041,Hillary,Clinton,1947-10-26,F,,300022,,110,Senate,NY,,1,D,,7,657,208,0,164,587,97.53,,0,4.0,2.47
+2,C001041,Hillary,Clinton,1947-10-26,F,,300022,,109,Senate,NY,,1,D,,5,645,16,0,90,497,94.51,,0,0.0,5.49
+3,C001041,Hillary,Clinton,1947-10-26,F,,300022,,108,Senate,NY,,1,D,,3,675,19,0,71,450,95.94,,0,0.0,4.06
+4,C001041,Hillary,Clinton,1947-10-26,F,,300022,,107,Senate,NY,,1,D,,1,633,5,0,90,398,94.82,,0,0.0,5.18

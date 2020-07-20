@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000165,Thomas,Osborne,1937-02-23,M,,400303,,109,House,NE,3,,R,,6,1209,56,0,15,192,96.12,,0,0.0,4.14
+1,O000165,Thomas,Osborne,1937-02-23,M,,400303,,108,House,NE,3,,R,,4,1221,22,0,16,199,95.88,,0,0.0,4.29
+2,O000165,Thomas,Osborne,1937-02-23,M,,400303,,107,House,NE,3,,R,,2,996,6,0,7,175,95.7,,0,0.0,4.71

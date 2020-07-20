@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,116,House,OH,13,,D,,18,839,180,0,43,594,99.24,,3,1.0,0.61
+1,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,115,House,OH,13,,D,,16,1211,80,1,26,665,97.28,,3,1.0,2.72
+2,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,114,House,OH,13,,D,,14,1325,63,0,25,351,95.6,,0,2.0,4.32
+3,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,113,House,OH,13,,D,,12,1204,74,1,15,377,90.9,,0,2.0,9.01
+4,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,112,House,OH,17,,D,,10,1607,29,1,14,322,90.28,,0,2.0,9.65
+5,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,111,House,OH,17,,D,,8,1655,67,0,12,458,98.29,,0,1.0,1.65
+6,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,110,House,OH,17,,D,,6,1873,71,0,10,405,98.36,,0,1.0,2.2
+7,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,109,House,OH,17,,D,,4,1214,29,0,16,364,93.84,,0,0.0,6.42
+8,R000577,Tim,Ryan,1973-07-16,M,D,400352,1003608,108,House,OH,17,,D,,2,1221,32,0,12,399,94.79,,0,0.0,5.3

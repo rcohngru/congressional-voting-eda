@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001030,Baron,Hill,1953-06-23,M,D,400177,12259,111,House,IN,9,,D,,4,1655,54,1,14,222,87.43,,0,2.0,12.51
+1,H001030,Baron,Hill,1953-06-23,M,D,400177,12259,110,House,IN,9,,D,,2,1873,40,3,24,317,87.32,,0,3.0,13.18
+2,H001030,Baron,Hill,1953-06-23,M,D,400177,12259,108,House,IN,9,,D,,6,1221,8,1,9,134,90.6,,0,0.0,9.56
+3,H001030,Baron,Hill,1953-06-23,M,D,400177,12259,107,House,IN,9,,D,,4,996,22,0,10,85,86.79,,0,0.0,13.73
+4,H001030,Baron,Hill,1953-06-23,M,D,400177,12259,106,House,IN,9,,D,,2,1214,18,2,2,126,87.35,,0,0.0,12.9

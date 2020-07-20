@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,116,House,CT,3,,D,,30,839,29,0,42,390,99.38,,2,2.0,0.5
+1,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,115,House,CT,3,,D,,28,1211,81,1,52,409,97.64,,2,1.0,2.36
+2,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,114,House,CT,3,,D,,26,1325,59,0,48,283,98.0,,0,1.0,1.92
+3,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,113,House,CT,3,,D,,24,1204,44,0,41,350,96.61,,0,1.0,3.3
+4,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,112,House,CT,3,,D,,22,1607,12,1,30,271,96.88,,0,1.0,3.06
+5,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,111,House,CT,3,,D,,20,1655,27,0,32,442,98.52,,0,2.0,1.42
+6,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,110,House,CT,3,,D,,18,1873,42,0,45,505,99.61,,0,2.0,0.94
+7,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,109,House,CT,3,,D,,16,1214,15,0,39,428,97.04,,0,0.0,3.21
+8,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,108,House,CT,3,,D,,14,1221,8,0,34,512,97.06,,0,0.0,3.1
+9,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,107,House,CT,3,,D,,12,996,7,0,15,490,97.32,,0,0.0,3.2
+10,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,106,House,CT,3,,D,,10,1214,7,0,13,435,96.38,,0,0.0,3.87
+11,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,105,House,CT,3,,D,,8,1187,6,2,20,352,92.48,,0,0.0,8.05
+12,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,104,House,CT,3,,D,,6,1340,9,0,10,196,95.17,,0,0.0,6.1
+13,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,103,House,CT,3,,D,,4,1122,14,0,11,260,94.49,,0,0.0,4.76
+14,D000216,Rosa,DeLauro,1943-03-02,F,D,400103,19040,102,House,CT,3,,D,,2,933,6,0,,,92.78,,0,0.0,4.33

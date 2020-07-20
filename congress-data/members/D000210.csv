@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,111,House,MA,10,,D,,14,1655,270,2,23,425,97.82,,0,2.0,2.11
+1,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,110,House,MA,10,,D,,12,1873,148,9,24,541,97.54,,0,4.0,2.69
+2,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,109,House,MA,10,,D,,10,1214,78,0,7,337,93.59,,0,0.0,6.58
+3,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,108,House,MA,10,,D,,8,1221,109,3,6,366,94.99,,0,0.0,5.1
+4,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,107,House,MA,10,,D,,6,996,78,1,8,301,92.67,,0,0.0,7.88
+5,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,106,House,MA,10,,D,,4,1214,99,4,6,347,91.73,,0,0.0,8.55
+6,D000210,Bill,Delahunt,1941-07-18,M,D,400102,46620,105,House,MA,10,,D,,2,1187,17,4,7,263,89.47,,0,0.0,11.06

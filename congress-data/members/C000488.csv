@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000488,William,Clay,1931-04-30,M,,402626,,106,House,MO,1,,D,,32,1214,210,1,7,265,88.92,,0,0.0,11.28
+1,C000488,William,Clay,1931-04-30,M,,402626,,105,House,MO,1,,D,,30,1187,133,0,12,218,89.0,,0,0.0,11.6
+2,C000488,William,Clay,1931-04-30,M,,402626,,104,House,MO,1,,D,,28,1340,126,2,6,120,90.27,,0,0.0,10.95
+3,C000488,William,Clay,1931-04-30,M,,402626,,103,House,MO,1,,D,,26,1122,115,0,22,263,82.85,,0,0.0,16.43
+4,C000488,William,Clay,1931-04-30,M,,402626,,102,House,MO,1,,D,,24,933,91,0,,,85.24,,0,0.0,11.71
+5,C000488,William,Clay,1931-04-30,M,,402626,,101,House,MO,1,,D,,22,,,,,,,,0,0.0,
+6,C000488,William,Clay,1931-04-30,M,,402626,,100,House,MO,1,,D,,20,,,,,,,,0,0.0,
+7,C000488,William,Clay,1931-04-30,M,,402626,,99,House,MO,1,,D,,18,,,,,,,,0,0.0,
+8,C000488,William,Clay,1931-04-30,M,,402626,,98,House,MO,1,,D,,16,,,,,,,,0,0.0,

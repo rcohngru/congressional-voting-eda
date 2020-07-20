@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000346,William,Hathaway,1924-02-21,M,,405215,,95,Senate,ME,,2,D,,5,,,,,,,,0,0.0,
+1,H000346,William,Hathaway,1924-02-21,M,,405215,,94,Senate,ME,,2,D,,3,,,,,,,,0,0.0,
+2,H000346,William,Hathaway,1924-02-21,M,,405215,,93,Senate,ME,,2,D,,1,,,,,,,,0,0.0,

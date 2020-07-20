@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000170,Clifford,Hansen,1912-10-16,,,405052,,95,Senate,WY,,2,R,,11,,,,,,,,0,0.0,
+1,H000170,Clifford,Hansen,1912-10-16,,,405052,,94,Senate,WY,,2,R,,9,,,,,,,,0,0.0,
+2,H000170,Clifford,Hansen,1912-10-16,,,405052,,93,Senate,WY,,2,R,,7,,,,,,,,0,0.0,
+3,H000170,Clifford,Hansen,1912-10-16,,,405052,,92,Senate,WY,,2,R,,5,,,,,,,,0,0.0,
+4,H000170,Clifford,Hansen,1912-10-16,,,405052,,91,Senate,WY,,2,R,,3,,,,,,,,0,0.0,
+5,H000170,Clifford,Hansen,1912-10-16,,,405052,,90,Senate,WY,,2,R,,1,,,,,,,,0,0.0,

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000241,Charles,Mathias,1922-07-24,M,,407259,,99,Senate,MD,,3,R,,17,,,,,,,,0,0.0,
+1,M000241,Charles,Mathias,1922-07-24,M,,407259,,98,Senate,MD,,3,R,,15,,,,,,,,0,0.0,
+2,M000241,Charles,Mathias,1922-07-24,M,,407259,,97,Senate,MD,,3,R,,13,,,,,,,,0,0.0,
+3,M000241,Charles,Mathias,1922-07-24,M,,407259,,96,Senate,MD,,3,R,,11,,,,,,,,0,0.0,
+4,M000241,Charles,Mathias,1922-07-24,M,,407259,,95,Senate,MD,,3,R,,9,,,,,,,,0,0.0,
+5,M000241,Charles,Mathias,1922-07-24,M,,407259,,94,Senate,MD,,3,R,,7,,,,,,,,0,0.0,
+6,M000241,Charles,Mathias,1922-07-24,M,,407259,,93,Senate,MD,,3,R,,5,,,,,,,,0,0.0,
+7,M000241,Charles,Mathias,1922-07-24,M,,407259,,92,Senate,MD,,3,R,,3,,,,,,,,0,0.0,
+8,M000241,Charles,Mathias,1922-07-24,M,,407259,,91,Senate,MD,,3,R,,1,,,,,,,,0,0.0,

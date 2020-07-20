@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000186,Clinton,Anderson,1895-10-23,,,400841,,92,Senate,NM,,2,D,,23,,,,,,,,0,0.0,
+1,A000186,Clinton,Anderson,1895-10-23,,,400841,,91,Senate,NM,,2,D,,21,,,,,,,,0,0.0,
+2,A000186,Clinton,Anderson,1895-10-23,,,400841,,90,Senate,NM,,2,D,,19,,,,,,,,0,0.0,
+3,A000186,Clinton,Anderson,1895-10-23,,,400841,,89,Senate,NM,,2,D,,17,,,,,,,,0,0.0,
+4,A000186,Clinton,Anderson,1895-10-23,,,400841,,88,Senate,NM,,2,D,,15,,,,,,,,0,0.0,
+5,A000186,Clinton,Anderson,1895-10-23,,,400841,,87,Senate,NM,,2,D,,13,,,,,,,,0,0.0,
+6,A000186,Clinton,Anderson,1895-10-23,,,400841,,86,Senate,NM,,2,D,,11,,,,,,,,0,0.0,
+7,A000186,Clinton,Anderson,1895-10-23,,,400841,,85,Senate,NM,,2,D,,9,,,,,,,,0,0.0,
+8,A000186,Clinton,Anderson,1895-10-23,,,400841,,84,Senate,NM,,2,D,,7,,,,,,,,0,0.0,
+9,A000186,Clinton,Anderson,1895-10-23,,,400841,,83,Senate,NM,,2,D,,5,,,,,,,,0,0.0,
+10,A000186,Clinton,Anderson,1895-10-23,,,400841,,82,Senate,NM,,2,D,,3,,,,,,,,0,0.0,
+11,A000186,Clinton,Anderson,1895-10-23,,,400841,,81,Senate,NM,,2,D,,1,,,,,,,,0,0.0,

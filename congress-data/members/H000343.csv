@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000343,Mark,Hatfield,1922-07-12,M,,405212,,104,Senate,OR,,2,R,,29,916,70,0,42,80,78.53,,0,0.0,21.47
+1,H000343,Mark,Hatfield,1922-07-12,M,,405212,,103,Senate,OR,,2,R,,27,724,28,0,35,131,61.62,,0,0.0,38.38
+2,H000343,Mark,Hatfield,1922-07-12,M,,405212,,102,Senate,OR,,2,R,,25,550,7,0,,,66.17,,0,0.0,33.83
+3,H000343,Mark,Hatfield,1922-07-12,M,,405212,,101,Senate,OR,,2,R,,23,638,44,0,,,,,0,0.0,
+4,H000343,Mark,Hatfield,1922-07-12,M,,405212,,100,Senate,OR,,2,R,,21,,,,,,,,0,0.0,
+5,H000343,Mark,Hatfield,1922-07-12,M,,405212,,99,Senate,OR,,2,R,,19,,,,,,,,0,0.0,
+6,H000343,Mark,Hatfield,1922-07-12,M,,405212,,98,Senate,OR,,2,R,,16,,,,,,,,0,0.0,
+7,H000343,Mark,Hatfield,1922-07-12,M,,405212,,97,Senate,OR,,2,R,,14,,,,,,,,0,0.0,
+8,H000343,Mark,Hatfield,1922-07-12,M,,405212,,96,Senate,OR,,2,R,,13,,,,,,,,0,0.0,
+9,H000343,Mark,Hatfield,1922-07-12,M,,405212,,95,Senate,OR,,2,R,,11,,,,,,,,0,0.0,
+10,H000343,Mark,Hatfield,1922-07-12,M,,405212,,94,Senate,OR,,2,R,,9,,,,,,,,0,0.0,
+11,H000343,Mark,Hatfield,1922-07-12,M,,405212,,93,Senate,OR,,2,R,,7,,,,,,,,0,0.0,
+12,H000343,Mark,Hatfield,1922-07-12,M,,405212,,92,Senate,OR,,2,R,,5,,,,,,,,0,0.0,
+13,H000343,Mark,Hatfield,1922-07-12,M,,405212,,91,Senate,OR,,2,R,,3,,,,,,,,0,0.0,
+14,H000343,Mark,Hatfield,1922-07-12,M,,405212,,90,Senate,OR,,2,R,,1,,,,,,,,0,0.0,

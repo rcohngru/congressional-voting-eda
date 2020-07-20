@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000424,Calvin,Dooley,1954-01-11,M,,400112,,108,House,CA,20,,D,,14,1221,137,0,6,168,87.48,,0,0.0,12.62
+1,D000424,Calvin,Dooley,1954-01-11,M,,400112,,107,House,CA,20,,D,,12,996,83,0,6,213,85.87,,0,0.0,14.46
+2,D000424,Calvin,Dooley,1954-01-11,M,,400112,,106,House,CA,20,,D,,10,1214,70,0,5,223,88.44,,0,0.0,11.56
+3,D000424,Calvin,Dooley,1954-01-11,M,,400112,,105,House,CA,20,,D,,8,1187,27,2,4,198,85.82,,0,0.0,14.45
+4,D000424,Calvin,Dooley,1954-01-11,M,,400112,,104,House,CA,20,,D,,6,1340,47,1,4,123,76.42,,0,0.0,24.72
+5,D000424,Calvin,Dooley,1954-01-11,M,,400112,,103,House,CA,20,,D,,4,1122,59,0,4,144,87.2,,0,0.0,12.12
+6,D000424,Calvin,Dooley,1954-01-11,M,,400112,,102,House,CA,17,,D,,2,933,32,0,,,86.27,,0,0.0,10.98

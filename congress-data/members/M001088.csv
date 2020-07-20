@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001088,Austin,Murphy,1927-06-17,M,,408052,,103,House,PA,20,,D,,18,1122,114,1,19,299,73.18,,0,0.0,26.2
+1,M001088,Austin,Murphy,1927-06-17,M,,408052,,102,House,PA,22,,D,,16,933,81,2,,,74.97,,0,0.0,22.98
+2,M001088,Austin,Murphy,1927-06-17,M,,408052,,101,House,PA,22,,D,,14,,,,,,,,0,0.0,
+3,M001088,Austin,Murphy,1927-06-17,M,,408052,,100,House,PA,22,,D,,12,,,,,,,,0,0.0,
+4,M001088,Austin,Murphy,1927-06-17,M,,408052,,99,House,PA,22,,D,,10,,,,,,,,0,0.0,
+5,M001088,Austin,Murphy,1927-06-17,M,,408052,,98,House,PA,22,,D,,8,,,,,,,,0,0.0,

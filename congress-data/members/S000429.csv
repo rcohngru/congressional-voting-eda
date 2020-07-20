@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000429,Alan,Simpson,1931-09-02,M,,409923,378,104,Senate,WY,,2,R,,17,916,30,2,36,206,89.78,,0,0.0,10.22
+1,S000429,Alan,Simpson,1931-09-02,M,,409923,378,103,Senate,WY,,2,R,,15,724,28,1,9,175,91.51,,0,0.0,8.49
+2,S000429,Alan,Simpson,1931-09-02,M,,409923,378,102,Senate,WY,,2,R,,13,550,8,0,,,91.95,,0,0.0,8.05
+3,S000429,Alan,Simpson,1931-09-02,M,,409923,378,101,Senate,WY,,2,R,,11,638,28,0,,,,,0,0.0,
+4,S000429,Alan,Simpson,1931-09-02,M,,409923,378,100,Senate,WY,,2,R,,9,,,,,,,,0,0.0,
+5,S000429,Alan,Simpson,1931-09-02,M,,409923,378,99,Senate,WY,,2,R,,7,,,,,,,,0,0.0,
+6,S000429,Alan,Simpson,1931-09-02,M,,409923,378,98,Senate,WY,,2,R,,5,,,,,,,,0,0.0,
+7,S000429,Alan,Simpson,1931-09-02,M,,409923,378,97,Senate,WY,,2,R,,3,,,,,,,,0,0.0,
+8,S000429,Alan,Simpson,1931-09-02,M,,409923,378,96,Senate,WY,,2,R,,1,,,,,,,,0,0.0,
+9,S000429,Alan,Simpson,1931-09-02,M,,409923,378,95,Senate,WY,,2,R,,1,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001015,Tim,Hutchinson,1949-08-11,M,,300151,,107,Senate,AR,,2,R,,5,633,28,0,52,266,90.68,,0,0.0,9.32
+1,H001015,Tim,Hutchinson,1949-08-11,M,,300151,,106,Senate,AR,,2,R,,3,672,22,0,32,230,92.12,,0,0.0,7.88
+2,H001015,Tim,Hutchinson,1949-08-11,M,,300151,,105,Senate,AR,,2,R,,1,612,20,0,19,280,90.79,,0,0.0,9.22
+3,H001015,Tim,Hutchinson,1949-08-11,M,,300151,,104,House,AR,3,,R,,4,1340,20,0,18,287,95.61,,0,0.0,5.64
+4,H001015,Tim,Hutchinson,1949-08-11,M,,300151,,103,House,AR,3,,R,,2,1122,15,0,6,296,91.95,,0,0.0,7.3

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000522,Charles,Price,1905-01-01,M,,408907,,100,House,IL,21,,D,,44,,,,,,,,0,0.0,
+1,P000522,Charles,Price,1905-01-01,M,,408907,,99,House,IL,21,,D,,42,,,,,,,,0,0.0,
+2,P000522,Charles,Price,1905-01-01,M,,408907,,98,House,IL,21,,D,,40,,,,,,,,0,0.0,

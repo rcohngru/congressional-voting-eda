@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,116,House,OR,2,,R,,22,839,13,0,15,123,88.28,,6,1.0,11.6
+1,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,115,House,OR,2,,R,,20,1211,7,0,21,157,95.66,,0,1.0,4.34
+2,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,114,House,OR,2,,R,,18,1325,8,0,11,102,94.41,,0,1.0,5.51
+3,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,113,House,OR,2,,R,,16,1204,12,0,13,149,93.85,,0,1.0,6.07
+4,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,112,House,OR,2,,R,,14,1607,11,0,7,167,92.05,,0,1.0,7.89
+5,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,111,House,OR,2,,R,,12,1655,36,19,4,192,91.6,,0,1.0,8.34
+6,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,110,House,OR,2,,R,,10,1873,46,2,6,234,91.61,,0,2.0,8.95
+7,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,109,House,OR,2,,R,,8,1214,11,0,19,159,95.1,,0,0.0,5.15
+8,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,108,House,OR,2,,R,,6,1221,29,0,16,158,95.85,,0,0.0,4.32
+9,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,107,House,OR,2,,R,,4,996,5,0,16,161,97.95,,0,0.0,2.56
+10,W000791,Greg,Walden,1957-01-10,M,R,400419,57892,106,House,OR,2,,R,,2,1214,13,0,12,196,95.16,,0,0.0,5.09

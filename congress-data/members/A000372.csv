@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000372,Rick,Allen,1951-11-07,M,R,412625,62545,116,House,GA,12,,R,,6,839,2,0,4,181,92.17,,4,2.0,7.71
+1,A000372,Rick,Allen,1951-11-07,M,R,412625,62545,115,House,GA,12,,R,,4,1211,16,0,5,230,98.57,,4,2.0,1.43
+2,A000372,Rick,Allen,1951-11-07,M,R,412625,62545,114,House,GA,12,,R,,2,1325,16,0,3,209,97.61,,0,2.0,2.31

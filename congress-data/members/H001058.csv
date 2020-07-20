@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001058,Bill,Huizenga,1969-01-31,M,R,412437,1033765,116,House,MI,2,,R,,10,839,21,0,9,158,94.7,,2,1.0,5.18
+1,H001058,Bill,Huizenga,1969-01-31,M,R,412437,1033765,115,House,MI,2,,R,,8,1211,45,1,11,182,96.55,,2,1.0,3.45
+2,H001058,Bill,Huizenga,1969-01-31,M,R,412437,1033765,114,House,MI,2,,R,,6,1325,47,0,14,169,95.27,,0,1.0,4.65
+3,H001058,Bill,Huizenga,1969-01-31,M,R,412437,1033765,113,House,MI,2,,R,,4,1204,11,0,12,273,94.03,,0,1.0,5.89
+4,H001058,Bill,Huizenga,1969-01-31,M,R,412437,1033765,112,House,MI,2,,R,,2,1607,26,0,23,262,92.43,,0,1.0,7.51

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000477,James,Slattery,1948-08-04,M,,409966,,103,House,KS,2,,D,,12,1122,255,0,51,287,83.91,,0,0.0,15.27
+1,S000477,James,Slattery,1948-08-04,M,,409966,,102,House,KS,2,,D,,10,933,25,0,,,80.14,,0,0.0,17.03
+2,S000477,James,Slattery,1948-08-04,M,,409966,,101,House,KS,2,,D,,8,,,,,,,,0,0.0,
+3,S000477,James,Slattery,1948-08-04,M,,409966,,100,House,KS,2,,D,,6,,,,,,,,0,0.0,
+4,S000477,James,Slattery,1948-08-04,M,,409966,,99,House,KS,2,,D,,4,,,,,,,,0,0.0,
+5,S000477,James,Slattery,1948-08-04,M,,409966,,98,House,KS,2,,D,,2,,,,,,,,0,0.0,

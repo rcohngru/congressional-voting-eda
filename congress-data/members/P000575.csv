@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000575,William,Purtell,1897-05-06,M,,408958,,85,Senate,CT,,1,R,,5,,,,,,,,0,0.0,
+1,P000575,William,Purtell,1897-05-06,M,,408958,,84,Senate,CT,,1,R,,3,,,,,,,,0,0.0,
+2,P000575,William,Purtell,1897-05-06,M,,408958,,83,Senate,CT,,1,R,,1,,,,,,,,0,0.0,
+3,P000575,William,Purtell,1897-05-06,M,,408958,,82,Senate,CT,,3,R,,1,,,,,,,,0,0.0,

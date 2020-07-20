@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000291,Philip,Hart,1912-12-10,M,,405164,,94,Senate,MI,,1,D,,17,,,,,,,,0,0.0,
+1,H000291,Philip,Hart,1912-12-10,M,,405164,,93,Senate,MI,,1,D,,15,,,,,,,,0,0.0,
+2,H000291,Philip,Hart,1912-12-10,M,,405164,,92,Senate,MI,,1,D,,13,,,,,,,,0,0.0,
+3,H000291,Philip,Hart,1912-12-10,M,,405164,,91,Senate,MI,,1,D,,11,,,,,,,,0,0.0,
+4,H000291,Philip,Hart,1912-12-10,M,,405164,,90,Senate,MI,,1,D,,9,,,,,,,,0,0.0,
+5,H000291,Philip,Hart,1912-12-10,M,,405164,,89,Senate,MI,,1,D,,7,,,,,,,,0,0.0,
+6,H000291,Philip,Hart,1912-12-10,M,,405164,,88,Senate,MI,,1,D,,5,,,,,,,,0,0.0,
+7,H000291,Philip,Hart,1912-12-10,M,,405164,,87,Senate,MI,,1,D,,3,,,,,,,,0,0.0,
+8,H000291,Philip,Hart,1912-12-10,M,,405164,,86,Senate,MI,,1,D,,1,,,,,,,,0,0.0,

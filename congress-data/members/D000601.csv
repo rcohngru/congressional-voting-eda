@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000601,Elizabeth,Dole,1936-07-29,F,,300035,,110,Senate,NC,,2,R,,5,657,35,0,33,296,89.07,,0,4.0,10.93
+1,D000601,Elizabeth,Dole,1936-07-29,F,,300035,,109,Senate,NC,,2,R,,3,645,7,0,34,230,93.53,,0,0.0,6.47
+2,D000601,Elizabeth,Dole,1936-07-29,F,,300035,,108,Senate,NC,,2,R,,1,675,6,0,7,128,96.23,,0,0.0,3.77

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000013,Sidney,Yates,1909-08-27,M,,411947,,105,House,IL,9,,D,,48,1187,314,0,12,292,88.45,,0,0.0,11.9
+1,Y000013,Sidney,Yates,1909-08-27,M,,411947,,104,House,IL,9,,D,,46,1340,204,2,8,243,89.87,,0,0.0,11.52
+2,Y000013,Sidney,Yates,1909-08-27,M,,411947,,103,House,IL,9,,D,,44,1122,58,0,7,271,87.85,,0,0.0,11.37
+3,Y000013,Sidney,Yates,1909-08-27,M,,411947,,102,House,IL,9,,D,,42,933,83,0,,,88.85,,0,0.0,8.0
+4,Y000013,Sidney,Yates,1909-08-27,M,,411947,,101,House,IL,9,,D,,40,,,,,,,,0,0.0,
+5,Y000013,Sidney,Yates,1909-08-27,M,,411947,,100,House,IL,9,,D,,38,,,,,,,,0,0.0,
+6,Y000013,Sidney,Yates,1909-08-27,M,,411947,,99,House,IL,9,,D,,36,,,,,,,,0,0.0,
+7,Y000013,Sidney,Yates,1909-08-27,M,,411947,,98,House,IL,9,,D,,34,,,,,,,,0,0.0,

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,110,House,MD,1,,R,,18,1873,256,6,8,311,75.45,,0,2.0,25.13
+1,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,109,House,MD,1,,R,,16,1214,47,0,13,180,87.38,,0,0.0,12.88
+2,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,108,House,MD,1,,R,,14,1221,62,0,16,176,92.86,,0,0.0,7.32
+3,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,107,House,MD,1,,R,,12,996,42,1,22,193,92.75,,0,0.0,7.78
+4,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,106,House,MD,1,,R,,10,1214,57,0,9,271,88.18,,0,0.0,12.08
+5,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,105,House,MD,1,,R,,8,1187,20,1,12,178,86.04,,0,0.0,14.49
+6,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,104,House,MD,1,,R,,6,1340,7,0,12,136,86.65,,0,0.0,14.6
+7,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,103,House,MD,1,,R,,4,1122,27,0,12,231,79.17,,0,0.0,20.08
+8,G000180,Wayne,Gilchrest,1946-04-15,M,,400149,,102,House,MD,1,,R,,2,933,20,0,,,79.03,,0,0.0,17.59

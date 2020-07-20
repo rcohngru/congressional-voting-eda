@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000452,Luis,Fortuno,1960-10-31,M,,400662,,110,House,PR,At-Large,,R,,2,471,166,0,27,400,80.28,,0,3.0,21.45
+1,F000452,Luis,Fortuno,1960-10-31,M,,400662,,109,House,PR,At-Large,,R,,2,0,0,0,17,220,0.0,,0,0.0,

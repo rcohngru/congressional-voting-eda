@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,116,Senate,MS,,1,R,,13,557,1,0,71,247,98.37,,12,6.0,1.63
+1,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,115,Senate,MS,,1,R,,11,599,2,0,52,267,98.48,,10,6.0,1.52
+2,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,114,Senate,MS,,1,R,,9,502,11,0,29,199,95.23,,0,6.0,4.77
+3,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,113,Senate,MS,,1,R,,7,657,17,0,19,274,91.88,,9,5.0,8.12
+4,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,112,Senate,MS,,1,R,,5,486,14,0,21,283,88.58,,0,0.0,11.42
+5,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,111,Senate,MS,,1,R,,3,696,9,0,17,190,91.58,,0,5.0,8.42
+6,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,110,Senate,MS,,1,R,,1,215,10,0,10,113,90.5,,0,0.0,9.5
+7,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,110,House,MS,1,,R,,14,1186,31,1,,,93.11,,0,1.0,7.61
+8,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,109,House,MS,1,,R,,12,1214,35,0,11,210,97.51,,0,0.0,2.75
+9,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,108,House,MS,1,,R,,10,1221,30,0,12,216,96.78,,0,0.0,3.39
+10,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,107,House,MS,1,,R,,8,996,16,0,12,185,95.95,,0,0.0,4.56
+11,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,106,House,MS,1,,R,,6,1214,28,2,6,180,94.08,,0,0.0,6.09
+12,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,105,House,MS,1,,R,,4,1187,31,0,5,210,94.84,,0,0.0,5.7
+13,W000437,Roger,Wicker,1951-07-05,M,R,400432,18203,104,House,MS,1,,R,,2,1340,20,1,4,185,97.03,,0,0.0,4.07

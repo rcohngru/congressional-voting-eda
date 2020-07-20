@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000805,Mark,Warner,1954-12-15,M,D,412321,7630,116,Senate,VA,,2,D,,11,557,19,1,43,266,94.23,,6,5.0,5.77
+1,W000805,Mark,Warner,1954-12-15,M,D,412321,7630,115,Senate,VA,,2,D,,9,599,9,1,42,220,89.33,,6,5.0,10.67
+2,W000805,Mark,Warner,1954-12-15,M,D,412321,7630,114,Senate,VA,,2,D,,7,502,36,0,26,177,90.17,,0,5.0,9.83
+3,W000805,Mark,Warner,1954-12-15,M,D,412321,7630,113,Senate,VA,,2,D,,5,657,15,0,38,201,96.73,,9,6.0,3.27
+4,W000805,Mark,Warner,1954-12-15,M,D,412321,7630,112,Senate,VA,,2,D,,3,486,23,0,21,139,93.48,,0,6.0,6.52
+5,W000805,Mark,Warner,1954-12-15,M,D,412321,7630,111,Senate,VA,,2,D,,1,696,21,0,16,123,92.1,,0,5.0,7.9

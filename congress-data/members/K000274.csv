@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000274,Scott,Klug,1953-01-16,M,,406431,,105,House,WI,2,,R,,8,1187,54,1,5,214,85.65,,0,0.0,14.8
+1,K000274,Scott,Klug,1953-01-16,M,,406431,,104,House,WI,2,,R,,6,1340,12,0,14,222,82.77,,0,0.0,18.47
+2,K000274,Scott,Klug,1953-01-16,M,,406431,,103,House,WI,2,,R,,4,1122,15,0,11,319,79.42,,0,0.0,19.83
+3,K000274,Scott,Klug,1953-01-16,M,,406431,,102,House,WI,2,,R,,2,933,23,1,,,76.27,,0,0.0,20.23

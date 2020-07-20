@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,112,House,MI,5,,D,,36,1607,11,0,13,290,95.87,,0,2.0,4.07
+1,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,111,House,MI,5,,D,,34,1655,1,0,17,493,98.97,,0,2.0,0.97
+2,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,110,House,MI,5,,D,,32,1873,1,0,14,447,98.75,,0,2.0,1.79
+3,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,109,House,MI,5,,D,,30,1214,0,0,8,538,95.15,,0,0.0,5.1
+4,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,108,House,MI,5,,D,,28,1221,0,0,8,574,94.75,,0,0.0,5.42
+5,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,107,House,MI,9,,D,,26,996,0,0,6,589,94.16,,0,0.0,6.35
+6,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,106,House,MI,9,,D,,24,1214,1,0,11,316,91.97,,0,0.0,8.28
+7,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,105,House,MI,9,,D,,22,1187,0,1,11,251,89.08,,0,0.0,11.44
+8,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,104,House,MI,9,,D,,20,1340,0,0,5,137,91.9,,0,0.0,9.36
+9,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,103,House,MI,9,,D,,18,1122,0,0,25,292,91.34,,0,0.0,7.93
+10,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,102,House,MI,7,,D,,16,933,0,0,,,91.71,,0,0.0,5.41
+11,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,101,House,MI,7,,D,,14,,,,,,,,0,0.0,
+12,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,100,House,MI,7,,D,,12,,,,,,,,0,0.0,
+13,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,99,House,MI,7,,D,,10,,,,,,,,0,0.0,
+14,K000172,Dale,Kildee,1929-09-16,M,D,400216,6743,98,House,MI,7,,D,,8,,,,,,,,0,0.0,

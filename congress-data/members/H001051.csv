@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001051,Richard,Hanna,1951-01-25,M,R,412454,61702,114,House,NY,22,,R,,6,1325,120,0,16,292,83.65,,0,3.0,16.18
+1,H001051,Richard,Hanna,1951-01-25,M,R,412454,61702,113,House,NY,22,,R,,4,1204,91,0,11,326,86.64,,0,3.0,13.27
+2,H001051,Richard,Hanna,1951-01-25,M,R,412454,61702,112,House,NY,24,,R,,2,1607,60,0,14,291,85.49,,0,3.0,14.44

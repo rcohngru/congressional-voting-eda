@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,111,Senate,UT,,3,R,,17,696,58,0,21,157,88.45,,0,7.0,11.55
+1,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,110,Senate,UT,,3,R,,15,657,8,0,4,135,88.59,,0,6.0,11.41
+2,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,109,Senate,UT,,3,R,,13,645,11,0,17,122,94.6,,0,0.0,5.4
+3,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,108,Senate,UT,,3,R,,11,675,17,0,13,90,96.79,,0,0.0,3.21
+4,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,107,Senate,UT,,3,R,,9,633,20,0,10,115,95.73,,0,0.0,4.27
+5,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,106,Senate,UT,,3,R,,7,672,8,0,20,171,95.31,,0,0.0,4.69
+6,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,105,Senate,UT,,3,R,,5,612,27,0,17,120,90.67,,0,0.0,9.33
+7,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,104,Senate,UT,,3,R,,3,916,29,0,10,117,94.33,,0,0.0,5.67
+8,B000382,Robert,Bennett,1933-09-18,M,R,300007,25708,103,Senate,UT,,3,R,,1,724,28,0,7,119,93.12,,0,0.0,6.88

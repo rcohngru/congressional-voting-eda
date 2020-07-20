@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000019,Connie,Mack,1940-10-29,M,,400562,,106,Senate,FL,,1,R,,11,672,32,1,35,238,94.66,,0,0.0,5.34
+1,M000019,Connie,Mack,1940-10-29,M,,400562,,105,Senate,FL,,1,R,,9,612,7,1,35,211,89.48,,0,0.0,10.52
+2,M000019,Connie,Mack,1940-10-29,M,,400562,,104,Senate,FL,,1,R,,7,916,36,10,18,150,92.23,,0,0.0,7.77
+3,M000019,Connie,Mack,1940-10-29,M,,400562,,103,Senate,FL,,1,R,,5,724,3,0,32,176,90.78,,0,0.0,9.22
+4,M000019,Connie,Mack,1940-10-29,M,,400562,,102,Senate,FL,,1,R,,3,550,8,6,,,85.96,,0,0.0,14.04
+5,M000019,Connie,Mack,1940-10-29,M,,400562,,101,Senate,FL,,1,R,,1,638,15,0,,,,,0,0.0,
+6,M000019,Connie,Mack,1940-10-29,M,,400562,,100,House,FL,13,,R,,6,,,,,,,,0,0.0,
+7,M000019,Connie,Mack,1940-10-29,M,,400562,,99,House,FL,13,,R,,4,,,,,,,,0,0.0,
+8,M000019,Connie,Mack,1940-10-29,M,,400562,,98,House,FL,13,,R,,2,,,,,,,,0,0.0,

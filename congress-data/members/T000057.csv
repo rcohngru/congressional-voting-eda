@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,111,House,CA,10,,D,,14,477,53,0,7,137,99.05,,0,2.0,0.71
+1,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,110,House,CA,10,,D,,12,1873,20,0,61,504,99.45,,0,2.0,1.1
+2,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,109,House,CA,10,,D,,10,1214,13,1,31,303,95.36,,0,0.0,4.89
+3,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,108,House,CA,10,,D,,8,1221,3,0,8,329,95.07,,0,0.0,5.1
+4,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,107,House,CA,10,,D,,6,996,5,0,12,339,92.48,,0,0.0,8.03
+5,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,106,House,CA,10,,D,,4,1214,8,2,10,274,91.18,,0,0.0,8.99
+6,T000057,Ellen,Tauscher,1951-11-15,F,,400396,,105,House,CA,10,,D,,2,1187,8,5,5,218,88.14,,0,0.0,12.3

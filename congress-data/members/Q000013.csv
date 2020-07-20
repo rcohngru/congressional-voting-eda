@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Q000013,James,Quillen,1916-01-11,M,,408976,,104,House,TN,1,,R,,34,1340,101,0,26,130,94.57,,0,0.0,6.68
+1,Q000013,James,Quillen,1916-01-11,M,,408976,,103,House,TN,1,,R,,32,1122,133,0,26,226,81.8,,0,0.0,17.57
+2,Q000013,James,Quillen,1916-01-11,M,,408976,,102,House,TN,1,,R,,30,933,85,0,,,76.9,,0,0.0,19.71
+3,Q000013,James,Quillen,1916-01-11,M,,408976,,101,House,TN,1,,R,,28,,,,,,,,0,0.0,
+4,Q000013,James,Quillen,1916-01-11,M,,408976,,100,House,TN,1,,R,,26,,,,,,,,0,0.0,
+5,Q000013,James,Quillen,1916-01-11,M,,408976,,99,House,TN,1,,R,,24,,,,,,,,0,0.0,
+6,Q000013,James,Quillen,1916-01-11,M,,408976,,98,House,TN,1,,R,,22,,,,,,,,0,0.0,

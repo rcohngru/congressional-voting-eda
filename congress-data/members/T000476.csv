@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000476,Thom,Tillis,1960-08-30,M,R,412668,77055,116,Senate,NC,,2,R,,1,557,25,0,34,327,97.35,,10,5.0,2.65
+1,T000476,Thom,Tillis,1960-08-30,M,R,412668,77055,115,Senate,NC,,2,R,,3,599,33,0,18,263,99.11,,10,6.0,0.89
+2,T000476,Thom,Tillis,1960-08-30,M,R,412668,77055,114,Senate,NC,,2,R,,1,502,3,0,11,157,93.67,,0,5.0,6.33

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000612,Jeffrey,Denham,1967-07-29,M,R,412403,623287,115,House,CA,10,,R,,8,1211,80,0,13,171,92.1,,7,3.0,7.9
+1,D000612,Jeffrey,Denham,1967-07-29,M,R,412403,623287,114,House,CA,10,,R,,6,1325,15,0,17,117,90.85,,0,3.0,9.08
+2,D000612,Jeffrey,Denham,1967-07-29,M,R,412403,623287,113,House,CA,10,,R,,4,1204,14,0,15,149,90.56,,0,3.0,9.36
+3,D000612,Jeffrey,Denham,1967-07-29,M,R,412403,623287,112,House,CA,19,,R,,2,1607,32,0,19,162,95.27,,0,3.0,4.67

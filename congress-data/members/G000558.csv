@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000558,Brett,Guthrie,1964-02-18,M,R,412278,1031343,116,House,KY,2,,R,,12,839,9,0,8,166,96.96,,4,2.0,2.92
+1,G000558,Brett,Guthrie,1964-02-18,M,R,412278,1031343,115,House,KY,2,,R,,10,1211,6,0,23,219,99.0,,4,2.0,1.0
+2,G000558,Brett,Guthrie,1964-02-18,M,R,412278,1031343,114,House,KY,2,,R,,8,1325,13,0,21,184,98.0,,0,2.0,1.92
+3,G000558,Brett,Guthrie,1964-02-18,M,R,412278,1031343,113,House,KY,2,,R,,6,1204,13,0,10,240,96.63,,0,2.0,3.29
+4,G000558,Brett,Guthrie,1964-02-18,M,R,412278,1031343,112,House,KY,2,,R,,4,1607,14,0,13,223,95.95,,0,1.0,3.98
+5,G000558,Brett,Guthrie,1964-02-18,M,R,412278,1031343,111,House,KY,2,,R,,2,1655,10,0,9,219,94.88,,0,2.0,5.06

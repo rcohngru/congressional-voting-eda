@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,115,House,PA,15,,R,,14,891,19,0,9,124,93.89,,3,1.0,6.11
+1,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,114,House,PA,15,,R,,12,1325,2,0,16,147,89.11,,0,2.0,10.81
+2,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,113,House,PA,15,,R,,10,1204,4,2,9,170,89.87,,0,2.0,10.04
+3,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,112,House,PA,15,,R,,8,1607,3,0,19,177,86.12,,0,2.0,13.82
+4,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,111,House,PA,15,,R,,6,1655,11,30,21,279,86.42,,0,3.0,13.52
+5,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,110,House,PA,15,,R,,4,1873,5,1,13,244,86.23,,0,2.0,14.33
+6,D000604,Charlie,Dent,1960-05-24,M,R,400648,1011395,109,House,PA,15,,R,,2,1214,1,0,9,227,91.71,,0,0.0,8.54

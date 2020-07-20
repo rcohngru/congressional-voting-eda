@@ -1,0 +1,21 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,116,Senate,IA,,3,R,President Pro Tempore of the Senate,39,557,0,0,67,189,97.83,,11,6.0,2.17
+1,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,115,Senate,IA,,3,R,,37,599,0,0,97,218,96.8,,10,6.0,3.2
+2,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,114,Senate,IA,,3,R,,35,502,0,0,94,189,94.12,,0,6.0,5.88
+3,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,113,Senate,IA,,3,R,,33,657,0,0,24,216,94.72,,12,5.0,5.28
+4,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,112,Senate,IA,,3,R,,31,486,0,0,30,242,87.84,,0,5.0,12.16
+5,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,111,Senate,IA,,3,R,,29,696,0,0,43,180,91.55,,0,4.0,8.45
+6,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,110,Senate,IA,,3,R,,27,657,0,0,47,193,86.36,,0,4.0,13.64
+7,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,109,Senate,IA,,3,R,,25,645,0,0,62,156,93.29,,0,0.0,6.71
+8,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,108,Senate,IA,,3,R,,23,675,0,0,80,155,97.46,,0,0.0,2.54
+9,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,107,Senate,IA,,3,R,,21,633,0,0,62,165,93.0,,0,0.0,7.0
+10,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,106,Senate,IA,,3,R,,19,672,0,0,69,248,93.42,,0,0.0,6.58
+11,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,105,Senate,IA,,3,R,,17,612,0,0,62,194,90.1,,0,0.0,9.9
+12,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,104,Senate,IA,,3,R,,15,916,0,0,35,183,91.0,,0,0.0,9.0
+13,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,103,Senate,IA,,3,R,,13,724,4,0,24,259,89.2,,0,0.0,10.8
+14,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,102,Senate,IA,,3,R,,11,550,0,0,,,86.16,,0,0.0,13.84
+15,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,101,Senate,IA,,3,R,,9,638,1,0,,,,,0,0.0,
+16,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,100,Senate,IA,,3,R,,7,,,,,,,,0,0.0,
+17,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,99,Senate,IA,,3,R,,5,,,,,,,,0,0.0,
+18,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,98,Senate,IA,,3,R,,3,,,,,,,,0,0.0,
+19,G000386,Charles,Grassley,1933-09-17,M,R,300048,1167,97,Senate,IA,,3,R,,1,,,,,,,,0,0.0,

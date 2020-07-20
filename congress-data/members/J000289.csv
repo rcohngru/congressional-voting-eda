@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,116,House,OH,4,,R,,14,839,13,0,0,91,89.26,,2,3.0,10.62
+1,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,115,House,OH,4,,R,,12,1211,27,0,2,127,91.26,,4,2.0,8.74
+2,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,114,House,OH,4,,R,,10,1325,19,0,2,126,91.9,,0,3.0,8.02
+3,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,113,House,OH,4,,R,,8,1204,15,0,6,181,91.72,,0,3.0,8.19
+4,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,112,House,OH,4,,R,,6,1607,48,0,6,149,92.31,,0,2.0,7.62
+5,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,111,House,OH,4,,R,,4,1655,41,0,8,224,94.4,,0,3.0,5.53
+6,J000289,Jim,Jordan,1964-02-17,M,R,412226,1022879,110,House,OH,4,,R,,2,1873,22,2,6,210,92.55,,0,3.0,8.0

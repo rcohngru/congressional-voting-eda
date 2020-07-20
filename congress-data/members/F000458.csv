@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000458,Stephen,Fincher,1973-02-07,M,R,412479,9268967,114,House,TN,8,,R,,6,1325,362,0,14,149,95.92,,0,1.0,3.97
+1,F000458,Stephen,Fincher,1973-02-07,M,R,412479,9268967,113,House,TN,8,,R,,4,1204,57,0,18,224,95.98,,0,2.0,3.94
+2,F000458,Stephen,Fincher,1973-02-07,M,R,412479,9268967,112,House,TN,8,,R,,2,1607,22,0,14,157,95.36,,0,2.0,4.58

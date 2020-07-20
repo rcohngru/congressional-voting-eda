@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,116,House,IL,1,,D,,28,839,56,0,46,755,98.59,,3,1.0,1.28
+1,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,115,House,IL,1,,D,,26,1211,268,0,26,582,96.41,,2,1.0,3.59
+2,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,114,House,IL,1,,D,,24,1325,319,0,21,349,95.77,,0,1.0,4.12
+3,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,113,House,IL,1,,D,,22,1204,496,1,16,480,93.01,,0,1.0,6.85
+4,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,112,House,IL,1,,D,,20,1607,184,2,15,355,93.23,,0,1.0,6.7
+5,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,111,House,IL,1,,D,,18,1655,197,0,28,424,97.45,,0,1.0,2.48
+6,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,110,House,IL,1,,D,,16,1873,595,0,19,499,98.49,,0,1.0,2.07
+7,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,109,House,IL,1,,D,,14,1214,110,2,16,352,93.31,,0,0.0,6.87
+8,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,108,House,IL,1,,D,,12,1221,100,2,13,342,94.46,,0,0.0,5.72
+9,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,107,House,IL,1,,D,,10,996,106,1,8,490,94.49,,0,0.0,6.08
+10,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,106,House,IL,1,,D,,8,1214,175,1,11,393,93.09,,0,0.0,7.01
+11,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,105,House,IL,1,,D,,6,1187,77,1,13,406,91.06,,0,0.0,9.5
+12,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,104,House,IL,1,,D,,4,1340,134,3,1,116,90.92,,0,0.0,10.31
+13,R000515,Bobby,Rush,1946-11-23,M,D,400350,26127,103,House,IL,1,,D,,2,1121,91,0,6,230,91.57,,0,0.0,7.83

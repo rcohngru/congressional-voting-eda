@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000169,Bob,Barr,1948-11-05,M,,400514,,107,House,GA,7,,R,,8,996,61,4,16,269,92.96,,0,0.0,7.37
+1,B000169,Bob,Barr,1948-11-05,M,,400514,,106,House,GA,7,,R,,6,1214,50,8,27,240,88.96,,0,0.0,11.31
+2,B000169,Bob,Barr,1948-11-05,M,,400514,,105,House,GA,7,,R,,4,1187,37,5,34,190,90.49,,0,0.0,10.04
+3,B000169,Bob,Barr,1948-11-05,M,,400514,,104,House,GA,7,,R,,2,1340,22,2,9,167,96.23,,0,0.0,5.03

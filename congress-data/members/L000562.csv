@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,116,House,MA,8,,D,,20,839,8,0,25,472,98.79,,7,3.0,1.09
+1,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,115,House,MA,8,,D,,18,1211,45,0,24,350,95.69,,4,2.0,4.31
+2,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,114,House,MA,8,,D,,16,1325,26,0,18,211,94.78,,0,2.0,5.14
+3,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,113,House,MA,8,,D,,14,1204,110,1,18,231,92.36,,0,2.0,7.55
+4,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,112,House,MA,9,,D,,12,1607,49,1,4,175,91.15,,0,2.0,8.78
+5,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,111,House,MA,9,,D,,10,1655,66,0,13,247,97.78,,0,2.0,2.15
+6,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,110,House,MA,9,,D,,8,1873,45,0,21,307,98.11,,0,2.0,2.39
+7,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,109,House,MA,9,,D,,6,1214,40,0,21,327,93.18,,0,0.0,6.99
+8,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,108,House,MA,9,,D,,4,1221,42,0,10,240,94.66,,0,0.0,5.43
+9,L000562,Stephen,Lynch,1955-03-31,M,D,400249,1000222,107,House,MA,9,,D,,2,601,35,0,8,197,94.6,,0,0.0,5.76

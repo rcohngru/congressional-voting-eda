@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,110,House,IL,14,,R,,22,1122,294,0,0,83,91.08,,0,1.0,9.42
+1,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,109,House,IL,14,,R,,20,1214,1095,1,6,25,100.89,,0,0.0,0.0
+2,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,109,House,IL,14,,R,,8,,,,,,,,0,0.0,
+3,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,108,House,IL,14,,R,,18,1221,1088,1,7,31,100.0,,0,0.0,0.78
+4,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,108,House,IL,14,,R,,6,,,,,,,,0,0.0,
+5,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,107,House,IL,14,,R,,16,996,864,1,6,37,100.0,,0,0.0,0.0
+6,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,107,House,IL,14,,R,,4,,,,,,,,0,0.0,
+7,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,106,House,IL,14,,R,,14,1214,964,1,1,42,96.76,,0,0.0,3.24
+8,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,106,House,IL,14,,R,,2,,,,,,,,0,0.0,
+9,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,105,House,IL,14,,R,,12,1187,22,0,3,194,96.38,,0,0.0,4.06
+10,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,104,House,IL,14,,R,,10,1340,40,0,5,174,97.69,,0,0.0,3.5
+11,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,103,House,IL,14,,R,,8,1122,28,0,7,265,93.11,,0,0.0,6.23
+12,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,102,House,IL,14,,R,,6,933,27,0,,,87.17,,0,0.0,9.42
+13,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,101,House,IL,14,,R,,4,,,,,,,,0,0.0,
+14,H000323,J. Dennis,Hastert,1942-01-02,M,,400169,,100,House,IL,14,,R,,2,,,,,,,,0,0.0,

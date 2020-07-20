@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000006,James,Oberstar,1934-09-10,M,D,400299,457,111,House,MN,8,,D,,36,1655,43,11,34,273,97.19,,0,1.0,2.75
+1,O000006,James,Oberstar,1934-09-10,M,D,400299,457,110,House,MN,8,,D,,34,1873,208,0,46,318,97.93,,0,1.0,2.56
+2,O000006,James,Oberstar,1934-09-10,M,D,400299,457,109,House,MN,8,,D,,32,1214,67,0,16,358,90.2,,0,0.0,9.97
+3,O000006,James,Oberstar,1934-09-10,M,D,400299,457,108,House,MN,8,,D,,30,1221,62,0,16,302,88.69,,0,0.0,11.39
+4,O000006,James,Oberstar,1934-09-10,M,D,400299,457,107,House,MN,8,,D,,28,996,19,2,20,281,84.54,,0,0.0,15.99
+5,O000006,James,Oberstar,1934-09-10,M,D,400299,457,106,House,MN,8,,D,,26,1214,36,1,11,328,84.5,,0,0.0,15.76
+6,O000006,James,Oberstar,1934-09-10,M,D,400299,457,105,House,MN,8,,D,,24,1187,49,0,16,256,84.28,,0,0.0,16.27
+7,O000006,James,Oberstar,1934-09-10,M,D,400299,457,104,House,MN,8,,D,,22,1340,38,0,24,205,89.02,,0,0.0,12.27
+8,O000006,James,Oberstar,1934-09-10,M,D,400299,457,103,House,MN,8,,D,,20,1122,20,0,29,292,90.24,,0,0.0,9.1
+9,O000006,James,Oberstar,1934-09-10,M,D,400299,457,102,House,MN,8,,D,,18,933,55,0,,,88.52,,0,0.0,8.43
+10,O000006,James,Oberstar,1934-09-10,M,D,400299,457,101,House,MN,8,,D,,16,,,,,,,,0,0.0,
+11,O000006,James,Oberstar,1934-09-10,M,D,400299,457,100,House,MN,8,,D,,14,,,,,,,,0,0.0,
+12,O000006,James,Oberstar,1934-09-10,M,D,400299,457,99,House,MN,8,,D,,12,,,,,,,,0,0.0,
+13,O000006,James,Oberstar,1934-09-10,M,D,400299,457,98,House,MN,8,,D,,10,,,,,,,,0,0.0,

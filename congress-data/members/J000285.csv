@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000285,Timothy,Johnson,1946-07-23,M,R,400207,1020365,112,House,IL,15,,R,,12,1607,124,13,15,175,77.2,,0,1.0,22.73
+1,J000285,Timothy,Johnson,1946-07-23,M,R,400207,1020365,111,House,IL,15,,R,,10,1655,104,1,5,179,86.08,,0,2.0,13.86
+2,J000285,Timothy,Johnson,1946-07-23,M,R,400207,1020365,110,House,IL,15,,R,,8,1873,181,7,8,171,79.44,,0,2.0,21.17
+3,J000285,Timothy,Johnson,1946-07-23,M,R,400207,1020365,109,House,IL,15,,R,,6,1214,34,1,9,161,86.7,,0,0.0,13.48
+4,J000285,Timothy,Johnson,1946-07-23,M,R,400207,1020365,108,House,IL,15,,R,,4,1221,22,0,4,174,89.81,,0,0.0,10.35
+5,J000285,Timothy,Johnson,1946-07-23,M,R,400207,1020365,107,House,IL,15,,R,,2,996,5,0,6,167,92.72,,0,0.0,7.79

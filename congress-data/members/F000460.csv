@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000460,Blake,Farenthold,1961-12-12,M,R,412482,95180,115,House,TX,27,,R,,8,840,6,0,16,276,96.87,,7,3.0,3.13
+1,F000460,Blake,Farenthold,1961-12-12,M,R,412482,95180,114,House,TX,27,,R,,6,1325,14,0,14,329,94.31,,0,3.0,5.61
+2,F000460,Blake,Farenthold,1961-12-12,M,R,412482,95180,113,House,TX,27,,R,,4,1204,4,0,15,328,95.31,,0,3.0,4.6
+3,F000460,Blake,Farenthold,1961-12-12,M,R,412482,95180,112,House,TX,27,,R,,2,1607,14,1,6,237,94.75,,0,3.0,5.19

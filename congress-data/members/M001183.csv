@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001183,Joe,Manchin,1947-08-24,M,D,412391,62864,116,Senate,WV,,1,D,,11,557,6,0,51,249,74.62,,11,4.0,25.38
+1,M001183,Joe,Manchin,1947-08-24,M,D,412391,62864,115,Senate,WV,,1,D,,9,599,5,0,38,274,73.85,,10,4.0,26.15
+2,M001183,Joe,Manchin,1947-08-24,M,D,412391,62864,114,Senate,WV,,1,D,,7,502,9,0,20,159,72.31,,0,4.0,27.69
+3,M001183,Joe,Manchin,1947-08-24,M,D,412391,62864,113,Senate,WV,,1,D,,5,657,13,0,28,188,85.87,,6,4.0,14.13
+4,M001183,Joe,Manchin,1947-08-24,M,D,412391,62864,112,Senate,WV,,1,D,,3,486,3,0,17,138,83.96,,0,3.0,16.04
+5,M001183,Joe,Manchin,1947-08-24,M,D,412391,62864,111,Senate,WV,,1,D,,1,51,5,0,0,0,86.96,,0,4.0,13.04

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001136,William,Symington,1901-06-26,M,,410586,,94,Senate,MO,,1,D,,23,,,,,,,,0,0.0,
+1,S001136,William,Symington,1901-06-26,M,,410586,,93,Senate,MO,,1,D,,21,,,,,,,,0,0.0,
+2,S001136,William,Symington,1901-06-26,M,,410586,,92,Senate,MO,,1,D,,19,,,,,,,,0,0.0,
+3,S001136,William,Symington,1901-06-26,M,,410586,,91,Senate,MO,,1,D,,17,,,,,,,,0,0.0,
+4,S001136,William,Symington,1901-06-26,M,,410586,,90,Senate,MO,,1,D,,15,,,,,,,,0,0.0,
+5,S001136,William,Symington,1901-06-26,M,,410586,,89,Senate,MO,,1,D,,13,,,,,,,,0,0.0,
+6,S001136,William,Symington,1901-06-26,M,,410586,,88,Senate,MO,,1,D,,11,,,,,,,,0,0.0,
+7,S001136,William,Symington,1901-06-26,M,,410586,,87,Senate,MO,,1,D,,9,,,,,,,,0,0.0,
+8,S001136,William,Symington,1901-06-26,M,,410586,,86,Senate,MO,,1,D,,7,,,,,,,,0,0.0,
+9,S001136,William,Symington,1901-06-26,M,,410586,,85,Senate,MO,,1,D,,5,,,,,,,,0,0.0,
+10,S001136,William,Symington,1901-06-26,M,,410586,,84,Senate,MO,,1,D,,3,,,,,,,,0,0.0,
+11,S001136,William,Symington,1901-06-26,M,,410586,,83,Senate,MO,,1,D,,1,,,,,,,,0,0.0,

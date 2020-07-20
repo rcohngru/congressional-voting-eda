@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000336,Porter,Goss,1938-11-26,M,,400156,,108,House,FL,14,,R,,16,1149,101,0,5,85,96.62,,0,0.0,3.57
+1,G000336,Porter,Goss,1938-11-26,M,,400156,,107,House,FL,14,,R,,14,996,18,0,24,95,97.61,,0,0.0,2.91
+2,G000336,Porter,Goss,1938-11-26,M,,400156,,106,House,FL,14,,R,,12,1214,13,0,42,148,93.82,,0,0.0,6.35
+3,G000336,Porter,Goss,1938-11-26,M,,400156,,105,House,FL,14,,R,,10,1187,77,0,36,161,93.6,,0,0.0,6.96
+4,G000336,Porter,Goss,1938-11-26,M,,400156,,104,House,FL,14,,R,,8,1340,7,7,57,171,92.7,,0,0.0,8.54
+5,G000336,Porter,Goss,1938-11-26,M,,400156,,103,House,FL,14,,R,,6,1122,0,0,20,296,91.22,,0,0.0,8.04
+6,G000336,Porter,Goss,1938-11-26,M,,400156,,102,House,FL,13,,R,,4,933,0,0,,,84.99,,0,0.0,11.59
+7,G000336,Porter,Goss,1938-11-26,M,,400156,,101,House,FL,13,,R,,2,,,,,,,,0,0.0,

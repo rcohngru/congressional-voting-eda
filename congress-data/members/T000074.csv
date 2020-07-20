@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,111,House,MS,4,,D,,22,1655,92,0,7,261,77.14,,0,2.0,22.79
+1,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,110,House,MS,4,,D,,20,1873,57,0,3,237,86.75,,0,2.0,13.75
+2,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,109,House,MS,4,,D,,18,1214,63,0,3,197,75.88,,0,0.0,24.38
+3,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,108,House,MS,4,,D,,16,1221,20,0,8,173,77.37,,0,0.0,22.8
+4,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,107,House,MS,5,,D,,14,996,11,0,3,154,70.78,,0,0.0,29.74
+5,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,106,House,MS,5,,D,,12,1214,35,0,5,143,66.95,,0,0.0,33.3
+6,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,105,House,MS,5,,D,,10,1187,17,1,2,120,61.43,,0,0.0,39.11
+7,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,104,House,MS,5,,D,,8,1340,9,1,5,100,55.34,,0,0.0,45.92
+8,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,103,House,MS,5,,D,,6,1122,10,0,5,157,53.86,,0,0.0,45.4
+9,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,102,House,MS,5,,D,,4,933,11,0,,,66.26,,0,0.0,30.95
+10,T000074,Gene,Taylor,1953-09-17,M,D,400399,1000578,101,House,MS,5,,D,,2,,,,,,,,0,0.0,

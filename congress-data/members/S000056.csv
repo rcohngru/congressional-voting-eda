@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000056,George,Sangmeister,1931-02-16,M,,409570,,103,House,IL,11,,D,,6,1122,41,0,18,193,90.86,,0,0.0,8.38
+1,S000056,George,Sangmeister,1931-02-16,M,,409570,,102,House,IL,4,,D,,4,933,44,0,,,87.02,,0,0.0,9.97
+2,S000056,George,Sangmeister,1931-02-16,M,,409570,,101,House,IL,4,,D,,2,,,,,,,,0,0.0,

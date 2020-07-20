@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000481,David,McIntosh,1958-06-08,M,,400597,,106,House,IN,2,,R,,6,1214,417,0,23,293,91.34,,0,0.0,8.66
+1,M000481,David,McIntosh,1958-06-08,M,,400597,,105,House,IN,2,,R,,4,1187,94,0,5,298,90.5,,0,0.0,9.97
+2,M000481,David,McIntosh,1958-06-08,M,,400597,,104,House,IN,2,,R,,2,1340,52,0,8,170,95.19,,0,0.0,6.01

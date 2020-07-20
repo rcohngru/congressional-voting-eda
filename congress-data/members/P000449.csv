@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,116,Senate,OH,,3,R,,9,557,2,0,72,211,97.64,,9,4.0,2.36
+1,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,115,Senate,OH,,3,R,,7,599,4,0,54,226,98.31,,12,5.0,1.69
+2,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,114,Senate,OH,,3,R,,5,502,7,0,61,213,86.21,,0,4.0,13.79
+3,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,113,Senate,OH,,3,R,,3,657,15,0,34,241,90.3,,5,4.0,9.7
+4,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,112,Senate,OH,,3,R,,1,486,5,0,20,164,91.74,,0,0.0,8.26
+5,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,109,House,OH,2,,R,,14,150,14,0,3,16,98.51,,0,0.0,1.49
+6,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,108,House,OH,2,,R,,12,1221,41,0,16,95,97.43,,0,0.0,2.74
+7,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,107,House,OH,2,,R,,10,996,26,0,22,128,97.7,,0,0.0,2.72
+8,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,106,House,OH,2,,R,,8,1214,16,0,17,144,92.43,,0,0.0,7.83
+9,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,105,House,OH,2,,R,,6,1187,29,0,13,125,93.32,,0,0.0,7.21
+10,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,104,House,OH,2,,R,,4,1340,29,0,8,99,93.47,,0,0.0,7.63
+11,P000449,Rob,Portman,1955-12-19,M,R,400325,31819,103,House,OH,2,,R,,2,971,31,0,7,164,92.29,,0,0.0,7.27

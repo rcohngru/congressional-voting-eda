@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000355,Spencer,Abraham,1952-06-12,M,,400555,,106,Senate,MI,,1,R,,5,672,0,0,63,329,90.28,,0,0.0,9.72
+1,A000355,Spencer,Abraham,1952-06-12,M,,400555,,105,Senate,MI,,1,R,,3,612,0,0,53,235,92.9,,0,0.0,7.1
+2,A000355,Spencer,Abraham,1952-06-12,M,,400555,,104,Senate,MI,,1,R,,1,916,0,0,24,131,93.08,,0,0.0,6.92

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000053,Richard,Neuberger,1912-12-26,M,,408141,,86,Senate,OR,,2,D,,5,,,,,,,,0,0.0,
+1,N000053,Richard,Neuberger,1912-12-26,M,,408141,,85,Senate,OR,,2,D,,3,,,,,,,,0,0.0,
+2,N000053,Richard,Neuberger,1912-12-26,M,,408141,,84,Senate,OR,,2,D,,1,,,,,,,,0,0.0,

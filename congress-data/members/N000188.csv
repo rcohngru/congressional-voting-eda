@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000188,Donald,Norcross,1958-12-13,M,D,412606,76311,116,House,NJ,1,,D,,8,839,5,0,20,251,98.8,,4,2.0,1.08
+1,N000188,Donald,Norcross,1958-12-13,M,D,412606,76311,115,House,NJ,1,,D,,6,1211,17,2,11,394,96.39,,4,2.0,3.61
+2,N000188,Donald,Norcross,1958-12-13,M,D,412606,76311,114,House,NJ,1,,D,,4,1325,28,0,8,201,94.78,,0,2.0,5.14
+3,N000188,Donald,Norcross,1958-12-13,M,D,412606,76311,113,House,NJ,1,,D,,2,48,1,0,0,0,93.62,,0,0.0,6.38

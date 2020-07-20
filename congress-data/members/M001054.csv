@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,106,Senate,NY,,1,D,,23,672,72,0,100,263,90.33,,0,0.0,9.67
+1,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,105,Senate,NY,,1,D,,21,612,25,0,74,200,86.68,,0,0.0,13.32
+2,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,104,Senate,NY,,1,D,,19,916,32,0,50,105,86.27,,0,0.0,13.73
+3,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,103,Senate,NY,,1,D,,17,724,1,0,56,185,91.71,,0,0.0,8.29
+4,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,102,Senate,NY,,1,D,,15,550,1,0,,,89.39,,0,0.0,10.61
+5,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,101,Senate,NY,,1,D,,13,638,10,0,,,,,0,0.0,
+6,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,100,Senate,NY,,1,D,,11,,,,,,,,0,0.0,
+7,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,99,Senate,NY,,1,D,,9,,,,,,,,0,0.0,
+8,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,98,Senate,NY,,1,D,,7,,,,,,,,0,0.0,
+9,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,97,Senate,NY,,1,D,,5,,,,,,,,0,0.0,
+10,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,96,Senate,NY,,1,D,,3,,,,,,,,0,0.0,
+11,M001054,Daniel,Moynihan,1927-03-16,M,,400563,,95,Senate,NY,,1,D,,1,,,,,,,,0,0.0,

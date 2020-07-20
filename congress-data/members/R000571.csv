@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000571,Denny,Rehberg,1955-10-05,M,R,400335,,112,House,MT,At-Large,,R,,12,1607,6,0,20,189,91.63,,0,1.0,8.31
+1,R000571,Denny,Rehberg,1955-10-05,M,R,400335,,111,House,MT,At-Large,,R,,10,1655,14,0,35,254,94.25,,0,1.0,5.69
+2,R000571,Denny,Rehberg,1955-10-05,M,R,400335,,110,House,MT,At-Large,,R,,8,1873,4,1,12,192,94.17,,0,1.0,6.38
+3,R000571,Denny,Rehberg,1955-10-05,M,R,400335,,109,House,MT,At-Large,,R,,6,1214,8,0,12,179,96.63,,0,0.0,3.62
+4,R000571,Denny,Rehberg,1955-10-05,M,R,400335,,108,House,MT,At-Large,,R,,4,1221,1,0,11,190,97.02,,0,0.0,3.14
+5,R000571,Denny,Rehberg,1955-10-05,M,R,400335,,107,House,MT,At-Large,,R,,2,996,3,0,12,182,98.06,,0,0.0,2.46

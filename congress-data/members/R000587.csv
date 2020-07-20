@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000587,Reid,Ribble,1956-04-05,M,R,412489,62776,114,House,WI,8,,R,,6,1325,42,0,13,317,93.01,,0,2.0,6.91
+1,R000587,Reid,Ribble,1956-04-05,M,R,412489,62776,113,House,WI,8,,R,,4,1204,15,4,15,313,91.48,,0,3.0,8.44
+2,R000587,Reid,Ribble,1956-04-05,M,R,412489,62776,112,House,WI,8,,R,,2,1607,24,3,11,273,91.28,,0,2.0,8.66

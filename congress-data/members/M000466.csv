@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000466,Paul,McHale,1950-07-26,M,,407465,,105,House,PA,15,,D,,6,1187,9,1,7,179,89.35,,0,0.0,11.18
+1,M000466,Paul,McHale,1950-07-26,M,,407465,,104,House,PA,15,,D,,4,1340,0,0,20,160,83.65,,0,0.0,17.61
+2,M000466,Paul,McHale,1950-07-26,M,,407465,,103,House,PA,15,,D,,2,1122,3,0,12,165,88.64,,0,0.0,10.62

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,103,Senate,AZ,,1,D,,17,724,19,0,83,314,84.73,,0,0.0,15.27
+1,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,102,Senate,AZ,,1,D,,15,550,18,1,,,79.62,,0,0.0,20.38
+2,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,101,Senate,AZ,,1,D,,13,638,11,2,,,,,0,0.0,
+3,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,100,Senate,AZ,,1,D,,11,,,,,,,,0,0.0,
+4,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,99,Senate,AZ,,1,D,,9,,,,,,,,0,0.0,
+5,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,98,Senate,AZ,,1,D,,7,,,,,,,,0,0.0,
+6,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,97,Senate,AZ,,1,D,,5,,,,,,,,0,0.0,
+7,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,96,Senate,AZ,,1,D,,3,,,,,,,,0,0.0,
+8,D000185,Dennis,DeConcini,1937-05-08,M,,403346,,95,Senate,AZ,,1,D,,1,,,,,,,,0,0.0,

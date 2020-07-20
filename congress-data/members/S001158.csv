@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001158,John,Salazar,1953-07-21,M,D,400620,1013039,111,House,CO,3,,D,,6,1655,63,0,25,202,96.97,,0,1.0,2.97
+1,S001158,John,Salazar,1953-07-21,M,D,400620,1013039,110,House,CO,3,,D,,4,1873,27,0,31,314,96.81,,0,2.0,3.74
+2,S001158,John,Salazar,1953-07-21,M,D,400620,1013039,109,House,CO,3,,D,,2,1214,30,0,11,263,88.6,,0,0.0,11.65

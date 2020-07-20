@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000229,Bill,Richardson,1947-11-15,M,,409205,,105,House,NM,3,,D,,16,21,13,0,16,2,100.0,,0,0.0,0.0
+1,R000229,Bill,Richardson,1947-11-15,M,,409205,,104,House,NM,3,,D,,14,1340,66,2,19,146,88.93,,0,0.0,12.4
+2,R000229,Bill,Richardson,1947-11-15,M,,409205,,103,House,NM,3,,D,,12,1122,37,0,56,373,92.86,,0,0.0,6.37
+3,R000229,Bill,Richardson,1947-11-15,M,,409205,,102,House,NM,3,,D,,10,933,37,1,,,89.7,,0,0.0,7.32
+4,R000229,Bill,Richardson,1947-11-15,M,,409205,,101,House,NM,3,,D,,8,,,,,,,,0,0.0,
+5,R000229,Bill,Richardson,1947-11-15,M,,409205,,100,House,NM,3,,D,,6,,,,,,,,0,0.0,
+6,R000229,Bill,Richardson,1947-11-15,M,,409205,,99,House,NM,3,,D,,4,,,,,,,,0,0.0,
+7,R000229,Bill,Richardson,1947-11-15,M,,409205,,98,House,NM,3,,D,,2,,,,,,,,0,0.0,

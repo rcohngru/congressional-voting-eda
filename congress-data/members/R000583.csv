@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000583,Tom,Rooney,1970-11-21,M,R,412311,1030486,115,House,FL,17,,R,,10,1211,176,2,9,203,96.41,,5,2.0,3.59
+1,R000583,Tom,Rooney,1970-11-21,M,R,412311,1030486,114,House,FL,17,,R,,8,1325,70,0,13,180,94.38,,0,2.0,5.54
+2,R000583,Tom,Rooney,1970-11-21,M,R,412311,1030486,113,House,FL,17,,R,,6,1204,21,0,4,208,92.11,,0,2.0,7.81
+3,R000583,Tom,Rooney,1970-11-21,M,R,412311,1030486,112,House,FL,16,,R,,4,1607,15,1,21,212,93.67,,0,3.0,6.27
+4,R000583,Tom,Rooney,1970-11-21,M,R,412311,1030486,111,House,FL,16,,R,,2,1655,20,2,25,402,94.41,,0,3.0,5.52

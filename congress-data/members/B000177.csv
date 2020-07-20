@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000177,Thomas,Barrett,1953-12-08,M,,400553,,107,House,WI,5,,D,,10,996,56,1,11,280,94.03,,0,0.0,6.51
+1,B000177,Thomas,Barrett,1953-12-08,M,,400553,,106,House,WI,5,,D,,8,1214,15,3,8,427,89.93,,0,0.0,10.32
+2,B000177,Thomas,Barrett,1953-12-08,M,,400553,,105,House,WI,5,,D,,6,1187,9,1,7,365,88.82,,0,0.0,11.71
+3,B000177,Thomas,Barrett,1953-12-08,M,,400553,,104,House,WI,5,,D,,4,1340,10,1,12,266,87.73,,0,0.0,13.54
+4,B000177,Thomas,Barrett,1953-12-08,M,,400553,,103,House,WI,5,,D,,2,1122,13,0,7,346,90.3,,0,0.0,8.96

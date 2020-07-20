@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000918,George,Brown,1920-03-06,M,,400572,,106,House,CA,42,,D,,36,306,221,0,6,213,92.77,,0,0.0,6.02
+1,B000918,George,Brown,1920-03-06,M,,400572,,105,House,CA,42,,D,,34,1187,67,1,12,341,88.21,,0,0.0,12.16
+2,B000918,George,Brown,1920-03-06,M,,400572,,104,House,CA,42,,D,,32,1340,96,1,11,214,91.98,,0,0.0,9.21
+3,B000918,George,Brown,1920-03-06,M,,400572,,103,House,CA,42,,D,,30,1122,156,0,28,294,91.55,,0,0.0,7.7
+4,B000918,George,Brown,1920-03-06,M,,400572,,102,House,CA,36,,D,,28,933,69,0,,,91.53,,0,0.0,5.61
+5,B000918,George,Brown,1920-03-06,M,,400572,,101,House,CA,36,,D,,26,,,,,,,,0,0.0,
+6,B000918,George,Brown,1920-03-06,M,,400572,,100,House,CA,36,,D,,24,,,,,,,,0,0.0,
+7,B000918,George,Brown,1920-03-06,M,,400572,,99,House,CA,36,,D,,22,,,,,,,,0,0.0,
+8,B000918,George,Brown,1920-03-06,M,,400572,,98,House,CA,36,,D,,20,,,,,,,,0,0.0,

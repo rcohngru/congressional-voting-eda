@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,113,Senate,IA,,2,D,,29,657,29,0,60,229,98.73,,12,4.0,1.27
+1,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,112,Senate,IA,,2,D,,27,486,17,0,54,214,94.21,,0,0.0,5.79
+2,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,111,Senate,IA,,2,D,,25,696,10,0,51,202,96.04,,0,4.0,3.96
+3,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,110,Senate,IA,,2,D,,23,657,18,0,68,304,95.57,,0,4.0,4.43
+4,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,109,Senate,IA,,2,D,,21,645,12,0,47,273,92.94,,0,0.0,7.06
+5,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,108,Senate,IA,,2,D,,19,675,33,0,32,214,95.06,,0,0.0,4.94
+6,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,107,Senate,IA,,2,D,,17,633,15,0,55,212,94.58,,0,0.0,5.42
+7,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,106,Senate,IA,,2,D,,15,672,12,0,52,218,93.64,,0,0.0,6.36
+8,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,105,Senate,IA,,2,D,,13,612,28,0,33,172,90.09,,0,0.0,9.91
+9,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,104,Senate,IA,,2,D,,11,916,6,0,25,130,90.01,,0,0.0,9.99
+10,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,103,Senate,IA,,2,D,,9,724,22,0,24,130,91.46,,0,0.0,8.54
+11,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,102,Senate,IA,,2,D,,7,550,139,0,,,90.55,,0,0.0,9.45
+12,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,101,Senate,IA,,2,D,,5,638,7,0,,,,,0,0.0,
+13,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,100,Senate,IA,,2,D,,3,,,,,,,,0,0.0,
+14,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,99,Senate,IA,,2,D,,1,,,,,,,,0,0.0,
+15,H000206,Tom,Harkin,1939-11-19,M,D,300051,2005,98,House,IA,5,,D,,10,,,,,,,,0,0.0,

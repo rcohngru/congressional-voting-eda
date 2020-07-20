@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000606,Robert,Pittenger,1948-08-15,M,R,412551,9265861,115,House,NC,9,,R,,6,1211,92,0,14,250,95.51,,3,1.0,4.49
+1,P000606,Robert,Pittenger,1948-08-15,M,R,412551,9265861,114,House,NC,9,,R,,4,1325,36,0,11,246,96.25,,0,1.0,3.67
+2,P000606,Robert,Pittenger,1948-08-15,M,R,412551,9265861,113,House,NC,9,,R,,2,1204,46,0,6,238,94.62,,0,1.0,5.29

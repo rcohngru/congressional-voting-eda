@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,95,Senate,MN,,1,I,,23,,,,,,,,0,0.0,
+1,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,94,Senate,MN,,1,I,,21,,,,,,,,0,0.0,
+2,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,93,Senate,MN,,1,I,,18,,,,,,,,0,0.0,
+3,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,92,Senate,MN,,1,I,,17,,,,,,,,0,0.0,
+4,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,88,Senate,MN,,2,I,,15,,,,,,,,0,0.0,
+5,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,87,Senate,MN,,2,I,,13,,,,,,,,0,0.0,
+6,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,86,Senate,MN,,2,I,,11,,,,,,,,0,0.0,
+7,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,85,Senate,MN,,2,I,,9,,,,,,,,0,0.0,
+8,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,84,Senate,MN,,2,I,,7,,,,,,,,0,0.0,
+9,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,83,Senate,MN,,2,I,,5,,,,,,,,0,0.0,
+10,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,82,Senate,MN,,2,I,,3,,,,,,,,0,0.0,
+11,H000953,Hubert,Humphrey,1911-05-27,M,,405797,,81,Senate,MN,,2,I,,1,,,,,,,,0,0.0,

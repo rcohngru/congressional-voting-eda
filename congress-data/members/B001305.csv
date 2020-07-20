@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001305,Ted,Budd,1971-10-21,M,R,412712,103513,116,House,NC,13,,R,,4,839,15,0,32,316,91.43,,2,1.0,8.45
+1,B001305,Ted,Budd,1971-10-21,M,R,412712,103513,115,House,NC,13,,R,,2,1211,7,0,31,224,96.16,,3,1.0,3.84

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000607,Robert,Smith,1931-06-16,M,,410084,,105,House,OR,2,,R,,2,1187,119,1,30,108,96.06,,0,0.0,4.42
+1,S000607,Robert,Smith,1931-06-16,M,,410084,,103,House,OR,2,,R,,12,1122,117,0,10,189,92.15,,0,0.0,7.13
+2,S000607,Robert,Smith,1931-06-16,M,,410084,,102,House,OR,2,,R,,10,933,13,0,,,87.58,,0,0.0,8.95
+3,S000607,Robert,Smith,1931-06-16,M,,410084,,101,House,OR,2,,R,,8,,,,,,,,0,0.0,
+4,S000607,Robert,Smith,1931-06-16,M,,410084,,100,House,OR,2,,R,,6,,,,,,,,0,0.0,
+5,S000607,Robert,Smith,1931-06-16,M,,410084,,99,House,OR,2,,R,,4,,,,,,,,0,0.0,
+6,S000607,Robert,Smith,1931-06-16,M,,410084,,98,House,OR,2,,R,,2,,,,,,,,0,0.0,

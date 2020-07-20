@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001194,Brian,Schatz,1972-10-20,M,D,412507,87784,116,Senate,HI,,3,D,,7,557,21,1,60,283,88.61,,12,5.0,11.39
+1,S001194,Brian,Schatz,1972-10-20,M,D,412507,87784,115,Senate,HI,,3,D,,5,599,12,1,44,261,92.39,,12,5.0,7.61
+2,S001194,Brian,Schatz,1972-10-20,M,D,412507,87784,114,Senate,HI,,3,D,,3,502,3,0,35,225,97.35,,0,4.0,2.65
+3,S001194,Brian,Schatz,1972-10-20,M,D,412507,87784,113,Senate,HI,,3,D,,1,657,50,0,25,337,99.34,,0,3.0,0.66
+4,S001194,Brian,Schatz,1972-10-20,M,D,412507,87784,112,Senate,HI,,3,D,,1,20,0,0,0,0,95.0,,0,0.0,5.0

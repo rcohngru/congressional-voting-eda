@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000758,John,Cooper,1901-08-23,M,,402878,,92,Senate,KY,,2,R,,19,,,,,,,,0,0.0,
+1,C000758,John,Cooper,1901-08-23,M,,402878,,91,Senate,KY,,2,R,,17,,,,,,,,0,0.0,
+2,C000758,John,Cooper,1901-08-23,M,,402878,,90,Senate,KY,,2,R,,15,,,,,,,,0,0.0,
+3,C000758,John,Cooper,1901-08-23,M,,402878,,89,Senate,KY,,2,R,,13,,,,,,,,0,0.0,
+4,C000758,John,Cooper,1901-08-23,M,,402878,,88,Senate,KY,,2,R,,11,,,,,,,,0,0.0,
+5,C000758,John,Cooper,1901-08-23,M,,402878,,87,Senate,KY,,2,R,,9,,,,,,,,0,0.0,
+6,C000758,John,Cooper,1901-08-23,M,,402878,,86,Senate,KY,,2,R,,7,,,,,,,,0,0.0,
+7,C000758,John,Cooper,1901-08-23,M,,402878,,85,Senate,KY,,2,R,,5,,,,,,,,0,0.0,
+8,C000758,John,Cooper,1901-08-23,M,,402878,,84,Senate,KY,,2,R,,5,,,,,,,,0,0.0,
+9,C000758,John,Cooper,1901-08-23,M,,402878,,83,Senate,KY,,2,R,,3,,,,,,,,0,0.0,
+10,C000758,John,Cooper,1901-08-23,M,,402878,,82,Senate,KY,,2,R,,3,,,,,,,,0,0.0,
+11,C000758,John,Cooper,1901-08-23,M,,402878,,80,Senate,KY,,2,R,,1,,,,,,,,0,0.0,

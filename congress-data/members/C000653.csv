@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000653,Larry,Combest,1945-03-20,M,,400079,,108,House,TX,19,,R,,20,226,132,0,0,26,98.91,,0,0.0,1.09
+1,C000653,Larry,Combest,1945-03-20,M,,400079,,107,House,TX,19,,R,,18,996,83,0,4,87,97.44,,0,0.0,3.11
+2,C000653,Larry,Combest,1945-03-20,M,,400079,,106,House,TX,19,,R,,16,1214,32,0,7,133,95.25,,0,0.0,5.0
+3,C000653,Larry,Combest,1945-03-20,M,,400079,,105,House,TX,19,,R,,14,1187,18,0,6,145,94.8,,0,0.0,5.73
+4,C000653,Larry,Combest,1945-03-20,M,,400079,,104,House,TX,19,,R,,12,1340,1,0,10,124,95.52,,0,0.0,5.72
+5,C000653,Larry,Combest,1945-03-20,M,,400079,,103,House,TX,19,,R,,10,1122,4,0,8,154,83.87,,0,0.0,15.38
+6,C000653,Larry,Combest,1945-03-20,M,,400079,,102,House,TX,19,,R,,8,933,10,0,,,79.89,,0,0.0,16.67
+7,C000653,Larry,Combest,1945-03-20,M,,400079,,101,House,TX,19,,R,,6,,,,,,,,0,0.0,
+8,C000653,Larry,Combest,1945-03-20,M,,400079,,100,House,TX,19,,R,,4,,,,,,,,0,0.0,
+9,C000653,Larry,Combest,1945-03-20,M,,400079,,99,House,TX,19,,R,,2,,,,,,,,0,0.0,

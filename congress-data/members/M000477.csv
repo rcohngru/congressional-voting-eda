@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000477,Scott,McInnis,1953-05-09,M,,400265,26492,108,House,CO,3,,R,,12,1221,144,0,23,180,95.13,,0,0.0,4.96
+1,M000477,Scott,McInnis,1953-05-09,M,,400265,26492,107,House,CO,3,,R,,10,996,63,0,28,198,95.75,,0,0.0,4.8
+2,M000477,Scott,McInnis,1953-05-09,M,,400265,26492,106,House,CO,3,,R,,8,1214,63,0,15,198,93.0,,0,0.0,7.27
+3,M000477,Scott,McInnis,1953-05-09,M,,400265,26492,105,House,CO,3,,R,,6,1187,64,0,37,108,93.96,,0,0.0,6.59
+4,M000477,Scott,McInnis,1953-05-09,M,,400265,26492,104,House,CO,3,,R,,4,1340,51,0,29,81,93.65,,0,0.0,7.63
+5,M000477,Scott,McInnis,1953-05-09,M,,400265,26492,103,House,CO,3,,R,,2,1122,16,0,6,159,86.69,,0,0.0,12.65

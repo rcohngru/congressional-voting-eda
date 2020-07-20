@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000288,Paul,Wellstone,1944-07-21,M,,400566,,107,Senate,MN,,2,D,,11,619,5,0,55,270,93.87,,0,0.0,6.13
+1,W000288,Paul,Wellstone,1944-07-21,M,,400566,,106,Senate,MN,,2,D,,9,672,11,0,47,336,87.44,,0,0.0,12.56
+2,W000288,Paul,Wellstone,1944-07-21,M,,400566,,105,Senate,MN,,2,D,,7,612,20,0,29,196,86.13,,0,0.0,13.87
+3,W000288,Paul,Wellstone,1944-07-21,M,,400566,,104,Senate,MN,,2,D,,5,916,2,0,22,112,90.06,,0,0.0,9.94
+4,W000288,Paul,Wellstone,1944-07-21,M,,400566,,103,Senate,MN,,2,D,,3,724,7,0,23,218,87.68,,0,0.0,12.32
+5,W000288,Paul,Wellstone,1944-07-21,M,,400566,,102,Senate,MN,,2,D,,1,550,18,0,,,86.95,,0,0.0,13.05

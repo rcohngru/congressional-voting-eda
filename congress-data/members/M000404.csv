@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,114,House,WA,7,,D,,28,1325,54,1,20,381,95.39,,0,2.0,4.53
+1,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,113,House,WA,7,,D,,26,1204,37,1,34,424,92.48,,0,2.0,7.43
+2,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,112,House,WA,7,,D,,24,1607,34,2,39,417,92.65,,0,1.0,7.29
+3,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,111,House,WA,7,,D,,22,1655,29,4,53,514,96.66,,0,1.0,3.28
+4,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,110,House,WA,7,,D,,20,1873,69,2,51,773,96.23,,0,1.0,4.28
+5,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,109,House,WA,7,,D,,18,1214,43,7,22,848,87.88,,0,0.0,12.38
+6,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,108,House,WA,7,,D,,16,1221,63,7,16,766,90.61,,0,0.0,9.57
+7,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,107,House,WA,7,,D,,14,996,50,2,15,526,83.26,,0,0.0,17.28
+8,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,106,House,WA,7,,D,,12,1214,162,2,9,371,85.92,,0,0.0,14.27
+9,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,105,House,WA,7,,D,,10,1187,54,2,15,328,83.56,,0,0.0,16.99
+10,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,104,House,WA,7,,D,,8,1340,39,3,11,255,90.78,,0,0.0,10.44
+11,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,103,House,WA,7,,D,,6,1122,61,1,21,406,90.94,,0,0.0,8.37
+12,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,102,House,WA,7,,D,,4,933,18,0,,,90.08,,0,0.0,6.99
+13,M000404,Jim,McDermott,1936-12-28,M,D,400262,5761,101,House,WA,7,,D,,2,,,,,,,,0,0.0,

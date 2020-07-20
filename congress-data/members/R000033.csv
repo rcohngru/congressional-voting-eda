@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000033,James,Ramstad,1946-05-06,M,,400332,,110,House,MN,3,,R,,18,1873,23,0,15,400,82.75,,0,1.0,17.75
+1,R000033,James,Ramstad,1946-05-06,M,,400332,,109,House,MN,3,,R,,16,1214,20,0,28,287,83.06,,0,0.0,17.19
+2,R000033,James,Ramstad,1946-05-06,M,,400332,,108,House,MN,3,,R,,14,1221,7,0,20,258,87.28,,0,0.0,12.88
+3,R000033,James,Ramstad,1946-05-06,M,,400332,,107,House,MN,3,,R,,12,996,4,0,23,256,83.61,,0,0.0,16.91
+4,R000033,James,Ramstad,1946-05-06,M,,400332,,106,House,MN,3,,R,,10,1214,7,0,27,265,79.81,,0,0.0,20.44
+5,R000033,James,Ramstad,1946-05-06,M,,400332,,105,House,MN,3,,R,,8,1187,0,0,10,217,78.91,,0,0.0,21.61
+6,R000033,James,Ramstad,1946-05-06,M,,400332,,104,House,MN,3,,R,,6,1340,39,0,9,126,83.31,,0,0.0,17.97
+7,R000033,James,Ramstad,1946-05-06,M,,400332,,103,House,MN,3,,R,,4,1122,3,0,24,323,83.04,,0,0.0,16.22
+8,R000033,James,Ramstad,1946-05-06,M,,400332,,102,House,MN,3,,R,,2,933,5,0,,,80.6,,0,0.0,15.96

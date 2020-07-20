@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000102,Don,Nickles,1948-12-06,M,,300079,,108,Senate,OK,,3,R,,23,675,7,0,17,85,93.82,,0,0.0,6.18
+1,N000102,Don,Nickles,1948-12-06,M,,300079,,107,Senate,OK,,3,R,,21,633,10,0,11,67,92.41,,0,0.0,7.59
+2,N000102,Don,Nickles,1948-12-06,M,,300079,,106,Senate,OK,,3,R,,19,672,4,0,14,136,92.33,,0,0.0,7.67
+3,N000102,Don,Nickles,1948-12-06,M,,300079,,105,Senate,OK,,3,R,,17,612,2,0,19,131,91.23,,0,0.0,8.77
+4,N000102,Don,Nickles,1948-12-06,M,,300079,,104,Senate,OK,,3,R,,15,916,5,0,21,136,93.49,,0,0.0,6.51
+5,N000102,Don,Nickles,1948-12-06,M,,300079,,103,Senate,OK,,3,R,,13,724,15,0,14,116,88.9,,0,0.0,11.1
+6,N000102,Don,Nickles,1948-12-06,M,,300079,,102,Senate,OK,,3,R,,11,550,18,0,,,87.98,,0,0.0,12.02
+7,N000102,Don,Nickles,1948-12-06,M,,300079,,101,Senate,OK,,3,R,,9,638,9,0,,,,,0,0.0,
+8,N000102,Don,Nickles,1948-12-06,M,,300079,,100,Senate,OK,,3,R,,7,,,,,,,,0,0.0,
+9,N000102,Don,Nickles,1948-12-06,M,,300079,,99,Senate,OK,,3,R,,5,,,,,,,,0,0.0,
+10,N000102,Don,Nickles,1948-12-06,M,,300079,,98,Senate,OK,,3,R,,3,,,,,,,,0,0.0,
+11,N000102,Don,Nickles,1948-12-06,M,,300079,,97,Senate,OK,,3,R,,1,,,,,,,,0,0.0,

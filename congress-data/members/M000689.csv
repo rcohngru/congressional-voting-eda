@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000689,John,Mica,1943-01-27,M,R,400273,26395,114,House,FL,7,,R,,24,1325,9,0,4,107,96.18,,0,2.0,3.67
+1,M000689,John,Mica,1943-01-27,M,R,400273,26395,113,House,FL,7,,R,,22,1204,1,0,2,123,95.99,,0,2.0,3.92
+2,M000689,John,Mica,1943-01-27,M,R,400273,26395,112,House,FL,7,,R,,20,1607,10,0,27,123,94.7,,0,2.0,5.24
+3,M000689,John,Mica,1943-01-27,M,R,400273,26395,111,House,FL,7,,R,,18,1655,23,0,7,199,95.77,,0,2.0,4.17
+4,M000689,John,Mica,1943-01-27,M,R,400273,26395,110,House,FL,7,,R,,16,1873,13,1,8,190,95.02,,0,2.0,5.53
+5,M000689,John,Mica,1943-01-27,M,R,400273,26395,109,House,FL,7,,R,,14,1214,17,0,10,98,96.78,,0,0.0,3.47
+6,M000689,John,Mica,1943-01-27,M,R,400273,26395,108,House,FL,7,,R,,12,1221,26,0,9,121,97.05,,0,0.0,3.04
+7,M000689,John,Mica,1943-01-27,M,R,400273,26395,107,House,FL,7,,R,,10,996,23,0,8,155,97.39,,0,0.0,3.13
+8,M000689,John,Mica,1943-01-27,M,R,400273,26395,106,House,FL,7,,R,,8,1214,36,0,9,187,94.81,,0,0.0,5.45
+9,M000689,John,Mica,1943-01-27,M,R,400273,26395,105,House,FL,7,,R,,6,1187,42,1,12,166,95.23,,0,0.0,5.31
+10,M000689,John,Mica,1943-01-27,M,R,400273,26395,104,House,FL,7,,R,,4,1340,11,0,9,109,96.34,,0,0.0,4.91
+11,M000689,John,Mica,1943-01-27,M,R,400273,26395,103,House,FL,7,,R,,2,1122,14,0,5,124,89.24,,0,0.0,10.01

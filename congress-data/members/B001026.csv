@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001026,James,Buckley,1923-03-09,M,,401976,,94,Senate,NY,,1,I,,5,,,,,,,,0,0.0,
+1,B001026,James,Buckley,1923-03-09,M,,401976,,93,Senate,NY,,1,I,,3,,,,,,,,0,0.0,
+2,B001026,James,Buckley,1923-03-09,M,,401976,,92,Senate,NY,,1,I,,1,,,,,,,,0,0.0,

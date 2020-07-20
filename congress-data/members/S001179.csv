@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001179,Aaron,Schock,1981-05-28,M,R,412314,1030003,114,House,IL,18,,R,,8,144,17,0,4,59,89.6,,0,0.0,10.4
+1,S001179,Aaron,Schock,1981-05-28,M,R,412314,1030003,113,House,IL,18,,R,,6,1204,59,0,21,343,93.07,,0,2.0,6.84
+2,S001179,Aaron,Schock,1981-05-28,M,R,412314,1030003,112,House,IL,18,,R,,4,1607,83,0,34,346,91.28,,0,3.0,8.65
+3,S001179,Aaron,Schock,1981-05-28,M,R,412314,1030003,111,House,IL,18,,R,,2,1655,80,0,13,334,93.5,,0,3.0,6.44

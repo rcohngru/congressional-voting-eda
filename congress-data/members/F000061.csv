@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000061,Russ,Feingold,1953-03-02,M,D,300042,,111,Senate,WI,,3,D,,17,696,2,0,91,261,80.0,,0,4.0,20.0
+1,F000061,Russ,Feingold,1953-03-02,M,D,300042,,110,Senate,WI,,3,D,,15,657,0,0,91,317,88.92,,0,4.0,11.08
+2,F000061,Russ,Feingold,1953-03-02,M,D,300042,,109,Senate,WI,,3,D,,13,645,8,0,75,276,87.4,,0,0.0,12.6
+3,F000061,Russ,Feingold,1953-03-02,M,D,300042,,108,Senate,WI,,3,D,,11,675,0,0,57,269,92.26,,0,0.0,7.74
+4,F000061,Russ,Feingold,1953-03-02,M,D,300042,,107,Senate,WI,,3,D,,9,633,0,0,55,225,82.18,,0,0.0,17.82
+5,F000061,Russ,Feingold,1953-03-02,M,D,300042,,106,Senate,WI,,3,D,,7,672,1,0,41,234,80.92,,0,0.0,19.08
+6,F000061,Russ,Feingold,1953-03-02,M,D,300042,,105,Senate,WI,,3,D,,5,612,0,0,33,109,81.4,,0,0.0,18.6
+7,F000061,Russ,Feingold,1953-03-02,M,D,300042,,104,Senate,WI,,3,D,,3,916,1,0,34,98,84.71,,0,0.0,15.29
+8,F000061,Russ,Feingold,1953-03-02,M,D,300042,,103,Senate,WI,,3,D,,1,724,0,0,21,168,81.21,,0,0.0,18.79

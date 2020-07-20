@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,111,Senate,CT,,3,D,,29,696,20,0,76,284,97.62,,0,5.0,2.38
+1,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,110,Senate,CT,,3,D,,27,657,171,0,99,416,95.45,,0,5.0,4.55
+2,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,109,Senate,CT,,3,D,,25,645,29,0,60,344,93.08,,0,0.0,6.92
+3,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,108,Senate,CT,,3,D,,23,675,11,0,54,343,95.37,,0,0.0,4.63
+4,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,107,Senate,CT,,3,D,,21,633,24,0,65,292,94.99,,0,0.0,5.01
+5,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,106,Senate,CT,,3,D,,19,672,32,0,43,360,92.97,,0,0.0,7.03
+6,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,105,Senate,CT,,3,D,,17,612,3,4,38,238,91.65,,0,0.0,8.35
+7,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,104,Senate,CT,,3,D,,15,916,7,0,9,118,88.45,,0,0.0,11.55
+8,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,103,Senate,CT,,3,D,,13,724,28,0,34,201,92.27,,0,0.0,7.73
+9,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,102,Senate,CT,,3,D,,11,550,2,0,,,87.31,,0,0.0,12.69
+10,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,101,Senate,CT,,3,D,,9,638,13,0,,,,,0,0.0,
+11,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,100,Senate,CT,,3,D,,7,,,,,,,,0,0.0,
+12,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,99,Senate,CT,,3,D,,5,,,,,,,,0,0.0,
+13,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,98,Senate,CT,,3,D,,3,,,,,,,,0,0.0,
+14,D000388,Christopher,Dodd,1944-05-27,M,D,300034,,97,Senate,CT,,3,D,,1,,,,,,,,0,0.0,

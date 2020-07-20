@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000584,Jim,Risch,1943-05-03,M,R,412322,1020034,116,Senate,ID,,2,R,,11,557,8,0,24,195,95.96,,10,6.0,4.04
+1,R000584,Jim,Risch,1943-05-03,M,R,412322,1020034,115,Senate,ID,,2,R,,9,599,5,0,26,201,95.76,,7,6.0,4.24
+2,R000584,Jim,Risch,1943-05-03,M,R,412322,1020034,114,Senate,ID,,2,R,,7,502,4,0,17,181,90.59,,0,6.0,9.41
+3,R000584,Jim,Risch,1943-05-03,M,R,412322,1020034,113,Senate,ID,,2,R,,5,657,13,0,10,240,90.19,,7,5.0,9.81
+4,R000584,Jim,Risch,1943-05-03,M,R,412322,1020034,112,Senate,ID,,2,R,,3,486,13,0,3,260,87.72,,0,5.0,12.28
+5,R000584,Jim,Risch,1943-05-03,M,R,412322,1020034,111,Senate,ID,,2,R,,1,696,5,0,5,197,94.72,,0,5.0,5.28

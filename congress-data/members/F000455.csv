@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,116,House,OH,11,,D,,14,839,63,0,21,377,97.8,,6,3.0,2.07
+1,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,115,House,OH,11,,D,,12,1211,47,2,11,290,97.0,,4,2.0,3.0
+2,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,114,House,OH,11,,D,,10,1325,40,0,11,255,96.78,,0,2.0,3.14
+3,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,113,House,OH,11,,D,,8,1204,61,1,15,292,93.74,,0,2.0,6.17
+4,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,112,House,OH,11,,D,,6,1607,26,2,32,288,93.58,,0,3.0,6.35
+5,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,111,House,OH,11,,D,,4,1655,66,0,15,510,97.72,,0,2.0,2.22
+6,F000455,Marcia,Fudge,1952-10-29,F,D,412327,1030928,110,House,OH,11,,D,,2,7,0,0,0,1,100.0,,0,0.0,0.0

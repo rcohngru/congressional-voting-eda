@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,111,House,FL,2,,D,,14,1655,110,0,8,159,95.44,,0,2.0,4.5
+1,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,110,House,FL,2,,D,,12,1873,33,0,6,239,94.93,,0,2.0,5.57
+2,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,109,House,FL,2,,D,,10,1214,61,2,3,168,84.36,,0,0.0,15.91
+3,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,108,House,FL,2,,D,,8,1221,78,0,6,156,85.38,,0,0.0,14.8
+4,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,107,House,FL,2,,D,,6,996,21,0,1,154,86.51,,0,0.0,14.02
+5,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,106,House,FL,2,,D,,4,1214,22,3,3,162,85.02,,0,0.0,15.23
+6,B000716,Allen,Boyd,1945-06-06,M,D,400044,46164,105,House,FL,2,,D,,2,1187,7,0,2,156,82.39,,0,0.0,18.14

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,116,Senate,TN,,1,R,,1,557,6,0,33,339,93.25,,10,4.0,6.75
+1,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,115,House,TN,7,,R,,16,1211,196,0,32,243,96.45,,3,1.0,3.55
+2,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,114,House,TN,7,,R,,14,1325,41,0,32,256,96.94,,0,2.0,2.98
+3,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,113,House,TN,7,,R,,12,1204,29,0,28,362,96.67,,0,2.0,3.25
+4,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,112,House,TN,7,,R,,10,1607,16,0,18,413,94.24,,0,1.0,5.7
+5,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,111,House,TN,7,,R,,8,1655,47,4,19,552,95.27,,0,1.0,4.67
+6,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,110,House,TN,7,,R,,6,1873,61,3,17,422,93.53,,0,4.0,6.98
+7,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,109,House,TN,7,,R,,4,1214,12,0,16,248,92.39,,0,0.0,7.86
+8,B001243,Marsha,Blackburn,1952-06-06,F,R,400032,31226,108,House,TN,7,,R,,2,1221,24,0,7,188,95.45,,0,0.0,4.72

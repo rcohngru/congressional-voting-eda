@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001240,Bob,Beauprez,1948-09-22,M,,400020,,109,House,CO,7,,R,,4,1214,72,0,16,232,93.53,,0,0.0,6.73
+1,B001240,Bob,Beauprez,1948-09-22,M,,400020,,108,House,CO,7,,R,,2,1221,18,0,12,243,96.22,,0,0.0,3.94

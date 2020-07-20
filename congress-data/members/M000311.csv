@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000311,Eugene,McCarthy,1916-03-29,M,,407324,,91,Senate,MN,,1,I,,11,,,,,,,,0,0.0,
+1,M000311,Eugene,McCarthy,1916-03-29,M,,407324,,90,Senate,MN,,1,I,,9,,,,,,,,0,0.0,
+2,M000311,Eugene,McCarthy,1916-03-29,M,,407324,,89,Senate,MN,,1,I,,7,,,,,,,,0,0.0,
+3,M000311,Eugene,McCarthy,1916-03-29,M,,407324,,88,Senate,MN,,1,I,,5,,,,,,,,0,0.0,
+4,M000311,Eugene,McCarthy,1916-03-29,M,,407324,,87,Senate,MN,,1,I,,3,,,,,,,,0,0.0,
+5,M000311,Eugene,McCarthy,1916-03-29,M,,407324,,86,Senate,MN,,1,I,,1,,,,,,,,0,0.0,

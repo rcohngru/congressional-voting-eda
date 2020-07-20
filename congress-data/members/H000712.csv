@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,112,House,PA,17,,D,,20,1607,141,1,2,233,76.44,,0,2.0,23.49
+1,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,111,House,PA,17,,D,,18,1655,47,0,11,376,95.37,,0,2.0,4.57
+2,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,110,House,PA,17,,D,,16,1873,68,0,14,411,96.18,,0,2.0,4.33
+3,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,109,House,PA,17,,D,,14,1214,36,0,7,437,86.91,,0,0.0,13.35
+4,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,108,House,PA,17,,D,,12,1221,20,0,2,349,88.14,,0,0.0,12.03
+5,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,107,House,PA,6,,D,,10,996,13,0,13,356,87.33,,0,0.0,13.19
+6,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,106,House,PA,6,,D,,8,1214,33,0,4,334,85.31,,0,0.0,14.95
+7,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,105,House,PA,6,,D,,6,1187,15,0,28,282,81.71,,0,0.0,18.65
+8,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,104,House,PA,6,,D,,4,1340,19,0,4,200,77.67,,0,0.0,23.6
+9,H000712,Tim,Holden,1957-03-05,M,D,400183,29611,103,House,PA,6,,D,,2,1122,10,0,8,273,83.36,,0,0.0,15.99

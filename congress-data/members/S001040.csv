@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001040,Gerry,Studds,1937-05-12,M,,410496,,104,House,MA,10,,D,,24,1340,100,3,13,109,94.67,,0,0.0,6.51
+1,S001040,Gerry,Studds,1937-05-12,M,,410496,,103,House,MA,10,,D,,22,1122,31,1,44,264,93.86,,0,0.0,5.48
+2,S001040,Gerry,Studds,1937-05-12,M,,410496,,102,House,MA,10,,D,,20,933,31,0,,,91.79,,0,0.0,5.7
+3,S001040,Gerry,Studds,1937-05-12,M,,410496,,101,House,MA,10,,D,,18,,,,,,,,0,0.0,
+4,S001040,Gerry,Studds,1937-05-12,M,,410496,,100,House,MA,10,,D,,16,,,,,,,,0,0.0,
+5,S001040,Gerry,Studds,1937-05-12,M,,410496,,99,House,MA,10,,D,,14,,,,,,,,0,0.0,
+6,S001040,Gerry,Studds,1937-05-12,M,,410496,,98,House,MA,10,,D,,12,,,,,,,,0,0.0,

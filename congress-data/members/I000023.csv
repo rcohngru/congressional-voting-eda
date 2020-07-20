@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,I000023,Bob,Inglis,1959-10-11,M,R,400649,26441,111,House,SC,4,,R,,12,1655,88,0,4,289,94.37,,0,2.0,5.57
+1,I000023,Bob,Inglis,1959-10-11,M,R,400649,26441,110,House,SC,4,,R,,10,1873,20,2,23,208,91.94,,0,3.0,8.61
+2,I000023,Bob,Inglis,1959-10-11,M,R,400649,26441,109,House,SC,4,,R,,8,1214,23,0,15,156,89.6,,0,0.0,10.66
+3,I000023,Bob,Inglis,1959-10-11,M,R,400649,26441,105,House,SC,4,,R,,6,1187,73,0,5,166,92.33,,0,0.0,8.23
+4,I000023,Bob,Inglis,1959-10-11,M,R,400649,26441,104,House,SC,4,,R,,4,1340,22,0,4,222,93.72,,0,0.0,7.54
+5,I000023,Bob,Inglis,1959-10-11,M,R,400649,26441,103,House,SC,4,,R,,2,1122,18,0,28,217,83.65,,0,0.0,15.6

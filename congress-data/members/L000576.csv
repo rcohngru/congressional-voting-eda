@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000576,Billy,Long,1955-08-11,M,R,412445,61880,116,House,MO,7,,R,,10,839,15,0,5,169,95.11,,3,1.0,4.77
+1,L000576,Billy,Long,1955-08-11,M,R,412445,61880,115,House,MO,7,,R,,8,1211,114,0,12,180,98.08,,3,1.0,1.92
+2,L000576,Billy,Long,1955-08-11,M,R,412445,61880,114,House,MO,7,,R,,6,1325,59,0,7,182,97.13,,0,1.0,2.79
+3,L000576,Billy,Long,1955-08-11,M,R,412445,61880,113,House,MO,7,,R,,4,1204,0,0,5,328,96.75,,0,1.0,3.17
+4,L000576,Billy,Long,1955-08-11,M,R,412445,61880,112,House,MO,7,,R,,2,1607,51,0,5,333,94.17,,0,2.0,5.76

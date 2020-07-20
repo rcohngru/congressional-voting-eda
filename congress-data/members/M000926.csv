@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,104,House,CA,27,,R,,24,1340,20,0,30,158,97.96,,0,0.0,3.29
+1,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,103,House,CA,27,,R,,22,1122,6,0,5,317,93.31,,0,0.0,5.94
+2,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,102,House,CA,22,,R,,20,933,14,0,,,88.59,,0,0.0,8.05
+3,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,101,House,CA,22,,R,,18,,,,,,,,0,0.0,
+4,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,100,House,CA,22,,R,,16,,,,,,,,0,0.0,
+5,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,99,House,CA,22,,R,,14,,,,,,,,0,0.0,
+6,M000926,Carlos,Moorhead,1922-05-06,M,,407899,,98,House,CA,22,,R,,12,,,,,,,,0,0.0,

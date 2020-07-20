@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001299,Jim,Banks,1979-07-16,M,R,412702,89806,116,House,IN,3,,R,,4,839,1,0,30,258,93.5,,6,3.0,6.38
+1,B001299,Jim,Banks,1979-07-16,M,R,412702,89806,115,House,IN,3,,R,,2,1211,5,0,21,291,97.42,,7,4.0,2.58

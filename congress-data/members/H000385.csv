@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000385,Carl,Hayden,1877-10-02,M,,405253,,90,Senate,AZ,,3,D,,40,,,,,,,,0,0.0,
+1,H000385,Carl,Hayden,1877-10-02,M,,405253,,89,Senate,AZ,,3,D,,38,,,,,,,,0,0.0,
+2,H000385,Carl,Hayden,1877-10-02,M,,405253,,88,Senate,AZ,,3,D,,36,,,,,,,,0,0.0,
+3,H000385,Carl,Hayden,1877-10-02,M,,405253,,87,Senate,AZ,,3,D,,34,,,,,,,,0,0.0,
+4,H000385,Carl,Hayden,1877-10-02,M,,405253,,86,Senate,AZ,,3,D,,32,,,,,,,,0,0.0,
+5,H000385,Carl,Hayden,1877-10-02,M,,405253,,85,Senate,AZ,,3,D,,30,,,,,,,,0,0.0,
+6,H000385,Carl,Hayden,1877-10-02,M,,405253,,84,Senate,AZ,,3,D,,28,,,,,,,,0,0.0,
+7,H000385,Carl,Hayden,1877-10-02,M,,405253,,83,Senate,AZ,,3,D,,26,,,,,,,,0,0.0,
+8,H000385,Carl,Hayden,1877-10-02,M,,405253,,82,Senate,AZ,,3,D,,24,,,,,,,,0,0.0,
+9,H000385,Carl,Hayden,1877-10-02,M,,405253,,81,Senate,AZ,,3,D,,22,,,,,,,,0,0.0,
+10,H000385,Carl,Hayden,1877-10-02,M,,405253,,80,Senate,AZ,,3,D,,20,,,,,,,,0,0.0,

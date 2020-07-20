@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000319,Peter,Kostmayer,1946-09-27,M,,406473,,102,House,PA,8,,D,,14,933,19,0,,,88.49,,0,0.0,8.58
+1,K000319,Peter,Kostmayer,1946-09-27,M,,406473,,101,House,PA,8,,D,,12,,,,,,,,0,0.0,
+2,K000319,Peter,Kostmayer,1946-09-27,M,,406473,,100,House,PA,8,,D,,10,,,,,,,,0,0.0,
+3,K000319,Peter,Kostmayer,1946-09-27,M,,406473,,99,House,PA,8,,D,,8,,,,,,,,0,0.0,
+4,K000319,Peter,Kostmayer,1946-09-27,M,,406473,,98,House,PA,8,,D,,6,,,,,,,,0,0.0,

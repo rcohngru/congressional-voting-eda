@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001141,Zell,Miller,1932-02-24,M,,300074,,108,Senate,GA,,3,D,,5,675,121,0,27,269,38.63,,0,0.0,61.37
+1,M001141,Zell,Miller,1932-02-24,M,,300074,,107,Senate,GA,,3,D,,3,633,40,1,12,291,67.52,,0,0.0,32.48
+2,M001141,Zell,Miller,1932-02-24,M,,300074,,106,Senate,GA,,3,D,,1,70,1,0,1,52,84.06,,0,0.0,15.94

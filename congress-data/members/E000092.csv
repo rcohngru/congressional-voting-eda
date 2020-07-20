@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,111,House,MI,3,,R,,18,1655,70,0,21,344,85.59,,0,3.0,14.35
+1,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,110,House,MI,3,,R,,16,1873,45,3,21,336,86.41,,0,6.0,14.15
+2,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,109,House,MI,3,,R,,14,1214,18,1,16,273,87.26,,0,0.0,13.0
+3,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,108,House,MI,3,,R,,12,1221,29,0,22,244,92.13,,0,0.0,8.04
+4,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,107,House,MI,3,,R,,10,996,7,2,12,182,93.22,,0,0.0,7.3
+5,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,106,House,MI,3,,R,,8,1214,15,0,16,190,87.42,,0,0.0,12.84
+6,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,105,House,MI,3,,R,,6,1187,22,2,8,194,87.17,,0,0.0,13.36
+7,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,104,House,MI,3,,R,,4,1340,46,1,3,206,85.93,,0,0.0,15.35
+8,E000092,Vernon,Ehlers,1934-02-06,M,R,400119,,103,House,MI,3,,R,,2,506,2,0,2,88,79.3,,0,0.0,20.49

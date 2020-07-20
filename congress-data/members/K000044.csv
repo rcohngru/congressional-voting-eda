@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000044,Carey,Kefauver,1903-07-26,M,,406214,,88,Senate,TN,,2,D,,15,,,,,,,,0,0.0,
+1,K000044,Carey,Kefauver,1903-07-26,M,,406214,,87,Senate,TN,,2,D,,13,,,,,,,,0,0.0,
+2,K000044,Carey,Kefauver,1903-07-26,M,,406214,,86,Senate,TN,,2,D,,11,,,,,,,,0,0.0,
+3,K000044,Carey,Kefauver,1903-07-26,M,,406214,,85,Senate,TN,,2,D,,9,,,,,,,,0,0.0,
+4,K000044,Carey,Kefauver,1903-07-26,M,,406214,,84,Senate,TN,,2,D,,7,,,,,,,,0,0.0,
+5,K000044,Carey,Kefauver,1903-07-26,M,,406214,,83,Senate,TN,,2,D,,5,,,,,,,,0,0.0,
+6,K000044,Carey,Kefauver,1903-07-26,M,,406214,,82,Senate,TN,,2,D,,3,,,,,,,,0,0.0,
+7,K000044,Carey,Kefauver,1903-07-26,M,,406214,,81,Senate,TN,,2,D,,1,,,,,,,,0,0.0,

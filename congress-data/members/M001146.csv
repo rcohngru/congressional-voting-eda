@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001146,Jim,Marshall,1948-03-31,M,D,400254,1003563,111,House,GA,8,,D,,8,1655,39,6,12,270,88.42,,0,2.0,11.52
+1,M001146,Jim,Marshall,1948-03-31,M,D,400254,1003563,110,House,GA,8,,D,,6,1873,129,0,14,406,86.5,,0,3.0,13.96
+2,M001146,Jim,Marshall,1948-03-31,M,D,400254,1003563,109,House,GA,3,,D,,4,1214,47,0,6,285,80.33,,0,0.0,19.93
+3,M001146,Jim,Marshall,1948-03-31,M,D,400254,1003563,108,House,GA,3,,D,,2,1221,60,0,1,175,84.65,,0,0.0,15.53

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000673,Stephen,Solarz,1940-09-12,M,,410145,,102,House,NY,13,,D,,18,933,133,0,,,92.29,,0,0.0,5.27
+1,S000673,Stephen,Solarz,1940-09-12,M,,410145,,101,House,NY,13,,D,,16,,,,,,,,0,0.0,
+2,S000673,Stephen,Solarz,1940-09-12,M,,410145,,100,House,NY,13,,D,,14,,,,,,,,0,0.0,
+3,S000673,Stephen,Solarz,1940-09-12,M,,410145,,99,House,NY,13,,D,,12,,,,,,,,0,0.0,
+4,S000673,Stephen,Solarz,1940-09-12,M,,410145,,98,House,NY,13,,D,,10,,,,,,,,0,0.0,

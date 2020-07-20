@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000262,Matthew,Rinaldo,1931-09-01,M,,409237,,102,House,NJ,7,,R,,20,933,17,0,,,71.52,,0,0.0,25.22
+1,R000262,Matthew,Rinaldo,1931-09-01,M,,409237,,101,House,NJ,7,,R,,18,,,,,,,,0,0.0,
+2,R000262,Matthew,Rinaldo,1931-09-01,M,,409237,,100,House,NJ,7,,R,,16,,,,,,,,0,0.0,
+3,R000262,Matthew,Rinaldo,1931-09-01,M,,409237,,99,House,NJ,7,,R,,14,,,,,,,,0,0.0,
+4,R000262,Matthew,Rinaldo,1931-09-01,M,,409237,,98,House,NJ,7,,R,,12,,,,,,,,0,0.0,

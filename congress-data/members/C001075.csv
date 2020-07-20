@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001075,Bill,Cassidy,1957-09-28,M,R,412269,1030546,116,Senate,LA,,2,R,,5,557,43,0,56,203,96.28,,10,5.0,3.72
+1,C001075,Bill,Cassidy,1957-09-28,M,R,412269,1030546,115,Senate,LA,,2,R,,3,599,6,0,61,206,97.11,,9,5.0,2.89
+2,C001075,Bill,Cassidy,1957-09-28,M,R,412269,1030546,114,Senate,LA,,2,R,,1,502,6,0,46,135,94.66,,0,5.0,5.34
+3,C001075,Bill,Cassidy,1957-09-28,M,R,412269,1030546,113,House,LA,6,,R,,6,1204,70,0,31,191,95.4,,0,1.0,4.51
+4,C001075,Bill,Cassidy,1957-09-28,M,R,412269,1030546,112,House,LA,6,,R,,4,1607,38,1,22,179,94.29,,0,1.0,5.65
+5,C001075,Bill,Cassidy,1957-09-28,M,R,412269,1030546,111,House,LA,6,,R,,2,1655,63,4,11,201,93.94,,0,3.0,5.99

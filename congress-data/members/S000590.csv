@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000590,Margaret,Smith,1897-12-14,F,,410070,,92,Senate,ME,,2,R,,23,,,,,,,,0,0.0,
+1,S000590,Margaret,Smith,1897-12-14,F,,410070,,91,Senate,ME,,2,R,,21,,,,,,,,0,0.0,
+2,S000590,Margaret,Smith,1897-12-14,F,,410070,,90,Senate,ME,,2,R,,19,,,,,,,,0,0.0,
+3,S000590,Margaret,Smith,1897-12-14,F,,410070,,89,Senate,ME,,2,R,,17,,,,,,,,0,0.0,
+4,S000590,Margaret,Smith,1897-12-14,F,,410070,,88,Senate,ME,,2,R,,15,,,,,,,,0,0.0,
+5,S000590,Margaret,Smith,1897-12-14,F,,410070,,87,Senate,ME,,2,R,,13,,,,,,,,0,0.0,
+6,S000590,Margaret,Smith,1897-12-14,F,,410070,,86,Senate,ME,,2,R,,11,,,,,,,,0,0.0,
+7,S000590,Margaret,Smith,1897-12-14,F,,410070,,85,Senate,ME,,2,R,,9,,,,,,,,0,0.0,
+8,S000590,Margaret,Smith,1897-12-14,F,,410070,,84,Senate,ME,,2,R,,7,,,,,,,,0,0.0,
+9,S000590,Margaret,Smith,1897-12-14,F,,410070,,83,Senate,ME,,2,R,,5,,,,,,,,0,0.0,
+10,S000590,Margaret,Smith,1897-12-14,F,,410070,,82,Senate,ME,,2,R,,3,,,,,,,,0,0.0,
+11,S000590,Margaret,Smith,1897-12-14,F,,410070,,81,Senate,ME,,2,R,,1,,,,,,,,0,0.0,

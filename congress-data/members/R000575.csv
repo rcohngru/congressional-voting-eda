@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,116,House,AL,3,,R,,20,839,42,0,7,119,93.93,,8,2.0,5.94
+1,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,115,House,AL,3,,R,,18,1211,19,0,8,121,94.27,,6,3.0,5.73
+2,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,114,House,AL,3,,R,,16,1325,34,0,4,139,94.3,,0,3.0,5.62
+3,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,113,House,AL,3,,R,,14,1204,31,0,4,141,95.12,,0,3.0,4.79
+4,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,112,House,AL,3,,R,,12,1607,13,0,4,170,92.99,,0,2.0,6.95
+5,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,111,House,AL,3,,R,,10,1655,18,0,6,280,92.44,,0,3.0,7.5
+6,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,110,House,AL,3,,R,,8,1873,37,4,6,209,93.06,,0,3.0,7.45
+7,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,109,House,AL,3,,R,,6,1214,31,0,17,171,96.31,,0,0.0,3.95
+8,R000575,Mike,Rogers,1958-07-16,M,R,400341,1014740,108,House,AL,3,,R,,4,1221,20,0,3,158,97.06,,0,0.0,3.11

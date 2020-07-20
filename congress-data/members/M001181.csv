@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001181,Pat,Meehan,1955-10-20,M,R,412466,1033856,115,House,PA,7,,R,,8,877,18,0,15,280,89.82,,3,2.0,10.18
+1,M001181,Pat,Meehan,1955-10-20,M,R,412466,1033856,114,House,PA,7,,R,,6,1325,8,0,18,188,88.06,,0,2.0,11.86
+2,M001181,Pat,Meehan,1955-10-20,M,R,412466,1033856,113,House,PA,7,,R,,4,1204,5,2,11,200,91.46,,0,4.0,8.46
+3,M001181,Pat,Meehan,1955-10-20,M,R,412466,1033856,112,House,PA,7,,R,,2,1607,19,0,20,184,86.68,,0,3.0,13.26

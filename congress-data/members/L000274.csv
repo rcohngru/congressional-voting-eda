@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,112,House,CA,41,,R,,34,1607,214,0,0,88,94.43,,0,1.0,5.5
+1,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,111,House,CA,41,,R,,32,1655,41,0,5,130,93.15,,0,1.0,6.79
+2,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,110,House,CA,41,,R,,30,1873,63,2,4,125,91.53,,0,1.0,8.98
+3,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,109,House,CA,41,,R,,28,1214,28,0,17,72,95.98,,0,0.0,4.27
+4,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,108,House,CA,41,,R,,26,1221,44,0,5,100,96.91,,0,0.0,3.26
+5,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,107,House,CA,40,,R,,24,996,79,0,2,84,96.68,,0,0.0,3.77
+6,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,106,House,CA,40,,R,,22,1214,51,0,5,115,92.56,,0,0.0,7.62
+7,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,105,House,CA,40,,R,,20,1187,45,0,7,134,91.73,,0,0.0,8.72
+8,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,104,House,CA,40,,R,,18,1340,46,0,5,102,93.84,,0,0.0,7.45
+9,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,103,House,CA,40,,R,,16,1122,49,1,2,220,83.83,,0,0.0,15.39
+10,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,102,House,CA,35,,R,,14,933,55,1,,,82.9,,0,0.0,13.7
+11,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,101,House,CA,35,,R,,12,,,,,,,,0,0.0,
+12,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,100,House,CA,35,,R,,10,,,,,,,,0,0.0,
+13,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,99,House,CA,35,,R,,8,,,,,,,,0,0.0,
+14,L000274,Jerry,Lewis,1934-10-21,M,R,400239,1001646,98,House,CA,35,,R,,6,,,,,,,,0,0.0,

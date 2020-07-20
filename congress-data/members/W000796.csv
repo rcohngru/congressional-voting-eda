@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000796,Lynn,Westmoreland,1950-04-02,M,R,400627,1013045,114,House,GA,3,,R,,12,1325,232,0,9,175,93.91,,0,3.0,6.0
+1,W000796,Lynn,Westmoreland,1950-04-02,M,R,400627,1013045,113,House,GA,3,,R,,10,1204,72,0,4,407,93.62,,0,3.0,6.29
+2,W000796,Lynn,Westmoreland,1950-04-02,M,R,400627,1013045,112,House,GA,3,,R,,8,1607,23,0,4,433,93.9,,0,2.0,6.04
+3,W000796,Lynn,Westmoreland,1950-04-02,M,R,400627,1013045,111,House,GA,3,,R,,6,1655,114,1,0,313,93.03,,0,2.0,6.91
+4,W000796,Lynn,Westmoreland,1950-04-02,M,R,400627,1013045,110,House,GA,3,,R,,4,1873,152,2,4,299,91.51,,0,3.0,9.03
+5,W000796,Lynn,Westmoreland,1950-04-02,M,R,400627,1013045,109,House,GA,8,,R,,2,1214,59,3,1,211,90.76,,0,0.0,9.51

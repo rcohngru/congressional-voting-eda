@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000243,Norman,Lent,1931-03-23,,,406746,,102,House,NY,4,,R,,22,933,92,1,,,80.32,,0,0.0,16.4
+1,L000243,Norman,Lent,1931-03-23,,,406746,,101,House,NY,4,,R,,20,,,,,,,,0,0.0,
+2,L000243,Norman,Lent,1931-03-23,,,406746,,100,House,NY,4,,R,,18,,,,,,,,0,0.0,
+3,L000243,Norman,Lent,1931-03-23,,,406746,,99,House,NY,4,,R,,16,,,,,,,,0,0.0,
+4,L000243,Norman,Lent,1931-03-23,,,406746,,98,House,NY,4,,R,,14,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000284,Stephanie,Jones,1949-09-10,F,,400208,,110,House,OH,11,,D,,10,1751,245,7,22,431,97.7,,0,2.0,2.9
+1,J000284,Stephanie,Jones,1949-09-10,F,,400208,,109,House,OH,11,,D,,8,1214,85,2,16,426,93.88,,0,0.0,6.38
+2,J000284,Stephanie,Jones,1949-09-10,F,,400208,,108,House,OH,11,,D,,6,1221,168,1,9,618,94.79,,0,0.0,5.3
+3,J000284,Stephanie,Jones,1949-09-10,F,,400208,,107,House,OH,11,,D,,4,996,100,3,8,529,90.89,,0,0.0,9.57
+4,J000284,Stephanie,Jones,1949-09-10,F,,400208,,106,House,OH,11,,D,,2,1214,131,1,4,420,93.92,,0,0.0,6.27

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000621,Ronald,Coleman,1941-11-29,M,,402750,,104,House,TX,16,,D,,14,1340,69,2,10,136,89.81,,0,0.0,11.52
+1,C000621,Ronald,Coleman,1941-11-29,M,,402750,,103,House,TX,16,,D,,12,1122,37,0,8,286,91.04,,0,0.0,8.2
+2,C000621,Ronald,Coleman,1941-11-29,M,,402750,,102,House,TX,16,,D,,10,933,50,0,,,88.91,,0,0.0,8.28
+3,C000621,Ronald,Coleman,1941-11-29,M,,402750,,101,House,TX,16,,D,,8,,,,,,,,0,0.0,
+4,C000621,Ronald,Coleman,1941-11-29,M,,402750,,100,House,TX,16,,D,,6,,,,,,,,0,0.0,
+5,C000621,Ronald,Coleman,1941-11-29,M,,402750,,99,House,TX,16,,D,,4,,,,,,,,0,0.0,
+6,C000621,Ronald,Coleman,1941-11-29,M,,402750,,98,House,TX,16,,D,,2,,,,,,,,0,0.0,

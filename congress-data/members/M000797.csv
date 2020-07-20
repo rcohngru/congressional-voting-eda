@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000797,Patsy,Mink,1927-12-06,F,,400554,,107,House,HI,2,,D,,26,935,73,2,56,552,91.01,,0,0.0,9.47
+1,M000797,Patsy,Mink,1927-12-06,F,,400554,,106,House,HI,2,,D,,24,1214,27,3,52,451,91.13,,0,0.0,9.04
+2,M000797,Patsy,Mink,1927-12-06,F,,400554,,105,House,HI,2,,D,,22,1187,18,1,37,310,88.66,,0,0.0,11.88
+3,M000797,Patsy,Mink,1927-12-06,F,,400554,,104,House,HI,2,,D,,20,1340,19,3,31,183,91.71,,0,0.0,9.56
+4,M000797,Patsy,Mink,1927-12-06,F,,400554,,103,House,HI,2,,D,,18,1122,23,0,33,371,91.63,,0,0.0,7.71
+5,M000797,Patsy,Mink,1927-12-06,F,,400554,,102,House,HI,2,,D,,16,933,22,0,,,91.74,,0,0.0,5.43
+6,M000797,Patsy,Mink,1927-12-06,F,,400554,,101,House,HI,2,,D,,14,,,,,,,,0,0.0,

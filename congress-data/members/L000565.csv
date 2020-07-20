@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,116,House,IA,2,,D,,14,839,23,0,12,249,98.77,,2,1.0,1.11
+1,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,115,House,IA,2,,D,,12,1211,25,2,23,356,94.12,,2,1.0,5.88
+2,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,114,House,IA,2,,D,,10,1325,19,0,17,334,96.9,,0,1.0,3.02
+3,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,113,House,IA,2,,D,,8,1204,13,0,13,493,91.45,,0,2.0,8.47
+4,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,112,House,IA,2,,D,,6,1607,34,0,18,344,90.65,,0,2.0,9.29
+5,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,111,House,IA,2,,D,,4,1655,44,2,16,436,97.94,,0,2.0,2.0
+6,L000565,Dave,Loebsack,1952-12-23,M,D,412209,1022883,110,House,IA,2,,D,,2,1873,52,1,13,397,98.27,,0,2.0,2.29

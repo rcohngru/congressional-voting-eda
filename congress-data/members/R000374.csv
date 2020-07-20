@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000374,Peter,Rodino,1909-06-07,M,,409344,,100,House,NJ,10,,D,,40,,,,,,,,0,0.0,
+1,R000374,Peter,Rodino,1909-06-07,M,,409344,,99,House,NJ,10,,D,,38,,,,,,,,0,0.0,
+2,R000374,Peter,Rodino,1909-06-07,M,,409344,,98,House,NJ,10,,D,,36,,,,,,,,0,0.0,

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001087,Rick,Crawford,1966-01-22,M,R,412400,623259,116,House,AR,1,,R,,10,839,70,0,11,182,96.99,,5,4.0,2.88
+1,C001087,Rick,Crawford,1966-01-22,M,R,412400,623259,115,House,AR,1,,R,,8,1211,46,0,12,144,98.53,,7,3.0,1.47
+2,C001087,Rick,Crawford,1966-01-22,M,R,412400,623259,114,House,AR,1,,R,,6,1325,58,0,13,150,97.06,,0,2.0,2.86
+3,C001087,Rick,Crawford,1966-01-22,M,R,412400,623259,113,House,AR,1,,R,,4,1204,84,0,20,221,94.53,,0,2.0,5.38
+4,C001087,Rick,Crawford,1966-01-22,M,R,412400,623259,112,House,AR,1,,R,,2,1607,14,0,10,204,94.5,,0,2.0,5.44

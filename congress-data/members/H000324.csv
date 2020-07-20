@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,116,House,FL,20,,D,,28,839,211,0,33,964,99.36,,0,1.0,0.48
+1,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,115,House,FL,20,,D,,26,1211,83,1,33,837,96.45,,1,1.0,3.55
+2,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,114,House,FL,20,,D,,24,1325,205,0,26,638,95.57,,0,1.0,4.34
+3,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,113,House,FL,20,,D,,22,1204,117,1,24,621,94.53,,0,1.0,5.38
+4,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,112,House,FL,23,,D,,20,1607,21,1,31,431,94.18,,0,1.0,5.76
+5,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,111,House,FL,23,,D,,18,1655,121,1,80,574,98.36,,0,2.0,1.57
+6,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,110,House,FL,23,,D,,16,1873,114,1,63,717,98.44,,0,2.0,2.08
+7,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,109,House,FL,23,,D,,14,1214,134,2,28,500,92.28,,0,0.0,8.0
+8,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,108,House,FL,23,,D,,12,1221,214,0,41,426,91.73,,0,0.0,8.48
+9,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,107,House,FL,23,,D,,10,996,113,1,31,426,86.57,,0,0.0,14.0
+10,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,106,House,FL,23,,D,,8,1214,113,1,19,345,90.91,,0,0.0,9.27
+11,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,105,House,FL,23,,D,,6,1187,112,2,22,306,85.34,,0,0.0,15.15
+12,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,104,House,FL,23,,D,,4,1340,44,2,7,253,89.34,,0,0.0,11.96
+13,H000324,Alcee,Hastings,1936-09-05,M,D,400170,1858,103,House,FL,23,,D,,2,1122,156,0,6,478,89.74,,0,0.0,9.51

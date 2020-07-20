@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000399,Joseph,McDade,1931-09-29,M,,407400,,105,House,PA,10,,R,,36,1187,232,1,13,103,90.46,,0,0.0,9.86
+1,M000399,Joseph,McDade,1931-09-29,M,,407400,,104,House,PA,10,,R,,34,1340,308,0,6,55,92.73,,0,0.0,8.88
+2,M000399,Joseph,McDade,1931-09-29,M,,407400,,103,House,PA,10,,R,,32,1122,241,0,4,229,79.69,,0,0.0,19.6
+3,M000399,Joseph,McDade,1931-09-29,M,,407400,,102,House,PA,10,,R,,30,933,139,1,,,73.45,,0,0.0,23.07
+4,M000399,Joseph,McDade,1931-09-29,M,,407400,,101,House,PA,10,,R,,28,,,,,,,,0,0.0,
+5,M000399,Joseph,McDade,1931-09-29,M,,407400,,100,House,PA,10,,R,,26,,,,,,,,0,0.0,
+6,M000399,Joseph,McDade,1931-09-29,M,,407400,,99,House,PA,10,,R,,24,,,,,,,,0,0.0,
+7,M000399,Joseph,McDade,1931-09-29,M,,407400,,98,House,PA,10,,R,,22,,,,,,,,0,0.0,

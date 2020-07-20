@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,113,House,UT,4,,D,,14,1204,14,0,11,219,60.88,,0,1.0,39.03
+1,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,112,House,UT,2,,D,,12,1607,7,0,14,161,53.33,,0,1.0,46.6
+2,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,111,House,UT,2,,D,,10,1655,27,1,19,180,91.72,,0,2.0,8.22
+3,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,110,House,UT,2,,D,,8,1873,30,2,24,277,88.59,,0,2.0,11.96
+4,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,109,House,UT,2,,D,,6,1214,10,0,9,216,79.7,,0,0.0,20.56
+5,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,108,House,UT,2,,D,,4,1221,2,0,8,218,83.47,,0,0.0,16.69
+6,M001142,Jim,Matheson,1960-03-21,M,D,400255,89172,107,House,UT,2,,D,,2,996,5,0,5,199,86.1,,0,0.0,14.42

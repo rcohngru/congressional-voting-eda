@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000185,Richard,Nugent,1951-05-26,M,R,412409,1033683,114,House,FL,11,,R,,6,1325,180,0,7,187,93.4,,0,2.0,6.51
+1,N000185,Richard,Nugent,1951-05-26,M,R,412409,1033683,113,House,FL,11,,R,,4,1204,34,0,22,261,93.3,,0,3.0,6.61
+2,N000185,Richard,Nugent,1951-05-26,M,R,412409,1033683,112,House,FL,5,,R,,2,1607,11,0,22,236,94.57,,0,2.0,5.37

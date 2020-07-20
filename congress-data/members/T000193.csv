@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,116,House,MS,2,,D,,28,839,39,0,18,578,98.87,,6,1.0,1.0
+1,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,115,House,MS,2,,D,,26,1211,114,0,19,341,97.01,,0,1.0,2.99
+2,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,114,House,MS,2,,D,,24,1325,52,0,17,184,96.03,,0,1.0,3.9
+3,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,113,House,MS,2,,D,,22,1204,51,1,12,241,92.3,,0,1.0,7.61
+4,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,112,House,MS,2,,D,,20,1607,63,1,18,187,90.53,,0,1.0,9.4
+5,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,111,House,MS,2,,D,,18,1655,39,0,20,309,97.88,,0,1.0,2.05
+6,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,110,House,MS,2,,D,,16,1873,52,0,27,380,98.27,,0,1.0,2.29
+7,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,109,House,MS,2,,D,,14,1214,19,0,16,324,93.97,,0,0.0,6.29
+8,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,108,House,MS,2,,D,,12,1221,21,0,8,299,92.45,,0,0.0,7.72
+9,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,107,House,MS,2,,D,,10,996,38,0,5,286,87.22,,0,0.0,13.31
+10,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,106,House,MS,2,,D,,8,1214,74,0,11,336,90.68,,0,0.0,9.49
+11,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,105,House,MS,2,,D,,6,1187,52,0,7,330,88.94,,0,0.0,11.61
+12,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,104,House,MS,2,,D,,4,1340,36,1,7,216,89.27,,0,0.0,11.94
+13,T000193,Bennie,Thompson,1948-01-28,M,D,400402,7304,103,House,MS,2,,D,,2,986,93,0,6,170,92.25,,0,0.0,7.52

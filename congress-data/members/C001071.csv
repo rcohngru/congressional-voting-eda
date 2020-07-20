@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001071,Bob,Corker,1952-08-24,M,R,412248,1021114,115,Senate,TN,,1,R,,11,599,25,0,20,71,94.39,,3,4.0,5.61
+1,C001071,Bob,Corker,1952-08-24,M,R,412248,1021114,114,Senate,TN,,1,R,,9,502,14,0,23,60,89.58,,0,4.0,10.42
+2,C001071,Bob,Corker,1952-08-24,M,R,412248,1021114,113,Senate,TN,,1,R,,7,657,16,0,10,95,87.58,,7,3.0,12.42
+3,C001071,Bob,Corker,1952-08-24,M,R,412248,1021114,112,Senate,TN,,1,R,,5,486,9,0,7,136,89.96,,0,4.0,10.04
+4,C001071,Bob,Corker,1952-08-24,M,R,412248,1021114,111,Senate,TN,,1,R,,3,696,5,0,8,129,88.99,,0,4.0,11.01
+5,C001071,Bob,Corker,1952-08-24,M,R,412248,1021114,110,Senate,TN,,1,R,,1,657,10,0,2,124,88.43,,0,6.0,11.57

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000851,Walter,Mondale,1928-01-05,M,,407824,,94,Senate,MN,,2,I,,11,,,,,,,,0,0.0,
+1,M000851,Walter,Mondale,1928-01-05,M,,407824,,93,Senate,MN,,2,I,,9,,,,,,,,0,0.0,
+2,M000851,Walter,Mondale,1928-01-05,M,,407824,,92,Senate,MN,,2,I,,7,,,,,,,,0,0.0,
+3,M000851,Walter,Mondale,1928-01-05,M,,407824,,91,Senate,MN,,2,I,,5,,,,,,,,0,0.0,
+4,M000851,Walter,Mondale,1928-01-05,M,,407824,,90,Senate,MN,,2,I,,4,,,,,,,,0,0.0,
+5,M000851,Walter,Mondale,1928-01-05,M,,407824,,89,Senate,MN,,2,I,,1,,,,,,,,0,0.0,
+6,M000851,Walter,Mondale,1928-01-05,M,,407824,,88,Senate,MN,,2,I,,1,,,,,,,,0,0.0,

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001262,Paul,Broun,1946-12-07,M,R,412252,1025092,113,House,GA,10,,R,,8,1204,36,1,15,263,82.73,,0,3.0,17.18
+1,B001262,Paul,Broun,1946-12-07,M,R,412252,1025092,112,House,GA,10,,R,,6,1607,75,2,21,308,88.11,,0,3.0,11.83
+2,B001262,Paul,Broun,1946-12-07,M,R,412252,1025092,111,House,GA,10,,R,,4,1655,61,0,29,366,87.59,,0,3.0,12.35
+3,B001262,Paul,Broun,1946-12-07,M,R,412252,1025092,110,House,GA,10,,R,,2,1148,29,3,18,240,89.69,,0,2.0,10.68

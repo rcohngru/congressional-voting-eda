@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000187,Harry,Johnston,1931-12-02,M,,406082,,104,House,FL,19,,D,,8,1340,119,0,5,233,91.47,,0,0.0,9.83
+1,J000187,Harry,Johnston,1931-12-02,M,,406082,,103,House,FL,19,,D,,6,1122,70,0,17,259,91.54,,0,0.0,7.68
+2,J000187,Harry,Johnston,1931-12-02,M,,406082,,102,House,FL,14,,D,,4,933,51,0,,,87.43,,0,0.0,9.9
+3,J000187,Harry,Johnston,1931-12-02,M,,406082,,101,House,FL,14,,D,,2,,,,,,,,0,0.0,

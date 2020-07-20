@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000112,Bob,Schaffer,1962-07-24,M,,400507,,107,House,CO,4,,R,,6,996,92,0,20,410,81.73,,0,0.0,18.61
+1,S000112,Bob,Schaffer,1962-07-24,M,,400507,,106,House,CO,4,,R,,4,1214,54,0,13,369,82.7,,0,0.0,17.47
+2,S000112,Bob,Schaffer,1962-07-24,M,,400507,,105,House,CO,4,,R,,2,1187,5,0,9,233,87.2,,0,0.0,13.33

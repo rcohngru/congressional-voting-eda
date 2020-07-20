@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001198,Dan,Sullivan,1964-11-13,M,R,412665,1023262,116,Senate,AK,,2,R,,1,557,10,0,46,252,96.87,,10,4.0,3.13
+1,S001198,Dan,Sullivan,1964-11-13,M,R,412665,1023262,115,Senate,AK,,2,R,,3,599,20,0,37,204,97.74,,10,4.0,2.26
+2,S001198,Dan,Sullivan,1964-11-13,M,R,412665,1023262,114,Senate,AK,,2,R,,1,502,16,0,25,134,92.87,,0,4.0,7.13

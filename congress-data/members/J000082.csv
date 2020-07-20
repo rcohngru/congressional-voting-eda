@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000082,William,Jenkins,1936-11-29,M,,400202,,109,House,TN,1,,R,,10,1214,96,1,13,157,93.45,,0,0.0,6.82
+1,J000082,William,Jenkins,1936-11-29,M,,400202,,108,House,TN,1,,R,,8,1221,88,0,3,171,95.9,,0,0.0,4.28
+2,J000082,William,Jenkins,1936-11-29,M,,400202,,107,House,TN,1,,R,,6,996,43,0,7,142,97.01,,0,0.0,3.52
+3,J000082,William,Jenkins,1936-11-29,M,,400202,,106,House,TN,1,,R,,4,1214,47,1,12,184,94.15,,0,0.0,6.02
+4,J000082,William,Jenkins,1936-11-29,M,,400202,,105,House,TN,1,,R,,2,1187,17,0,3,121,96.65,,0,0.0,3.88

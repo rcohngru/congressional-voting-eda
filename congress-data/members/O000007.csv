@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000007,David,Obey,1938-10-03,M,D,400300,1621,111,House,WI,7,,D,,42,1655,47,4,13,46,98.25,,0,1.0,1.69
+1,O000007,David,Obey,1938-10-03,M,D,400300,1621,110,House,WI,7,,D,,40,1873,30,4,15,66,98.68,,0,1.0,1.87
+2,O000007,David,Obey,1938-10-03,M,D,400300,1621,109,House,WI,7,,D,,38,1214,38,7,4,74,92.25,,0,0.0,8.01
+3,O000007,David,Obey,1938-10-03,M,D,400300,1621,108,House,WI,7,,D,,36,1221,19,2,14,60,92.72,,0,0.0,7.45
+4,O000007,David,Obey,1938-10-03,M,D,400300,1621,107,House,WI,7,,D,,34,996,33,3,6,48,90.91,,0,0.0,9.51
+5,O000007,David,Obey,1938-10-03,M,D,400300,1621,106,House,WI,7,,D,,32,1214,24,8,8,60,87.63,,0,0.0,12.63
+6,O000007,David,Obey,1938-10-03,M,D,400300,1621,105,House,WI,7,,D,,30,1187,30,3,18,55,86.54,,0,0.0,14.0
+7,O000007,David,Obey,1938-10-03,M,D,400300,1621,104,House,WI,7,,D,,28,1340,15,3,29,48,89.34,,0,0.0,11.93
+8,O000007,David,Obey,1938-10-03,M,D,400300,1621,103,House,WI,7,,D,,26,1122,35,0,17,63,91.47,,0,0.0,7.77
+9,O000007,David,Obey,1938-10-03,M,D,400300,1621,102,House,WI,7,,D,,24,933,15,1,,,89.45,,0,0.0,7.63
+10,O000007,David,Obey,1938-10-03,M,D,400300,1621,101,House,WI,7,,D,,22,,,,,,,,0,0.0,
+11,O000007,David,Obey,1938-10-03,M,D,400300,1621,100,House,WI,7,,D,,20,,,,,,,,0,0.0,
+12,O000007,David,Obey,1938-10-03,M,D,400300,1621,99,House,WI,7,,D,,18,,,,,,,,0,0.0,
+13,O000007,David,Obey,1938-10-03,M,D,400300,1621,98,House,WI,7,,D,,16,,,,,,,,0,0.0,

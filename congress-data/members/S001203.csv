@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001203,Tina,Smith,1958-03-04,F,D,412742,111313,116,Senate,MN,,2,D,,2,557,6,1,53,582,93.05,,8,4.0,6.95
+1,S001203,Tina,Smith,1958-03-04,F,D,412742,111313,115,Senate,MN,,9,D,,1,274,0,0,26,274,98.13,,7,4.0,1.87

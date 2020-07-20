@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001031,Joseph,Hoeffel,1950-09-03,M,,400181,,108,House,PA,13,,D,,6,1221,132,0,9,475,97.76,,0,0.0,2.43
+1,H001031,Joseph,Hoeffel,1950-09-03,M,,400181,,107,House,PA,13,,D,,4,996,15,0,6,403,96.05,,0,0.0,4.47
+2,H001031,Joseph,Hoeffel,1950-09-03,M,,400181,,106,House,PA,13,,D,,2,1214,5,0,7,277,95.05,,0,0.0,5.21

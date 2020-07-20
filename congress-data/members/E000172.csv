@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,113,House,MO,8,,R,,20,25,13,0,0,0,90.91,,0,1.0,0.0
+1,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,112,House,MO,8,,R,,18,1607,53,1,14,182,90.79,,0,1.0,9.14
+2,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,111,House,MO,8,,R,,16,1655,39,0,11,272,91.9,,0,1.0,8.04
+3,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,110,House,MO,8,,R,,14,1873,48,5,13,358,87.77,,0,1.0,12.68
+4,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,109,House,MO,8,,R,,12,1214,43,1,23,206,93.51,,0,0.0,6.66
+5,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,108,House,MO,8,,R,,10,1221,70,0,16,181,94.21,,0,0.0,5.96
+6,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,107,House,MO,8,,R,,8,996,51,0,21,237,95.59,,0,0.0,4.95
+7,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,106,House,MO,8,,R,,6,1214,39,1,20,391,93.23,,0,0.0,7.03
+8,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,105,House,MO,8,,R,,4,1180,12,0,11,339,94.54,,0,0.0,5.99
+9,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,105,House,MO,8,,I,,4,7,0,0,,,100.0,,0,0.0,0.0
+10,E000172,Jo Ann,Emerson,1950-09-16,F,R,400121,46627,104,House,MO,8,,R,,2,1153,41,0,,,96.92,,0,0.0,4.58

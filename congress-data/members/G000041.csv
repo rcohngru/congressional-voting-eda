@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000041,Greg,Ganske,1949-03-31,M,,400517,,107,House,IA,4,,R,,8,996,70,0,10,128,93.41,,0,0.0,7.14
+1,G000041,Greg,Ganske,1949-03-31,M,,400517,,106,House,IA,4,,R,,6,1214,52,2,6,99,84.99,,0,0.0,15.28
+2,G000041,Greg,Ganske,1949-03-31,M,,400517,,105,House,IA,4,,R,,4,1187,22,1,6,85,87.65,,0,0.0,12.87
+3,G000041,Greg,Ganske,1949-03-31,M,,400517,,104,House,IA,4,,R,,2,1340,29,1,4,93,91.47,,0,0.0,9.79

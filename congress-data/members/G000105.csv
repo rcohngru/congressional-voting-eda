@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000105,Joseph,Gaydos,1926-07-03,M,,404477,,102,House,PA,20,,D,,26,933,166,0,,,85.81,,0,0.0,11.11
+1,G000105,Joseph,Gaydos,1926-07-03,M,,404477,,101,House,PA,20,,D,,24,,,,,,,,0,0.0,
+2,G000105,Joseph,Gaydos,1926-07-03,M,,404477,,100,House,PA,20,,D,,22,,,,,,,,0,0.0,
+3,G000105,Joseph,Gaydos,1926-07-03,M,,404477,,99,House,PA,20,,D,,20,,,,,,,,0,0.0,
+4,G000105,Joseph,Gaydos,1926-07-03,M,,404477,,98,House,PA,20,,D,,18,,,,,,,,0,0.0,

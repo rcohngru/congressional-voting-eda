@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000996,Ed,Bryant,1948-09-07,,,400549,,107,House,TN,7,,R,,8,996,45,0,4,150,97.43,,0,0.0,3.1
+1,B000996,Ed,Bryant,1948-09-07,,,400549,,106,House,TN,7,,R,,6,1214,18,0,12,179,96.0,,0,0.0,4.17
+2,B000996,Ed,Bryant,1948-09-07,,,400549,,105,House,TN,7,,R,,4,1187,16,0,11,156,94.73,,0,0.0,5.79
+3,B000996,Ed,Bryant,1948-09-07,,,400549,,104,House,TN,7,,R,,2,1340,21,0,11,175,97.57,,0,0.0,3.69

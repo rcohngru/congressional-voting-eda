@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000191,Julia,Carson,1938-07-08,F,,400067,,110,House,IN,7,,D,,12,1162,359,0,10,407,98.22,,0,2.0,2.41
+1,C000191,Julia,Carson,1938-07-08,F,,400067,,109,House,IN,7,,D,,10,1214,97,3,7,466,95.38,,0,0.0,4.8
+2,C000191,Julia,Carson,1938-07-08,F,,400067,,108,House,IN,7,,D,,8,1221,226,4,12,504,94.79,,0,0.0,5.31
+3,C000191,Julia,Carson,1938-07-08,F,,400067,,107,House,IN,10,,D,,6,996,80,3,14,699,94.88,,0,0.0,5.57
+4,C000191,Julia,Carson,1938-07-08,F,,400067,,106,House,IN,10,,D,,4,1214,128,13,8,564,92.36,,0,0.0,7.74
+5,C000191,Julia,Carson,1938-07-08,F,,400067,,105,House,IN,10,,D,,2,1180,110,5,2,364,90.18,,0,0.0,10.21

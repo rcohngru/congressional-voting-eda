@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000131,Marc,Veasey,1971-01-03,M,D,412579,79466,116,House,TX,33,,D,,8,839,16,0,19,316,98.66,,5,2.0,1.22
+1,V000131,Marc,Veasey,1971-01-03,M,D,412579,79466,115,House,TX,33,,D,,6,1211,10,2,20,362,95.89,,4,2.0,4.11
+2,V000131,Marc,Veasey,1971-01-03,M,D,412579,79466,114,House,TX,33,,D,,4,1325,23,0,34,277,94.33,,0,2.0,5.59
+3,V000131,Marc,Veasey,1971-01-03,M,D,412579,79466,113,House,TX,33,,D,,2,1204,14,1,6,314,92.8,,0,2.0,7.11

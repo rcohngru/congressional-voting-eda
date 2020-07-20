@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,113,House,AL,6,,R,,22,1204,31,0,8,230,93.33,,0,2.0,6.59
+1,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,112,House,AL,6,,R,,20,1607,58,0,9,257,94.08,,0,1.0,5.86
+2,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,111,House,AL,6,,R,,18,1655,51,0,7,278,93.67,,0,1.0,6.27
+3,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,110,House,AL,6,,R,,16,1873,137,3,3,264,94.85,,0,1.0,5.69
+4,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,109,House,AL,6,,R,,14,1214,56,0,9,305,95.97,,0,0.0,4.2
+5,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,108,House,AL,6,,R,,12,1221,59,1,12,236,96.18,,0,0.0,4.0
+6,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,107,House,AL,6,,R,,10,996,62,0,8,209,98.04,,0,0.0,2.51
+7,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,106,House,AL,6,,R,,8,1214,19,1,21,290,93.27,,0,0.0,6.99
+8,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,105,House,AL,6,,R,,6,1187,11,0,15,285,92.99,,0,0.0,7.54
+9,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,104,House,AL,6,,R,,4,1340,26,1,5,223,96.06,,0,0.0,5.2
+10,B000013,Spencer,Bachus,1947-12-28,M,R,400010,26397,103,House,AL,6,,R,,2,1122,25,0,8,306,91.67,,0,0.0,7.66

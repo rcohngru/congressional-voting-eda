@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,116,House,CA,19,,D,,26,839,30,1,33,675,97.89,,3,4.0,1.98
+1,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,115,House,CA,19,,D,,24,1211,37,6,18,831,96.15,,4,4.0,3.85
+2,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,114,House,CA,19,,D,,22,1325,85,1,22,466,96.08,,0,4.0,3.84
+3,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,113,House,CA,19,,D,,20,1204,14,1,17,486,93.05,,0,3.0,6.86
+4,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,112,House,CA,16,,D,,18,1607,60,3,16,335,91.67,,0,5.0,8.26
+5,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,111,House,CA,16,,D,,16,1655,122,31,25,489,95.93,,0,4.0,4.0
+6,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,110,House,CA,16,,D,,14,1873,46,1,41,667,98.78,,0,4.0,1.72
+7,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,109,House,CA,16,,D,,12,1214,10,4,16,454,94.45,,0,0.0,5.71
+8,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,108,House,CA,16,,D,,10,1221,56,5,17,499,93.62,,0,0.0,6.56
+9,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,107,House,CA,16,,D,,8,996,27,0,17,410,93.05,,0,0.0,7.48
+10,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,106,House,CA,16,,D,,6,1214,91,6,16,440,89.3,,0,0.0,10.79
+11,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,105,House,CA,16,,D,,4,1187,20,10,13,551,90.25,,0,0.0,10.29
+12,L000397,Zoe,Lofgren,1947-12-21,F,D,400245,36520,104,House,CA,16,,D,,2,1340,37,4,12,411,90.56,,0,0.0,10.65

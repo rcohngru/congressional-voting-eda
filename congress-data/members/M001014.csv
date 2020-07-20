@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001014,Wayne,Morse,1900-10-20,,,407981,,90,Senate,OR,,3,D,,23,,,,,,,,0,0.0,
+1,M001014,Wayne,Morse,1900-10-20,,,407981,,89,Senate,OR,,3,D,,21,,,,,,,,0,0.0,
+2,M001014,Wayne,Morse,1900-10-20,,,407981,,88,Senate,OR,,3,D,,19,,,,,,,,0,0.0,
+3,M001014,Wayne,Morse,1900-10-20,,,407981,,87,Senate,OR,,3,D,,17,,,,,,,,0,0.0,
+4,M001014,Wayne,Morse,1900-10-20,,,407981,,86,Senate,OR,,3,D,,15,,,,,,,,0,0.0,
+5,M001014,Wayne,Morse,1900-10-20,,,407981,,85,Senate,OR,,3,D,,13,,,,,,,,0,0.0,
+6,M001014,Wayne,Morse,1900-10-20,,,407981,,84,Senate,OR,,3,I,,11,,,,,,,,0,0.0,
+7,M001014,Wayne,Morse,1900-10-20,,,407981,,84,Senate,OR,,3,D,,11,,,,,,,,0,0.0,
+8,M001014,Wayne,Morse,1900-10-20,,,407981,,83,Senate,OR,,3,I,,9,,,,,,,,0,0.0,
+9,M001014,Wayne,Morse,1900-10-20,,,407981,,82,Senate,OR,,3,R,,7,,,,,,,,0,0.0,
+10,M001014,Wayne,Morse,1900-10-20,,,407981,,81,Senate,OR,,3,R,,5,,,,,,,,0,0.0,
+11,M001014,Wayne,Morse,1900-10-20,,,407981,,80,Senate,OR,,3,R,,3,,,,,,,,0,0.0,

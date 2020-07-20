@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000413,John,Hayworth,1958-07-12,M,,400173,,109,House,AZ,5,,R,,12,1214,12,1,27,275,90.8,,0,0.0,9.45
+1,H000413,John,Hayworth,1958-07-12,M,,400173,,108,House,AZ,5,,R,,10,1221,45,0,26,279,94.25,,0,0.0,5.92
+2,H000413,John,Hayworth,1958-07-12,M,,400173,,107,House,AZ,6,,R,,8,996,18,0,37,276,95.63,,0,0.0,4.89
+3,H000413,John,Hayworth,1958-07-12,M,,400173,,106,House,AZ,6,,R,,6,1214,13,0,26,328,93.04,,0,0.0,7.22
+4,H000413,John,Hayworth,1958-07-12,M,,400173,,105,House,AZ,6,,R,,4,1187,5,0,18,331,94.42,,0,0.0,6.1
+5,H000413,John,Hayworth,1958-07-12,M,,400173,,104,House,AZ,6,,R,,2,1340,2,0,8,215,96.29,,0,0.0,4.95

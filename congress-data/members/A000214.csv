@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000214,Douglas,Applegate,1928-03-27,M,,400906,,103,House,OH,18,,D,,18,1122,70,1,9,207,82.17,,0,0.0,17.34
+1,A000214,Douglas,Applegate,1928-03-27,M,,400906,,102,House,OH,18,,D,,16,933,21,0,,,79.26,,0,0.0,17.93
+2,A000214,Douglas,Applegate,1928-03-27,M,,400906,,101,House,OH,18,,D,,14,,,,,,,,0,0.0,
+3,A000214,Douglas,Applegate,1928-03-27,M,,400906,,100,House,OH,18,,D,,12,,,,,,,,0,0.0,
+4,A000214,Douglas,Applegate,1928-03-27,M,,400906,,99,House,OH,18,,D,,10,,,,,,,,0,0.0,
+5,A000214,Douglas,Applegate,1928-03-27,M,,400906,,98,House,OH,18,,D,,8,,,,,,,,0,0.0,

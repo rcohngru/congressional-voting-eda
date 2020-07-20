@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000582,Ted,Lieu,1969-03-29,M,D,412616,28076,116,House,CA,33,,D,,6,839,42,0,43,659,98.36,,4,2.0,1.51
+1,L000582,Ted,Lieu,1969-03-29,M,D,412616,28076,115,House,CA,33,,D,,4,1211,107,4,36,591,96.65,,3,3.0,3.35
+2,L000582,Ted,Lieu,1969-03-29,M,D,412616,28076,114,House,CA,33,,D,,2,1325,131,0,20,418,96.02,,0,2.0,3.9

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000814,Randy,Weber,1953-07-02,M,R,412574,79698,116,House,TX,14,,R,,8,839,44,0,7,317,90.48,,4,2.0,9.39
+1,W000814,Randy,Weber,1953-07-02,M,R,412574,79698,115,House,TX,14,,R,,6,1211,22,0,10,307,95.1,,5,2.0,4.9
+2,W000814,Randy,Weber,1953-07-02,M,R,412574,79698,114,House,TX,14,,R,,4,1325,8,0,14,285,93.57,,0,2.0,6.35
+3,W000814,Randy,Weber,1953-07-02,M,R,412574,79698,113,House,TX,14,,R,,2,1204,6,1,7,297,92.04,,0,2.0,7.88

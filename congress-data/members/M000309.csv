@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,113,House,NY,4,,D,,18,1204,698,1,10,296,93.84,,0,2.0,5.96
+1,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,112,House,NY,4,,D,,16,1607,107,1,15,259,92.69,,0,2.0,7.24
+2,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,111,House,NY,4,,D,,14,1655,174,2,50,323,97.96,,0,2.0,1.97
+3,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,110,House,NY,4,,D,,12,1873,46,1,59,563,99.44,,0,2.0,1.11
+4,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,109,House,NY,4,,D,,10,1214,45,1,33,671,95.4,,0,0.0,4.86
+5,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,108,House,NY,4,,D,,8,1221,33,0,18,473,95.89,,0,0.0,4.28
+6,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,107,House,NY,4,,D,,6,996,16,0,20,346,92.83,,0,0.0,7.59
+7,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,106,House,NY,4,,D,,4,1214,48,1,10,347,92.68,,0,0.0,7.58
+8,M000309,Carolyn,McCarthy,1944-01-05,F,D,400257,45040,105,House,NY,4,,D,,2,1187,17,1,2,200,89.3,,0,0.0,11.14

@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000492,David,Dreier,1952-07-05,M,R,400115,,112,House,CA,26,,R,,32,1607,19,0,35,57,93.97,,0,1.0,5.96
+1,D000492,David,Dreier,1952-07-05,M,R,400115,,111,House,CA,26,,R,,30,1655,30,0,9,127,94.07,,0,1.0,5.87
+2,D000492,David,Dreier,1952-07-05,M,R,400115,,110,House,CA,26,,R,,28,1873,46,1,12,152,95.27,,0,1.0,5.3
+3,D000492,David,Dreier,1952-07-05,M,R,400115,,109,House,CA,26,,R,,26,1214,2,0,37,90,96.4,,0,0.0,3.86
+4,D000492,David,Dreier,1952-07-05,M,R,400115,,108,House,CA,26,,R,,24,1221,38,0,24,107,96.08,,0,0.0,4.09
+5,D000492,David,Dreier,1952-07-05,M,R,400115,,107,House,CA,28,,R,,22,996,10,0,15,106,96.8,,0,0.0,3.71
+6,D000492,David,Dreier,1952-07-05,M,R,400115,,106,House,CA,28,,R,,20,1214,3,0,39,140,94.87,,0,0.0,5.39
+7,D000492,David,Dreier,1952-07-05,M,R,400115,,105,House,CA,28,,R,,18,1187,15,0,47,139,94.28,,0,0.0,6.24
+8,D000492,David,Dreier,1952-07-05,M,R,400115,,104,House,CA,28,,R,,16,1340,15,0,30,104,97.97,,0,0.0,3.28
+9,D000492,David,Dreier,1952-07-05,M,R,400115,,103,House,CA,28,,R,,14,1122,35,0,15,166,91.24,,0,0.0,8.0
+10,D000492,David,Dreier,1952-07-05,M,R,400115,,102,House,CA,33,,R,,12,933,24,0,,,81.97,,0,0.0,14.63
+11,D000492,David,Dreier,1952-07-05,M,R,400115,,101,House,CA,33,,R,,10,,,,,,,,0,0.0,
+12,D000492,David,Dreier,1952-07-05,M,R,400115,,100,House,CA,33,,R,,8,,,,,,,,0,0.0,
+13,D000492,David,Dreier,1952-07-05,M,R,400115,,99,House,CA,33,,R,,6,,,,,,,,0,0.0,
+14,D000492,David,Dreier,1952-07-05,M,R,400115,,98,House,CA,33,,R,,4,,,,,,,,0,0.0,

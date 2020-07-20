@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000021,Robert,Wagner,1877-06-08,M,,411200,,81,Senate,NY,,3,D,,22,,,,,,,,0,0.0,
+1,W000021,Robert,Wagner,1877-06-08,M,,411200,,80,Senate,NY,,3,D,,20,,,,,,,,0,0.0,

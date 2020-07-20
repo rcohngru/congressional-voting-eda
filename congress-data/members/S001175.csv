@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,116,House,CA,14,,D,,14,839,41,0,50,480,98.62,,6,3.0,1.26
+1,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,115,House,CA,14,,D,,12,1211,178,0,29,444,96.51,,4,2.0,3.49
+2,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,114,House,CA,14,,D,,10,1325,112,0,32,299,96.67,,0,3.0,3.25
+3,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,113,House,CA,14,,D,,8,1204,87,1,26,382,94.85,,0,2.0,5.06
+4,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,112,House,CA,12,,D,,6,1607,180,2,22,330,93.67,,0,3.0,6.25
+5,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,111,House,CA,12,,D,,4,1655,192,2,25,296,96.43,,0,2.0,3.5
+6,S001175,Jackie,Speier,1950-05-14,F,D,412259,1027627,110,House,CA,12,,D,,2,509,86,0,2,60,98.81,,0,0.0,1.19

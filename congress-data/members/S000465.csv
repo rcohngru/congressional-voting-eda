@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,111,House,MO,4,,D,,34,1655,37,1,19,209,94.71,,0,1.0,5.22
+1,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,110,House,MO,4,,D,,32,1873,43,1,20,209,96.56,,0,1.0,3.94
+2,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,109,House,MO,4,,D,,30,1214,44,0,4,206,86.84,,0,0.0,13.33
+3,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,108,House,MO,4,,D,,28,1221,23,0,5,184,88.36,,0,0.0,11.81
+4,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,107,House,MO,4,,D,,26,996,18,0,6,176,86.85,,0,0.0,13.67
+5,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,106,House,MO,4,,D,,24,1214,35,0,2,208,83.32,,0,0.0,16.85
+6,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,105,House,MO,4,,D,,22,1187,35,1,1,107,79.69,,0,0.0,20.85
+7,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,104,House,MO,4,,D,,20,1340,19,0,2,86,66.11,,0,0.0,35.17
+8,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,103,House,MO,4,,D,,18,1122,42,0,3,160,80.06,,0,0.0,19.18
+9,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,102,House,MO,4,,D,,16,933,29,0,,,77.22,,0,0.0,20.05
+10,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,101,House,MO,4,,D,,14,,,,,,,,0,0.0,
+11,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,100,House,MO,4,,D,,12,,,,,,,,0,0.0,
+12,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,99,House,MO,4,,D,,10,,,,,,,,0,0.0,
+13,S000465,Ike,Skelton,1931-12-20,M,D,400377,449,98,House,MO,4,,D,,8,,,,,,,,0,0.0,

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000066,William,Sarpalius,1948-01-10,M,,409578,,103,House,TX,13,,D,,6,1122,18,0,7,293,77.06,,0,0.0,22.19
+1,S000066,William,Sarpalius,1948-01-10,M,,409578,,102,House,TX,13,,D,,4,933,20,0,,,73.11,,0,0.0,24.18
+2,S000066,William,Sarpalius,1948-01-10,M,,409578,,101,House,TX,13,,D,,2,,,,,,,,0,0.0,

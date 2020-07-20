@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001278,Suzanne,Bonamici,1954-10-14,F,D,412501,63966,116,House,OR,1,,D,,10,839,4,0,30,577,98.56,,4,3.0,1.32
+1,B001278,Suzanne,Bonamici,1954-10-14,F,D,412501,63966,115,House,OR,1,,D,,8,1211,7,2,23,491,95.91,,4,2.0,4.09
+2,B001278,Suzanne,Bonamici,1954-10-14,F,D,412501,63966,114,House,OR,1,,D,,6,1325,33,0,13,241,97.1,,0,2.0,2.82
+3,B001278,Suzanne,Bonamici,1954-10-14,F,D,412501,63966,113,House,OR,1,,D,,4,1204,1,1,15,318,96.73,,0,2.0,3.19
+4,B001278,Suzanne,Bonamici,1954-10-14,F,D,412501,63966,112,House,OR,1,,D,,2,619,0,0,8,169,96.89,,0,2.0,3.11

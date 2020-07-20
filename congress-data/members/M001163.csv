@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,116,House,CA,6,,D,,16,839,8,0,33,368,98.67,,4,1.0,1.21
+1,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,115,House,CA,6,,D,,14,1211,16,2,10,426,97.68,,4,1.0,2.32
+2,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,114,House,CA,6,,D,,12,1325,11,0,12,323,98.16,,0,1.0,1.77
+3,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,113,House,CA,6,,D,,10,1204,24,1,20,305,94.44,,0,1.0,5.47
+4,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,112,House,CA,5,,D,,8,1607,8,1,16,224,94.67,,0,1.0,5.27
+5,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,111,House,CA,5,,D,,6,1655,15,0,45,474,98.77,,0,2.0,1.17
+6,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,110,House,CA,5,,D,,4,1873,14,0,42,624,99.29,,0,2.0,1.2
+7,M001163,Doris,Matsui,1944-09-25,F,D,400663,26602,109,House,CA,5,,D,,2,1151,15,2,2,371,96.7,,0,0.0,3.57

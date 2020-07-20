@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000582,Phil,Roe,1945-07-21,M,R,412310,1031360,116,House,TN,1,,R,,12,839,21,0,27,268,95.57,,1,2.0,4.31
+1,R000582,Phil,Roe,1945-07-21,M,R,412310,1031360,115,House,TN,1,,R,,10,1211,7,0,37,310,97.5,,2,2.0,2.5
+2,R000582,Phil,Roe,1945-07-21,M,R,412310,1031360,114,House,TN,1,,R,,8,1325,114,0,20,283,97.17,,0,2.0,2.75
+3,R000582,Phil,Roe,1945-07-21,M,R,412310,1031360,113,House,TN,1,,R,,6,1204,12,0,13,375,95.37,,0,2.0,4.55
+4,R000582,Phil,Roe,1945-07-21,M,R,412310,1031360,112,House,TN,1,,R,,4,1607,7,0,26,361,95.47,,0,2.0,4.47
+5,R000582,Phil,Roe,1945-07-21,M,R,412310,1031360,111,House,TN,1,,R,,2,1655,12,3,11,316,96.85,,0,2.0,3.09

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000292,Bill,Johnson,1954-11-10,M,R,412460,623472,116,House,OH,6,,R,,10,839,14,0,10,200,97.19,,3,2.0,2.69
+1,J000292,Bill,Johnson,1954-11-10,M,R,412460,623472,115,House,OH,6,,R,,8,1211,17,0,13,254,94.78,,3,2.0,5.22
+2,J000292,Bill,Johnson,1954-11-10,M,R,412460,623472,114,House,OH,6,,R,,6,1325,4,0,6,333,95.88,,0,2.0,4.04
+3,J000292,Bill,Johnson,1954-11-10,M,R,412460,623472,113,House,OH,6,,R,,4,1204,1,0,17,427,93.91,,0,2.0,6.01
+4,J000292,Bill,Johnson,1954-11-10,M,R,412460,623472,112,House,OH,6,,R,,2,1607,4,0,12,380,93.59,,0,3.0,6.35

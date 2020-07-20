@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000297,Rupert,Hartke,1919-05-31,M,,405170,,94,Senate,IN,,1,D,,17,,,,,,,,0,0.0,
+1,H000297,Rupert,Hartke,1919-05-31,M,,405170,,93,Senate,IN,,1,D,,15,,,,,,,,0,0.0,
+2,H000297,Rupert,Hartke,1919-05-31,M,,405170,,92,Senate,IN,,1,D,,13,,,,,,,,0,0.0,
+3,H000297,Rupert,Hartke,1919-05-31,M,,405170,,91,Senate,IN,,1,D,,11,,,,,,,,0,0.0,
+4,H000297,Rupert,Hartke,1919-05-31,M,,405170,,90,Senate,IN,,1,D,,9,,,,,,,,0,0.0,
+5,H000297,Rupert,Hartke,1919-05-31,M,,405170,,89,Senate,IN,,1,D,,7,,,,,,,,0,0.0,
+6,H000297,Rupert,Hartke,1919-05-31,M,,405170,,88,Senate,IN,,1,D,,5,,,,,,,,0,0.0,
+7,H000297,Rupert,Hartke,1919-05-31,M,,405170,,87,Senate,IN,,1,D,,3,,,,,,,,0,0.0,
+8,H000297,Rupert,Hartke,1919-05-31,M,,405170,,86,Senate,IN,,1,D,,1,,,,,,,,0,0.0,

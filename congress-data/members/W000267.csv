@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000267,David,Weldon,1953-08-31,M,,400427,,110,House,FL,15,,R,,14,1873,150,4,11,256,92.23,,0,1.0,8.3
+1,W000267,David,Weldon,1953-08-31,M,,400427,,109,House,FL,15,,R,,12,1214,38,0,15,230,95.25,,0,0.0,4.92
+2,W000267,David,Weldon,1953-08-31,M,,400427,,108,House,FL,15,,R,,10,1221,41,0,10,212,95.9,,0,0.0,4.18
+3,W000267,David,Weldon,1953-08-31,M,,400427,,107,House,FL,15,,R,,8,996,22,0,21,263,95.43,,0,0.0,4.89
+4,W000267,David,Weldon,1953-08-31,M,,400427,,106,House,FL,15,,R,,6,1214,36,1,13,262,95.41,,0,0.0,4.85
+5,W000267,David,Weldon,1953-08-31,M,,400427,,105,House,FL,15,,R,,4,1187,76,0,8,246,93.97,,0,0.0,6.59
+6,W000267,David,Weldon,1953-08-31,M,,400427,,104,House,FL,15,,R,,2,1340,13,0,5,202,96.65,,0,0.0,4.6

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001153,Hilda,Solis,1957-10-20,F,,400384,85603,111,House,CA,32,,D,,10,79,59,0,0,6,94.74,,0,0.0,0.0
+1,S001153,Hilda,Solis,1957-10-20,F,,400384,85603,110,House,CA,32,,D,,8,1873,44,0,31,518,99.0,,0,3.0,1.56
+2,S001153,Hilda,Solis,1957-10-20,F,,400384,85603,109,House,CA,32,,D,,6,1214,37,0,19,466,95.34,,0,0.0,4.91
+3,S001153,Hilda,Solis,1957-10-20,F,,400384,85603,108,House,CA,32,,D,,4,1221,39,0,13,397,95.69,,0,0.0,4.48
+4,S001153,Hilda,Solis,1957-10-20,F,,400384,85603,107,House,CA,31,,D,,2,996,38,1,10,447,95.0,,0,0.0,5.43

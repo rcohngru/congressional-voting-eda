@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,116,House,TN,9,,D,,14,839,14,0,44,1054,98.54,,8,3.0,1.34
+1,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,115,House,TN,9,,D,,12,1211,7,3,35,980,96.25,,5,3.0,3.75
+2,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,114,House,TN,9,,D,,10,1325,43,2,30,595,95.58,,0,2.0,4.34
+3,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,113,House,TN,9,,D,,8,1204,25,2,35,605,94.35,,0,2.0,5.56
+4,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,112,House,TN,9,,D,,6,1607,55,1,37,479,94.24,,0,2.0,5.69
+5,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,111,House,TN,9,,D,,4,1655,54,1,44,793,97.74,,0,2.0,2.2
+6,C001068,Steve,Cohen,1949-05-24,M,D,412236,1022876,110,House,TN,9,,D,,2,1873,26,3,22,1086,98.24,,0,2.0,2.31

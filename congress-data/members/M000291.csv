@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,103,House,KY,3,,D,,24,1122,6,0,21,233,87.67,,0,0.0,11.58
+1,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,102,House,KY,3,,D,,22,933,3,0,,,87.93,,0,0.0,9.19
+2,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,101,House,KY,3,,D,,20,,,,,,,,0,0.0,
+3,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,100,House,KY,3,,D,,18,,,,,,,,0,0.0,
+4,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,99,House,KY,3,,D,,16,,,,,,,,0,0.0,
+5,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,98,House,KY,3,,D,,14,,,,,,,,0,0.0,
+6,M000291,Romano,Mazzoli,1932-11-02,M,,407306,,98,House,AZ,1,,R,,2,,,,,,,,0,0.0,

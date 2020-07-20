@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,114,House,KY,1,,R,,22,1181,100,0,9,108,93.28,,0,1.0,6.62
+1,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,113,House,KY,1,,R,,20,1204,45,0,19,179,93.5,,0,1.0,6.41
+2,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,112,House,KY,1,,R,,18,1607,51,0,16,129,92.76,,0,1.0,7.18
+3,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,111,House,KY,1,,R,,16,1655,41,1,10,208,91.76,,0,1.0,8.18
+4,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,110,House,KY,1,,R,,14,1873,71,0,10,229,90.83,,0,1.0,9.57
+5,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,109,House,KY,1,,R,,12,1214,48,0,11,162,93.92,,0,0.0,6.25
+6,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,108,House,KY,1,,R,,10,1221,59,0,10,167,95.57,,0,0.0,4.6
+7,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,107,House,KY,1,,R,,8,996,33,1,9,202,96.73,,0,0.0,3.8
+8,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,106,House,KY,1,,R,,6,1214,34,0,10,272,93.8,,0,0.0,6.29
+9,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,105,House,KY,1,,R,,4,1187,30,0,10,145,93.42,,0,0.0,7.03
+10,W000413,Edward,Whitfield,1943-05-25,M,R,400431,36978,104,House,KY,1,,R,,2,1340,22,0,5,95,92.54,,0,0.0,8.72

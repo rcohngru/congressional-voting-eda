@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000116,Christopher,Cannon,1950-10-20,M,,400059,,110,House,UT,3,,R,,12,1873,172,3,17,162,90.45,,0,3.0,10.09
+1,C000116,Christopher,Cannon,1950-10-20,M,,400059,,109,House,UT,3,,R,,10,1209,104,0,25,225,94.4,,0,0.0,5.88
+2,C000116,Christopher,Cannon,1950-10-20,M,,400059,,108,House,UT,3,,R,,8,1221,125,0,16,195,94.84,,0,0.0,5.34
+3,C000116,Christopher,Cannon,1950-10-20,M,,400059,,107,House,UT,3,,R,,6,996,100,0,17,178,96.59,,0,0.0,3.98
+4,C000116,Christopher,Cannon,1950-10-20,M,,400059,,106,House,UT,3,,R,,4,1214,45,0,15,157,93.64,,0,0.0,6.63
+5,C000116,Christopher,Cannon,1950-10-20,M,,400059,,105,House,UT,3,,R,,2,1187,78,0,10,145,92.13,,0,0.0,8.43

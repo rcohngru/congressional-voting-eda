@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001185,Sean,Maloney,1966-07-30,M,D,412562,79760,116,House,NY,18,,D,,8,839,11,0,28,510,97.58,,7,3.0,2.3
+1,M001185,Sean,Maloney,1966-07-30,M,D,412562,79760,115,House,NY,18,,D,,6,1211,45,1,35,476,94.27,,6,2.0,5.73
+2,M001185,Sean,Maloney,1966-07-30,M,D,412562,79760,114,House,NY,18,,D,,4,1320,30,0,29,263,90.94,,0,2.0,8.98
+3,M001185,Sean,Maloney,1966-07-30,M,D,412562,79760,113,House,NY,18,,D,,2,1204,18,0,16,274,84.86,,0,2.0,15.05

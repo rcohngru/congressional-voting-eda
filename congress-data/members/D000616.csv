@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000616,Scott,DesJarlais,1964-02-21,M,R,412477,623517,116,House,TN,4,,R,,10,839,38,0,8,151,95.72,,4,2.0,4.16
+1,D000616,Scott,DesJarlais,1964-02-21,M,R,412477,623517,115,House,TN,4,,R,,8,1211,52,0,7,217,97.14,,6,3.0,2.86
+2,D000616,Scott,DesJarlais,1964-02-21,M,R,412477,623517,114,House,TN,4,,R,,6,1325,69,0,7,222,94.14,,0,3.0,5.78
+3,D000616,Scott,DesJarlais,1964-02-21,M,R,412477,623517,113,House,TN,4,,R,,4,1204,153,0,5,180,94.84,,0,3.0,5.06
+4,D000616,Scott,DesJarlais,1964-02-21,M,R,412477,623517,112,House,TN,4,,R,,2,1607,9,0,5,188,94.45,,0,3.0,5.48

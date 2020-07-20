@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000178,Bob,Carr,1943-03-27,M,,402325,,103,House,MI,8,,D,,18,1122,110,0,14,131,89.23,,0,0.0,9.96
+1,C000178,Bob,Carr,1943-03-27,M,,402325,,102,House,MI,6,,D,,16,927,48,0,,,85.48,,0,0.0,11.83
+2,C000178,Bob,Carr,1943-03-27,M,,402325,,101,House,MI,6,,D,,14,,,,,,,,0,0.0,
+3,C000178,Bob,Carr,1943-03-27,M,,402325,,100,House,MI,6,,D,,12,,,,,,,,0,0.0,
+4,C000178,Bob,Carr,1943-03-27,M,,402325,,99,House,MI,6,,D,,10,,,,,,,,0,0.0,
+5,C000178,Bob,Carr,1943-03-27,M,,402325,,98,House,MI,6,,D,,8,,,,,,,,0,0.0,

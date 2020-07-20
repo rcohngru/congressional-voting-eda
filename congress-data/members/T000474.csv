@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000474,Norma,Torres,1965-04-04,F,D,412617,76129,116,House,CA,35,,D,,6,839,17,0,27,318,98.66,,3,2.0,1.22
+1,T000474,Norma,Torres,1965-04-04,F,D,412617,76129,115,House,CA,35,,D,,4,1211,25,1,33,356,97.31,,4,2.0,2.69
+2,T000474,Norma,Torres,1965-04-04,F,D,412617,76129,114,House,CA,35,,D,,2,1325,18,0,8,171,96.52,,0,2.0,3.4

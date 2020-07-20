@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000994,Randy,Cunningham,1941-12-08,M,,400091,,109,House,CA,50,,R,,16,608,42,0,9,115,96.77,,0,0.0,3.41
+1,C000994,Randy,Cunningham,1941-12-08,M,,400091,,108,House,CA,50,,R,,14,1221,26,2,16,223,97.13,,0,0.0,3.04
+2,C000994,Randy,Cunningham,1941-12-08,M,,400091,,107,House,CA,51,,R,,12,996,19,0,16,239,97.5,,0,0.0,3.02
+3,C000994,Randy,Cunningham,1941-12-08,M,,400091,,106,House,CA,51,,R,,10,1214,30,0,17,362,95.95,,0,0.0,4.31
+4,C000994,Randy,Cunningham,1941-12-08,M,,400091,,105,House,CA,51,,R,,8,1187,51,1,13,331,95.64,,0,0.0,4.9
+5,C000994,Randy,Cunningham,1941-12-08,M,,400091,,104,House,CA,51,,R,,6,1340,13,0,18,301,96.1,,0,0.0,5.15
+6,C000994,Randy,Cunningham,1941-12-08,M,,400091,,103,House,CA,51,,R,,4,1122,23,1,7,225,92.37,,0,0.0,6.97
+7,C000994,Randy,Cunningham,1941-12-08,M,,400091,,102,House,CA,44,,R,,2,933,34,0,,,89.26,,0,0.0,7.31

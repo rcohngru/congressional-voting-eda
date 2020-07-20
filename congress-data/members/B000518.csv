@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000518,Rod,Blagojevich,1956-12-10,M,,400518,,107,House,IL,5,,D,,6,996,226,0,9,428,92.55,,0,0.0,7.98
+1,B000518,Rod,Blagojevich,1956-12-10,M,,400518,,106,House,IL,5,,D,,4,1214,66,1,25,361,91.42,,0,0.0,8.84
+2,B000518,Rod,Blagojevich,1956-12-10,M,,400518,,105,House,IL,5,,D,,2,1187,37,2,8,205,91.64,,0,0.0,8.9

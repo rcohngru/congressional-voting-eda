@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000601,John,Ratcliffe,1965-10-20,M,R,412653,76455,116,House,TX,4,,R,,6,810,100,0,9,129,94.61,,6,4.0,5.25
+1,R000601,John,Ratcliffe,1965-10-20,M,R,412653,76455,115,House,TX,4,,R,,4,1211,81,0,17,205,94.84,,4,3.0,5.16
+2,R000601,John,Ratcliffe,1965-10-20,M,R,412653,76455,114,House,TX,4,,R,,2,1325,8,0,18,150,94.57,,0,2.0,5.36

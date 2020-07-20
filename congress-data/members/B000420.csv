@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,111,House,AR,1,,D,,14,1655,155,2,14,212,93.7,,0,2.0,6.24
+1,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,110,House,AR,1,,D,,12,1873,56,0,14,280,96.36,,0,2.0,4.19
+2,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,109,House,AR,1,,D,,10,1214,5,0,27,267,84.56,,0,0.0,15.69
+3,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,108,House,AR,1,,D,,8,1221,31,1,12,225,85.97,,0,0.0,14.2
+4,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,107,House,AR,1,,D,,6,996,1,0,14,179,83.01,,0,0.0,17.4
+5,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,106,House,AR,1,,D,,4,1214,19,0,10,157,81.66,,0,0.0,18.59
+6,B000420,Marion,Berry,1942-08-27,M,D,400026,45115,105,House,AR,1,,D,,2,1187,21,0,5,110,80.37,,0,0.0,19.98

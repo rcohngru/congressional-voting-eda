@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001076,Jason,Chaffetz,1967-03-26,M,R,412270,1031362,115,House,UT,3,,R,,10,345,45,0,20,52,98.99,,0,2.0,1.01
+1,C001076,Jason,Chaffetz,1967-03-26,M,R,412270,1031362,114,House,UT,3,,R,,8,1325,52,0,37,101,94.93,,0,2.0,4.99
+2,C001076,Jason,Chaffetz,1967-03-26,M,R,412270,1031362,113,House,UT,3,,R,,6,1204,76,0,29,141,93.86,,0,3.0,6.05
+3,C001076,Jason,Chaffetz,1967-03-26,M,R,412270,1031362,112,House,UT,3,,R,,4,1607,55,0,27,267,91.63,,0,3.0,8.31
+4,C001076,Jason,Chaffetz,1967-03-26,M,R,412270,1031362,111,House,UT,3,,R,,2,1655,15,6,26,369,90.97,,0,3.0,8.97

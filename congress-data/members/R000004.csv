@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,111,House,CA,19,,R,,16,1655,434,0,4,193,95.11,,0,1.0,4.81
+1,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,110,House,CA,19,,R,,14,1873,227,1,7,229,94.5,,0,1.0,6.06
+2,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,109,House,CA,19,,R,,12,1214,73,0,16,173,94.93,,0,0.0,5.33
+3,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,108,House,CA,19,,R,,10,1221,66,0,18,130,96.15,,0,0.0,4.02
+4,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,107,House,CA,19,,R,,8,996,73,0,19,170,96.81,,0,0.0,3.63
+5,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,106,House,CA,19,,R,,6,1214,63,1,17,211,94.6,,0,0.0,5.58
+6,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,105,House,CA,19,,R,,4,1187,58,1,10,166,93.8,,0,0.0,6.75
+7,R000004,George,Radanovich,1955-06-20,M,R,400330,36533,104,House,CA,19,,R,,2,1340,63,0,6,174,96.43,,0,0.0,4.87

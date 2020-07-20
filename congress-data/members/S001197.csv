@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001197,Ben,Sasse,1972-02-22,M,R,412671,77429,116,Senate,NE,,2,R,,1,557,19,0,15,93,93.83,,6,4.0,6.17
+1,S001197,Ben,Sasse,1972-02-22,M,R,412671,77429,115,Senate,NE,,2,R,,3,599,6,0,15,85,94.9,,11,4.0,5.1
+2,S001197,Ben,Sasse,1972-02-22,M,R,412671,77429,114,Senate,NE,,2,R,,1,502,5,0,10,68,85.25,,0,5.0,14.75

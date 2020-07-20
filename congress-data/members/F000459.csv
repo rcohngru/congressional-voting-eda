@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000459,Chuck,Fleischmann,1962-10-11,M,R,412476,95146,116,House,TN,3,,R,,10,839,0,0,4,177,94.23,,2,1.0,5.65
+1,F000459,Chuck,Fleischmann,1962-10-11,M,R,412476,95146,115,House,TN,3,,R,,8,1211,1,0,4,164,97.34,,3,1.0,2.66
+2,F000459,Chuck,Fleischmann,1962-10-11,M,R,412476,95146,114,House,TN,3,,R,,6,1325,10,0,7,128,96.93,,0,1.0,2.99
+3,F000459,Chuck,Fleischmann,1962-10-11,M,R,412476,95146,113,House,TN,3,,R,,4,1204,14,0,4,142,97.05,,0,1.0,2.87
+4,F000459,Chuck,Fleischmann,1962-10-11,M,R,412476,95146,112,House,TN,3,,R,,2,1607,29,0,6,142,95.92,,0,4.0,4.02

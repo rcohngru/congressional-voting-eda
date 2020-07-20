@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001143,Mark,Souder,1950-07-18,M,R,400385,,111,House,IN,3,,R,,16,1281,111,1,7,382,92.74,,0,3.0,7.17
+1,S001143,Mark,Souder,1950-07-18,M,R,400385,,110,House,IN,3,,R,,14,1873,124,2,9,525,92.43,,0,3.0,8.04
+2,S001143,Mark,Souder,1950-07-18,M,R,400385,,109,House,IN,3,,R,,12,1214,44,2,16,514,94.81,,0,0.0,5.28
+3,S001143,Mark,Souder,1950-07-18,M,R,400385,,108,House,IN,3,,R,,10,1221,75,1,18,454,95.7,,0,0.0,4.3
+4,S001143,Mark,Souder,1950-07-18,M,R,400385,,107,House,IN,4,,R,,8,996,58,0,5,443,95.44,,0,0.0,5.1
+5,S001143,Mark,Souder,1950-07-18,M,R,400385,,106,House,IN,4,,R,,6,1214,47,1,13,290,92.15,,0,0.0,8.03
+6,S001143,Mark,Souder,1950-07-18,M,R,400385,,105,House,IN,4,,R,,4,1187,49,5,10,238,91.12,,0,0.0,9.42
+7,S001143,Mark,Souder,1950-07-18,M,R,400385,,104,House,IN,4,,R,,2,1340,25,5,3,213,91.27,,0,0.0,9.99

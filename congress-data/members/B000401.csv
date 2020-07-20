@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,103,Senate,TX,,1,D,,23,0,0,0,,,0.0,,0,0.0,0.0
+1,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,102,Senate,TX,,1,D,,21,550,30,0,,,82.91,,0,0.0,17.09
+2,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,101,Senate,TX,,1,D,,19,638,14,0,,,,,0,0.0,
+3,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,100,Senate,TX,,1,D,,17,,,,,,,,0,0.0,
+4,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,99,Senate,TX,,1,D,,15,,,,,,,,0,0.0,
+5,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,98,Senate,TX,,1,D,,13,,,,,,,,0,0.0,
+6,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,97,Senate,TX,,1,D,,11,,,,,,,,0,0.0,
+7,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,96,Senate,TX,,1,D,,9,,,,,,,,0,0.0,
+8,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,95,Senate,TX,,1,D,,7,,,,,,,,0,0.0,
+9,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,94,Senate,TX,,1,D,,5,,,,,,,,0,0.0,
+10,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,93,Senate,TX,,1,D,,3,,,,,,,,0,0.0,
+11,B000401,Lloyd,Bentsen,1921-02-11,,,401391,,92,Senate,TX,,1,D,,1,,,,,,,,0,0.0,

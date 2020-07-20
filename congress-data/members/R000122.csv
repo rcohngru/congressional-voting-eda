@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,116,Senate,RI,,2,D,,23,557,3,1,32,409,94.58,,16,4.0,5.42
+1,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,115,Senate,RI,,2,D,,21,599,0,1,33,312,94.92,,9,4.0,5.08
+2,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,114,Senate,RI,,2,D,,19,502,0,0,41,185,97.57,,0,4.0,2.43
+3,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,113,Senate,RI,,2,D,,17,657,4,0,57,199,97.86,,12,3.0,2.14
+4,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,112,Senate,RI,,2,D,,15,486,2,0,38,170,96.26,,0,0.0,3.74
+5,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,111,Senate,RI,,2,D,,13,696,5,0,37,161,97.53,,0,4.0,2.47
+6,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,110,Senate,RI,,2,D,,11,657,5,0,36,227,95.97,,0,4.0,4.03
+7,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,109,Senate,RI,,2,D,,9,645,1,0,36,230,94.95,,0,0.0,5.05
+8,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,108,Senate,RI,,2,D,,7,675,8,0,20,192,95.55,,0,0.0,4.45
+9,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,107,Senate,RI,,2,D,,5,633,3,0,33,187,94.68,,0,0.0,5.32
+10,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,106,Senate,RI,,2,D,,3,672,5,0,31,199,93.85,,0,0.0,6.15
+11,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,105,Senate,RI,,2,D,,1,612,2,0,17,131,94.67,,0,0.0,5.33
+12,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,104,House,RI,2,,D,,6,1340,6,0,9,113,92.42,,0,0.0,8.85
+13,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,103,House,RI,2,,D,,4,1122,10,0,16,214,93.77,,0,0.0,5.58
+14,R000122,Jack,Reed,1949-11-12,M,D,300081,24239,102,House,RI,2,,D,,2,933,9,0,,,91.29,,0,0.0,5.8

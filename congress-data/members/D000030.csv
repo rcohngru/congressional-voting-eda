@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000030,John,Danforth,1936-09-05,M,,403171,103,103,Senate,MO,,1,R,,17,724,18,1,43,166,78.29,,0,0.0,21.71
+1,D000030,John,Danforth,1936-09-05,M,,403171,103,102,Senate,MO,,1,R,,15,550,24,0,,,83.08,,0,0.0,16.92
+2,D000030,John,Danforth,1936-09-05,M,,403171,103,101,Senate,MO,,1,R,,13,638,7,0,,,,,0,0.0,
+3,D000030,John,Danforth,1936-09-05,M,,403171,103,100,Senate,MO,,1,R,,11,,,,,,,,0,0.0,
+4,D000030,John,Danforth,1936-09-05,M,,403171,103,99,Senate,MO,,1,R,,9,,,,,,,,0,0.0,
+5,D000030,John,Danforth,1936-09-05,M,,403171,103,98,Senate,MO,,1,R,,7,,,,,,,,0,0.0,
+6,D000030,John,Danforth,1936-09-05,M,,403171,103,97,Senate,MO,,1,R,,5,,,,,,,,0,0.0,
+7,D000030,John,Danforth,1936-09-05,M,,403171,103,96,Senate,MO,,1,R,,3,,,,,,,,0,0.0,
+8,D000030,John,Danforth,1936-09-05,M,,403171,103,95,Senate,MO,,1,R,,1,,,,,,,,0,0.0,
+9,D000030,John,Danforth,1936-09-05,M,,403171,103,94,Senate,MO,,1,R,,1,,,,,,,,0,0.0,

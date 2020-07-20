@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000571,Tulsi,Gabbard,1981-04-12,F,D,412532,1025291,116,House,HI,2,,D,,8,839,333,2,36,399,98.02,,4,2.0,1.78
+1,G000571,Tulsi,Gabbard,1981-04-12,F,D,412532,1025291,115,House,HI,2,,D,,6,1211,68,2,23,346,94.79,,4,2.0,5.21
+2,G000571,Tulsi,Gabbard,1981-04-12,F,D,412532,1025291,114,House,HI,2,,D,,4,1325,11,0,25,215,94.62,,0,2.0,5.31
+3,G000571,Tulsi,Gabbard,1981-04-12,F,D,412532,1025291,113,House,HI,2,,D,,2,1204,46,1,12,229,92.69,,0,3.0,7.22

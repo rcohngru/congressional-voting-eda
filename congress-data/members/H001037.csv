@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001037,Stephanie,Herseth Sandlin,1970-12-03,F,D,400443,22061,111,House,SD,At-Large,,D,,8,1655,43,0,34,287,91.32,,0,3.0,8.61
+1,H001037,Stephanie,Herseth Sandlin,1970-12-03,F,D,400443,22061,110,House,SD,At-Large,,D,,6,1873,21,1,41,372,94.13,,0,5.0,6.42
+2,H001037,Stephanie,Herseth Sandlin,1970-12-03,F,D,400443,22061,109,House,SD,At-Large,,D,,4,1214,37,0,30,373,87.23,,0,0.0,13.03
+3,H001037,Stephanie,Herseth Sandlin,1970-12-03,F,D,400443,22061,108,House,SD,At-Large,,D,,2,321,4,0,9,67,87.82,,0,0.0,12.18

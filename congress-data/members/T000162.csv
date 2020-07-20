@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000162,Craig,Thomas,1933-02-17,M,,300097,,110,Senate,WY,,1,R,,13,181,17,0,11,51,91.41,,0,5.0,8.59
+1,T000162,Craig,Thomas,1933-02-17,M,,300097,,109,Senate,WY,,1,R,,11,645,25,0,29,124,92.05,,0,0.0,7.95
+2,T000162,Craig,Thomas,1933-02-17,M,,300097,,108,Senate,WY,,1,R,,9,675,11,0,17,101,95.75,,0,0.0,4.25
+3,T000162,Craig,Thomas,1933-02-17,M,,300097,,107,Senate,WY,,1,R,,7,633,24,0,16,111,93.72,,0,0.0,6.28
+4,T000162,Craig,Thomas,1933-02-17,M,,300097,,106,Senate,WY,,1,R,,5,672,22,1,26,189,93.2,,0,0.0,6.8
+5,T000162,Craig,Thomas,1933-02-17,M,,300097,,105,Senate,WY,,1,R,,3,612,2,0,16,147,93.71,,0,0.0,6.29
+6,T000162,Craig,Thomas,1933-02-17,M,,300097,,104,Senate,WY,,1,R,,1,916,9,0,19,175,93.57,,0,0.0,6.43
+7,T000162,Craig,Thomas,1933-02-17,M,,300097,,103,House,WY,At-Large,,R,,6,1122,60,1,20,261,90.64,,0,0.0,8.58
+8,T000162,Craig,Thomas,1933-02-17,M,,300097,,102,House,WY,At-Large,,R,,2,933,32,0,,,85.78,,0,0.0,10.81
+9,T000162,Craig,Thomas,1933-02-17,M,,300097,,101,House,WY,At-Large,,R,,2,,,,,,,,0,0.0,

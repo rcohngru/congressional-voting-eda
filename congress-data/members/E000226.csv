@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,111,House,NC,2,,D,,14,1655,25,0,11,213,97.72,,0,2.0,2.22
+1,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,110,House,NC,2,,D,,12,1873,14,1,16,350,98.09,,0,3.0,2.46
+2,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,109,House,NC,2,,D,,10,1214,18,0,8,310,92.02,,0,0.0,8.23
+3,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,108,House,NC,2,,D,,8,1221,9,0,5,305,93.62,,0,0.0,6.55
+4,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,107,House,NC,2,,D,,6,996,5,0,9,233,91.86,,0,0.0,8.65
+5,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,106,House,NC,2,,D,,4,1214,15,1,7,241,90.18,,0,0.0,10.08
+6,E000226,Bob,Etheridge,1941-08-07,M,D,400125,45577,105,House,NC,2,,D,,2,1187,17,2,8,144,88.74,,0,0.0,11.8

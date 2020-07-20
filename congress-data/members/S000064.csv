@@ -1,0 +1,16 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,109,Senate,MD,,1,D,,29,645,7,0,20,189,94.9,,0,0.0,5.1
+1,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,108,Senate,MD,,1,D,,27,675,17,0,23,250,97.2,,0,0.0,2.8
+2,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,107,Senate,MD,,1,D,,25,633,2,0,31,232,95.65,,0,0.0,4.35
+3,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,106,Senate,MD,,1,D,,23,672,3,0,24,260,94.47,,0,0.0,5.53
+4,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,105,Senate,MD,,1,D,,21,612,3,0,19,122,95.33,,0,0.0,4.67
+5,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,104,Senate,MD,,1,D,,19,916,6,0,13,68,94.28,,0,0.0,5.72
+6,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,103,Senate,MD,,1,D,,17,724,2,0,20,176,97.05,,0,0.0,2.95
+7,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,102,Senate,MD,,1,D,,15,550,0,0,,,91.45,,0,0.0,8.55
+8,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,101,Senate,MD,,1,D,,13,638,4,0,,,,,0,0.0,
+9,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,100,Senate,MD,,1,D,,11,,,,,,,,0,0.0,
+10,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,99,Senate,MD,,1,D,,9,,,,,,,,0,0.0,
+11,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,98,Senate,MD,,1,D,,7,,,,,,,,0,0.0,
+12,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,97,Senate,MD,,1,D,,5,,,,,,,,0,0.0,
+13,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,96,Senate,MD,,1,D,,3,,,,,,,,0,0.0,
+14,S000064,Paul,Sarbanes,1933-02-03,M,,300086,,95,Senate,MD,,1,D,,1,,,,,,,,0,0.0,

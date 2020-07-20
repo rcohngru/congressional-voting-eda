@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000481,James,Rowland,1926-02-03,M,,409442,,103,House,GA,8,,D,,12,1122,28,0,16,162,81.42,,0,0.0,17.83
+1,R000481,James,Rowland,1926-02-03,M,,409442,,102,House,GA,8,,D,,10,933,41,0,,,80.8,,0,0.0,16.44
+2,R000481,James,Rowland,1926-02-03,M,,409442,,101,House,GA,8,,D,,8,,,,,,,,0,0.0,
+3,R000481,James,Rowland,1926-02-03,M,,409442,,100,House,GA,8,,D,,6,,,,,,,,0,0.0,
+4,R000481,James,Rowland,1926-02-03,M,,409442,,99,House,GA,8,,D,,4,,,,,,,,0,0.0,
+5,R000481,James,Rowland,1926-02-03,M,,409442,,98,House,GA,8,,D,,2,,,,,,,,0,0.0,

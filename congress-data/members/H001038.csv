@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,116,House,NY,26,,D,,14,839,12,0,14,434,99.03,,3,2.0,0.85
+1,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,115,House,NY,26,,D,,12,1211,42,1,9,392,97.37,,2,2.0,2.63
+2,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,114,House,NY,26,,D,,10,1320,29,0,16,290,97.73,,0,2.0,2.19
+3,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,113,House,NY,26,,D,,8,1204,67,1,11,325,96.55,,0,2.0,3.37
+4,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,112,House,NY,27,,D,,6,1607,35,1,14,240,94.18,,0,2.0,5.75
+5,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,111,House,NY,27,,D,,4,1655,82,0,12,316,98.98,,0,1.0,0.96
+6,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,110,House,NY,27,,D,,2,1873,134,0,12,427,98.89,,0,3.0,1.58
+7,H001038,Brian,Higgins,1959-10-06,M,D,400641,1013050,109,House,NY,27,,D,,2,1214,42,0,7,394,93.17,,0,0.0,7.09

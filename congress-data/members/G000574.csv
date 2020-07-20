@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000574,Ruben,Gallego,1979-11-20,M,D,412612,77233,116,House,AZ,7,,D,,6,839,20,0,30,599,98.78,,4,2.0,1.1
+1,G000574,Ruben,Gallego,1979-11-20,M,D,412612,77233,115,House,AZ,7,,D,,4,1211,32,2,12,485,97.04,,5,2.0,2.96
+2,G000574,Ruben,Gallego,1979-11-20,M,D,412612,77233,114,House,AZ,7,,D,,2,1325,18,0,10,198,98.38,,0,2.0,1.55

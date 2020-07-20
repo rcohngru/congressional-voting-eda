@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000811,George,Mitchell,1933-08-20,M,,407786,,103,Senate,ME,,1,D,,13,724,0,0,129,139,95.65,,0,0.0,4.35
+1,M000811,George,Mitchell,1933-08-20,M,,407786,,102,Senate,ME,,1,D,,11,550,0,0,,,91.82,,0,0.0,8.18
+2,M000811,George,Mitchell,1933-08-20,M,,407786,,101,Senate,ME,,1,D,,9,638,0,0,,,,,0,0.0,
+3,M000811,George,Mitchell,1933-08-20,M,,407786,,100,Senate,ME,,1,D,,7,,,,,,,,0,0.0,
+4,M000811,George,Mitchell,1933-08-20,M,,407786,,99,Senate,ME,,1,D,,5,,,,,,,,0,0.0,
+5,M000811,George,Mitchell,1933-08-20,M,,407786,,98,Senate,ME,,1,D,,3,,,,,,,,0,0.0,
+6,M000811,George,Mitchell,1933-08-20,M,,407786,,97,Senate,ME,,1,D,,1,,,,,,,,0,0.0,
+7,M000811,George,Mitchell,1933-08-20,M,,407786,,96,Senate,ME,,1,D,,1,,,,,,,,0,0.0,

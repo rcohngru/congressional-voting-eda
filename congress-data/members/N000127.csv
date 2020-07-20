@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000127,Rick,Nolan,1943-12-17,M,D,408211,1001760,115,House,MN,8,,D,,6,1211,113,1,31,400,95.34,,5,2.0,4.66
+1,N000127,Rick,Nolan,1943-12-17,M,D,408211,1001760,114,House,MN,8,,D,,4,1317,60,0,22,304,93.65,,0,2.0,6.27
+2,N000127,Rick,Nolan,1943-12-17,M,D,408211,1001760,113,House,MN,8,,D,,2,1204,24,1,17,294,90.94,,0,2.0,8.97

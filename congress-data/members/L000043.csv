@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000043,Nicholas,Lampson,1945-02-14,M,,400229,,110,House,TX,22,,D,,2,1873,188,0,43,347,82.92,,0,3.0,17.68
+1,L000043,Nicholas,Lampson,1945-02-14,M,,400229,,108,House,TX,9,,D,,8,1221,47,0,7,322,92.03,,0,0.0,8.14
+2,L000043,Nicholas,Lampson,1945-02-14,M,,400229,,107,House,TX,9,,D,,6,996,41,0,12,287,93.16,,0,0.0,7.37
+3,L000043,Nicholas,Lampson,1945-02-14,M,,400229,,106,House,TX,9,,D,,4,1214,21,0,14,300,91.83,,0,0.0,8.43
+4,L000043,Nicholas,Lampson,1945-02-14,M,,400229,,105,House,TX,9,,D,,2,1187,28,0,5,257,91.43,,0,0.0,9.12

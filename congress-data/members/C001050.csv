@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001050,Dennis,Cardoza,1959-03-31,M,D,400065,87444,112,House,CA,18,,D,,10,1504,291,2,4,146,72.08,,0,2.0,27.83
+1,C001050,Dennis,Cardoza,1959-03-31,M,D,400065,87444,111,House,CA,18,,D,,8,1655,107,1,31,258,96.62,,0,2.0,3.31
+2,C001050,Dennis,Cardoza,1959-03-31,M,D,400065,87444,110,House,CA,18,,D,,6,1873,77,1,37,296,97.63,,0,2.0,2.88
+3,C001050,Dennis,Cardoza,1959-03-31,M,D,400065,87444,109,House,CA,18,,D,,4,1214,51,0,9,361,88.07,,0,0.0,12.2
+4,C001050,Dennis,Cardoza,1959-03-31,M,D,400065,87444,108,House,CA,18,,D,,2,1221,21,1,4,306,89.99,,0,0.0,10.18

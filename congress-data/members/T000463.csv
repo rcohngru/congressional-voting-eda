@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,116,House,OH,10,,R,,18,839,17,0,13,244,90.18,,4,2.0,9.69
+1,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,115,House,OH,10,,R,,16,1211,34,0,16,200,92.91,,4,2.0,7.09
+2,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,114,House,OH,10,,R,,14,1325,67,0,20,130,91.67,,0,3.0,8.25
+3,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,113,House,OH,10,,R,,12,1204,9,0,22,158,91.01,,0,2.0,8.91
+4,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,112,House,OH,3,,R,,10,1607,15,0,18,175,90.06,,0,2.0,9.87
+5,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,111,House,OH,3,,R,,8,1655,29,0,17,252,88.89,,0,3.0,11.05
+6,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,110,House,OH,3,,R,,6,1873,39,0,10,170,90.13,,0,3.0,10.43
+7,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,109,House,OH,3,,R,,4,1214,19,1,9,114,95.41,,0,0.0,4.85
+8,T000463,Michael,Turner,1960-01-11,M,R,400411,1003607,108,House,OH,3,,R,,2,1221,24,0,6,133,97.3,,0,0.0,2.87

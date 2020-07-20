@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001018,Earl,Hutto,1926-05-12,M,,405855,,103,House,FL,1,,D,,16,1122,46,0,7,250,69.13,,0,0.0,30.19
+1,H001018,Earl,Hutto,1926-05-12,M,,405855,,102,House,FL,1,,D,,14,933,38,0,,,65.52,,0,0.0,31.49
+2,H001018,Earl,Hutto,1926-05-12,M,,405855,,101,House,FL,1,,D,,12,,,,,,,,0,0.0,
+3,H001018,Earl,Hutto,1926-05-12,M,,405855,,100,House,FL,1,,D,,10,,,,,,,,0,0.0,
+4,H001018,Earl,Hutto,1926-05-12,M,,405855,,99,House,FL,1,,D,,8,,,,,,,,0,0.0,
+5,H001018,Earl,Hutto,1926-05-12,M,,405855,,98,House,FL,1,,D,,6,,,,,,,,0,0.0,

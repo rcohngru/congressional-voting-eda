@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,112,House,NY,22,,D,,20,1607,300,2,13,473,93.18,,0,2.0,6.74
+1,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,111,House,NY,22,,D,,18,1655,94,2,25,812,97.49,,0,2.0,2.45
+2,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,110,House,NY,22,,D,,16,1873,75,1,24,896,97.29,,0,3.0,3.28
+3,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,109,House,NY,22,,D,,14,1214,73,4,27,661,91.3,,0,0.0,8.88
+4,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,108,House,NY,22,,D,,12,1221,98,7,19,612,92.67,,0,0.0,7.42
+5,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,107,House,NY,26,,D,,10,996,47,2,12,678,88.0,,0,0.0,12.43
+6,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,106,House,NY,26,,D,,8,1214,72,3,15,671,90.89,,0,0.0,9.2
+7,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,105,House,NY,26,,D,,6,1187,44,0,15,502,88.77,,0,0.0,11.78
+8,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,104,House,NY,26,,D,,4,1340,29,1,9,329,91.97,,0,0.0,9.31
+9,H000627,Maurice,Hinchey,1938-10-27,M,D,400178,26164,103,House,NY,26,,D,,2,1122,47,0,9,467,92.98,,0,0.0,6.35

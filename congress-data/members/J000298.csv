@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000298,Pramila,Jayapal,1965-09-21,F,D,412730,9267128,116,House,WA,7,,D,,4,839,9,0,25,632,97.58,,4,3.0,2.29
+1,J000298,Pramila,Jayapal,1965-09-21,F,D,412730,9267128,115,House,WA,7,,D,,2,1211,23,1,18,655,96.11,,3,2.0,3.89

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,116,House,FL,14,,D,,14,839,5,0,14,521,99.52,,3,2.0,0.36
+1,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,115,House,FL,14,,D,,12,1211,43,0,12,328,97.45,,3,1.0,2.55
+2,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,114,House,FL,14,,D,,10,1325,41,1,12,227,96.85,,0,2.0,3.07
+3,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,113,House,FL,14,,D,,8,1204,62,1,9,264,94.52,,0,2.0,5.39
+4,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,112,House,FL,11,,D,,6,1607,79,1,7,224,94.75,,0,2.0,5.18
+5,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,111,House,FL,11,,D,,4,1655,48,31,12,317,96.93,,0,3.0,3.01
+6,C001066,Kathy,Castor,1966-08-20,F,D,412195,1022874,110,House,FL,11,,D,,2,1873,75,0,33,336,98.59,,0,2.0,1.98

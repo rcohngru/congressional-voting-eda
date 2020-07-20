@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,116,House,TX,11,,R,,16,839,1,0,19,133,94.71,,5,3.0,5.17
+1,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,115,House,TX,11,,R,,14,1211,2,0,24,124,95.26,,4,3.0,4.74
+2,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,114,House,TX,11,,R,,12,1325,0,0,16,134,96.96,,0,3.0,2.97
+3,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,113,House,TX,11,,R,,10,1204,17,2,6,224,93.83,,0,4.0,6.09
+4,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,112,House,TX,11,,R,,8,1607,0,0,6,255,95.24,,0,4.0,4.7
+5,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,111,House,TX,11,,R,,6,1655,36,31,12,438,92.85,,0,5.0,7.08
+6,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,110,House,TX,11,,R,,4,1873,85,5,14,399,92.75,,0,3.0,7.71
+7,C001062,K.,Conaway,1948-06-11,M,R,400655,1004595,109,House,TX,11,,R,,2,1214,48,0,7,271,95.9,,0,0.0,4.36

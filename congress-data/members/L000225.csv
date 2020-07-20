@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000225,Richard,Lehman,1948-07-20,M,,406729,,103,House,CA,19,,D,,12,1122,89,1,19,213,88.21,,0,0.0,11.19
+1,L000225,Richard,Lehman,1948-07-20,M,,406729,,102,House,CA,18,,D,,10,933,77,0,,,87.15,,0,0.0,10.2
+2,L000225,Richard,Lehman,1948-07-20,M,,406729,,101,House,CA,18,,D,,8,,,,,,,,0,0.0,
+3,L000225,Richard,Lehman,1948-07-20,M,,406729,,100,House,CA,18,,D,,6,,,,,,,,0,0.0,
+4,L000225,Richard,Lehman,1948-07-20,M,,406729,,99,House,CA,18,,D,,4,,,,,,,,0,0.0,
+5,L000225,Richard,Lehman,1948-07-20,M,,406729,,98,House,CA,18,,D,,2,,,,,,,,0,0.0,

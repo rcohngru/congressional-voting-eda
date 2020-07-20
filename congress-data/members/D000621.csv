@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000621,Ron,DeSantis,1978-09-14,M,R,412526,79744,115,House,FL,6,,R,,6,1104,116,0,14,154,94.21,,6,3.0,5.79
+1,D000621,Ron,DeSantis,1978-09-14,M,R,412526,79744,114,House,FL,6,,R,,4,1325,32,0,15,145,94.7,,0,3.0,5.22
+2,D000621,Ron,DeSantis,1978-09-14,M,R,412526,79744,113,House,FL,6,,R,,2,1204,4,0,11,203,93.31,,0,3.0,6.61

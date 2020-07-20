@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001163,Ken,Salazar,1955-03-02,M,,400619,,111,Senate,CO,,3,D,,5,5,0,0,6,5,100.0,,0,0.0,0.0
+1,S001163,Ken,Salazar,1955-03-02,M,,400619,,110,Senate,CO,,3,D,,3,657,0,1,70,321,92.62,,0,5.0,7.38
+2,S001163,Ken,Salazar,1955-03-02,M,,400619,,109,Senate,CO,,3,D,,1,645,12,0,43,339,91.01,,0,0.0,8.99

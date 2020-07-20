@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,99,Senate,MO,,3,D,,17,,,,,,,,0,0.0,
+1,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,98,Senate,MO,,3,D,,15,,,,,,,,0,0.0,
+2,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,97,Senate,MO,,3,D,,13,,,,,,,,0,0.0,
+3,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,96,Senate,MO,,3,D,,11,,,,,,,,0,0.0,
+4,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,95,Senate,MO,,3,D,,9,,,,,,,,0,0.0,
+5,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,94,Senate,MO,,3,D,,7,,,,,,,,0,0.0,
+6,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,93,Senate,MO,,3,D,,5,,,,,,,,0,0.0,
+7,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,92,Senate,MO,,3,D,,3,,,,,,,,0,0.0,
+8,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,91,Senate,MO,,3,D,,1,,,,,,,,0,0.0,
+9,E000004,Thomas,Eagleton,1929-09-04,M,,403700,,90,Senate,MO,,3,D,,1,,,,,,,,0,0.0,

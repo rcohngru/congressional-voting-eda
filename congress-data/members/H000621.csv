@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000621,Earl,Hilliard,1942-04-09,M,,400502,,107,House,AL,7,,D,,10,996,48,0,8,397,84.81,,0,0.0,15.73
+1,H000621,Earl,Hilliard,1942-04-09,M,,400502,,106,House,AL,7,,D,,8,1214,52,2,2,359,87.78,,0,0.0,12.48
+2,H000621,Earl,Hilliard,1942-04-09,M,,400502,,105,House,AL,7,,D,,6,1187,80,1,3,329,88.01,,0,0.0,12.46
+3,H000621,Earl,Hilliard,1942-04-09,M,,400502,,104,House,AL,7,,D,,4,1340,65,3,7,240,86.79,,0,0.0,14.53
+4,H000621,Earl,Hilliard,1942-04-09,M,,400502,,103,House,AL,7,,D,,2,1122,104,0,11,318,88.25,,0,0.0,11.04

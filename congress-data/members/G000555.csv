@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,116,Senate,NY,,1,D,,11,557,110,1,58,616,73.5,,8,4.0,26.5
+1,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,115,Senate,NY,,1,D,,9,599,2,1,62,520,81.29,,8,4.0,18.71
+2,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,114,Senate,NY,,1,D,,7,502,2,0,39,343,95.53,,0,4.0,4.47
+3,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,113,Senate,NY,,1,D,,5,657,8,0,65,384,98.0,,12,4.0,2.0
+4,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,112,Senate,NY,,1,D,,3,486,3,0,82,402,96.67,,0,0.0,3.33
+5,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,111,Senate,NY,,1,D,,1,681,8,0,84,440,97.91,,0,3.0,2.09
+6,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,111,House,NY,20,,D,,4,29,0,0,,,92.86,,0,2.0,3.57
+7,G000555,Kirsten,Gillibrand,1966-12-09,F,D,412223,1022862,110,House,NY,20,,D,,2,1873,110,0,16,303,94.47,,0,6.0,6.04

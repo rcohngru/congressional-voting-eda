@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001279,Ron,Barber,1945-08-25,M,D,412502,31093,113,House,AZ,2,,D,,4,1204,33,0,16,269,76.25,,0,3.0,23.67
+1,B001279,Ron,Barber,1945-08-25,M,D,412502,31093,112,House,AZ,8,,D,,2,278,7,0,1,25,91.32,,0,2.0,8.68

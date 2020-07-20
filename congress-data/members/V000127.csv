@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000127,David,Vitter,1961-05-03,M,R,400418,60672,114,Senate,LA,,3,R,,11,502,76,0,140,201,92.12,,0,4.0,7.88
+1,V000127,David,Vitter,1961-05-03,M,R,400418,60672,113,Senate,LA,,3,R,,9,657,64,0,85,237,89.35,,10,4.0,10.65
+2,V000127,David,Vitter,1961-05-03,M,R,400418,60672,112,Senate,LA,,3,R,,7,486,40,0,79,220,83.98,,0,0.0,16.02
+3,V000127,David,Vitter,1961-05-03,M,R,400418,60672,111,Senate,LA,,3,R,,5,696,39,0,98,236,93.52,,0,5.0,6.48
+4,V000127,David,Vitter,1961-05-03,M,R,400418,60672,110,Senate,LA,,3,R,,3,657,29,0,75,245,88.07,,0,5.0,11.93
+5,V000127,David,Vitter,1961-05-03,M,R,400418,60672,109,Senate,LA,,3,R,,1,645,24,0,74,241,91.1,,0,0.0,8.9
+6,V000127,David,Vitter,1961-05-03,M,R,400418,60672,108,House,LA,1,,R,,6,1221,64,0,34,239,96.86,,0,0.0,3.32
+7,V000127,David,Vitter,1961-05-03,M,R,400418,60672,107,House,LA,1,,R,,4,996,44,0,24,184,97.87,,0,0.0,2.56
+8,V000127,David,Vitter,1961-05-03,M,R,400418,60672,106,House,LA,1,,R,,2,1044,21,0,11,145,93.94,,0,0.0,6.26

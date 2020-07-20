@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000597,Chellie,Pingree,1955-04-02,F,D,412307,1002167,116,House,ME,1,,D,,12,839,16,0,21,677,98.9,,5,2.0,0.97
+1,P000597,Chellie,Pingree,1955-04-02,F,D,412307,1002167,115,House,ME,1,,D,,10,1211,41,3,13,595,97.46,,2,1.0,2.54
+2,P000597,Chellie,Pingree,1955-04-02,F,D,412307,1002167,114,House,ME,1,,D,,8,1325,19,0,9,366,97.06,,0,1.0,2.86
+3,P000597,Chellie,Pingree,1955-04-02,F,D,412307,1002167,113,House,ME,1,,D,,6,1204,37,1,8,411,94.91,,0,1.0,5.01
+4,P000597,Chellie,Pingree,1955-04-02,F,D,412307,1002167,112,House,ME,1,,D,,4,1607,50,2,12,356,94.46,,0,2.0,5.48
+5,P000597,Chellie,Pingree,1955-04-02,F,D,412307,1002167,111,House,ME,1,,D,,2,1655,60,1,35,403,97.79,,0,2.0,2.15

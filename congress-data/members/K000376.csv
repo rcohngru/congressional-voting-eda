@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000376,Mike,Kelly,1948-05-10,M,R,412465,62696,116,House,PA,16,,R,,10,839,26,0,8,258,93.8,,2,1.0,6.08
+1,K000376,Mike,Kelly,1948-05-10,M,R,412465,62696,115,House,PA,3,,R,,8,1211,24,0,32,285,96.53,,4,1.0,3.47
+2,K000376,Mike,Kelly,1948-05-10,M,R,412465,62696,114,House,PA,3,,R,,6,1325,5,0,29,324,94.89,,0,1.0,5.04
+3,K000376,Mike,Kelly,1948-05-10,M,R,412465,62696,113,House,PA,3,,R,,4,1204,5,0,12,299,95.48,,0,2.0,4.44
+4,K000376,Mike,Kelly,1948-05-10,M,R,412465,62696,112,House,PA,3,,R,,2,1607,7,0,9,203,93.64,,0,3.0,6.3

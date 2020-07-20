@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001289,Bradley,Byrne,1955-02-16,M,R,412601,73486,116,House,AL,1,,R,,8,839,88,0,14,191,92.21,,3,2.0,7.65
+1,B001289,Bradley,Byrne,1955-02-16,M,R,412601,73486,115,House,AL,1,,R,,6,1211,8,0,25,270,98.41,,6,3.0,1.59
+2,B001289,Bradley,Byrne,1955-02-16,M,R,412601,73486,114,House,AL,1,,R,,4,1325,41,0,26,216,97.02,,0,3.0,2.9
+3,B001289,Bradley,Byrne,1955-02-16,M,R,412601,73486,113,House,AL,1,,R,,2,561,33,0,2,102,97.91,,0,1.0,2.09

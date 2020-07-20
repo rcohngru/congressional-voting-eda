@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000235,Tom,Foglietta,1928-12-03,M,,404190,,105,House,PA,1,,D,,18,628,167,0,0,152,90.07,,0,0.0,10.16
+1,F000235,Tom,Foglietta,1928-12-03,M,,404190,,104,House,PA,1,,D,,16,1340,84,1,4,210,91.69,,0,0.0,9.66
+2,F000235,Tom,Foglietta,1928-12-03,M,,404190,,103,House,PA,1,,D,,14,1122,68,0,10,386,90.87,,0,0.0,8.44
+3,F000235,Tom,Foglietta,1928-12-03,M,,404190,,102,House,PA,1,,D,,12,933,92,0,,,90.46,,0,0.0,6.48
+4,F000235,Tom,Foglietta,1928-12-03,M,,404190,,101,House,PA,1,,D,,10,,,,,,,,0,0.0,
+5,F000235,Tom,Foglietta,1928-12-03,M,,404190,,100,House,PA,1,,D,,8,,,,,,,,0,0.0,
+6,F000235,Tom,Foglietta,1928-12-03,M,,404190,,99,House,PA,1,,D,,6,,,,,,,,0,0.0,
+7,F000235,Tom,Foglietta,1928-12-03,M,,404190,,98,House,PA,1,,D,,4,,,,,,,,0,0.0,

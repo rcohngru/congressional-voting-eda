@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,111,Senate,MO,,3,R,,23,696,61,0,30,158,82.14,,0,4.0,17.86
+1,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,110,Senate,MO,,3,R,,21,657,27,0,21,143,87.32,,0,4.0,12.68
+2,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,109,Senate,MO,,3,R,,19,645,2,0,29,138,92.33,,0,0.0,7.67
+3,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,108,Senate,MO,,3,R,,17,675,10,0,31,138,96.82,,0,0.0,3.18
+4,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,107,Senate,MO,,3,R,,15,633,18,0,44,164,93.62,,0,0.0,6.38
+5,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,106,Senate,MO,,3,R,,13,672,16,0,34,179,95.1,,0,0.0,4.9
+6,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,105,Senate,MO,,3,R,,11,612,9,0,42,148,91.62,,0,0.0,8.38
+7,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,104,Senate,MO,,3,R,,9,916,24,17,17,107,91.89,,0,0.0,8.11
+8,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,103,Senate,MO,,3,R,,7,724,27,0,13,176,87.54,,0,0.0,12.46
+9,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,102,Senate,MO,,3,R,,5,550,34,0,,,86.86,,0,0.0,13.14
+10,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,101,Senate,MO,,3,R,,3,638,11,0,,,,,0,0.0,
+11,B000611,Christopher,Bond,1939-03-06,M,R,300010,2360,100,Senate,MO,,3,R,,1,,,,,,,,0,0.0,

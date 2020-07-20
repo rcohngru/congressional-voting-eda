@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000189,John,Johnston,1932-06-10,M,,406084,,104,Senate,LA,,2,D,,23,916,31,0,16,117,77.6,,0,0.0,22.4
+1,J000189,John,Johnston,1932-06-10,M,,406084,,103,Senate,LA,,2,D,,21,724,23,0,66,171,85.4,,0,0.0,14.6
+2,J000189,John,Johnston,1932-06-10,M,,406084,,102,Senate,LA,,2,D,,19,550,7,2,,,78.95,,0,0.0,21.05
+3,J000189,John,Johnston,1932-06-10,M,,406084,,101,Senate,LA,,2,D,,17,638,20,1,,,,,0,0.0,
+4,J000189,John,Johnston,1932-06-10,M,,406084,,100,Senate,LA,,2,D,,15,,,,,,,,0,0.0,
+5,J000189,John,Johnston,1932-06-10,M,,406084,,99,Senate,LA,,2,D,,13,,,,,,,,0,0.0,
+6,J000189,John,Johnston,1932-06-10,M,,406084,,98,Senate,LA,,2,D,,11,,,,,,,,0,0.0,
+7,J000189,John,Johnston,1932-06-10,M,,406084,,97,Senate,LA,,2,D,,9,,,,,,,,0,0.0,
+8,J000189,John,Johnston,1932-06-10,M,,406084,,96,Senate,LA,,2,D,,7,,,,,,,,0,0.0,
+9,J000189,John,Johnston,1932-06-10,M,,406084,,95,Senate,LA,,2,D,,5,,,,,,,,0,0.0,
+10,J000189,John,Johnston,1932-06-10,M,,406084,,94,Senate,LA,,2,D,,3,,,,,,,,0,0.0,
+11,J000189,John,Johnston,1932-06-10,M,,406084,,93,Senate,LA,,2,D,,1,,,,,,,,0,0.0,
+12,J000189,John,Johnston,1932-06-10,M,,406084,,92,Senate,LA,,2,D,,1,,,,,,,,0,0.0,

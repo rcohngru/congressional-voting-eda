@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000059,Edward,Feighan,1947-10-22,M,,404019,,102,House,OH,19,,D,,10,933,125,0,,,91.96,,0,0.0,5.36
+1,F000059,Edward,Feighan,1947-10-22,M,,404019,,101,House,OH,19,,D,,8,,,,,,,,0,0.0,
+2,F000059,Edward,Feighan,1947-10-22,M,,404019,,100,House,OH,19,,D,,6,,,,,,,,0,0.0,
+3,F000059,Edward,Feighan,1947-10-22,M,,404019,,99,House,OH,19,,D,,4,,,,,,,,0,0.0,
+4,F000059,Edward,Feighan,1947-10-22,M,,404019,,98,House,OH,19,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000937,Steve,Stockman,1956-11-14,M,R,410396,3626,113,House,TX,36,,R,,2,1204,71,1,58,300,85.58,,0,2.0,14.34
+1,S000937,Steve,Stockman,1956-11-14,M,R,410396,3626,104,House,TX,9,,R,,2,1340,78,3,22,241,87.05,,0,0.0,14.18

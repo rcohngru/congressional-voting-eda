@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001084,David,Cicilline,1961-07-15,M,D,412470,1033865,116,House,RI,1,,D,,10,839,7,0,58,676,98.92,,5,2.0,0.96
+1,C001084,David,Cicilline,1961-07-15,M,D,412470,1033865,115,House,RI,1,,D,,8,1211,23,1,55,675,97.66,,5,2.0,2.34
+2,C001084,David,Cicilline,1961-07-15,M,D,412470,1033865,114,House,RI,1,,D,,6,1324,31,0,35,382,98.05,,0,2.0,1.88
+3,C001084,David,Cicilline,1961-07-15,M,D,412470,1033865,113,House,RI,1,,D,,4,1204,34,1,20,560,96.72,,0,3.0,3.19
+4,C001084,David,Cicilline,1961-07-15,M,D,412470,1033865,112,House,RI,1,,D,,2,1607,29,2,11,381,96.53,,0,2.0,3.41

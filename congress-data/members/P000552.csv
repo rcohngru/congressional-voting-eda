@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000552,Winston,Prouty,1906-09-01,M,,408936,,92,Senate,VT,,1,R,,13,,,,,,,,0,0.0,
+1,P000552,Winston,Prouty,1906-09-01,M,,408936,,91,Senate,VT,,1,R,,11,,,,,,,,0,0.0,
+2,P000552,Winston,Prouty,1906-09-01,M,,408936,,90,Senate,VT,,1,R,,9,,,,,,,,0,0.0,
+3,P000552,Winston,Prouty,1906-09-01,M,,408936,,89,Senate,VT,,1,R,,7,,,,,,,,0,0.0,
+4,P000552,Winston,Prouty,1906-09-01,M,,408936,,88,Senate,VT,,1,R,,5,,,,,,,,0,0.0,
+5,P000552,Winston,Prouty,1906-09-01,M,,408936,,87,Senate,VT,,1,R,,3,,,,,,,,0,0.0,
+6,P000552,Winston,Prouty,1906-09-01,M,,408936,,86,Senate,VT,,1,R,,1,,,,,,,,0,0.0,

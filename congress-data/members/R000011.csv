@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,113,House,WV,3,,D,,38,1204,12,0,10,282,75.47,,0,1.0,24.45
+1,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,112,House,WV,3,,D,,36,1607,19,1,12,220,78.12,,0,1.0,21.82
+2,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,111,House,WV,3,,D,,34,1655,19,0,23,284,96.87,,0,2.0,3.07
+3,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,110,House,WV,3,,D,,32,1873,13,0,23,313,96.56,,0,2.0,3.99
+4,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,109,House,WV,3,,D,,30,1214,21,0,14,304,89.21,,0,0.0,11.05
+5,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,108,House,WV,3,,D,,28,1221,33,1,16,284,91.27,,0,0.0,8.81
+6,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,107,House,WV,3,,D,,26,996,26,2,14,260,89.79,,0,0.0,10.74
+7,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,106,House,WV,3,,D,,24,1214,23,1,8,432,86.36,,0,0.0,13.9
+8,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,105,House,WV,3,,D,,22,1187,25,3,11,243,83.29,,0,0.0,17.25
+9,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,104,House,WV,3,,D,,20,1340,3,0,10,189,84.24,,0,0.0,17.02
+10,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,103,House,WV,3,,D,,18,1122,22,0,23,276,84.59,,0,0.0,14.76
+11,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,102,House,WV,4,,D,,16,933,35,1,,,83.81,,0,0.0,13.43
+12,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,101,House,WV,4,,D,,14,,,,,,,,0,0.0,
+13,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,100,House,WV,4,,D,,12,,,,,,,,0,0.0,
+14,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,99,House,WV,4,,D,,10,,,,,,,,0,0.0,
+15,R000011,Nick,Rahall,1949-05-20,M,D,400331,8272,98,House,WV,4,,D,,8,,,,,,,,0,0.0,

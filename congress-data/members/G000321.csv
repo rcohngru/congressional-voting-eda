@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000321,Albert,Gore,1948-03-31,M,,404679,,102,Senate,TN,,2,D,,7,550,119,0,,,89.39,,0,0.0,10.61
+1,G000321,Albert,Gore,1948-03-31,M,,404679,,101,Senate,TN,,2,D,,5,638,34,0,,,,,0,0.0,
+2,G000321,Albert,Gore,1948-03-31,M,,404679,,100,Senate,TN,,2,D,,3,,,,,,,,0,0.0,
+3,G000321,Albert,Gore,1948-03-31,M,,404679,,99,Senate,TN,,2,D,,1,,,,,,,,0,0.0,
+4,G000321,Albert,Gore,1948-03-31,M,,404679,,98,House,TN,6,,D,,8,,,,,,,,0,0.0,

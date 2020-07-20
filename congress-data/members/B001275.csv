@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001275,Larry,Bucshon,1962-05-31,M,R,412427,61837,116,House,IN,8,,R,,10,839,21,0,12,154,96.05,,3,1.0,3.82
+1,B001275,Larry,Bucshon,1962-05-31,M,R,412427,61837,115,House,IN,8,,R,,8,1211,13,0,17,178,96.48,,3,1.0,3.52
+2,B001275,Larry,Bucshon,1962-05-31,M,R,412427,61837,114,House,IN,8,,R,,6,1325,10,0,13,165,94.48,,0,2.0,5.44
+3,B001275,Larry,Bucshon,1962-05-31,M,R,412427,61837,113,House,IN,8,,R,,4,1204,17,0,11,216,95.94,,0,3.0,3.97
+4,B001275,Larry,Bucshon,1962-05-31,M,R,412427,61837,112,House,IN,8,,R,,2,1607,16,0,6,188,96.2,,0,3.0,3.74

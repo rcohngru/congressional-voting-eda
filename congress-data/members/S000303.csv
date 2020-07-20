@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,109,House,FL,22,,R,,26,1214,34,0,39,218,95.18,,0,0.0,5.07
+1,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,108,House,FL,22,,R,,24,1221,23,0,22,190,96.72,,0,0.0,3.36
+2,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,107,House,FL,22,,R,,22,996,25,0,26,151,96.44,,0,0.0,4.08
+3,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,106,House,FL,22,,R,,20,1214,58,0,31,160,93.04,,0,0.0,7.14
+4,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,105,House,FL,22,,R,,18,1187,15,0,32,156,92.0,,0,0.0,8.53
+5,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,104,House,FL,22,,R,,16,1340,24,0,25,135,93.47,,0,0.0,7.79
+6,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,103,House,FL,22,,R,,14,1122,43,0,23,218,89.91,,0,0.0,9.32
+7,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,102,House,FL,15,,R,,12,933,40,1,,,83.7,,0,0.0,12.74
+8,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,101,House,FL,15,,R,,10,,,,,,,,0,0.0,
+9,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,100,House,FL,15,,R,,8,,,,,,,,0,0.0,
+10,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,99,House,FL,15,,R,,6,,,,,,,,0,0.0,
+11,S000303,E. Clay,Shaw,1939-04-19,M,,400369,,98,House,FL,15,,R,,4,,,,,,,,0,0.0,

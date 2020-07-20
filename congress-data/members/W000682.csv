@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000682,Howard,Wolpe,1939-11-03,M,,411834,,102,House,MI,3,,D,,14,933,42,0,,,91.57,,0,0.0,5.77
+1,W000682,Howard,Wolpe,1939-11-03,M,,411834,,101,House,MI,3,,D,,12,,,,,,,,0,0.0,
+2,W000682,Howard,Wolpe,1939-11-03,M,,411834,,100,House,MI,3,,D,,10,,,,,,,,0,0.0,
+3,W000682,Howard,Wolpe,1939-11-03,M,,411834,,99,House,MI,3,,D,,8,,,,,,,,0,0.0,
+4,W000682,Howard,Wolpe,1939-11-03,M,,411834,,98,House,MI,3,,D,,6,,,,,,,,0,0.0,

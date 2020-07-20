@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000953,Sam,Brownback,1956-09-12,M,R,300013,,111,Senate,KS,,3,R,,15,696,45,0,57,222,92.98,,0,5.0,7.02
+1,B000953,Sam,Brownback,1956-09-12,M,R,300013,,110,Senate,KS,,3,R,,13,657,142,0,32,200,89.92,,0,3.0,10.08
+2,B000953,Sam,Brownback,1956-09-12,M,R,300013,,109,Senate,KS,,3,R,,11,645,13,0,97,211,90.46,,0,0.0,9.54
+3,B000953,Sam,Brownback,1956-09-12,M,R,300013,,108,Senate,KS,,3,R,,9,675,21,0,58,166,96.15,,0,0.0,3.85
+4,B000953,Sam,Brownback,1956-09-12,M,R,300013,,107,Senate,KS,,3,R,,7,633,16,0,33,192,92.66,,0,0.0,7.34
+5,B000953,Sam,Brownback,1956-09-12,M,R,300013,,106,Senate,KS,,3,R,,5,672,9,0,37,217,94.55,,0,0.0,5.45
+6,B000953,Sam,Brownback,1956-09-12,M,R,300013,,105,Senate,KS,,3,R,,3,612,2,0,25,171,92.72,,0,0.0,7.28
+7,B000953,Sam,Brownback,1956-09-12,M,R,300013,,104,House,KS,2,,R,,2,1340,45,0,2,103,94.56,,0,0.0,6.71
+8,B000953,Sam,Brownback,1956-09-12,M,R,300013,,104,Senate,KS,,3,R,,1,0,0,0,,,0.0,,0,0.0,0.0

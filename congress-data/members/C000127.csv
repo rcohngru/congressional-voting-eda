@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,116,Senate,WA,,1,D,,19,557,4,1,27,281,91.22,,12,5.0,8.79
+1,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,115,Senate,WA,,1,D,,17,599,2,1,40,266,96.77,,8,5.0,3.23
+2,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,114,Senate,WA,,1,D,,15,502,0,0,40,188,95.33,,0,5.0,4.67
+3,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,113,Senate,WA,,1,D,,13,657,3,0,29,166,99.24,,12,5.0,0.76
+4,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,112,Senate,WA,,1,D,,11,486,2,0,35,178,94.39,,0,0.0,5.61
+5,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,111,Senate,WA,,1,D,,9,696,4,0,64,218,94.04,,0,5.0,5.96
+6,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,110,Senate,WA,,1,D,,7,657,7,0,44,420,95.65,,0,5.0,4.35
+7,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,109,Senate,WA,,1,D,,5,645,8,0,50,342,92.5,,0,0.0,7.5
+8,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,108,Senate,WA,,1,D,,3,675,3,0,40,315,95.59,,0,0.0,4.41
+9,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,107,Senate,WA,,1,D,,1,633,2,0,18,231,93.4,,0,0.0,6.6
+10,C000127,Maria,Cantwell,1958-10-13,F,D,300018,26137,103,House,WA,1,,D,,2,1122,12,0,6,135,92.73,,0,0.0,6.52

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000053,Thomas,Tauke,1950-10-11,M,,410641,,101,House,IA,2,,R,,12,,,,,,,,0,0.0,
+1,T000053,Thomas,Tauke,1950-10-11,M,,410641,,100,House,IA,2,,R,,10,,,,,,,,0,0.0,
+2,T000053,Thomas,Tauke,1950-10-11,M,,410641,,99,House,IA,2,,R,,8,,,,,,,,0,0.0,
+3,T000053,Thomas,Tauke,1950-10-11,M,,410641,,98,House,IA,2,,R,,6,,,,,,,,0,0.0,

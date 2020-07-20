@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000020,Robert,Kastenmeier,1924-01-24,M,,406191,,101,House,WI,2,,D,,32,,,,,,,,0,0.0,
+1,K000020,Robert,Kastenmeier,1924-01-24,M,,406191,,100,House,WI,2,,D,,30,,,,,,,,0,0.0,
+2,K000020,Robert,Kastenmeier,1924-01-24,M,,406191,,99,House,WI,2,,D,,28,,,,,,,,0,0.0,
+3,K000020,Robert,Kastenmeier,1924-01-24,M,,406191,,98,House,WI,2,,D,,26,,,,,,,,0,0.0,

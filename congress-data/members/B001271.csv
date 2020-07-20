@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001271,Dan,Benishek,1952-04-20,M,R,412436,61860,114,House,MI,1,,R,,6,1325,4,0,11,212,92.83,,0,3.0,7.09
+1,B001271,Dan,Benishek,1952-04-20,M,R,412436,61860,113,House,MI,1,,R,,4,1204,35,2,18,294,90.57,,0,3.0,9.35
+2,B001271,Dan,Benishek,1952-04-20,M,R,412436,61860,112,House,MI,1,,R,,2,1607,13,1,15,255,90.27,,0,3.0,9.67

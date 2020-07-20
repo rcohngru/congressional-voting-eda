@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,116,House,NJ,8,,D,,16,839,48,0,13,599,99.37,,4,3.0,0.51
+1,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,115,House,NJ,8,,D,,14,1211,58,2,14,430,97.51,,5,2.0,2.49
+2,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,114,House,NJ,8,,D,,12,1325,84,0,10,246,94.63,,0,2.0,5.29
+3,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,113,House,NJ,8,,D,,10,1204,91,1,12,302,94.29,,0,2.0,5.62
+4,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,112,House,NJ,13,,D,,8,1607,67,1,9,287,93.95,,0,2.0,5.99
+5,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,111,House,NJ,13,,D,,6,1655,80,0,19,598,98.15,,0,2.0,1.79
+6,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,110,House,NJ,13,,D,,4,1873,63,0,16,597,98.94,,0,2.0,1.57
+7,S001165,Albio,Sires,1951-01-26,M,D,412186,1022293,109,House,NJ,13,,D,,2,27,0,0,0,1,104.35,,0,0.0,0.0

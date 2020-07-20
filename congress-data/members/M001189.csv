@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001189,Luke,Messer,1969-02-27,M,R,412540,11245,115,House,IN,6,,R,Policy Committee Chair,6,1211,119,0,40,357,97.15,,5,2.0,2.85
+1,M001189,Luke,Messer,1969-02-27,M,R,412540,11245,114,House,IN,6,,R,,4,1325,16,0,24,253,95.61,,0,2.0,4.31
+2,M001189,Luke,Messer,1969-02-27,M,R,412540,11245,113,House,IN,6,,R,,2,1204,19,0,9,180,96.27,,0,3.0,3.64

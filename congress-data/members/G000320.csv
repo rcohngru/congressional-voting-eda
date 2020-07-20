@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000320,Albert,Gore,1907-12-26,M,,404678,,91,Senate,TN,,1,D,,17,,,,,,,,0,0.0,
+1,G000320,Albert,Gore,1907-12-26,M,,404678,,90,Senate,TN,,1,D,,15,,,,,,,,0,0.0,
+2,G000320,Albert,Gore,1907-12-26,M,,404678,,89,Senate,TN,,1,D,,13,,,,,,,,0,0.0,
+3,G000320,Albert,Gore,1907-12-26,M,,404678,,88,Senate,TN,,1,D,,11,,,,,,,,0,0.0,
+4,G000320,Albert,Gore,1907-12-26,M,,404678,,87,Senate,TN,,1,D,,9,,,,,,,,0,0.0,
+5,G000320,Albert,Gore,1907-12-26,M,,404678,,86,Senate,TN,,1,D,,7,,,,,,,,0,0.0,
+6,G000320,Albert,Gore,1907-12-26,M,,404678,,85,Senate,TN,,1,D,,5,,,,,,,,0,0.0,
+7,G000320,Albert,Gore,1907-12-26,M,,404678,,84,Senate,TN,,1,D,,3,,,,,,,,0,0.0,
+8,G000320,Albert,Gore,1907-12-26,M,,404678,,83,Senate,TN,,1,D,,1,,,,,,,,0,0.0,

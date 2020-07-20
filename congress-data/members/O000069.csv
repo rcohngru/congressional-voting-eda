@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,O000069,James,Olin,1920-02-28,M,,408342,,102,House,VA,6,,D,,10,933,80,0,,,82.45,,0,0.0,15.02
+1,O000069,James,Olin,1920-02-28,M,,408342,,101,House,VA,6,,D,,8,,,,,,,,0,0.0,
+2,O000069,James,Olin,1920-02-28,M,,408342,,100,House,VA,6,,D,,6,,,,,,,,0,0.0,
+3,O000069,James,Olin,1920-02-28,M,,408342,,99,House,VA,6,,D,,4,,,,,,,,0,0.0,
+4,O000069,James,Olin,1920-02-28,M,,408342,,98,House,VA,6,,D,,2,,,,,,,,0,0.0,

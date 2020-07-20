@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000815,Brad,Wenstrup,1958-06-17,M,R,412564,1034044,116,House,OH,2,,R,,8,839,26,0,11,171,96.03,,4,2.0,3.84
+1,W000815,Brad,Wenstrup,1958-06-17,M,R,412564,1034044,115,House,OH,2,,R,,6,1211,19,0,16,165,96.8,,6,4.0,3.2
+2,W000815,Brad,Wenstrup,1958-06-17,M,R,412564,1034044,114,House,OH,2,,R,,4,1325,19,0,14,128,96.14,,0,3.0,3.78
+3,W000815,Brad,Wenstrup,1958-06-17,M,R,412564,1034044,113,House,OH,2,,R,,2,1204,14,0,1,169,95.78,,0,2.0,4.14

@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,116,House,CO,5,,R,,14,839,23,0,9,220,95.8,,4,2.0,4.07
+1,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,115,House,CO,5,,R,,12,1211,16,0,18,260,97.22,,4,2.0,2.78
+2,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,114,House,CO,5,,R,,10,1325,39,0,16,192,96.95,,0,3.0,2.98
+3,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,113,House,CO,5,,R,,8,1204,15,0,15,257,95.02,,0,3.0,4.9
+4,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,112,House,CO,5,,R,,6,1607,46,0,20,329,94.71,,0,3.0,5.23
+5,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,111,House,CO,5,,R,,4,1655,23,0,19,602,93.35,,0,3.0,6.59
+6,L000564,Doug,Lamborn,1954-05-24,M,R,412191,1022846,110,House,CO,5,,R,,2,1873,18,2,23,343,91.96,,0,3.0,8.59

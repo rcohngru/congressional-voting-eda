@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,111,House,MI,13,,D,,14,1655,178,2,5,451,97.14,,0,1.0,2.79
+1,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,110,House,MI,13,,D,,12,1873,102,1,9,496,98.51,,0,1.0,2.01
+2,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,109,House,MI,13,,D,,10,1214,75,0,9,432,94.57,,0,0.0,5.7
+3,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,108,House,MI,13,,D,,8,1221,101,5,10,383,94.46,,0,0.0,5.72
+4,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,107,House,MI,15,,D,,6,996,85,2,8,379,94.84,,0,0.0,5.72
+5,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,106,House,MI,15,,D,,4,1214,82,0,5,573,94.44,,0,0.0,5.83
+6,K000180,Carolyn,Kilpatrick,1945-06-25,F,D,400217,,105,House,MI,15,,D,,2,1187,72,2,3,412,91.69,,0,0.0,8.68

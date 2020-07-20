@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,116,Senate,HI,,1,D,,7,557,18,1,39,510,82.15,,10,5.0,17.85
+1,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,115,Senate,HI,,1,D,,5,599,12,1,58,396,90.66,,13,5.0,9.34
+2,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,114,Senate,HI,,1,D,,3,502,1,0,51,256,98.17,,0,5.0,1.83
+3,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,113,Senate,HI,,1,D,,1,657,1,0,23,250,98.32,,0,4.0,1.68
+4,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,112,House,HI,2,,D,,6,1607,203,1,28,417,96.03,,0,3.0,3.9
+5,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,111,House,HI,2,,D,,4,1655,30,2,16,555,98.02,,0,2.0,1.92
+6,H001042,Mazie,Hirono,1947-11-03,F,D,412200,91216,110,House,HI,2,,D,,2,1873,27,1,14,604,98.41,,0,3.0,2.03

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000321,John,Linder,1942-09-09,M,R,400242,26393,111,House,GA,7,,R,,18,1655,148,0,6,229,93.54,,0,1.0,6.4
+1,L000321,John,Linder,1942-09-09,M,R,400242,26393,110,House,GA,7,,R,,16,1873,85,5,2,205,92.02,,0,1.0,8.44
+2,L000321,John,Linder,1942-09-09,M,R,400242,26393,109,House,GA,7,,R,,14,1214,54,0,13,130,93.03,,0,0.0,7.06
+3,L000321,John,Linder,1942-09-09,M,R,400242,26393,108,House,GA,7,,R,,12,1221,38,0,36,99,96.17,,0,0.0,3.92
+4,L000321,John,Linder,1942-09-09,M,R,400242,26393,107,House,GA,11,,R,,10,996,56,0,32,109,98.7,,0,0.0,1.84
+5,L000321,John,Linder,1942-09-09,M,R,400242,26393,106,House,GA,11,,R,,8,1214,36,0,50,129,94.98,,0,0.0,5.28
+6,L000321,John,Linder,1942-09-09,M,R,400242,26393,105,House,GA,4,,R,,6,1187,42,0,26,126,95.68,,0,0.0,4.86
+7,L000321,John,Linder,1942-09-09,M,R,400242,26393,104,House,GA,4,,R,,4,1340,18,0,26,166,96.95,,0,0.0,4.31
+8,L000321,John,Linder,1942-09-09,M,R,400242,26393,103,House,GA,4,,R,,2,1122,9,0,0,228,93.48,,0,0.0,5.78

@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000709,Arlen,Specter,1930-02-12,M,D,300092,,111,Senate,PA,,3,D,,29,524,29,0,129,298,96.14,,0,4.0,3.86
+1,S000709,Arlen,Specter,1930-02-12,M,D,300092,,111,Senate,PA,,3,R,,29,172,2,0,,,65.48,,0,5.0,34.52
+2,S000709,Arlen,Specter,1930-02-12,M,D,300092,,110,Senate,PA,,3,R,,27,657,10,0,52,325,71.07,,0,4.0,28.93
+3,S000709,Arlen,Specter,1930-02-12,M,D,300092,,109,Senate,PA,,3,R,,25,645,17,0,85,179,77.08,,0,0.0,22.92
+4,S000709,Arlen,Specter,1930-02-12,M,D,300092,,108,Senate,PA,,3,R,,23,675,24,0,52,203,85.63,,0,0.0,14.37
+5,S000709,Arlen,Specter,1930-02-12,M,D,300092,,107,Senate,PA,,3,R,,21,633,10,0,46,188,76.09,,0,0.0,23.91
+6,S000709,Arlen,Specter,1930-02-12,M,D,300092,,106,Senate,PA,,3,R,,19,672,13,0,54,168,74.43,,0,0.0,25.57
+7,S000709,Arlen,Specter,1930-02-12,M,D,300092,,105,Senate,PA,,3,R,,17,612,46,0,75,120,69.34,,0,0.0,30.66
+8,S000709,Arlen,Specter,1930-02-12,M,D,300092,,104,Senate,PA,,3,R,,15,916,13,1,33,103,72.16,,0,0.0,27.84
+9,S000709,Arlen,Specter,1930-02-12,M,D,300092,,103,Senate,PA,,3,R,,13,724,66,1,33,178,71.54,,0,0.0,28.46
+10,S000709,Arlen,Specter,1930-02-12,M,D,300092,,102,Senate,PA,,3,R,,11,550,15,0,,,70.64,,0,0.0,29.36
+11,S000709,Arlen,Specter,1930-02-12,M,D,300092,,101,Senate,PA,,3,R,,9,638,1,0,,,,,0,0.0,
+12,S000709,Arlen,Specter,1930-02-12,M,D,300092,,100,Senate,PA,,3,R,,7,,,,,,,,0,0.0,
+13,S000709,Arlen,Specter,1930-02-12,M,D,300092,,99,Senate,PA,,3,R,,5,,,,,,,,0,0.0,
+14,S000709,Arlen,Specter,1930-02-12,M,D,300092,,98,Senate,PA,,3,R,,3,,,,,,,,0,0.0,
+15,S000709,Arlen,Specter,1930-02-12,M,D,300092,,97,Senate,PA,,3,R,,1,,,,,,,,0,0.0,

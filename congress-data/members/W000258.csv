@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000258,Theodore,Weiss,1927-09-17,M,,411426,,102,House,NY,17,,D,,16,835,92,3,,,88.07,,0,0.0,9.15
+1,W000258,Theodore,Weiss,1927-09-17,M,,411426,,101,House,NY,17,,D,,14,,,,,,,,0,0.0,
+2,W000258,Theodore,Weiss,1927-09-17,M,,411426,,100,House,NY,17,,D,,12,,,,,,,,0,0.0,
+3,W000258,Theodore,Weiss,1927-09-17,M,,411426,,99,House,NY,17,,D,,10,,,,,,,,0,0.0,
+4,W000258,Theodore,Weiss,1927-09-17,M,,411426,,98,House,NY,17,,D,,8,,,,,,,,0,0.0,
+5,W000258,Theodore,Weiss,1927-09-17,M,,411426,,98,House,NY,20,,D,,8,,,,,,,,0,0.0,

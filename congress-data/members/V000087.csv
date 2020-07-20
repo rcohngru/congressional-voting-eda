@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000087,Bruce,Vento,1940-10-07,M,,400612,,106,House,MN,4,,D,,24,1129,395,1,11,278,90.73,,0,0.0,9.41
+1,V000087,Bruce,Vento,1940-10-07,M,,400612,,105,House,MN,4,,D,,22,1187,8,0,20,268,91.93,,0,0.0,8.6
+2,V000087,Bruce,Vento,1940-10-07,M,,400612,,104,House,MN,4,,D,,20,1340,12,1,15,188,91.91,,0,0.0,9.36
+3,V000087,Bruce,Vento,1940-10-07,M,,400612,,103,House,MN,4,,D,,18,1122,28,0,26,319,92.07,,0,0.0,7.18
+4,V000087,Bruce,Vento,1940-10-07,M,,400612,,102,House,MN,4,,D,,16,933,17,0,,,89.43,,0,0.0,7.76
+5,V000087,Bruce,Vento,1940-10-07,M,,400612,,101,House,MN,4,,D,,14,,,,,,,,0,0.0,
+6,V000087,Bruce,Vento,1940-10-07,M,,400612,,100,House,MN,4,,D,,12,,,,,,,,0,0.0,
+7,V000087,Bruce,Vento,1940-10-07,M,,400612,,99,House,MN,4,,D,,10,,,,,,,,0,0.0,
+8,V000087,Bruce,Vento,1940-10-07,M,,400612,,98,House,MN,4,,D,,8,,,,,,,,0,0.0,

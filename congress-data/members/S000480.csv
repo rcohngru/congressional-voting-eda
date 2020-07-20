@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,115,House,NY,25,,D,,32,825,112,0,10,455,97.55,,1,1.0,2.45
+1,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,114,House,NY,25,,D,,30,1325,40,1,17,411,96.62,,0,1.0,3.3
+2,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,113,House,NY,25,,D,,28,1204,99,1,21,469,91.8,,0,1.0,8.11
+3,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,112,House,NY,28,,D,,26,1607,331,1,18,359,93.88,,0,1.0,6.04
+4,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,111,House,NY,28,,D,,24,1655,109,6,41,343,97.99,,0,1.0,1.95
+5,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,110,House,NY,28,,D,,22,1873,84,0,60,386,98.58,,0,1.0,1.93
+6,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,109,House,NY,28,,D,,20,1214,96,2,28,360,94.93,,0,0.0,5.25
+7,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,108,House,NY,28,,D,,18,1221,126,1,25,482,94.91,,0,0.0,5.19
+8,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,107,House,NY,28,,D,,16,996,70,2,20,428,91.11,,0,0.0,9.22
+9,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,106,House,NY,28,,D,,14,1214,78,6,15,382,91.78,,0,0.0,8.49
+10,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,105,House,NY,28,,D,,12,1187,47,3,19,478,91.38,,0,0.0,9.17
+11,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,104,House,NY,28,,D,,10,1340,33,3,12,268,92.99,,0,0.0,8.3
+12,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,103,House,NY,28,,D,,8,1122,18,2,35,364,93.91,,0,0.0,5.34
+13,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,102,House,NY,30,,D,,6,933,21,0,,,94.0,,0,0.0,3.05
+14,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,101,House,NY,30,,D,,4,,,,,,,,0,0.0,
+15,S000480,Louise,Slaughter,1929-08-14,F,D,400378,1755,100,House,NY,30,,D,,2,,,,,,,,0,0.0,

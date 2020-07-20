@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000295,Dave,Joyce,1957-03-17,M,R,412566,68561,116,House,OH,14,,R,,8,839,14,0,13,249,88.77,,2,1.0,11.11
+1,J000295,Dave,Joyce,1957-03-17,M,R,412566,68561,115,House,OH,14,,R,,6,1211,26,1,12,245,92.71,,3,1.0,7.29
+2,J000295,Dave,Joyce,1957-03-17,M,R,412566,68561,114,House,OH,14,,R,,4,1325,41,0,5,268,91.44,,0,1.0,8.48
+3,J000295,Dave,Joyce,1957-03-17,M,R,412566,68561,113,House,OH,14,,R,,2,1204,20,0,5,310,89.74,,0,1.0,10.18

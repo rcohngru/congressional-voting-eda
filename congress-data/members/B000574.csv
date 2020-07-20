@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,116,House,OR,3,,D,,26,839,10,0,55,824,97.58,,2,1.0,2.3
+1,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,115,House,OR,3,,D,,24,1211,73,2,32,796,94.86,,3,1.0,5.14
+2,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,114,House,OR,3,,D,,22,1325,54,1,32,488,94.99,,0,1.0,4.93
+3,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,113,House,OR,3,,D,,20,1197,59,1,23,528,94.24,,0,2.0,5.76
+4,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,112,House,OR,3,,D,,18,1607,99,2,30,457,93.26,,0,2.0,6.67
+5,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,111,House,OR,3,,D,,16,1655,50,2,44,608,96.87,,0,2.0,3.07
+6,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,110,House,OR,3,,D,,14,1873,53,1,43,715,96.54,,0,3.0,3.96
+7,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,109,House,OR,3,,D,,12,1214,67,1,26,407,91.71,,0,0.0,8.47
+8,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,108,House,OR,3,,D,,10,1221,65,3,9,420,94.27,,0,0.0,5.9
+9,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,107,House,OR,3,,D,,8,996,36,3,10,405,91.41,,0,0.0,9.01
+10,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,106,House,OR,3,,D,,6,1214,37,8,17,351,90.8,,0,0.0,9.37
+11,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,105,House,OR,3,,D,,4,1187,42,3,9,230,91.59,,0,0.0,8.96
+12,B000574,Earl,Blumenauer,1948-08-16,M,D,400033,43809,104,House,OR,3,,D,,2,256,12,0,1,21,92.8,,0,0.0,7.2

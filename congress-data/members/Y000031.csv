@@ -1,0 +1,17 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,113,House,FL,13,,R,,44,550,177,0,6,90,91.4,,0,1.0,8.33
+1,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,112,House,FL,10,,R,,42,1607,154,0,6,178,90.71,,0,1.0,9.22
+2,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,111,House,FL,10,,R,,40,1655,319,0,2,242,90.06,,0,1.0,9.86
+3,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,110,House,FL,10,,R,,38,1873,82,5,2,178,90.79,,0,1.0,9.78
+4,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,109,House,FL,10,,R,,36,1214,105,0,3,98,93.51,,0,0.0,6.76
+5,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,108,House,FL,10,,R,,34,1221,114,0,32,57,95.82,,0,0.0,4.18
+6,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,107,House,FL,10,,R,,32,996,62,0,24,37,97.17,,0,0.0,3.38
+7,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,106,House,FL,10,,R,,30,1214,90,1,44,65,94.2,,0,0.0,6.07
+8,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,105,House,FL,10,,R,,28,1187,137,0,7,60,93.87,,0,0.0,6.43
+9,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,104,House,FL,10,,R,,26,1340,172,0,6,46,94.67,,0,0.0,6.75
+10,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,103,House,FL,10,,R,,24,1122,54,0,2,154,88.26,,0,0.0,10.96
+11,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,102,House,FL,8,,R,,22,933,29,0,,,82.52,,0,0.0,14.07
+12,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,101,House,FL,8,,R,,20,,,,,,,,0,0.0,
+13,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,100,House,FL,8,,R,,18,,,,,,,,0,0.0,
+14,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,99,House,FL,8,,R,,16,,,,,,,,0,0.0,
+15,Y000031,C. W. Bill,Young,1930-12-16,M,R,400439,5259,98,House,FL,8,,R,,14,,,,,,,,0,0.0,

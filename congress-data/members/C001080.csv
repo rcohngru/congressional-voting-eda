@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001080,Judy,Chu,1953-07-07,F,D,412379,92573,116,House,CA,27,,D,,14,839,5,0,45,595,98.68,,5,2.0,1.2
+1,C001080,Judy,Chu,1953-07-07,F,D,412379,92573,115,House,CA,27,,D,,12,1211,27,2,26,584,96.19,,3,4.0,3.81
+2,C001080,Judy,Chu,1953-07-07,F,D,412379,92573,114,House,CA,27,,D,,10,1325,60,0,17,511,98.48,,0,2.0,1.44
+3,C001080,Judy,Chu,1953-07-07,F,D,412379,92573,113,House,CA,27,,D,,8,1204,49,1,11,471,95.03,,0,2.0,4.89
+4,C001080,Judy,Chu,1953-07-07,F,D,412379,92573,112,House,CA,32,,D,,6,1607,44,3,14,429,94.61,,0,2.0,5.32
+5,C001080,Judy,Chu,1953-07-07,F,D,412379,92573,111,House,CA,32,,D,,2,1107,21,1,10,319,98.15,,0,3.0,1.85

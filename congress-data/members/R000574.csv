@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000574,Rick,Renzi,1958-06-11,M,,400336,,110,House,AZ,1,,R,,6,1873,151,0,7,243,88.3,,0,3.0,12.18
+1,R000574,Rick,Renzi,1958-06-11,M,,400336,,109,House,AZ,1,,R,,4,1214,10,0,25,242,93.59,,0,0.0,6.67
+2,R000574,Rick,Renzi,1958-06-11,M,,400336,,108,House,AZ,1,,R,,2,1221,17,0,31,209,94.64,,0,0.0,5.53

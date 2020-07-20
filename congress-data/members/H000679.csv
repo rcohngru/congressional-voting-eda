@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000679,Clyde,Hoey,1877-12-11,,,405532,,83,Senate,NC,,3,D,,9,,,,,,,,0,0.0,
+1,H000679,Clyde,Hoey,1877-12-11,,,405532,,82,Senate,NC,,3,D,,7,,,,,,,,0,0.0,
+2,H000679,Clyde,Hoey,1877-12-11,,,405532,,81,Senate,NC,,3,D,,5,,,,,,,,0,0.0,
+3,H000679,Clyde,Hoey,1877-12-11,,,405532,,80,Senate,NC,,3,D,,3,,,,,,,,0,0.0,

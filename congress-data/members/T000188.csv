@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000188,William,Thomas,1941-12-06,M,,400401,,109,House,CA,22,,R,,28,1214,58,0,27,46,95.25,,0,0.0,5.01
+1,T000188,William,Thomas,1941-12-06,M,,400401,,108,House,CA,22,,R,,26,1221,27,0,25,48,96.2,,0,0.0,3.97
+2,T000188,William,Thomas,1941-12-06,M,,400401,,107,House,CA,21,,R,,24,996,42,1,23,63,96.38,,0,0.0,4.04
+3,T000188,William,Thomas,1941-12-06,M,,400401,,106,House,CA,21,,R,,22,1214,70,0,42,84,93.93,,0,0.0,6.33
+4,T000188,William,Thomas,1941-12-06,M,,400401,,105,House,CA,21,,R,,20,1187,16,1,40,93,93.32,,0,0.0,7.21
+5,T000188,William,Thomas,1941-12-06,M,,400401,,104,House,CA,21,,R,,18,1340,18,0,46,88,94.28,,0,0.0,6.97
+6,T000188,William,Thomas,1941-12-06,M,,400401,,103,House,CA,21,,R,,16,1122,42,2,21,133,89.83,,0,0.0,9.5
+7,T000188,William,Thomas,1941-12-06,M,,400401,,102,House,CA,20,,R,,14,933,100,1,,,86.58,,0,0.0,10.34
+8,T000188,William,Thomas,1941-12-06,M,,400401,,101,House,CA,20,,R,,12,,,,,,,,0,0.0,
+9,T000188,William,Thomas,1941-12-06,M,,400401,,100,House,CA,20,,R,,10,,,,,,,,0,0.0,
+10,T000188,William,Thomas,1941-12-06,M,,400401,,99,House,CA,20,,R,,8,,,,,,,,0,0.0,
+11,T000188,William,Thomas,1941-12-06,M,,400401,,98,House,CA,20,,R,,6,,,,,,,,0,0.0,

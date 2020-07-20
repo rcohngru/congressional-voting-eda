@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000176,Frank,Barrett,1892-11-10,M,,401177,,85,Senate,WY,,1,R,,5,,,,,,,,0,0.0,
+1,B000176,Frank,Barrett,1892-11-10,M,,401177,,84,Senate,WY,,1,R,,3,,,,,,,,0,0.0,
+2,B000176,Frank,Barrett,1892-11-10,M,,401177,,83,Senate,WY,,1,R,,1,,,,,,,,0,0.0,

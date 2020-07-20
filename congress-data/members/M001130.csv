@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001130,John,Myers,1927-02-08,M,,408092,,104,House,IN,7,,R,,30,1340,72,3,3,74,93.05,,0,0.0,8.26
+1,M001130,John,Myers,1927-02-08,M,,408092,,103,House,IN,7,,R,,28,1122,23,0,6,180,77.9,,0,0.0,21.34
+2,M001130,John,Myers,1927-02-08,M,,408092,,102,House,IN,7,,R,,26,933,33,0,,,75.23,,0,0.0,21.23
+3,M001130,John,Myers,1927-02-08,M,,408092,,101,House,IN,7,,R,,24,,,,,,,,0,0.0,
+4,M001130,John,Myers,1927-02-08,M,,408092,,100,House,IN,7,,R,,22,,,,,,,,0,0.0,
+5,M001130,John,Myers,1927-02-08,M,,408092,,99,House,IN,7,,R,,20,,,,,,,,0,0.0,
+6,M001130,John,Myers,1927-02-08,M,,408092,,98,House,IN,7,,R,,18,,,,,,,,0,0.0,

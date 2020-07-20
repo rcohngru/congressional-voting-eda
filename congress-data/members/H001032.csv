@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,113,House,NJ,12,,D,,16,1204,156,1,30,532,93.75,,0,2.0,6.15
+1,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,112,House,NJ,12,,D,,14,1607,13,1,38,457,94.77,,0,2.0,5.16
+2,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,111,House,NJ,12,,D,,12,1655,28,0,42,672,98.14,,0,3.0,1.79
+3,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,110,House,NJ,12,,D,,10,1873,28,1,52,618,97.8,,0,3.0,2.75
+4,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,109,House,NJ,12,,D,,8,1214,17,2,50,521,93.13,,0,0.0,7.12
+5,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,108,House,NJ,12,,D,,6,1221,4,1,28,410,95.16,,0,0.0,4.92
+6,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,107,House,NJ,12,,D,,4,996,14,0,24,358,89.92,,0,0.0,10.6
+7,H001032,Rush,Holt,1948-10-15,M,D,400184,57967,106,House,NJ,12,,D,,2,1214,8,0,18,311,90.4,,0,0.0,9.85

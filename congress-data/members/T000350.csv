@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000350,James,Traficant,1941-05-08,M,,400611,,107,House,OH,17,,D,,18,858,354,0,33,162,62.12,,0,0.0,38.7
+1,T000350,James,Traficant,1941-05-08,M,,400611,,106,House,OH,17,,D,,16,1214,1,0,54,340,67.7,,0,0.0,32.55
+2,T000350,James,Traficant,1941-05-08,M,,400611,,105,House,OH,17,,D,,14,1187,16,1,44,328,58.93,,0,0.0,41.61
+3,T000350,James,Traficant,1941-05-08,M,,400611,,104,House,OH,17,,D,,12,1340,0,4,47,216,64.86,,0,0.0,36.4
+4,T000350,James,Traficant,1941-05-08,M,,400611,,103,House,OH,17,,D,,10,1122,13,1,50,326,83.86,,0,0.0,15.39
+5,T000350,James,Traficant,1941-05-08,M,,400611,,102,House,OH,17,,D,,8,933,8,3,,,85.3,,0,0.0,11.8
+6,T000350,James,Traficant,1941-05-08,M,,400611,,101,House,OH,17,,D,,6,,,,,,,,0,0.0,
+7,T000350,James,Traficant,1941-05-08,M,,400611,,100,House,OH,17,,D,,4,,,,,,,,0,0.0,
+8,T000350,James,Traficant,1941-05-08,M,,400611,,99,House,OH,17,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000053,Vic,Fazio,1942-10-11,M,,404013,,105,House,CA,3,,D,,20,1187,28,1,26,214,87.42,,0,0.0,13.03
+1,F000053,Vic,Fazio,1942-10-11,M,,404013,,104,House,CA,3,,D,,18,1340,66,0,17,188,88.43,,0,0.0,12.81
+2,F000053,Vic,Fazio,1942-10-11,M,,404013,,103,House,CA,3,,D,,16,1122,10,1,13,263,92.0,,0,0.0,7.26
+3,F000053,Vic,Fazio,1942-10-11,M,,404013,,102,House,CA,4,,D,,14,933,30,0,,,89.4,,0,0.0,7.75
+4,F000053,Vic,Fazio,1942-10-11,M,,404013,,101,House,CA,4,,D,,12,,,,,,,,0,0.0,
+5,F000053,Vic,Fazio,1942-10-11,M,,404013,,100,House,CA,4,,D,,10,,,,,,,,0,0.0,
+6,F000053,Vic,Fazio,1942-10-11,M,,404013,,99,House,CA,4,,D,,8,,,,,,,,0,0.0,
+7,F000053,Vic,Fazio,1942-10-11,M,,404013,,98,House,CA,4,,D,,6,,,,,,,,0,0.0,

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000346,James,McClure,1924-12-27,M,,407355,,101,Senate,ID,,2,R,,17,638,15,2,,,,,0,0.0,
+1,M000346,James,McClure,1924-12-27,M,,407355,,100,Senate,ID,,2,R,,15,,,,,,,,0,0.0,
+2,M000346,James,McClure,1924-12-27,M,,407355,,99,Senate,ID,,2,R,,13,,,,,,,,0,0.0,
+3,M000346,James,McClure,1924-12-27,M,,407355,,98,Senate,ID,,2,R,,11,,,,,,,,0,0.0,
+4,M000346,James,McClure,1924-12-27,M,,407355,,97,Senate,ID,,2,R,,9,,,,,,,,0,0.0,
+5,M000346,James,McClure,1924-12-27,M,,407355,,96,Senate,ID,,2,R,,7,,,,,,,,0,0.0,
+6,M000346,James,McClure,1924-12-27,M,,407355,,95,Senate,ID,,2,R,,5,,,,,,,,0,0.0,
+7,M000346,James,McClure,1924-12-27,M,,407355,,94,Senate,ID,,2,R,,3,,,,,,,,0,0.0,
+8,M000346,James,McClure,1924-12-27,M,,407355,,93,Senate,ID,,2,R,,1,,,,,,,,0,0.0,

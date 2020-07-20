@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000159,Richard,Schweiker,1926-06-01,M,,409666,,96,Senate,PA,,3,R,,11,,,,,,,,0,0.0,
+1,S000159,Richard,Schweiker,1926-06-01,M,,409666,,95,Senate,PA,,3,R,,9,,,,,,,,0,0.0,
+2,S000159,Richard,Schweiker,1926-06-01,M,,409666,,94,Senate,PA,,3,R,,7,,,,,,,,0,0.0,
+3,S000159,Richard,Schweiker,1926-06-01,M,,409666,,93,Senate,PA,,3,R,,5,,,,,,,,0,0.0,
+4,S000159,Richard,Schweiker,1926-06-01,M,,409666,,92,Senate,PA,,3,R,,3,,,,,,,,0,0.0,
+5,S000159,Richard,Schweiker,1926-06-01,M,,409666,,91,Senate,PA,,3,R,,1,,,,,,,,0,0.0,

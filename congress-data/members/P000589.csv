@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000589,Jon,Porter,1955-05-16,M,,400324,,110,House,NV,3,,R,,6,1873,38,3,14,323,86.07,,0,2.0,14.49
+1,P000589,Jon,Porter,1955-05-16,M,,400324,,109,House,NV,3,,R,,4,1214,1,0,24,228,92.21,,0,0.0,8.04
+2,P000589,Jon,Porter,1955-05-16,M,,400324,,108,House,NV,3,,R,,2,1221,3,0,16,185,93.87,,0,0.0,6.3

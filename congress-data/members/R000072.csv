@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000072,Arthur,Ravenel,1927-03-29,M,,409052,,103,House,SC,1,,R,,8,1122,27,0,9,386,82.27,,0,0.0,16.97
+1,R000072,Arthur,Ravenel,1927-03-29,M,,409052,,102,House,SC,1,,R,,6,933,17,0,,,72.68,,0,0.0,23.85
+2,R000072,Arthur,Ravenel,1927-03-29,M,,409052,,101,House,SC,1,,R,,4,,,,,,,,0,0.0,
+3,R000072,Arthur,Ravenel,1927-03-29,M,,409052,,100,House,SC,1,,R,,2,,,,,,,,0,0.0,

@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000093,Robert,Ehrlich,1957-11-25,M,,400523,,107,House,MD,2,,R,,8,996,120,0,4,213,95.35,,0,0.0,5.23
+1,E000093,Robert,Ehrlich,1957-11-25,M,,400523,,106,House,MD,2,,R,,6,1214,55,0,6,223,92.08,,0,0.0,8.18
+2,E000093,Robert,Ehrlich,1957-11-25,M,,400523,,105,House,MD,2,,R,,4,1187,33,0,9,174,91.42,,0,0.0,9.12
+3,E000093,Robert,Ehrlich,1957-11-25,M,,400523,,104,House,MD,2,,R,,2,1340,18,0,8,129,93.5,,0,0.0,7.75

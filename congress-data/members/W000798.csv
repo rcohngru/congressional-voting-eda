@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000798,Tim,Walberg,1951-04-12,M,R,412213,1022844,116,House,MI,7,,R,,10,839,8,0,21,148,95.87,,3,2.0,4.0
+1,W000798,Tim,Walberg,1951-04-12,M,R,412213,1022844,115,House,MI,7,,R,,8,1211,2,0,28,201,95.43,,4,2.0,4.57
+2,W000798,Tim,Walberg,1951-04-12,M,R,412213,1022844,114,House,MI,7,,R,,6,1325,9,0,25,205,96.71,,0,2.0,3.22
+3,W000798,Tim,Walberg,1951-04-12,M,R,412213,1022844,113,House,MI,7,,R,,4,1204,20,0,16,284,94.66,,0,2.0,5.26
+4,W000798,Tim,Walberg,1951-04-12,M,R,412213,1022844,112,House,MI,7,,R,,2,1607,20,0,14,276,94.16,,0,3.0,5.77
+5,W000798,Tim,Walberg,1951-04-12,M,R,412213,1022844,110,House,MI,7,,R,,2,1873,29,2,13,403,93.48,,0,2.0,7.02

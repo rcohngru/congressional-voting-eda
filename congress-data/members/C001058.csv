@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001058,Ben,Chandler,1959-09-12,M,D,400442,1007734,112,House,KY,6,,D,,10,1607,41,2,5,143,74.27,,0,2.0,25.66
+1,C001058,Ben,Chandler,1959-09-12,M,D,400442,1007734,111,House,KY,6,,D,,8,1655,36,31,6,272,94.29,,0,3.0,5.65
+2,C001058,Ben,Chandler,1959-09-12,M,D,400442,1007734,110,House,KY,6,,D,,6,1873,32,1,6,342,95.86,,0,2.0,4.69
+3,C001058,Ben,Chandler,1959-09-12,M,D,400442,1007734,109,House,KY,6,,D,,4,1214,16,0,5,288,88.91,,0,0.0,11.35
+4,C001058,Ben,Chandler,1959-09-12,M,D,400442,1007734,108,House,KY,6,,D,,2,519,5,0,1,137,89.55,,0,0.0,10.45

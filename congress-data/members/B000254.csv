@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000254,Birch,Bayh,1928-01-22,M,,401248,,96,Senate,IN,,3,D,,17,,,,,,,,0,0.0,
+1,B000254,Birch,Bayh,1928-01-22,M,,401248,,95,Senate,IN,,3,D,,15,,,,,,,,0,0.0,
+2,B000254,Birch,Bayh,1928-01-22,M,,401248,,94,Senate,IN,,3,D,,13,,,,,,,,0,0.0,
+3,B000254,Birch,Bayh,1928-01-22,M,,401248,,93,Senate,IN,,3,D,,11,,,,,,,,0,0.0,
+4,B000254,Birch,Bayh,1928-01-22,M,,401248,,92,Senate,IN,,3,D,,9,,,,,,,,0,0.0,
+5,B000254,Birch,Bayh,1928-01-22,M,,401248,,91,Senate,IN,,3,D,,7,,,,,,,,0,0.0,
+6,B000254,Birch,Bayh,1928-01-22,M,,401248,,90,Senate,IN,,3,D,,5,,,,,,,,0,0.0,
+7,B000254,Birch,Bayh,1928-01-22,M,,401248,,89,Senate,IN,,3,D,,3,,,,,,,,0,0.0,
+8,B000254,Birch,Bayh,1928-01-22,M,,401248,,88,Senate,IN,,3,D,,1,,,,,,,,0,0.0,

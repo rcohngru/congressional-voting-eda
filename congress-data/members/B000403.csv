@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,108,House,NE,1,,R,,26,1098,95,3,35,223,91.85,,0,0.0,8.35
+1,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,107,House,NE,1,,R,,24,996,26,1,29,232,93.92,,0,0.0,6.6
+2,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,106,House,NE,1,,R,,22,1214,30,1,28,288,89.15,,0,0.0,11.11
+3,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,105,House,NE,1,,R,,20,1187,21,0,25,266,91.25,,0,0.0,9.28
+4,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,104,House,NE,1,,R,,18,1340,8,0,24,233,88.35,,0,0.0,12.9
+5,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,103,House,NE,1,,R,,16,1122,8,0,19,306,83.63,,0,0.0,15.72
+6,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,102,House,NE,1,,R,,14,933,8,1,,,81.65,,0,0.0,14.91
+7,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,101,House,NE,1,,R,,12,,,,,,,,0,0.0,
+8,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,100,House,NE,1,,R,,10,,,,,,,,0,0.0,
+9,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,99,House,NE,1,,R,,8,,,,,,,,0,0.0,
+10,B000403,Douglas,Bereuter,1939-10-06,M,,400023,,98,House,NE,1,,R,,6,,,,,,,,0,0.0,

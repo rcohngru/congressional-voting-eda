@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,116,House,TX,26,,R,,18,839,14,0,27,142,92.43,,3,2.0,7.45
+1,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,115,House,TX,26,,R,,16,1211,23,0,48,173,94.59,,4,2.0,5.41
+2,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,114,House,TX,26,,R,,14,1325,7,0,55,201,91.59,,0,2.0,8.33
+3,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,113,House,TX,26,,R,,12,1204,24,0,49,241,90.55,,0,2.0,9.36
+4,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,112,House,TX,26,,R,,10,1607,26,0,30,222,89.17,,0,2.0,10.77
+5,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,111,House,TX,26,,R,,8,1655,63,1,29,280,94.07,,0,1.0,5.86
+6,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,110,House,TX,26,,R,,6,1873,84,1,33,285,92.98,,0,1.0,7.59
+7,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,109,House,TX,26,,R,,4,1214,13,0,18,196,94.51,,0,0.0,5.75
+8,B001248,Michael,Burgess,1950-12-23,M,R,400052,1003620,108,House,TX,26,,R,,2,1221,25,0,15,243,95.03,,0,0.0,5.14

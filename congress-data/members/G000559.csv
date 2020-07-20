@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000559,John,Garamendi,1945-01-24,M,D,412382,18413,116,House,CA,3,,D,,12,839,17,0,30,494,99.02,,6,2.0,0.85
+1,G000559,John,Garamendi,1945-01-24,M,D,412382,18413,115,House,CA,3,,D,,10,1211,51,2,10,503,95.49,,5,2.0,4.51
+2,G000559,John,Garamendi,1945-01-24,M,D,412382,18413,114,House,CA,3,,D,,8,1325,53,1,13,326,95.0,,0,2.0,4.92
+3,G000559,John,Garamendi,1945-01-24,M,D,412382,18413,113,House,CA,3,,D,,6,1204,26,1,6,331,90.67,,0,3.0,9.25
+4,G000559,John,Garamendi,1945-01-24,M,D,412382,18413,112,House,CA,10,,D,,4,1607,77,1,14,235,92.98,,0,3.0,6.95
+5,G000559,John,Garamendi,1945-01-24,M,D,412382,18413,111,House,CA,10,,D,,2,798,59,0,8,259,98.22,,0,3.0,1.78

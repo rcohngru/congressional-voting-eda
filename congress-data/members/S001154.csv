@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,115,House,PA,9,,R,,18,1211,147,0,11,125,96.51,,1,2.0,3.49
+1,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,114,House,PA,9,,R,,16,1325,13,0,18,113,94.85,,0,2.0,5.07
+2,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,113,House,PA,9,,R,,14,1204,53,0,13,137,94.94,,0,2.0,4.97
+3,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,112,House,PA,9,,R,,12,1607,33,0,9,158,94.05,,0,2.0,5.89
+4,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,111,House,PA,9,,R,,10,1655,61,0,7,268,94.4,,0,8.0,5.54
+5,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,110,House,PA,9,,R,,8,1873,52,2,11,276,95.54,,0,0.0,5.03
+6,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,109,House,PA,9,,R,,6,1214,12,0,12,206,94.44,,0,0.0,5.82
+7,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,108,House,PA,9,,R,,4,1221,29,0,8,156,96.45,,0,0.0,3.63
+8,S001154,Bill,Shuster,1961-01-10,M,R,409888,89108,107,House,PA,9,,R,,2,0,0,0,4,115,0.0,,0,0.0,

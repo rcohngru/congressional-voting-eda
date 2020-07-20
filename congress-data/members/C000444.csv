@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000444,Joseph,Clark,1901-10-21,M,,402582,,90,Senate,PA,,3,D,,11,,,,,,,,0,0.0,
+1,C000444,Joseph,Clark,1901-10-21,M,,402582,,89,Senate,PA,,3,D,,9,,,,,,,,0,0.0,
+2,C000444,Joseph,Clark,1901-10-21,M,,402582,,88,Senate,PA,,3,D,,7,,,,,,,,0,0.0,
+3,C000444,Joseph,Clark,1901-10-21,M,,402582,,87,Senate,PA,,3,D,,5,,,,,,,,0,0.0,
+4,C000444,Joseph,Clark,1901-10-21,M,,402582,,86,Senate,PA,,3,D,,3,,,,,,,,0,0.0,
+5,C000444,Joseph,Clark,1901-10-21,M,,402582,,85,Senate,PA,,3,D,,2,,,,,,,,0,0.0,

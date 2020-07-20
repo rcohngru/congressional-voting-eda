@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000367,Rod,Grams,1948-02-04,M,,400560,,106,Senate,MN,,1,R,,5,672,28,0,57,304,93.93,,0,0.0,6.07
+1,G000367,Rod,Grams,1948-02-04,M,,400560,,105,Senate,MN,,1,R,,3,612,7,0,25,164,92.32,,0,0.0,7.68
+2,G000367,Rod,Grams,1948-02-04,M,,400560,,104,Senate,MN,,1,R,,1,916,14,0,16,97,93.53,,0,0.0,6.47
+3,G000367,Rod,Grams,1948-02-04,M,,400560,,103,House,MN,6,,R,,2,1122,49,0,12,181,92.26,,0,0.0,6.96

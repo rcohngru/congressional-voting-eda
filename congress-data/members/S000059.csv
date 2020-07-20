@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000059,Richard,Santorum,1958-05-10,M,,300085,,109,Senate,PA,,1,R,,11,645,30,0,156,272,91.99,,0,0.0,8.01
+1,S000059,Richard,Santorum,1958-05-10,M,,300085,,108,Senate,PA,,1,R,,9,675,11,0,55,194,94.23,,0,0.0,5.77
+2,S000059,Richard,Santorum,1958-05-10,M,,300085,,107,Senate,PA,,1,R,,7,633,14,0,43,135,93.98,,0,0.0,6.02
+3,S000059,Richard,Santorum,1958-05-10,M,,300085,,106,Senate,PA,,1,R,,5,672,9,0,45,234,92.58,,0,0.0,7.42
+4,S000059,Richard,Santorum,1958-05-10,M,,300085,,105,Senate,PA,,1,R,,3,612,6,0,17,143,91.5,,0,0.0,8.5
+5,S000059,Richard,Santorum,1958-05-10,M,,300085,,104,Senate,PA,,1,R,,1,916,9,0,16,141,93.9,,0,0.0,6.1
+6,S000059,Richard,Santorum,1958-05-10,M,,300085,,103,House,PA,18,,R,,4,1122,79,0,45,229,85.4,,0,0.0,13.8
+7,S000059,Richard,Santorum,1958-05-10,M,,300085,,102,House,PA,18,,R,,2,933,28,1,,,83.49,,0,0.0,13.1

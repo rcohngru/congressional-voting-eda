@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,I000047,Ernest,Istook,1950-02-11,M,,400197,,109,House,OK,5,,R,,14,1214,204,1,5,119,94.29,,0,0.0,5.81
+1,I000047,Ernest,Istook,1950-02-11,M,,400197,,108,House,OK,5,,R,,12,1221,106,1,9,91,96.2,,0,0.0,3.89
+2,I000047,Ernest,Istook,1950-02-11,M,,400197,,107,House,OK,5,,R,,10,996,66,1,10,101,96.72,,0,0.0,3.83
+3,I000047,Ernest,Istook,1950-02-11,M,,400197,,106,House,OK,5,,R,,8,1214,54,0,18,150,94.23,,0,0.0,5.86
+4,I000047,Ernest,Istook,1950-02-11,M,,400197,,105,House,OK,5,,R,,6,1187,71,0,4,134,94.75,,0,0.0,5.81
+5,I000047,Ernest,Istook,1950-02-11,M,,400197,,104,House,OK,5,,R,,4,1340,59,0,2,94,95.18,,0,0.0,5.78
+6,I000047,Ernest,Istook,1950-02-11,M,,400197,,103,House,OK,5,,R,,2,1122,51,1,6,135,91.78,,0,0.0,7.45

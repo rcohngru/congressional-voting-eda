@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001247,Ginny,Brown-Waite,1943-10-05,F,R,400051,1003557,111,House,FL,5,,R,,8,1655,158,1,20,286,92.0,,0,1.0,7.93
+1,B001247,Ginny,Brown-Waite,1943-10-05,F,R,400051,1003557,110,House,FL,5,,R,,6,1873,180,4,32,379,90.95,,0,3.0,9.54
+2,B001247,Ginny,Brown-Waite,1943-10-05,F,R,400051,1003557,109,House,FL,5,,R,,4,1214,84,0,26,331,90.73,,0,0.0,9.54
+3,B001247,Ginny,Brown-Waite,1943-10-05,F,R,400051,1003557,108,House,FL,5,,R,,2,1221,74,0,11,319,95.33,,0,0.0,4.84

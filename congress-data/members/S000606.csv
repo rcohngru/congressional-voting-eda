@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000606,Bob,Smith,1941-03-30,M,,300155,,107,Senate,NH,,2,R,,11,633,12,0,49,163,89.47,,0,0.0,10.53
+1,S000606,Bob,Smith,1941-03-30,M,,300155,,106,Senate,NH,,2,R,,9,672,0,0,40,189,83.56,,0,0.0,16.44
+2,S000606,Bob,Smith,1941-03-30,M,,300155,,105,Senate,NH,,2,R,,7,612,3,0,9,128,88.25,,0,0.0,11.75
+3,S000606,Bob,Smith,1941-03-30,M,,300155,,104,Senate,NH,,2,R,,5,916,11,0,10,142,91.67,,0,0.0,8.33
+4,S000606,Bob,Smith,1941-03-30,M,,300155,,103,Senate,NH,,2,R,,3,724,11,0,10,118,85.29,,0,0.0,14.71
+5,S000606,Bob,Smith,1941-03-30,M,,300155,,102,Senate,NH,,2,R,,1,550,2,0,,,77.22,,0,0.0,22.78
+6,S000606,Bob,Smith,1941-03-30,M,,300155,,101,House,NH,1,,R,,6,,,,,,,,0,0.0,
+7,S000606,Bob,Smith,1941-03-30,M,,300155,,100,House,NH,1,,R,,4,,,,,,,,0,0.0,
+8,S000606,Bob,Smith,1941-03-30,M,,300155,,99,House,NH,1,,R,,2,,,,,,,,0,0.0,

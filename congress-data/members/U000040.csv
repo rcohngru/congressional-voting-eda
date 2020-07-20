@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,U000040,Lauren,Underwood,1986-10-04,F,D,412776,,116,House,IL,14,,D,,2,839,7,0,24,302,98.19,,4,3.0,1.69

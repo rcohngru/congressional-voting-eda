@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000687,Kweisi,Mfume,1948-10-24,M,D,407672,,116,House,MD,7,,D,,2,34,1,0,0,17,100.0,,0,0.0,0.0
+1,M000687,Kweisi,Mfume,1948-10-24,M,D,407672,,104,House,MD,7,,D,,10,915,98,0,6,60,94.38,,0,0.0,7.71
+2,M000687,Kweisi,Mfume,1948-10-24,M,D,407672,,103,House,MD,7,,D,,8,1122,64,1,9,194,90.73,,0,0.0,8.68
+3,M000687,Kweisi,Mfume,1948-10-24,M,D,407672,,102,House,MD,7,,D,,6,933,38,0,,,88.0,,0,0.0,9.11
+4,M000687,Kweisi,Mfume,1948-10-24,M,D,407672,,101,House,MD,7,,D,,4,,,,,,,,0,0.0,
+5,M000687,Kweisi,Mfume,1948-10-24,M,D,407672,,100,House,MD,7,,D,,2,,,,,,,,0,0.0,

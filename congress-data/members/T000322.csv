@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000322,John,Tower,1925-09-29,M,,410894,,98,Senate,TX,,2,R,,22,,,,,,,,0,0.0,
+1,T000322,John,Tower,1925-09-29,M,,410894,,97,Senate,TX,,2,R,,20,,,,,,,,0,0.0,
+2,T000322,John,Tower,1925-09-29,M,,410894,,96,Senate,TX,,2,R,,18,,,,,,,,0,0.0,
+3,T000322,John,Tower,1925-09-29,M,,410894,,95,Senate,TX,,2,R,,16,,,,,,,,0,0.0,
+4,T000322,John,Tower,1925-09-29,M,,410894,,94,Senate,TX,,2,R,,14,,,,,,,,0,0.0,
+5,T000322,John,Tower,1925-09-29,M,,410894,,93,Senate,TX,,2,R,,12,,,,,,,,0,0.0,
+6,T000322,John,Tower,1925-09-29,M,,410894,,92,Senate,TX,,2,R,,10,,,,,,,,0,0.0,
+7,T000322,John,Tower,1925-09-29,M,,410894,,91,Senate,TX,,2,R,,8,,,,,,,,0,0.0,
+8,T000322,John,Tower,1925-09-29,M,,410894,,90,Senate,TX,,2,R,,6,,,,,,,,0,0.0,
+9,T000322,John,Tower,1925-09-29,M,,410894,,89,Senate,TX,,2,R,,4,,,,,,,,0,0.0,
+10,T000322,John,Tower,1925-09-29,M,,410894,,88,Senate,TX,,2,R,,2,,,,,,,,0,0.0,
+11,T000322,John,Tower,1925-09-29,M,,410894,,87,Senate,TX,,2,R,,1,,,,,,,,0,0.0,

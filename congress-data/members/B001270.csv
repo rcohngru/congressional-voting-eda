@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001270,Karen,Bass,1953-10-03,F,D,412404,62502,116,House,CA,37,,D,,10,839,50,1,28,502,98.09,,3,2.0,1.78
+1,B001270,Karen,Bass,1953-10-03,F,D,412404,62502,115,House,CA,37,,D,,8,1211,104,0,27,430,96.19,,3,2.0,3.81
+2,B001270,Karen,Bass,1953-10-03,F,D,412404,62502,114,House,CA,37,,D,,6,1325,129,0,15,262,96.19,,0,2.0,3.72
+3,B001270,Karen,Bass,1953-10-03,F,D,412404,62502,113,House,CA,37,,D,,4,1204,139,1,20,365,94.31,,0,2.0,5.59
+4,B001270,Karen,Bass,1953-10-03,F,D,412404,62502,112,House,CA,33,,D,,2,1607,123,1,12,289,94.6,,0,2.0,5.33

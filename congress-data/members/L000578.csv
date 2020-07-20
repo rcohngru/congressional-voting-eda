@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000578,Doug,LaMalfa,1960-07-02,M,R,412510,68493,116,House,CA,1,,R,,8,839,36,0,11,260,94.74,,5,2.0,5.14
+1,L000578,Doug,LaMalfa,1960-07-02,M,R,412510,68493,115,House,CA,1,,R,,6,1211,29,0,17,335,97.36,,7,3.0,2.64
+2,L000578,Doug,LaMalfa,1960-07-02,M,R,412510,68493,114,House,CA,1,,R,,4,1325,31,0,11,255,96.65,,0,2.0,3.27
+3,L000578,Doug,LaMalfa,1960-07-02,M,R,412510,68493,113,House,CA,1,,R,,2,1204,31,0,7,325,96.83,,0,2.0,3.08

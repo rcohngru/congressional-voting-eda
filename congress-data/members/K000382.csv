@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000382,Ann,Kuster,1956-09-05,F,D,412557,62650,116,House,NH,2,,D,,8,839,17,0,29,761,98.78,,3,1.0,1.1
+1,K000382,Ann,Kuster,1956-09-05,F,D,412557,62650,115,House,NH,2,,D,,6,1211,41,1,26,502,94.21,,4,2.0,5.79
+2,K000382,Ann,Kuster,1956-09-05,F,D,412557,62650,114,House,NH,2,,D,,4,1325,11,0,19,327,95.3,,0,2.0,4.62
+3,K000382,Ann,Kuster,1956-09-05,F,D,412557,62650,113,House,NH,2,,D,,2,1204,13,1,11,445,93.65,,0,3.0,6.26

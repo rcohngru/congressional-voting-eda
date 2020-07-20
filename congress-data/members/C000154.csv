@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000154,Frank,Carlson,1893-01-23,M,,402303,,90,Senate,KS,,3,R,,17,,,,,,,,0,0.0,
+1,C000154,Frank,Carlson,1893-01-23,M,,402303,,89,Senate,KS,,3,R,,15,,,,,,,,0,0.0,
+2,C000154,Frank,Carlson,1893-01-23,M,,402303,,88,Senate,KS,,3,R,,13,,,,,,,,0,0.0,
+3,C000154,Frank,Carlson,1893-01-23,M,,402303,,87,Senate,KS,,3,R,,11,,,,,,,,0,0.0,
+4,C000154,Frank,Carlson,1893-01-23,M,,402303,,86,Senate,KS,,3,R,,9,,,,,,,,0,0.0,
+5,C000154,Frank,Carlson,1893-01-23,M,,402303,,85,Senate,KS,,3,R,,7,,,,,,,,0,0.0,
+6,C000154,Frank,Carlson,1893-01-23,M,,402303,,84,Senate,KS,,3,R,,5,,,,,,,,0,0.0,
+7,C000154,Frank,Carlson,1893-01-23,M,,402303,,83,Senate,KS,,3,R,,3,,,,,,,,0,0.0,
+8,C000154,Frank,Carlson,1893-01-23,M,,402303,,82,Senate,KS,,3,R,,1,,,,,,,,0,0.0,
+9,C000154,Frank,Carlson,1893-01-23,M,,402303,,81,Senate,KS,,3,R,,1,,,,,,,,0,0.0,

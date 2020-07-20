@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000462,James,Bilbray,1938-05-19,M,,401446,,103,House,NV,1,,D,,8,1122,13,0,9,285,87.88,,0,0.0,11.46
+1,B000462,James,Bilbray,1938-05-19,M,,401446,,102,House,NV,1,,D,,6,933,21,0,,,85.86,,0,0.0,11.2
+2,B000462,James,Bilbray,1938-05-19,M,,401446,,101,House,NV,1,,D,,4,,,,,,,,0,0.0,
+3,B000462,James,Bilbray,1938-05-19,M,,401446,,100,House,NV,1,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000374,Ralph,Abraham,1954-09-16,M,R,412630,76236,116,House,LA,5,,R,,6,839,278,0,6,152,94.78,,4,2.0,5.04
+1,A000374,Ralph,Abraham,1954-09-16,M,R,412630,76236,115,House,LA,5,,R,,4,1211,18,0,9,255,97.56,,8,3.0,2.44
+2,A000374,Ralph,Abraham,1954-09-16,M,R,412630,76236,114,House,LA,5,,R,,2,1325,2,0,16,208,97.26,,0,3.0,2.67

@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,111,House,TX,17,,D,,20,1655,66,0,16,182,96.27,,0,2.0,3.67
+1,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,110,House,TX,17,,D,,18,1873,79,0,8,211,96.83,,0,2.0,3.74
+2,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,109,House,TX,17,,D,,16,1214,28,0,10,180,84.06,,0,0.0,16.03
+3,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,108,House,TX,11,,D,,14,1221,54,0,11,154,86.86,,0,0.0,13.23
+4,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,107,House,TX,11,,D,,12,996,17,0,3,137,88.74,,0,0.0,11.78
+5,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,106,House,TX,11,,D,,10,1214,38,0,1,116,89.92,,0,0.0,10.25
+6,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,105,House,TX,11,,D,,8,1187,32,0,1,110,88.96,,0,0.0,11.58
+7,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,104,House,TX,11,,D,,6,1340,48,1,4,89,77.71,,0,0.0,23.59
+8,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,103,House,TX,11,,D,,4,1122,19,0,5,133,82.94,,0,0.0,16.31
+9,E000063,Chet,Edwards,1951-11-24,M,D,400118,20693,102,House,TX,11,,D,,2,933,14,1,,,83.17,,0,0.0,14.03

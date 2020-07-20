@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000623,Mark,DeSaulnier,1952-03-31,M,D,412613,61736,116,House,CA,11,,D,,6,839,13,0,41,566,98.42,,6,4.0,1.46
+1,D000623,Mark,DeSaulnier,1952-03-31,M,D,412613,61736,115,House,CA,11,,D,,4,1211,18,0,26,614,95.61,,6,3.0,4.39
+2,D000623,Mark,DeSaulnier,1952-03-31,M,D,412613,61736,114,House,CA,11,,D,,2,1325,14,0,16,386,97.76,,0,2.0,2.16

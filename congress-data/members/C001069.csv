@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,116,House,CT,2,,D,,14,839,2,0,19,344,99.4,,4,2.0,0.48
+1,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,115,House,CT,2,,D,,12,1211,17,1,12,351,96.99,,4,2.0,3.01
+2,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,114,House,CT,2,,D,,10,1325,17,0,9,211,96.06,,0,2.0,3.86
+3,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,113,House,CT,2,,D,,8,1204,27,1,9,349,93.83,,0,3.0,6.08
+4,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,112,House,CT,2,,D,,6,1607,16,1,23,386,93.23,,0,3.0,6.7
+5,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,111,House,CT,2,,D,,4,1655,24,2,18,662,98.09,,0,2.0,1.85
+6,C001069,Joe,Courtney,1953-04-06,M,D,412193,1021284,110,House,CT,2,,D,,2,1873,11,0,26,434,98.91,,0,2.0,1.64

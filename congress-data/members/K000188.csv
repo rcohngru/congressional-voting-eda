@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,116,House,WI,3,,D,,24,839,40,0,46,362,96.87,,2,1.0,3.01
+1,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,115,House,WI,3,,D,,22,1211,103,0,21,454,92.78,,2,1.0,7.22
+2,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,114,House,WI,3,,D,,20,1325,72,0,27,302,92.33,,0,1.0,7.59
+3,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,113,House,WI,3,,D,,18,1204,34,1,25,315,90.87,,0,1.0,9.04
+4,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,112,House,WI,3,,D,,16,1607,38,1,20,220,88.16,,0,1.0,11.77
+5,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,111,House,WI,3,,D,,14,1655,44,0,32,304,93.88,,0,2.0,6.05
+6,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,110,House,WI,3,,D,,12,1873,58,1,30,410,97.37,,0,2.0,3.19
+7,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,109,House,WI,3,,D,,10,1214,35,1,16,279,92.18,,0,0.0,8.08
+8,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,108,House,WI,3,,D,,8,1221,43,1,18,285,93.01,,0,0.0,7.17
+9,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,107,House,WI,3,,D,,6,996,15,1,14,221,91.6,,0,0.0,8.82
+10,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,106,House,WI,3,,D,,4,1214,18,1,8,240,87.78,,0,0.0,12.48
+11,K000188,Ron,Kind,1963-03-16,M,D,400218,45870,105,House,WI,3,,D,,2,1187,5,3,1,175,88.42,,0,0.0,12.11

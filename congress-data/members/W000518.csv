@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000518,John,Williams,1904-05-17,M,,411675,,91,Senate,DE,,1,R,,23,,,,,,,,0,0.0,
+1,W000518,John,Williams,1904-05-17,M,,411675,,90,Senate,DE,,1,R,,21,,,,,,,,0,0.0,
+2,W000518,John,Williams,1904-05-17,M,,411675,,89,Senate,DE,,1,R,,19,,,,,,,,0,0.0,
+3,W000518,John,Williams,1904-05-17,M,,411675,,88,Senate,DE,,1,R,,17,,,,,,,,0,0.0,
+4,W000518,John,Williams,1904-05-17,M,,411675,,87,Senate,DE,,1,R,,15,,,,,,,,0,0.0,
+5,W000518,John,Williams,1904-05-17,M,,411675,,86,Senate,DE,,1,R,,14,,,,,,,,0,0.0,
+6,W000518,John,Williams,1904-05-17,M,,411675,,85,Senate,DE,,1,R,,11,,,,,,,,0,0.0,
+7,W000518,John,Williams,1904-05-17,M,,411675,,84,Senate,DE,,1,R,,9,,,,,,,,0,0.0,
+8,W000518,John,Williams,1904-05-17,M,,411675,,83,Senate,DE,,1,R,,7,,,,,,,,0,0.0,
+9,W000518,John,Williams,1904-05-17,M,,411675,,82,Senate,DE,,1,R,,5,,,,,,,,0,0.0,
+10,W000518,John,Williams,1904-05-17,M,,411675,,81,Senate,DE,,1,R,,4,,,,,,,,0,0.0,
+11,W000518,John,Williams,1904-05-17,M,,411675,,80,Senate,DE,,1,R,,1,,,,,,,,0,0.0,

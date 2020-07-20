@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,115,Senate,NV,,1,R,,7,599,29,0,72,251,94.34,,10,4.0,5.66
+1,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,114,Senate,NV,,1,R,,5,502,15,0,56,173,82.01,,0,5.0,17.99
+2,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,113,Senate,NV,,1,R,,3,657,14,0,42,233,85.44,,10,5.0,14.56
+3,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,112,Senate,NV,,1,R,,1,420,30,0,27,197,75.92,,0,4.0,24.08
+4,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,112,House,NV,2,,R,,6,298,6,0,9,58,88.24,,0,1.0,11.42
+5,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,111,House,NV,2,,R,,4,1655,61,0,33,198,94.08,,0,1.0,5.86
+6,H001041,Dean,Heller,1960-05-10,M,R,412218,1012368,110,House,NV,2,,R,,2,1873,30,0,12,177,93.41,,0,3.0,7.15

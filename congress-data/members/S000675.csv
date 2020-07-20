@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000675,Gerald,Solomon,1930-08-14,M,,410147,,105,House,NY,22,,R,,20,1187,42,1,141,337,95.41,,0,0.0,5.13
+1,S000675,Gerald,Solomon,1930-08-14,M,,410147,,104,House,NY,22,,R,,18,1340,47,0,125,339,95.75,,0,0.0,5.53
+2,S000675,Gerald,Solomon,1930-08-14,M,,410147,,103,House,NY,22,,R,,16,1122,44,0,80,555,90.66,,0,0.0,8.57
+3,S000675,Gerald,Solomon,1930-08-14,M,,410147,,102,House,NY,24,,R,,14,933,25,1,,,84.28,,0,0.0,12.22
+4,S000675,Gerald,Solomon,1930-08-14,M,,410147,,101,House,NY,24,,R,,12,,,,,,,,0,0.0,
+5,S000675,Gerald,Solomon,1930-08-14,M,,410147,,100,House,NY,24,,R,,10,,,,,,,,0,0.0,
+6,S000675,Gerald,Solomon,1930-08-14,M,,410147,,99,House,NY,24,,R,,8,,,,,,,,0,0.0,
+7,S000675,Gerald,Solomon,1930-08-14,M,,410147,,98,House,NY,24,,R,,6,,,,,,,,0,0.0,

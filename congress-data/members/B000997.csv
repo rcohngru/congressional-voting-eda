@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000997,John,Bryant,1947-02-22,M,,401947,,104,House,TX,5,,D,,14,1340,159,0,10,171,93.04,,0,0.0,8.21
+1,B000997,John,Bryant,1947-02-22,M,,401947,,103,House,TX,5,,D,,12,1122,52,0,12,151,93.44,,0,0.0,5.79
+2,B000997,John,Bryant,1947-02-22,M,,401947,,102,House,TX,5,,D,,10,933,66,0,,,89.92,,0,0.0,7.24
+3,B000997,John,Bryant,1947-02-22,M,,401947,,101,House,TX,5,,D,,8,,,,,,,,0,0.0,
+4,B000997,John,Bryant,1947-02-22,M,,401947,,100,House,TX,5,,D,,6,,,,,,,,0,0.0,
+5,B000997,John,Bryant,1947-02-22,M,,401947,,99,House,TX,5,,D,,4,,,,,,,,0,0.0,
+6,B000997,John,Bryant,1947-02-22,M,,401947,,98,House,TX,5,,D,,2,,,,,,,,0,0.0,

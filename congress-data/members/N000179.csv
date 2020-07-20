@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,116,House,CA,32,,D,,22,839,9,0,10,748,98.67,,5,2.0,1.21
+1,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,115,House,CA,32,,D,,20,1211,215,1,9,641,96.18,,5,2.0,3.82
+2,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,114,House,CA,32,,D,,18,1325,65,0,4,415,98.16,,0,2.0,1.76
+3,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,113,House,CA,32,,D,,16,1204,42,1,4,412,94.88,,0,2.0,5.03
+4,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,112,House,CA,38,,D,,14,1607,143,1,4,330,94.53,,0,2.0,5.4
+5,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,111,House,CA,38,,D,,12,1655,46,0,10,493,97.75,,0,2.0,2.19
+6,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,110,House,CA,38,,D,,10,1873,44,0,7,523,99.11,,0,2.0,1.44
+7,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,109,House,CA,38,,D,,8,1214,65,0,2,381,96.55,,0,0.0,3.71
+8,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,108,House,CA,38,,D,,6,1221,27,0,4,385,97.36,,0,0.0,2.81
+9,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,107,House,CA,34,,D,,4,996,30,1,3,387,96.2,,0,0.0,4.22
+10,N000179,Grace,Napolitano,1936-12-04,F,D,400290,57873,106,House,CA,34,,D,,2,1214,37,0,4,283,95.51,,0,0.0,4.75

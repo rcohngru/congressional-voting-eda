@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001048,Duncan,Hunter,1976-12-07,M,R,412283,1032398,116,House,CA,50,,R,,12,716,75,0,10,110,90.27,,0,0.0,9.58
+1,H001048,Duncan,Hunter,1976-12-07,M,R,412283,1032398,115,House,CA,50,,R,,10,1211,37,0,20,204,95.46,,7,3.0,4.54
+2,H001048,Duncan,Hunter,1976-12-07,M,R,412283,1032398,114,House,CA,50,,R,,8,1325,28,0,27,166,96.12,,0,3.0,3.81
+3,H001048,Duncan,Hunter,1976-12-07,M,R,412283,1032398,113,House,CA,50,,R,,6,1204,79,0,23,196,94.74,,0,3.0,5.17
+4,H001048,Duncan,Hunter,1976-12-07,M,R,412283,1032398,112,House,CA,52,,R,,4,1607,20,0,23,220,94.29,,0,3.0,5.65
+5,H001048,Duncan,Hunter,1976-12-07,M,R,412283,1032398,111,House,CA,52,,R,,2,1655,5,0,15,256,96.99,,0,2.0,2.95

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000263,John,Peterson,1938-12-25,M,,400317,,110,House,PA,5,,R,,12,1873,350,2,7,150,93.15,,0,1.0,7.05
+1,P000263,John,Peterson,1938-12-25,M,,400317,,109,House,PA,5,,R,,10,1214,110,0,7,132,96.97,,0,0.0,3.31
+2,P000263,John,Peterson,1938-12-25,M,,400317,,108,House,PA,5,,R,,8,1221,97,0,8,151,96.32,,0,0.0,3.77
+3,P000263,John,Peterson,1938-12-25,M,,400317,,107,House,PA,5,,R,,6,996,51,0,7,236,97.31,,0,0.0,3.11
+4,P000263,John,Peterson,1938-12-25,M,,400317,,106,House,PA,5,,R,,4,1214,157,0,13,288,94.98,,0,0.0,5.21
+5,P000263,John,Peterson,1938-12-25,M,,400317,,105,House,PA,5,,R,,2,1187,22,0,7,272,97.01,,0,0.0,3.35

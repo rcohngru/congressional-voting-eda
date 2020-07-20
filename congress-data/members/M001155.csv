@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001155,Connie,Mack,1967-08-12,M,R,400622,1013040,112,House,FL,14,,R,,8,1607,254,0,20,124,92.42,,0,2.0,7.51
+1,M001155,Connie,Mack,1967-08-12,M,R,400622,1013040,111,House,FL,14,,R,,6,1655,69,0,11,220,95.59,,0,3.0,4.35
+2,M001155,Connie,Mack,1967-08-12,M,R,400622,1013040,110,House,FL,14,,R,,4,1873,94,0,5,206,92.9,,0,3.0,7.56
+3,M001155,Connie,Mack,1967-08-12,M,R,400622,1013040,109,House,FL,14,,R,,2,1214,15,0,3,147,93.14,,0,0.0,7.12

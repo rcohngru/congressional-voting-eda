@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001292,Donald,Beyer,1950-06-20,M,D,412657,21141,116,House,VA,8,,D,,6,839,26,0,29,497,99.01,,5,2.0,0.86
+1,B001292,Donald,Beyer,1950-06-20,M,D,412657,21141,115,House,VA,8,,D,,4,1211,58,1,17,423,96.62,,5,3.0,3.38
+2,B001292,Donald,Beyer,1950-06-20,M,D,412657,21141,114,House,VA,8,,D,,2,1325,54,0,19,315,96.66,,0,3.0,3.26

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000224,Leslie,Aspin,1938-07-21,M,,400967,,103,House,WI,1,,D,,24,0,0,0,,,0.0,,0,0.0,
+1,A000224,Leslie,Aspin,1938-07-21,M,,400967,,102,House,WI,1,,D,,22,933,64,0,,,88.14,,0,0.0,9.49
+2,A000224,Leslie,Aspin,1938-07-21,M,,400967,,101,House,WI,1,,D,,20,,,,,,,,0,0.0,
+3,A000224,Leslie,Aspin,1938-07-21,M,,400967,,100,House,WI,1,,D,,18,,,,,,,,0,0.0,
+4,A000224,Leslie,Aspin,1938-07-21,M,,400967,,99,House,WI,1,,D,,16,,,,,,,,0,0.0,
+5,A000224,Leslie,Aspin,1938-07-21,M,,400967,,98,House,WI,1,,D,,14,,,,,,,,0,0.0,

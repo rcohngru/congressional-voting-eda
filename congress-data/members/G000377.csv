@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,116,House,TX,12,,R,,24,839,78,0,1,67,94.04,,0,1.0,5.83
+1,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,115,House,TX,12,,R,,22,1211,73,0,6,117,98.23,,3,1.0,1.77
+2,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,114,House,TX,12,,R,,20,1325,91,0,4,100,96.16,,0,1.0,3.76
+3,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,113,House,TX,12,,R,,18,1204,59,0,6,133,96.23,,0,1.0,3.68
+4,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,112,House,TX,12,,R,,16,1607,66,0,5,121,93.46,,0,1.0,6.47
+5,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,111,House,TX,12,,R,,14,1655,190,1,12,251,93.84,,0,1.0,6.09
+6,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,110,House,TX,12,,R,,12,1873,121,2,8,248,95.95,,0,1.0,4.57
+7,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,109,House,TX,12,,R,,10,1214,43,1,12,127,96.96,,0,0.0,3.3
+8,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,108,House,TX,12,,R,,8,1221,64,0,11,115,97.3,,0,0.0,2.78
+9,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,107,House,TX,12,,R,,6,996,36,0,11,105,98.2,,0,0.0,2.33
+10,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,106,House,TX,12,,R,,4,1214,95,0,10,153,95.29,,0,0.0,4.81
+11,G000377,Kay,Granger,1943-01-18,F,R,400157,45709,105,House,TX,12,,R,,2,1187,40,0,5,153,95.17,,0,0.0,5.18

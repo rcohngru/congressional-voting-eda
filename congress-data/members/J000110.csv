@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000110,Christopher,John,1960-01-05,M,,400203,,108,House,LA,7,,D,,8,1221,141,0,17,175,82.33,,0,0.0,17.86
+1,J000110,Christopher,John,1960-01-05,M,,400203,,107,House,LA,7,,D,,6,996,61,0,6,130,81.57,,0,0.0,18.87
+2,J000110,Christopher,John,1960-01-05,M,,400203,,106,House,LA,7,,D,,4,1214,48,0,3,178,80.89,,0,0.0,19.29
+3,J000110,Christopher,John,1960-01-05,M,,400203,,105,House,LA,7,,D,,2,1187,92,0,3,126,77.25,,0,0.0,23.33

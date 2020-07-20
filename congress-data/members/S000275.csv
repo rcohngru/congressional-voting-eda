@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,111,House,AZ,3,,R,,16,1655,110,1,14,242,91.08,,0,1.0,8.86
+1,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,110,House,AZ,3,,R,,14,1873,41,1,22,236,90.46,,0,2.0,10.1
+2,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,109,House,AZ,3,,R,,12,1210,40,0,25,188,89.86,,0,0.0,10.4
+3,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,108,House,AZ,3,,R,,10,1221,31,0,22,138,91.77,,0,0.0,8.4
+4,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,107,House,AZ,4,,R,,8,996,19,0,12,157,92.61,,0,0.0,7.91
+5,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,106,House,AZ,4,,R,,6,1214,39,0,14,182,90.47,,0,0.0,9.71
+6,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,105,House,AZ,4,,R,,4,1187,15,7,8,175,90.08,,0,0.0,10.45
+7,S000275,John,Shadegg,1949-10-22,M,R,400368,37037,104,House,AZ,4,,R,,2,1340,6,0,5,165,93.88,,0,0.0,7.36

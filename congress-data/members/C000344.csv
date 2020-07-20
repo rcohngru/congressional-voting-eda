@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000344,Richard,Cheney,1941-01-30,M,,402484,,101,House,WY,At-Large,,R,,12,,,,,,,,0,0.0,
+1,C000344,Richard,Cheney,1941-01-30,M,,402484,,100,House,WY,At-Large,,R,,10,,,,,,,,0,0.0,
+2,C000344,Richard,Cheney,1941-01-30,M,,402484,,99,House,WY,At-Large,,R,,8,,,,,,,,0,0.0,
+3,C000344,Richard,Cheney,1941-01-30,M,,402484,,98,House,WY,At-Large,,R,,6,,,,,,,,0,0.0,

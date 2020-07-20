@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001193,Eric,Swalwell,1980-11-16,M,D,412514,79729,116,House,CA,15,,D,,8,839,207,0,18,499,98.73,,4,2.0,1.11
+1,S001193,Eric,Swalwell,1980-11-16,M,D,412514,79729,115,House,CA,15,,D,,6,1211,78,0,15,482,96.64,,4,2.0,3.36
+2,S001193,Eric,Swalwell,1980-11-16,M,D,412514,79729,114,House,CA,15,,D,,4,1325,49,0,10,417,96.51,,0,2.0,3.41
+3,S001193,Eric,Swalwell,1980-11-16,M,D,412514,79729,113,House,CA,15,,D,,2,1204,6,1,9,367,93.52,,0,2.0,6.4

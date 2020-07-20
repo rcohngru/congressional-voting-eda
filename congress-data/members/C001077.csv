@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001077,Mike,Coffman,1955-03-19,M,R,412271,1031340,115,House,CO,6,,R,,10,1211,9,0,26,396,92.89,,3,2.0,7.11
+1,C001077,Mike,Coffman,1955-03-19,M,R,412271,1031340,114,House,CO,6,,R,,8,1325,9,0,18,234,93.42,,0,2.0,6.51
+2,C001077,Mike,Coffman,1955-03-19,M,R,412271,1031340,113,House,CO,6,,R,,6,1204,9,0,19,300,92.18,,0,3.0,7.73
+3,C001077,Mike,Coffman,1955-03-19,M,R,412271,1031340,112,House,CO,6,,R,,4,1607,10,0,17,323,91.29,,0,3.0,8.64
+4,C001077,Mike,Coffman,1955-03-19,M,R,412271,1031340,111,House,CO,6,,R,,2,1655,28,0,11,273,95.13,,0,3.0,4.8

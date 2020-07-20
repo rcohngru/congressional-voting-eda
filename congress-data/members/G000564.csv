@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000564,Chris,Gibson,1964-05-13,M,R,412453,1033827,114,House,NY,19,,R,,6,1325,12,0,21,300,77.28,,0,3.0,22.64
+1,G000564,Chris,Gibson,1964-05-13,M,R,412453,1033827,113,House,NY,19,,R,,4,1204,14,0,19,312,73.27,,0,2.0,26.64
+2,G000564,Chris,Gibson,1964-05-13,M,R,412453,1033827,112,House,NY,20,,R,,2,1607,9,0,14,164,74.72,,0,2.0,25.22

@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000387,Steve,Knight,1966-12-17,M,R,412614,76118,115,House,CA,25,,R,,4,1211,29,0,30,244,93.96,,7,3.0,6.04
+1,K000387,Steve,Knight,1966-12-17,M,R,412614,76118,114,House,CA,25,,R,,2,1325,20,0,14,140,96.45,,0,3.0,3.47

@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000125,Steven,Schiff,1947-03-18,M,,409633,,105,House,NM,1,,R,,10,710,647,0,6,109,83.33,,0,0.0,16.67
+1,S000125,Steven,Schiff,1947-03-18,M,,409633,,104,House,NM,1,,R,,8,1340,45,6,11,147,88.82,,0,0.0,12.38
+2,S000125,Steven,Schiff,1947-03-18,M,,409633,,103,House,NM,1,,R,,6,1122,23,0,6,384,85.86,,0,0.0,13.48
+3,S000125,Steven,Schiff,1947-03-18,M,,409633,,102,House,NM,1,,R,,4,933,24,0,,,77.44,,0,0.0,19.05
+4,S000125,Steven,Schiff,1947-03-18,M,,409633,,101,House,NM,1,,R,,2,,,,,,,,0,0.0,

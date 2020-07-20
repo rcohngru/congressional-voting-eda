@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001042,Jon,Corzine,1947-01-01,M,,300028,,109,Senate,NJ,,1,D,,5,366,136,0,34,265,92.89,,0,0.0,7.11
+1,C001042,Jon,Corzine,1947-01-01,M,,300028,,108,Senate,NJ,,1,D,,3,675,24,0,66,384,95.29,,0,0.0,4.71
+2,C001042,Jon,Corzine,1947-01-01,M,,300028,,107,Senate,NJ,,1,D,,1,633,11,0,45,364,91.83,,0,0.0,8.17

@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,116,Senate,PA,,3,R,,9,557,28,0,29,108,92.59,,6,3.0,7.41
+1,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,115,Senate,PA,,3,R,,7,599,28,0,23,131,94.0,,6,3.0,6.0
+2,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,114,Senate,PA,,3,R,,5,502,40,0,38,156,91.65,,0,3.0,8.35
+3,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,113,Senate,PA,,3,R,,3,657,22,0,46,159,92.12,,3,4.0,7.88
+4,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,112,Senate,PA,,3,R,,1,486,9,0,25,170,88.46,,0,0.0,11.54
+5,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,108,House,PA,15,,R,,6,1221,140,0,11,160,90.67,,0,0.0,9.42
+6,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,107,House,PA,15,,R,,4,996,33,0,18,155,92.29,,0,0.0,8.24
+7,T000461,Patrick,Toomey,1961-11-17,M,R,400408,7958,106,House,PA,15,,R,,2,1214,26,0,11,142,89.8,,0,0.0,10.37

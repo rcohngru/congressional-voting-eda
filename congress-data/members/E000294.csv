@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000294,Tom,Emmer,1961-03-03,M,R,412639,75567,116,House,MN,6,,R,,6,839,80,0,15,179,94.02,,2,1.0,5.84
+1,E000294,Tom,Emmer,1961-03-03,M,R,412639,75567,115,House,MN,6,,R,,4,1211,13,0,25,214,94.97,,3,1.0,5.03
+2,E000294,Tom,Emmer,1961-03-03,M,R,412639,75567,114,House,MN,6,,R,,2,1325,16,0,19,196,94.07,,0,1.0,5.85

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000590,Mark,Pryor,1963-01-10,M,D,300080,1002201,113,Senate,AR,,2,D,,11,657,36,0,44,186,92.11,,13,6.0,7.89
+1,P000590,Mark,Pryor,1963-01-10,M,D,300080,1002201,112,Senate,AR,,2,D,,9,486,8,0,59,150,89.89,,0,6.0,10.11
+2,P000590,Mark,Pryor,1963-01-10,M,D,300080,1002201,111,Senate,AR,,2,D,,7,696,5,0,25,141,90.98,,0,6.0,9.02
+3,P000590,Mark,Pryor,1963-01-10,M,D,300080,1002201,110,Senate,AR,,2,D,,5,657,1,1,31,227,87.37,,0,6.0,12.63
+4,P000590,Mark,Pryor,1963-01-10,M,D,300080,1002201,109,Senate,AR,,2,D,,3,645,2,0,12,259,86.89,,0,0.0,13.11
+5,P000590,Mark,Pryor,1963-01-10,M,D,300080,1002201,108,Senate,AR,,2,D,,1,675,2,0,6,189,89.95,,0,0.0,10.05

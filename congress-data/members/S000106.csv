@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000106,Joe,Scarborough,1963-04-09,M,,400608,,107,House,FL,1,,R,,8,334,53,0,13,47,88.0,,0,0.0,12.73
+1,S000106,Joe,Scarborough,1963-04-09,M,,400608,,106,House,FL,1,,R,,6,1214,268,1,20,172,88.33,,0,0.0,11.67
+2,S000106,Joe,Scarborough,1963-04-09,M,,400608,,105,House,FL,1,,R,,4,1187,88,1,15,203,86.22,,0,0.0,14.15
+3,S000106,Joe,Scarborough,1963-04-09,M,,400608,,104,House,FL,1,,R,,2,1340,71,1,12,163,87.79,,0,0.0,13.44

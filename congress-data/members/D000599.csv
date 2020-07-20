@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000599,Lincoln,Davis,1943-09-13,M,D,400096,1003615,111,House,TN,4,,D,,8,1655,108,0,7,221,94.73,,0,2.0,5.2
+1,D000599,Lincoln,Davis,1943-09-13,M,D,400096,1003615,110,House,TN,4,,D,,6,1873,74,2,10,297,93.46,,0,0.0,6.99
+2,D000599,Lincoln,Davis,1943-09-13,M,D,400096,1003615,109,House,TN,4,,D,,4,1214,27,0,6,273,81.45,,0,0.0,18.8
+3,D000599,Lincoln,Davis,1943-09-13,M,D,400096,1003615,108,House,TN,4,,D,,2,1221,34,0,1,258,84.83,,0,0.0,15.34

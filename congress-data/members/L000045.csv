@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000045,H. Martin,Lancaster,1943-03-24,M,,406554,,103,House,NC,3,,D,,8,1122,18,0,12,330,83.99,,0,0.0,15.26
+1,L000045,H. Martin,Lancaster,1943-03-24,M,,406554,,102,House,NC,3,,D,,6,933,25,0,,,81.73,,0,0.0,15.32
+2,L000045,H. Martin,Lancaster,1943-03-24,M,,406554,,101,House,NC,3,,D,,4,,,,,,,,0,0.0,
+3,L000045,H. Martin,Lancaster,1943-03-24,M,,406554,,100,House,NC,3,,D,,2,,,,,,,,0,0.0,

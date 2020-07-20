@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000981,Duncan,Hunter,1948-05-31,M,,400191,,110,House,CA,52,,R,,28,1873,455,1,13,227,94.27,,0,1.0,6.31
+1,H000981,Duncan,Hunter,1948-05-31,M,,400191,,109,House,CA,52,,R,,26,1214,89,0,19,139,94.68,,0,0.0,5.51
+2,H000981,Duncan,Hunter,1948-05-31,M,,400191,,108,House,CA,52,,R,,24,1221,105,0,23,137,95.48,,0,0.0,4.71
+3,H000981,Duncan,Hunter,1948-05-31,M,,400191,,107,House,CA,52,,R,,22,996,61,0,22,132,96.09,,0,0.0,4.34
+4,H000981,Duncan,Hunter,1948-05-31,M,,400191,,106,House,CA,52,,R,,20,1214,49,1,18,193,92.66,,0,0.0,7.51
+5,H000981,Duncan,Hunter,1948-05-31,M,,400191,,105,House,CA,52,,R,,18,1187,70,0,14,175,93.38,,0,0.0,6.99
+6,H000981,Duncan,Hunter,1948-05-31,M,,400191,,104,House,CA,52,,R,,16,1340,73,0,11,183,95.27,,0,0.0,5.87
+7,H000981,Duncan,Hunter,1948-05-31,M,,400191,,103,House,CA,52,,R,,14,1122,71,0,14,265,89.26,,0,0.0,9.95
+8,H000981,Duncan,Hunter,1948-05-31,M,,400191,,102,House,CA,45,,R,,12,933,71,1,,,85.36,,0,0.0,11.31
+9,H000981,Duncan,Hunter,1948-05-31,M,,400191,,101,House,CA,45,,R,,10,,,,,,,,0,0.0,
+10,H000981,Duncan,Hunter,1948-05-31,M,,400191,,100,House,CA,45,,R,,8,,,,,,,,0,0.0,
+11,H000981,Duncan,Hunter,1948-05-31,M,,400191,,99,House,CA,45,,R,,6,,,,,,,,0,0.0,
+12,H000981,Duncan,Hunter,1948-05-31,M,,400191,,98,House,CA,45,,R,,4,,,,,,,,0,0.0,

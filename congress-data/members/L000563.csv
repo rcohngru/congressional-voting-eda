@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,116,House,IL,3,,D,,16,839,34,2,39,381,96.52,,5,2.0,3.36
+1,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,115,House,IL,3,,D,,14,1211,55,2,25,434,91.66,,6,2.0,8.34
+2,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,114,House,IL,3,,D,,12,1325,56,3,23,248,88.07,,0,2.0,11.85
+3,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,113,House,IL,3,,D,,10,1204,37,3,20,306,86.56,,0,2.0,13.35
+4,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,112,House,IL,3,,D,,8,1607,44,3,13,255,85.01,,0,2.0,14.93
+5,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,111,House,IL,3,,D,,6,1655,59,2,20,338,95.84,,0,3.0,4.1
+6,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,110,House,IL,3,,D,,4,1873,50,0,14,303,96.77,,0,3.0,3.79
+7,L000563,Daniel,Lipinski,1966-07-15,M,D,400630,1013046,109,House,IL,3,,D,,2,1214,11,3,5,295,91.81,,0,0.0,8.44

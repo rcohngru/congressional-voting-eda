@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000384,Samuel,Hayakawa,1906-07-18,M,,405252,,97,Senate,CA,,1,R,,5,,,,,,,,0,0.0,
+1,H000384,Samuel,Hayakawa,1906-07-18,M,,405252,,96,Senate,CA,,1,R,,3,,,,,,,,0,0.0,
+2,H000384,Samuel,Hayakawa,1906-07-18,M,,405252,,95,Senate,CA,,1,R,,1,,,,,,,,0,0.0,
+3,H000384,Samuel,Hayakawa,1906-07-18,M,,405252,,94,Senate,CA,,1,R,,1,,,,,,,,0,0.0,

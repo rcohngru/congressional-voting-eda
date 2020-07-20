@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000644,Robert,Borski,1948-10-20,M,,400542,,107,House,PA,3,,D,,20,996,79,0,7,273,88.07,,0,0.0,12.49
+1,B000644,Robert,Borski,1948-10-20,M,,400542,,106,House,PA,3,,D,,18,1214,50,1,4,297,88.66,,0,0.0,11.61
+2,B000644,Robert,Borski,1948-10-20,M,,400542,,105,House,PA,3,,D,,16,1187,29,1,4,226,87.73,,0,0.0,12.82
+3,B000644,Robert,Borski,1948-10-20,M,,400542,,104,House,PA,3,,D,,14,1340,29,5,3,138,90.03,,0,0.0,11.25
+4,B000644,Robert,Borski,1948-10-20,M,,400542,,103,House,PA,3,,D,,12,1122,40,0,9,262,93.12,,0,0.0,6.11
+5,B000644,Robert,Borski,1948-10-20,M,,400542,,102,House,PA,3,,D,,10,933,18,0,,,90.08,,0,0.0,7.1
+6,B000644,Robert,Borski,1948-10-20,M,,400542,,101,House,PA,3,,D,,8,,,,,,,,0,0.0,
+7,B000644,Robert,Borski,1948-10-20,M,,400542,,100,House,PA,3,,D,,6,,,,,,,,0,0.0,
+8,B000644,Robert,Borski,1948-10-20,M,,400542,,99,House,PA,3,,D,,4,,,,,,,,0,0.0,
+9,B000644,Robert,Borski,1948-10-20,M,,400542,,98,House,PA,3,,D,,2,,,,,,,,0,0.0,

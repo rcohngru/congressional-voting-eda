@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000206,Matthew,Martinez,1929-02-14,M,,400595,,106,House,CA,31,,R,,20,165,42,0,6,340,98.37,,0,0.0,1.63
+1,M000206,Matthew,Martinez,1929-02-14,M,,400595,,106,House,CA,31,,D,,20,1049,171,2,,,79.79,,0,0.0,20.44
+2,M000206,Matthew,Martinez,1929-02-14,M,,400595,,105,House,CA,31,,D,,18,1187,102,4,6,403,86.17,,0,0.0,14.31
+3,M000206,Matthew,Martinez,1929-02-14,M,,400595,,104,House,CA,31,,D,,16,1340,102,2,7,207,86.46,,0,0.0,14.82
+4,M000206,Matthew,Martinez,1929-02-14,M,,400595,,103,House,CA,31,,D,,14,1122,65,2,20,415,92.16,,0,0.0,7.15
+5,M000206,Matthew,Martinez,1929-02-14,M,,400595,,102,House,CA,30,,D,,12,933,119,1,,,90.89,,0,0.0,6.33
+6,M000206,Matthew,Martinez,1929-02-14,M,,400595,,101,House,CA,30,,D,,10,,,,,,,,0,0.0,
+7,M000206,Matthew,Martinez,1929-02-14,M,,400595,,100,House,CA,30,,D,,8,,,,,,,,0,0.0,
+8,M000206,Matthew,Martinez,1929-02-14,M,,400595,,99,House,CA,30,,D,,6,,,,,,,,0,0.0,
+9,M000206,Matthew,Martinez,1929-02-14,M,,400595,,98,House,CA,30,,D,,4,,,,,,,,0,0.0,

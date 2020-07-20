@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000419,Richard,Pombo,1961-01-08,M,,400322,,109,House,CA,11,,R,,14,1214,59,0,42,130,96.3,,0,0.0,3.96
+1,P000419,Richard,Pombo,1961-01-08,M,,400322,,108,House,CA,11,,R,,12,1221,35,0,24,120,96.35,,0,0.0,3.74
+2,P000419,Richard,Pombo,1961-01-08,M,,400322,,107,House,CA,11,,R,,10,996,40,0,14,133,94.89,,0,0.0,5.64
+3,P000419,Richard,Pombo,1961-01-08,M,,400322,,106,House,CA,11,,R,,8,1214,20,0,13,238,91.29,,0,0.0,8.97
+4,P000419,Richard,Pombo,1961-01-08,M,,400322,,105,House,CA,11,,R,,6,1187,34,0,5,175,90.16,,0,0.0,10.38
+5,P000419,Richard,Pombo,1961-01-08,M,,400322,,104,House,CA,11,,R,,4,1340,19,0,7,143,93.74,,0,0.0,7.43
+6,P000419,Richard,Pombo,1961-01-08,M,,400322,,103,House,CA,11,,R,,2,1122,35,0,10,241,85.69,,0,0.0,13.65

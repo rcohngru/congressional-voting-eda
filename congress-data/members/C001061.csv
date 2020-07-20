@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,116,House,MO,5,,D,,16,839,43,0,19,410,98.36,,4,3.0,1.51
+1,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,115,House,MO,5,,D,,14,1211,107,5,1,296,97.48,,2,1.0,2.52
+2,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,114,House,MO,5,,D,,12,1325,127,0,2,171,96.62,,0,1.0,3.29
+3,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,113,House,MO,5,,D,,10,1204,123,1,7,239,95.99,,0,1.0,3.91
+4,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,112,House,MO,5,,D,,8,1607,73,2,30,260,93.78,,0,1.0,6.15
+5,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,111,House,MO,5,,D,,6,1655,52,1,9,388,97.74,,0,2.0,2.2
+6,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,110,House,MO,5,,D,,4,1873,53,2,41,499,98.61,,0,2.0,1.9
+7,C001061,Emanuel,Cleaver,1944-10-26,M,D,400639,10933,109,House,MO,5,,D,,2,1214,43,0,28,376,95.23,,0,0.0,5.03

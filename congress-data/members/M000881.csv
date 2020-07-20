@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000881,Jim,Moody,1935-09-02,,,407853,,102,House,WI,5,,D,,10,933,58,0,,,86.59,,0,0.0,10.71
+1,M000881,Jim,Moody,1935-09-02,,,407853,,101,House,WI,5,,D,,8,,,,,,,,0,0.0,
+2,M000881,Jim,Moody,1935-09-02,,,407853,,100,House,WI,5,,D,,6,,,,,,,,0,0.0,
+3,M000881,Jim,Moody,1935-09-02,,,407853,,99,House,WI,5,,D,,4,,,,,,,,0,0.0,
+4,M000881,Jim,Moody,1935-09-02,,,407853,,98,House,WI,5,,D,,2,,,,,,,,0,0.0,

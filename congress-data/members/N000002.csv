@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,116,House,NY,10,,D,,30,839,30,0,33,507,98.51,,0,1.0,1.36
+1,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,115,House,NY,10,,D,,28,1211,26,1,24,504,96.01,,4,2.0,3.99
+2,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,114,House,NY,10,,D,,26,1320,102,0,15,291,97.1,,0,3.0,2.81
+3,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,113,House,NY,10,,D,,24,1204,40,1,22,367,95.06,,0,2.0,4.85
+4,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,112,House,NY,8,,D,,22,1607,91,1,36,334,94.17,,0,2.0,5.76
+5,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,111,House,NY,8,,D,,20,1655,46,1,27,455,96.56,,0,2.0,3.38
+6,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,110,House,NY,8,,D,,18,1873,97,0,22,537,98.64,,0,2.0,1.65
+7,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,109,House,NY,8,,D,,16,1214,41,1,26,510,94.11,,0,0.0,6.15
+8,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,108,House,NY,8,,D,,14,1221,68,0,34,525,95.95,,0,0.0,4.14
+9,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,107,House,NY,8,,D,,12,996,82,2,33,446,94.64,,0,0.0,5.92
+10,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,106,House,NY,8,,D,,10,1214,49,3,34,460,90.28,,0,0.0,9.81
+11,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,105,House,NY,8,,D,,8,1187,64,1,18,299,90.82,,0,0.0,9.74
+12,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,104,House,NY,8,,D,,6,1340,47,1,26,213,92.33,,0,0.0,8.97
+13,N000002,Jerrold,Nadler,1947-06-13,M,D,400289,26159,103,House,NY,8,,D,,4,1122,57,0,33,335,86.82,,0,0.0,12.4

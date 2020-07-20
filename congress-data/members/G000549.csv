@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000549,Jim,Gerlach,1955-02-25,M,R,400147,1003611,113,House,PA,6,,R,,12,1204,31,0,21,212,90.58,,0,1.0,9.33
+1,G000549,Jim,Gerlach,1955-02-25,M,R,400147,1003611,112,House,PA,6,,R,,10,1607,24,0,58,241,85.81,,0,1.0,14.13
+2,G000549,Jim,Gerlach,1955-02-25,M,R,400147,1003611,111,House,PA,6,,R,,8,1655,93,0,10,374,88.5,,0,2.0,11.44
+3,G000549,Jim,Gerlach,1955-02-25,M,R,400147,1003611,110,House,PA,6,,R,,6,1873,64,1,8,454,84.92,,0,2.0,15.65
+4,G000549,Jim,Gerlach,1955-02-25,M,R,400147,1003611,109,House,PA,6,,R,,4,1214,48,0,27,336,87.12,,0,0.0,13.14
+5,G000549,Jim,Gerlach,1955-02-25,M,R,400147,1003611,108,House,PA,6,,R,,2,1221,48,0,11,148,93.99,,0,0.0,6.1

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000610,Ted,Deutch,1966-05-07,M,D,412385,9267613,116,House,FL,22,,D,,12,839,21,0,37,480,99.51,,4,3.0,0.37
+1,D000610,Ted,Deutch,1966-05-07,M,D,412385,9267613,115,House,FL,22,,D,,10,1211,86,2,24,440,96.53,,5,3.0,3.47
+2,D000610,Ted,Deutch,1966-05-07,M,D,412385,9267613,114,House,FL,21,,D,,8,1325,79,0,26,314,97.73,,0,3.0,2.19
+3,D000610,Ted,Deutch,1966-05-07,M,D,412385,9267613,113,House,FL,21,,D,,6,1204,41,3,19,340,96.62,,0,3.0,3.3
+4,D000610,Ted,Deutch,1966-05-07,M,D,412385,9267613,112,House,FL,19,,D,,4,1607,75,1,19,273,95.69,,0,2.0,4.24
+5,D000610,Ted,Deutch,1966-05-07,M,D,412385,9267613,111,House,FL,19,,D,,2,453,35,0,4,131,99.04,,0,0.0,0.96

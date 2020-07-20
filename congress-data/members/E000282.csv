@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,E000282,Thomas,Ewing,1935-09-19,M,,400581,,106,House,IL,15,,R,,10,1214,84,0,15,203,92.89,,0,0.0,7.29
+1,E000282,Thomas,Ewing,1935-09-19,M,,400581,,105,House,IL,15,,R,,8,1187,40,0,9,130,94.43,,0,0.0,6.11
+2,E000282,Thomas,Ewing,1935-09-19,M,,400581,,104,House,IL,15,,R,,6,1340,30,1,14,148,96.13,,0,0.0,5.14
+3,E000282,Thomas,Ewing,1935-09-19,M,,400581,,103,House,IL,15,,R,,4,1122,29,2,9,312,92.79,,0,0.0,6.55
+4,E000282,Thomas,Ewing,1935-09-19,M,,400581,,102,House,IL,15,,R,,2,730,25,0,,,81.29,,0,0.0,15.35

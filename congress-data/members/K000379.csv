@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000379,Joseph,Kennedy,1980-10-04,M,D,412543,79948,116,House,MA,4,,D,,8,839,22,0,24,616,98.53,,3,1.0,1.35
+1,K000379,Joseph,Kennedy,1980-10-04,M,D,412543,79948,115,House,MA,4,,D,,6,1211,108,2,13,390,97.67,,3,1.0,2.33
+2,K000379,Joseph,Kennedy,1980-10-04,M,D,412543,79948,114,House,MA,4,,D,,4,1325,63,0,14,202,97.36,,0,1.0,2.56
+3,K000379,Joseph,Kennedy,1980-10-04,M,D,412543,79948,113,House,MA,4,,D,,2,1204,20,1,4,257,96.0,,0,2.0,3.91

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001170,Claire,McCaskill,1953-07-24,F,D,412243,1012014,115,Senate,MO,,1,D,,11,599,17,1,54,264,84.99,,5,3.0,15.01
+1,M001170,Claire,McCaskill,1953-07-24,F,D,412243,1012014,114,Senate,MO,,1,D,,9,502,22,0,20,167,86.68,,0,4.0,13.32
+2,M001170,Claire,McCaskill,1953-07-24,F,D,412243,1012014,113,Senate,MO,,1,D,,7,657,37,0,31,149,95.32,,9,4.0,4.68
+3,M001170,Claire,McCaskill,1953-07-24,F,D,412243,1012014,112,Senate,MO,,1,D,,5,486,17,0,26,204,85.62,,0,4.0,14.38
+4,M001170,Claire,McCaskill,1953-07-24,F,D,412243,1012014,111,Senate,MO,,1,D,,3,696,16,0,23,164,81.36,,0,4.0,18.64
+5,M001170,Claire,McCaskill,1953-07-24,F,D,412243,1012014,110,Senate,MO,,1,D,,1,657,16,1,20,215,85.2,,0,4.0,14.8

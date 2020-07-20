@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,V000130,Juan,Vargas,1961-03-07,M,D,412522,8297,116,House,CA,51,,D,,8,839,27,0,14,418,98.77,,5,2.0,1.11
+1,V000130,Juan,Vargas,1961-03-07,M,D,412522,8297,115,House,CA,51,,D,,6,1211,44,0,13,345,97.01,,3,1.0,2.99
+2,V000130,Juan,Vargas,1961-03-07,M,D,412522,8297,114,House,CA,51,,D,,4,1325,14,0,15,325,95.83,,0,3.0,4.09
+3,V000130,Juan,Vargas,1961-03-07,M,D,412522,8297,113,House,CA,51,,D,,2,1204,23,1,10,419,94.28,,0,3.0,5.64

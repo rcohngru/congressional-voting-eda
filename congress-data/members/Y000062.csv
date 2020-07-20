@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,116,House,KY,3,,D,,14,839,17,0,13,339,98.9,,0,1.0,0.97
+1,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,115,House,KY,3,,D,,12,1211,41,2,8,406,97.2,,0,1.0,2.8
+2,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,114,House,KY,3,,D,,10,1325,95,3,9,237,97.37,,0,2.0,2.55
+3,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,113,House,KY,3,,D,,8,1204,47,1,7,218,96.08,,0,2.0,3.84
+4,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,112,House,KY,3,,D,,6,1607,63,2,12,189,95.73,,0,3.0,4.2
+5,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,111,House,KY,3,,D,,4,1655,48,1,17,282,98.87,,0,2.0,1.06
+6,Y000062,John,Yarmuth,1947-11-04,M,D,412211,1021662,110,House,KY,3,,D,,2,1873,43,1,17,273,98.34,,0,2.0,2.16

@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,114,House,CA,46,,D,,20,1325,388,0,8,163,95.14,,0,2.0,4.75
+1,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,113,House,CA,46,,D,,18,1204,84,2,8,198,92.0,,0,3.0,7.91
+2,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,112,House,CA,47,,D,,16,1607,153,1,10,212,93.65,,0,3.0,6.28
+3,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,111,House,CA,47,,D,,14,1655,125,1,18,327,97.89,,0,2.0,2.04
+4,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,110,House,CA,47,,D,,12,1873,108,0,16,397,98.16,,0,3.0,2.3
+5,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,109,House,CA,47,,D,,10,1214,65,2,14,276,94.54,,0,0.0,5.63
+6,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,108,House,CA,47,,D,,8,1221,32,0,16,292,96.06,,0,0.0,4.11
+7,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,107,House,CA,46,,D,,6,996,60,1,10,362,91.49,,0,0.0,9.05
+8,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,106,House,CA,46,,D,,4,1214,49,3,9,239,93.29,,0,0.0,6.97
+9,S000030,Loretta,Sánchez,1960-01-07,F,D,400356,45639,105,House,CA,46,,D,,2,1187,40,18,6,222,88.67,,0,0.0,11.79

@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,116,House,AZ,3,,D,,18,839,66,1,39,999,97.8,,7,2.0,2.07
+1,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,115,House,AZ,3,,D,,16,1211,89,3,35,831,96.65,,2,2.0,3.35
+2,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,114,House,AZ,3,,D,,14,1325,135,0,42,701,95.42,,0,2.0,4.49
+3,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,113,House,AZ,3,,D,,12,1204,122,2,38,804,92.83,,0,2.0,7.08
+4,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,112,House,AZ,7,,D,,10,1607,101,1,30,766,92.8,,0,2.0,7.13
+5,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,111,House,AZ,7,,D,,8,1655,182,1,30,1076,96.52,,0,2.0,3.42
+6,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,110,House,AZ,7,,D,,6,1873,92,4,34,1238,98.01,,0,3.0,2.51
+7,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,109,House,AZ,7,,D,,4,1214,30,0,14,1044,93.08,,0,0.0,7.0
+8,G000551,Raúl,Grijalva,1948-02-19,M,D,400162,1003551,108,House,AZ,7,,D,,2,1221,24,0,8,946,93.88,,0,0.0,6.29

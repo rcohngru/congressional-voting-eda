@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001092,Chris,Collins,1950-05-20,M,R,412563,94144,116,House,NY,27,,R,,8,555,24,0,10,186,89.58,,0,0.0,10.23
+1,C001092,Chris,Collins,1950-05-20,M,R,412563,94144,115,House,NY,27,,R,,6,1211,42,0,20,248,97.51,,3,1.0,2.49
+2,C001092,Chris,Collins,1950-05-20,M,R,412563,94144,114,House,NY,27,,R,,4,1325,31,0,20,260,95.25,,0,1.0,4.67
+3,C001092,Chris,Collins,1950-05-20,M,R,412563,94144,113,House,NY,27,,R,,2,1204,25,0,7,267,95.91,,0,3.0,4.0

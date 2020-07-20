@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,116,House,CA,22,,R,,18,839,6,0,5,55,96.49,,2,2.0,3.39
+1,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,115,House,CA,22,,R,,16,1211,27,0,14,100,97.79,,2,3.0,2.21
+2,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,114,House,CA,22,,R,,14,1325,4,0,21,143,96.03,,0,3.0,3.89
+3,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,113,House,CA,22,,R,,12,1204,29,1,9,158,95.73,,0,2.0,4.19
+4,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,112,House,CA,21,,R,,10,1607,27,0,23,138,95.03,,0,2.0,4.91
+5,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,111,House,CA,21,,R,,8,1655,108,2,9,201,95.54,,0,2.0,4.4
+6,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,110,House,CA,21,,R,,6,1873,71,2,14,197,95.49,,0,1.0,5.02
+7,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,109,House,CA,21,,R,,4,1214,31,0,12,103,97.52,,0,0.0,2.74
+8,N000181,Devin,Nunes,1973-10-01,M,R,400297,1003553,108,House,CA,21,,R,,2,1221,24,1,12,140,97.64,,0,0.0,2.53

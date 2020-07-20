@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000620,Don,Bonker,1937-03-07,,,401585,,100,House,WA,3,,D,,14,,,,,,,,0,0.0,
+1,B000620,Don,Bonker,1937-03-07,,,401585,,99,House,WA,3,,D,,12,,,,,,,,0,0.0,
+2,B000620,Don,Bonker,1937-03-07,,,401585,,98,House,WA,3,,D,,10,,,,,,,,0,0.0,

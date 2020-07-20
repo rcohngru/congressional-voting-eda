@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000453,Norman,Sisisky,1927-06-09,M,,400609,,107,House,VA,4,,D,,20,75,25,0,0,31,87.5,,0,0.0,12.5
+1,S000453,Norman,Sisisky,1927-06-09,M,,400609,,106,House,VA,4,,D,,18,1214,24,1,1,182,81.69,,0,0.0,18.48
+2,S000453,Norman,Sisisky,1927-06-09,M,,400609,,105,House,VA,4,,D,,16,1187,11,3,2,138,79.82,,0,0.0,20.71
+3,S000453,Norman,Sisisky,1927-06-09,M,,400609,,104,House,VA,4,,D,,14,1340,100,1,0,94,66.21,,0,0.0,35.15
+4,S000453,Norman,Sisisky,1927-06-09,M,,400609,,103,House,VA,4,,D,,12,1122,49,0,2,218,81.49,,0,0.0,17.74
+5,S000453,Norman,Sisisky,1927-06-09,M,,400609,,102,House,VA,4,,D,,10,933,35,0,,,80.94,,0,0.0,16.3
+6,S000453,Norman,Sisisky,1927-06-09,M,,400609,,101,House,VA,4,,D,,8,,,,,,,,0,0.0,
+7,S000453,Norman,Sisisky,1927-06-09,M,,400609,,100,House,VA,4,,D,,6,,,,,,,,0,0.0,
+8,S000453,Norman,Sisisky,1927-06-09,M,,400609,,99,House,VA,4,,D,,4,,,,,,,,0,0.0,
+9,S000453,Norman,Sisisky,1927-06-09,M,,400609,,98,House,VA,4,,D,,2,,,,,,,,0,0.0,

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000523,Cynthia,McKinney,1955-03-17,F,,400513,,109,House,GA,4,,D,,2,1214,127,2,23,285,88.42,,0,0.0,11.86
+1,M000523,Cynthia,McKinney,1955-03-17,F,,400513,,107,House,GA,4,,D,,10,996,112,0,19,889,88.95,,0,0.0,11.51
+2,M000523,Cynthia,McKinney,1955-03-17,F,,400513,,106,House,GA,4,,D,,8,1214,60,0,7,531,87.46,,0,0.0,12.63
+3,M000523,Cynthia,McKinney,1955-03-17,F,,400513,,105,House,GA,11,,D,,6,1187,54,1,11,191,88.03,,0,0.0,12.52
+4,M000523,Cynthia,McKinney,1955-03-17,F,,400513,,104,House,GA,11,,D,,4,1340,91,1,7,268,93.03,,0,0.0,8.14
+5,M000523,Cynthia,McKinney,1955-03-17,F,,400513,,103,House,GA,11,,D,,2,1122,36,0,4,277,90.1,,0,0.0,9.23

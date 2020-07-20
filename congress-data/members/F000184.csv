@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000184,Floyd,Flake,1945-01-30,M,,404139,,105,House,NY,6,,D,,12,640,137,1,1,146,90.27,,0,0.0,10.14
+1,F000184,Floyd,Flake,1945-01-30,M,,404139,,104,House,NY,6,,D,,10,1340,166,2,3,151,93.63,,0,0.0,7.62
+2,F000184,Floyd,Flake,1945-01-30,M,,404139,,103,House,NY,6,,D,,8,1122,116,0,6,242,92.92,,0,0.0,6.37
+3,F000184,Floyd,Flake,1945-01-30,M,,404139,,102,House,NY,6,,D,,6,933,92,1,,,90.67,,0,0.0,6.38
+4,F000184,Floyd,Flake,1945-01-30,M,,404139,,101,House,NY,6,,D,,4,,,,,,,,0,0.0,
+5,F000184,Floyd,Flake,1945-01-30,M,,404139,,100,House,NY,6,,D,,2,,,,,,,,0,0.0,

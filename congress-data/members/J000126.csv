@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,116,House,TX,30,,D,,28,839,31,1,30,459,99.01,,9,2.0,0.87
+1,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,115,House,TX,30,,D,,26,1211,102,0,18,387,97.13,,3,2.0,2.87
+2,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,114,House,TX,30,,D,,24,1325,99,2,20,211,95.13,,0,2.0,4.79
+3,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,113,House,TX,30,,D,,22,1204,26,4,16,323,93.15,,0,2.0,6.76
+4,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,112,House,TX,30,,D,,20,1607,74,3,28,287,92.8,,0,2.0,7.14
+5,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,111,House,TX,30,,D,,18,1655,104,1,38,501,97.73,,0,2.0,2.2
+6,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,110,House,TX,30,,D,,16,1873,258,1,50,611,97.92,,0,2.0,2.64
+7,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,109,House,TX,30,,D,,14,1214,24,2,24,483,94.54,,0,0.0,5.71
+8,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,108,House,TX,30,,D,,12,1221,44,5,18,396,94.04,,0,0.0,6.13
+9,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,107,House,TX,30,,D,,10,996,35,5,17,308,90.13,,0,0.0,10.4
+10,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,106,House,TX,30,,D,,8,1214,31,6,4,364,92.97,,0,0.0,7.29
+11,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,105,House,TX,30,,D,,6,1187,38,3,4,282,89.44,,0,0.0,11.1
+12,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,104,House,TX,30,,D,,4,1340,30,2,2,178,91.58,,0,0.0,9.54
+13,J000126,Eddie,Johnson,1935-12-03,F,D,400204,23352,103,House,TX,30,,D,,2,1122,18,0,5,363,91.28,,0,0.0,7.97

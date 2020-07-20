@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000333,Slade,Gorton,1928-01-08,M,,400559,,106,Senate,WA,,1,R,,17,672,29,2,29,228,93.6,,0,0.0,6.4
+1,G000333,Slade,Gorton,1928-01-08,M,,400559,,105,Senate,WA,,1,R,,15,612,2,0,28,136,86.92,,0,0.0,13.08
+2,G000333,Slade,Gorton,1928-01-08,M,,400559,,104,Senate,WA,,1,R,,13,916,1,1,16,85,89.01,,0,0.0,10.99
+3,G000333,Slade,Gorton,1928-01-08,M,,400559,,103,Senate,WA,,1,R,,11,724,3,0,25,184,85.53,,0,0.0,14.47
+4,G000333,Slade,Gorton,1928-01-08,M,,400559,,102,Senate,WA,,1,R,,9,550,5,0,,,86.78,,0,0.0,13.22
+5,G000333,Slade,Gorton,1928-01-08,M,,400559,,101,Senate,WA,,1,R,,7,638,0,0,,,,,0,0.0,
+6,G000333,Slade,Gorton,1928-01-08,M,,400559,,99,Senate,WA,,3,R,,5,,,,,,,,0,0.0,
+7,G000333,Slade,Gorton,1928-01-08,M,,400559,,98,Senate,WA,,3,R,,3,,,,,,,,0,0.0,
+8,G000333,Slade,Gorton,1928-01-08,M,,400559,,97,Senate,WA,,3,R,,1,,,,,,,,0,0.0,

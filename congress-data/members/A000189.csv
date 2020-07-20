@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000189,Glenn,Anderson,1913-02-21,,,400844,,102,House,CA,32,,D,,24,933,30,0,,,88.47,,0,0.0,8.9
+1,A000189,Glenn,Anderson,1913-02-21,,,400844,,101,House,CA,32,,D,,22,,,,,,,,0,0.0,
+2,A000189,Glenn,Anderson,1913-02-21,,,400844,,100,House,CA,32,,D,,20,,,,,,,,0,0.0,
+3,A000189,Glenn,Anderson,1913-02-21,,,400844,,99,House,CA,32,,D,,18,,,,,,,,0,0.0,
+4,A000189,Glenn,Anderson,1913-02-21,,,400844,,98,House,CA,32,,D,,16,,,,,,,,0,0.0,

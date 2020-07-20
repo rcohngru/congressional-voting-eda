@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001192,Chris,Stewart,1960-07-15,M,R,412581,68466,116,House,UT,2,,R,,8,839,15,0,8,172,95.84,,4,3.0,4.03
+1,S001192,Chris,Stewart,1960-07-15,M,R,412581,68466,115,House,UT,2,,R,,6,1211,26,0,14,204,97.79,,5,2.0,2.21
+2,S001192,Chris,Stewart,1960-07-15,M,R,412581,68466,114,House,UT,2,,R,,4,1325,35,0,16,195,96.57,,0,2.0,3.36
+3,S001192,Chris,Stewart,1960-07-15,M,R,412581,68466,113,House,UT,2,,R,,2,1204,31,0,9,216,95.55,,0,4.0,4.37

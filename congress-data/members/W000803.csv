@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000803,Jim,Webb,1946-02-09,M,D,412249,1914,112,Senate,VA,,1,D,,5,486,21,0,28,121,90.93,,0,4.0,9.07
+1,W000803,Jim,Webb,1946-02-09,M,D,412249,1914,111,Senate,VA,,1,D,,3,696,9,0,22,103,87.26,,0,4.0,12.74
+2,W000803,Jim,Webb,1946-02-09,M,D,412249,1914,110,Senate,VA,,1,D,,1,657,7,0,12,170,91.76,,0,4.0,8.24

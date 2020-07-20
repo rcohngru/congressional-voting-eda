@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000114,Lee,Hamilton,1931-04-20,M,,404996,,105,House,IN,9,,D,,34,1187,17,0,8,119,82.23,,0,0.0,18.3
+1,H000114,Lee,Hamilton,1931-04-20,M,,404996,,104,House,IN,9,,D,,32,1340,2,0,12,109,74.63,,0,0.0,26.55
+2,H000114,Lee,Hamilton,1931-04-20,M,,404996,,103,House,IN,9,,D,,30,1122,1,0,30,151,85.52,,0,0.0,13.75
+3,H000114,Lee,Hamilton,1931-04-20,M,,404996,,102,House,IN,9,,D,,28,933,2,0,,,83.85,,0,0.0,13.27
+4,H000114,Lee,Hamilton,1931-04-20,M,,404996,,101,House,IN,9,,D,,26,,,,,,,,0,0.0,
+5,H000114,Lee,Hamilton,1931-04-20,M,,404996,,100,House,IN,9,,D,,24,,,,,,,,0,0.0,
+6,H000114,Lee,Hamilton,1931-04-20,M,,404996,,99,House,IN,9,,D,,22,,,,,,,,0,0.0,
+7,H000114,Lee,Hamilton,1931-04-20,M,,404996,,98,House,IN,9,,D,,20,,,,,,,,0,0.0,

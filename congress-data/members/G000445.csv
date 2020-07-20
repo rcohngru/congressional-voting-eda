@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000445,Judd,Gregg,1947-02-14,M,R,300049,,111,Senate,NH,,3,R,,17,696,80,0,11,98,83.72,,0,4.0,16.28
+1,G000445,Judd,Gregg,1947-02-14,M,R,300049,,110,Senate,NH,,3,R,,15,657,26,0,20,116,84.69,,0,3.0,15.31
+2,G000445,Judd,Gregg,1947-02-14,M,R,300049,,109,Senate,NH,,3,R,,13,645,14,0,24,128,86.28,,0,0.0,13.72
+3,G000445,Judd,Gregg,1947-02-14,M,R,300049,,108,Senate,NH,,3,R,,11,675,16,0,40,104,90.52,,0,0.0,9.48
+4,G000445,Judd,Gregg,1947-02-14,M,R,300049,,107,Senate,NH,,3,R,,9,633,18,0,13,102,90.18,,0,0.0,9.82
+5,G000445,Judd,Gregg,1947-02-14,M,R,300049,,106,Senate,NH,,3,R,,7,672,27,0,18,126,91.28,,0,0.0,8.72
+6,G000445,Judd,Gregg,1947-02-14,M,R,300049,,105,Senate,NH,,3,R,,5,612,6,0,22,128,90.33,,0,0.0,9.67
+7,G000445,Judd,Gregg,1947-02-14,M,R,300049,,104,Senate,NH,,3,R,,3,916,16,0,23,110,91.41,,0,0.0,8.59
+8,G000445,Judd,Gregg,1947-02-14,M,R,300049,,103,Senate,NH,,3,R,,1,724,19,0,12,111,84.25,,0,0.0,15.75
+9,G000445,Judd,Gregg,1947-02-14,M,R,300049,,100,House,NH,2,,R,,8,,,,,,,,0,0.0,
+10,G000445,Judd,Gregg,1947-02-14,M,R,300049,,99,House,NH,2,,R,,6,,,,,,,,0,0.0,
+11,G000445,Judd,Gregg,1947-02-14,M,R,300049,,98,House,NH,2,,R,,4,,,,,,,,0,0.0,

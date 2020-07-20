@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,116,House,NC,1,,D,,18,839,23,0,16,342,99.02,,5,2.0,0.86
+1,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,115,House,NC,1,,D,,16,1211,85,2,3,304,97.36,,3,1.0,2.64
+2,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,114,House,NC,1,,D,,14,1325,70,0,14,217,97.42,,0,1.0,2.5
+3,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,113,House,NC,1,,D,,12,1204,53,1,10,270,94.48,,0,1.0,5.43
+4,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,112,House,NC,1,,D,,10,1607,118,1,11,240,93.32,,0,1.0,6.61
+5,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,111,House,NC,1,,D,,8,1655,86,29,15,316,96.92,,0,2.0,3.01
+6,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,110,House,NC,1,,D,,6,1873,104,0,18,502,98.28,,0,1.0,2.3
+7,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,109,House,NC,1,,D,,4,1214,26,1,7,391,94.8,,0,0.0,5.28
+8,B001251,G.,Butterfield,1947-04-27,M,D,400616,1013540,108,House,NC,1,,D,,2,140,0,0,1,31,93.57,,0,0.0,6.43

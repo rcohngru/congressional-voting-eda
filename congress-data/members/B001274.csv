@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001274,Mo,Brooks,1954-04-29,M,R,412395,94888,116,House,AL,5,,R,,10,839,11,0,10,161,86.25,,3,2.0,13.63
+1,B001274,Mo,Brooks,1954-04-29,M,R,412395,94888,115,House,AL,5,,R,,8,1211,76,0,10,191,90.79,,7,3.0,9.21
+2,B001274,Mo,Brooks,1954-04-29,M,R,412395,94888,114,House,AL,5,,R,,6,1325,12,0,10,240,90.02,,0,3.0,9.9
+3,B001274,Mo,Brooks,1954-04-29,M,R,412395,94888,113,House,AL,5,,R,,4,1204,11,1,9,189,93.1,,0,3.0,6.82
+4,B001274,Mo,Brooks,1954-04-29,M,R,412395,94888,112,House,AL,5,,R,,2,1607,12,0,4,252,93.56,,0,3.0,6.38

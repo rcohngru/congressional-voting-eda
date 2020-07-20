@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,112,House,CA,6,,D,,20,1607,58,4,19,510,93.12,,0,2.0,6.82
+1,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,111,House,CA,6,,D,,18,1655,115,5,24,662,95.89,,0,3.0,4.05
+2,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,110,House,CA,6,,D,,16,1873,170,0,33,801,96.55,,0,3.0,3.8
+3,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,109,House,CA,6,,D,,14,1214,28,0,19,654,91.97,,0,0.0,8.29
+4,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,108,House,CA,6,,D,,12,1221,87,1,15,634,92.23,,0,0.0,7.86
+5,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,107,House,CA,6,,D,,10,996,27,3,17,601,93.8,,0,0.0,6.62
+6,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,106,House,CA,6,,D,,8,1214,33,2,18,492,93.82,,0,0.0,6.35
+7,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,105,House,CA,6,,D,,6,1187,28,3,19,458,91.89,,0,0.0,8.65
+8,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,104,House,CA,6,,D,,4,1340,10,3,8,287,94.54,,0,0.0,6.65
+9,W000738,Lynn,Woolsey,1937-11-03,F,D,400436,26132,103,House,CA,6,,D,,2,1122,17,0,14,365,92.71,,0,0.0,6.54

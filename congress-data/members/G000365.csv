@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000365,Phil,Gramm,1942-07-08,M,,300159,,107,Senate,TX,,2,R,,17,633,27,0,24,61,90.05,,0,0.0,9.95
+1,G000365,Phil,Gramm,1942-07-08,M,,300159,,106,Senate,TX,,2,R,,15,672,5,0,19,148,91.11,,0,0.0,8.89
+2,G000365,Phil,Gramm,1942-07-08,M,,300159,,105,Senate,TX,,2,R,,13,612,4,0,16,111,90.2,,0,0.0,9.8
+3,G000365,Phil,Gramm,1942-07-08,M,,300159,,104,Senate,TX,,2,R,,11,916,87,0,19,87,93.45,,0,0.0,6.55
+4,G000365,Phil,Gramm,1942-07-08,M,,300159,,103,Senate,TX,,2,R,,9,724,60,0,21,81,91.72,,0,0.0,8.28
+5,G000365,Phil,Gramm,1942-07-08,M,,300159,,102,Senate,TX,,2,R,,7,550,25,0,,,88.82,,0,0.0,11.18
+6,G000365,Phil,Gramm,1942-07-08,M,,300159,,101,Senate,TX,,2,R,,5,638,23,0,,,,,0,0.0,
+7,G000365,Phil,Gramm,1942-07-08,M,,300159,,100,Senate,TX,,2,R,,3,,,,,,,,0,0.0,
+8,G000365,Phil,Gramm,1942-07-08,M,,300159,,99,Senate,TX,,2,R,,1,,,,,,,,0,0.0,
+9,G000365,Phil,Gramm,1942-07-08,M,,300159,,98,House,TX,6,,D,,6,,,,,,,,0,0.0,
+10,G000365,Phil,Gramm,1942-07-08,M,,300159,,98,House,TX,6,,R,,6,,,,,,,,0,0.0,

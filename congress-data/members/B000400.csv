@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000400,Ken,Bentsen,1959-06-03,M,,400550,,107,House,TX,25,,D,,8,996,36,0,13,266,92.55,,0,0.0,7.98
+1,B000400,Ken,Bentsen,1959-06-03,M,,400550,,106,House,TX,25,,D,,6,1214,22,1,10,307,92.8,,0,0.0,7.37
+2,B000400,Ken,Bentsen,1959-06-03,M,,400550,,105,House,TX,25,,D,,4,1187,9,0,10,213,90.97,,0,0.0,9.57
+3,B000400,Ken,Bentsen,1959-06-03,M,,400550,,104,House,TX,25,,D,,2,1340,8,0,5,153,87.75,,0,0.0,13.52

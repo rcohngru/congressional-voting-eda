@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000038,John,Tanner,1944-09-22,M,D,400395,6116,111,House,TN,8,,D,,22,1655,138,1,15,197,94.43,,0,2.0,5.51
+1,T000038,John,Tanner,1944-09-22,M,D,400395,6116,110,House,TN,8,,D,,20,1873,65,2,14,173,93.2,,0,2.0,7.36
+2,T000038,John,Tanner,1944-09-22,M,D,400395,6116,109,House,TN,8,,D,,18,1214,38,2,3,154,82.93,,0,0.0,17.33
+3,T000038,John,Tanner,1944-09-22,M,D,400395,6116,108,House,TN,8,,D,,16,1221,55,0,2,139,85.08,,0,0.0,15.1
+4,T000038,John,Tanner,1944-09-22,M,D,400395,6116,107,House,TN,8,,D,,14,996,37,0,6,124,83.17,,0,0.0,17.36
+5,T000038,John,Tanner,1944-09-22,M,D,400395,6116,106,House,TN,8,,D,,12,1214,30,1,7,171,83.65,,0,0.0,16.52
+6,T000038,John,Tanner,1944-09-22,M,D,400395,6116,105,House,TN,8,,D,,10,1187,32,2,6,100,81.72,,0,0.0,18.82
+7,T000038,John,Tanner,1944-09-22,M,D,400395,6116,104,House,TN,8,,D,,8,1340,36,0,3,93,70.3,,0,0.0,30.99
+8,T000038,John,Tanner,1944-09-22,M,D,400395,6116,103,House,TN,8,,D,,6,1122,12,1,2,158,77.35,,0,0.0,21.99
+9,T000038,John,Tanner,1944-09-22,M,D,400395,6116,102,House,TN,8,,D,,4,933,46,0,,,79.67,,0,0.0,17.54
+10,T000038,John,Tanner,1944-09-22,M,D,400395,6116,101,House,TN,8,,D,,2,,,,,,,,0,0.0,

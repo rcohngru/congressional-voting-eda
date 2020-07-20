@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000210,Paul,Gillmor,1939-02-01,M,,400150,,110,House,OH,5,,R,,20,849,12,1,11,139,86.43,,0,1.0,14.32
+1,G000210,Paul,Gillmor,1939-02-01,M,,400150,,109,House,OH,5,,R,,18,1214,78,0,24,230,95.28,,0,0.0,4.9
+2,G000210,Paul,Gillmor,1939-02-01,M,,400150,,108,House,OH,5,,R,,16,1221,41,0,10,238,95.98,,0,0.0,4.19
+3,G000210,Paul,Gillmor,1939-02-01,M,,400150,,107,House,OH,5,,R,,14,996,50,0,12,217,95.61,,0,0.0,4.82
+4,G000210,Paul,Gillmor,1939-02-01,M,,400150,,106,House,OH,5,,R,,12,1214,60,0,8,204,93.65,,0,0.0,6.62
+5,G000210,Paul,Gillmor,1939-02-01,M,,400150,,105,House,OH,5,,R,,10,1187,36,0,10,154,91.42,,0,0.0,9.03
+6,G000210,Paul,Gillmor,1939-02-01,M,,400150,,104,House,OH,5,,R,,8,1340,38,0,13,122,92.29,,0,0.0,8.98
+7,G000210,Paul,Gillmor,1939-02-01,M,,400150,,103,House,OH,5,,R,,6,1122,26,0,6,236,78.88,,0,0.0,20.36
+8,G000210,Paul,Gillmor,1939-02-01,M,,400150,,102,House,OH,5,,R,,4,927,27,1,,,80.41,,0,0.0,16.4
+9,G000210,Paul,Gillmor,1939-02-01,M,,400150,,101,House,OH,5,,R,,2,,,,,,,,0,0.0,

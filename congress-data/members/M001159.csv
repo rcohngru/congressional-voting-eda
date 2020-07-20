@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,116,House,WA,5,,R,,16,839,24,0,11,314,92.08,,3,1.0,7.8
+1,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,115,House,WA,5,,R,Conference Chair,14,1211,3,0,23,160,98.25,,1,1.0,1.75
+2,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,114,House,WA,5,,R,,12,1325,8,0,20,119,97.09,,0,1.0,2.83
+3,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,113,House,WA,5,,R,,10,1204,49,0,25,144,96.96,,0,1.0,2.96
+4,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,112,House,WA,5,,R,,8,1607,26,0,22,276,96.37,,0,1.0,3.57
+5,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,111,House,WA,5,,R,,6,1655,109,0,15,395,97.38,,0,3.0,2.56
+6,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,110,House,WA,5,,R,,4,1862,218,1,12,325,96.14,,0,3.0,4.17
+7,M001159,Cathy,McMorris Rodgers,1969-05-22,F,R,400659,1013063,109,House,WA,5,,R,,2,1214,31,0,8,150,96.22,,0,0.0,4.03

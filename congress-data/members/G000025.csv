@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000025,Dean,Gallo,1935-11-23,M,,404401,,103,House,NJ,11,,R,,10,1120,273,0,10,206,79.8,,0,0.0,19.34
+1,G000025,Dean,Gallo,1935-11-23,M,,404401,,102,House,NJ,11,,R,,8,933,23,0,,,79.32,,0,0.0,17.18
+2,G000025,Dean,Gallo,1935-11-23,M,,404401,,101,House,NJ,11,,R,,6,,,,,,,,0,0.0,
+3,G000025,Dean,Gallo,1935-11-23,M,,404401,,100,House,NJ,11,,R,,4,,,,,,,,0,0.0,
+4,G000025,Dean,Gallo,1935-11-23,M,,404401,,99,House,NJ,11,,R,,2,,,,,,,,0,0.0,

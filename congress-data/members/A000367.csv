@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000367,Justin,Amash,1980-04-18,M,I,412438,1033767,116,House,MI,3,,I,,10,409,0,6,10,0,58.37,,0,0.0,41.63
+1,A000367,Justin,Amash,1980-04-18,M,I,412438,1033767,116,House,MI,3,,R,,10,430,0,5,7,23,61.97,,2,1.0,37.79
+2,A000367,Justin,Amash,1980-04-18,M,I,412438,1033767,115,House,MI,3,,R,,8,1211,1,2,11,55,66.2,,2,1.0,33.8
+3,A000367,Justin,Amash,1980-04-18,M,I,412438,1033767,114,House,MI,3,,R,,6,1325,0,3,9,44,75.67,,0,2.0,24.26
+4,A000367,Justin,Amash,1980-04-18,M,I,412438,1033767,113,House,MI,3,,R,,4,1204,0,2,7,76,77.31,,0,2.0,22.6
+5,A000367,Justin,Amash,1980-04-18,M,I,412438,1033767,112,House,MI,3,,R,,2,1607,0,41,8,65,74.92,,0,3.0,25.02

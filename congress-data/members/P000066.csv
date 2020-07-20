@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000066,Mike,Parker,1949-10-31,M,,408476,,105,House,MS,4,,R,,10,1187,117,0,0,162,94.13,,0,0.0,6.35
+1,P000066,Mike,Parker,1949-10-31,M,,408476,,104,House,MS,4,,R,,8,553,8,1,5,194,95.18,,0,0.0,5.01
+2,P000066,Mike,Parker,1949-10-31,M,,408476,,104,House,MS,4,,D,,8,787,46,1,,,32.61,,0,0.0,69.41
+3,P000066,Mike,Parker,1949-10-31,M,,408476,,103,House,MS,4,,D,,6,1122,44,0,3,494,72.54,,0,0.0,26.7
+4,P000066,Mike,Parker,1949-10-31,M,,408476,,102,House,MS,4,,D,,4,933,18,0,,,71.01,,0,0.0,26.18
+5,P000066,Mike,Parker,1949-10-31,M,,408476,,101,House,MS,4,,D,,2,,,,,,,,0,0.0,

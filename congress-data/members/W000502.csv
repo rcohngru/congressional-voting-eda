@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000502,Harrison,Williams,1919-12-10,,,411659,,97,Senate,NJ,,1,D,,23,,,,,,,,0,0.0,
+1,W000502,Harrison,Williams,1919-12-10,,,411659,,96,Senate,NJ,,1,D,,21,,,,,,,,0,0.0,
+2,W000502,Harrison,Williams,1919-12-10,,,411659,,95,Senate,NJ,,1,D,,19,,,,,,,,0,0.0,
+3,W000502,Harrison,Williams,1919-12-10,,,411659,,94,Senate,NJ,,1,D,,17,,,,,,,,0,0.0,
+4,W000502,Harrison,Williams,1919-12-10,,,411659,,93,Senate,NJ,,1,D,,15,,,,,,,,0,0.0,
+5,W000502,Harrison,Williams,1919-12-10,,,411659,,92,Senate,NJ,,1,D,,13,,,,,,,,0,0.0,
+6,W000502,Harrison,Williams,1919-12-10,,,411659,,91,Senate,NJ,,1,D,,11,,,,,,,,0,0.0,
+7,W000502,Harrison,Williams,1919-12-10,,,411659,,90,Senate,NJ,,1,D,,9,,,,,,,,0,0.0,
+8,W000502,Harrison,Williams,1919-12-10,,,411659,,89,Senate,NJ,,1,D,,7,,,,,,,,0,0.0,
+9,W000502,Harrison,Williams,1919-12-10,,,411659,,88,Senate,NJ,,1,D,,5,,,,,,,,0,0.0,
+10,W000502,Harrison,Williams,1919-12-10,,,411659,,87,Senate,NJ,,1,D,,3,,,,,,,,0,0.0,
+11,W000502,Harrison,Williams,1919-12-10,,,411659,,86,Senate,NJ,,1,D,,1,,,,,,,,0,0.0,

@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,114,House,FL,5,,D,,24,1325,187,0,16,339,96.08,,0,2.0,3.83
+1,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,113,House,FL,5,,D,,22,1204,68,1,1,402,95.83,,0,2.0,4.08
+2,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,112,House,FL,3,,D,,20,1607,82,2,10,325,94.21,,0,2.0,5.72
+3,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,111,House,FL,3,,D,,18,1655,122,2,11,481,98.1,,0,2.0,1.84
+4,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,110,House,FL,3,,D,,16,1873,253,3,16,607,98.31,,0,2.0,2.26
+5,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,109,House,FL,3,,D,,14,1214,148,0,8,414,96.19,,0,0.0,4.0
+6,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,108,House,FL,3,,D,,12,1221,107,3,8,487,94.63,,0,0.0,5.46
+7,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,107,House,FL,3,,D,,10,996,84,2,9,514,94.96,,0,0.0,5.6
+8,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,106,House,FL,3,,D,,8,1214,102,1,8,370,94.9,,0,0.0,5.28
+9,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,105,House,FL,3,,D,,6,1187,76,1,3,272,91.82,,0,0.0,8.74
+10,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,104,House,FL,3,,D,,4,1340,68,4,5,172,92.14,,0,0.0,9.11
+11,B000911,Corrine,Brown,1946-11-11,F,D,400048,26192,103,House,FL,3,,D,,2,1122,49,2,3,287,91.73,,0,0.0,7.5

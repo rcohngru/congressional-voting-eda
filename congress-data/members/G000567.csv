@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000567,Tim,Griffin,1968-08-21,M,R,412401,1024660,113,House,AR,2,,R,,4,1204,25,0,24,423,93.95,,0,1.0,5.96
+1,G000567,Tim,Griffin,1968-08-21,M,R,412401,1024660,112,House,AR,2,,R,,2,1607,18,0,15,359,95.62,,0,3.0,4.31

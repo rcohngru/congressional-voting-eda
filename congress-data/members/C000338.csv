@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C000338,Dennis,Chavez,1888-04-08,,,402478,,87,Senate,NM,,1,D,,26,,,,,,,,0,0.0,
+1,C000338,Dennis,Chavez,1888-04-08,,,402478,,86,Senate,NM,,1,D,,24,,,,,,,,0,0.0,
+2,C000338,Dennis,Chavez,1888-04-08,,,402478,,85,Senate,NM,,1,D,,22,,,,,,,,0,0.0,
+3,C000338,Dennis,Chavez,1888-04-08,,,402478,,84,Senate,NM,,1,D,,20,,,,,,,,0,0.0,
+4,C000338,Dennis,Chavez,1888-04-08,,,402478,,83,Senate,NM,,1,D,,18,,,,,,,,0,0.0,
+5,C000338,Dennis,Chavez,1888-04-08,,,402478,,82,Senate,NM,,1,D,,16,,,,,,,,0,0.0,
+6,C000338,Dennis,Chavez,1888-04-08,,,402478,,81,Senate,NM,,1,D,,14,,,,,,,,0,0.0,
+7,C000338,Dennis,Chavez,1888-04-08,,,402478,,80,Senate,NM,,1,D,,12,,,,,,,,0,0.0,

@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Y000066,David,Young,1968-05-11,M,R,412628,76211,115,House,IA,3,,R,,4,1211,0,0,19,290,97.01,,3,1.0,2.99
+1,Y000066,David,Young,1968-05-11,M,R,412628,76211,114,House,IA,3,,R,,2,1325,0,0,12,191,95.06,,0,1.0,4.87

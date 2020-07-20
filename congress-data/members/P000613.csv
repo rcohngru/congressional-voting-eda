@@ -1,0 +1,3 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000613,Jimmy,Panetta,1969-10-01,M,D,412685,104727,116,House,CA,20,,D,,4,839,1,0,43,551,97.85,,4,3.0,2.03
+1,P000613,Jimmy,Panetta,1969-10-01,M,D,412685,104727,115,House,CA,20,,D,,2,1211,3,0,13,377,95.75,,4,3.0,4.25

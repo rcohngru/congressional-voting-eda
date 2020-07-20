@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000243,Raymond,Thornton,1928-07-16,M,,410821,,104,House,AR,2,,D,,12,1340,98,0,5,55,84.48,,0,0.0,16.79
+1,T000243,Raymond,Thornton,1928-07-16,M,,410821,,103,House,AR,2,,D,,10,1122,39,0,2,68,91.69,,0,0.0,7.64
+2,T000243,Raymond,Thornton,1928-07-16,M,,410821,,102,House,AR,2,,D,,2,933,33,0,,,89.05,,0,0.0,8.1

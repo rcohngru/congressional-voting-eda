@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000326,Owen,Pickett,1930-08-31,M,,400603,,106,House,VA,2,,D,,14,1214,70,0,5,208,78.21,,0,0.0,22.05
+1,P000326,Owen,Pickett,1930-08-31,M,,400603,,105,House,VA,2,,D,,12,1187,31,0,10,166,74.71,,0,0.0,25.75
+2,P000326,Owen,Pickett,1930-08-31,M,,400603,,104,House,VA,2,,D,,10,1340,21,0,17,129,64.38,,0,0.0,36.9
+3,P000326,Owen,Pickett,1930-08-31,M,,400603,,103,House,VA,2,,D,,8,1122,44,0,5,175,79.29,,0,0.0,19.94
+4,P000326,Owen,Pickett,1930-08-31,M,,400603,,102,House,VA,2,,D,,6,933,28,0,,,78.18,,0,0.0,19.09
+5,P000326,Owen,Pickett,1930-08-31,M,,400603,,101,House,VA,2,,D,,4,,,,,,,,0,0.0,
+6,P000326,Owen,Pickett,1930-08-31,M,,400603,,100,House,VA,2,,D,,2,,,,,,,,0,0.0,

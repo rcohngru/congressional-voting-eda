@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000136,Thomas,Davis,1949-01-05,M,,400098,,110,House,VA,11,,R,,14,1866,126,4,18,266,87.26,,0,2.0,13.27
+1,D000136,Thomas,Davis,1949-01-05,M,,400098,,109,House,VA,11,,R,,12,1214,58,1,47,204,91.42,,0,0.0,8.84
+2,D000136,Thomas,Davis,1949-01-05,M,,400098,,108,House,VA,11,,R,,10,1221,41,0,34,185,93.76,,0,0.0,6.41
+3,D000136,Thomas,Davis,1949-01-05,M,,400098,,107,House,VA,11,,R,,8,996,42,0,28,276,94.57,,0,0.0,5.85
+4,D000136,Thomas,Davis,1949-01-05,M,,400098,,106,House,VA,11,,R,,6,1214,32,0,26,198,90.51,,0,0.0,9.75
+5,D000136,Thomas,Davis,1949-01-05,M,,400098,,105,House,VA,11,,R,,4,1187,21,0,22,253,88.08,,0,0.0,12.36
+6,D000136,Thomas,Davis,1949-01-05,M,,400098,,104,House,VA,11,,R,,2,1340,19,1,15,243,86.52,,0,0.0,14.73

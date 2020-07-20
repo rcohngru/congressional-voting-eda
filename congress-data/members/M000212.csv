@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000212,Frank,Mascara,1930-01-19,M,,400545,,107,House,PA,20,,D,,8,996,126,0,1,244,91.54,,0,0.0,9.05
+1,M000212,Frank,Mascara,1930-01-19,M,,400545,,106,House,PA,20,,D,,6,1214,36,0,3,262,88.8,,0,0.0,11.46
+2,M000212,Frank,Mascara,1930-01-19,M,,400545,,105,House,PA,20,,D,,4,1187,2,0,1,215,86.7,,0,0.0,13.83
+3,M000212,Frank,Mascara,1930-01-19,M,,400545,,104,House,PA,20,,D,,2,1340,5,0,2,156,85.0,,0,0.0,16.26

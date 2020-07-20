@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000568,Ciro,Rodriguez,1946-12-09,M,D,400339,48779,111,House,TX,23,,D,,4,1655,67,0,22,336,98.1,,0,2.0,1.84
+1,R000568,Ciro,Rodriguez,1946-12-09,M,D,400339,48779,110,House,TX,23,,D,,2,1873,22,0,19,362,97.42,,0,2.0,3.13
+2,R000568,Ciro,Rodriguez,1946-12-09,M,D,400339,48779,108,House,TX,28,,D,,8,1221,90,0,18,423,94.62,,0,0.0,5.47
+3,R000568,Ciro,Rodriguez,1946-12-09,M,D,400339,48779,107,House,TX,28,,D,,6,996,21,1,7,365,95.18,,0,0.0,5.34
+4,R000568,Ciro,Rodriguez,1946-12-09,M,D,400339,48779,106,House,TX,28,,D,,4,1214,58,0,6,286,95.96,,0,0.0,4.3
+5,R000568,Ciro,Rodriguez,1946-12-09,M,D,400339,48779,105,House,TX,28,,D,,2,1103,19,2,3,148,92.69,,0,0.0,7.89

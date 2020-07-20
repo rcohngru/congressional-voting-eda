@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000124,James,Scheuer,1920-02-06,M,,409632,,102,House,NY,8,,D,,26,933,76,0,,,90.14,,0,0.0,7.45
+1,S000124,James,Scheuer,1920-02-06,M,,409632,,101,House,NY,8,,D,,24,,,,,,,,0,0.0,
+2,S000124,James,Scheuer,1920-02-06,M,,409632,,100,House,NY,8,,D,,22,,,,,,,,0,0.0,
+3,S000124,James,Scheuer,1920-02-06,M,,409632,,99,House,NY,8,,D,,20,,,,,,,,0,0.0,
+4,S000124,James,Scheuer,1920-02-06,M,,409632,,98,House,NY,8,,D,,18,,,,,,,,0,0.0,

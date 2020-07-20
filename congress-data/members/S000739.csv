@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S000739,William,Spong,1920-09-29,M,,410208,,92,Senate,VA,,2,D,,5,,,,,,,,0,0.0,
+1,S000739,William,Spong,1920-09-29,M,,410208,,91,Senate,VA,,2,D,,3,,,,,,,,0,0.0,
+2,S000739,William,Spong,1920-09-29,M,,410208,,90,Senate,VA,,2,D,,1,,,,,,,,0,0.0,
+3,S000739,William,Spong,1920-09-29,M,,410208,,89,Senate,VA,,2,D,,1,,,,,,,,0,0.0,

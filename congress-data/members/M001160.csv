@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,116,House,WI,4,,D,,16,839,19,0,28,813,98.04,,3,1.0,1.83
+1,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,115,House,WI,4,,D,,14,1211,81,1,25,735,95.72,,3,1.0,4.28
+2,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,114,House,WI,4,,D,,12,1325,110,0,16,445,96.5,,0,2.0,3.41
+3,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,113,House,WI,4,,D,,10,1204,47,1,15,483,93.55,,0,2.0,6.36
+4,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,112,House,WI,4,,D,,8,1607,114,4,14,454,92.95,,0,2.0,6.98
+5,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,111,House,WI,4,,D,,6,1655,95,2,22,506,96.39,,0,2.0,3.55
+6,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,110,House,WI,4,,D,,4,1873,56,0,15,461,97.48,,0,4.0,3.07
+7,M001160,Gwen,Moore,1951-04-18,F,D,400661,42548,109,House,WI,4,,D,,2,1214,37,3,7,325,93.97,,0,0.0,6.29

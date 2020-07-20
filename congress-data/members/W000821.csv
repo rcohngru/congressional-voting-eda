@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000821,Bruce,Westerman,1967-11-18,M,R,412610,76097,116,House,AR,4,,R,,6,839,12,0,10,165,96.46,,4,2.0,3.41
+1,W000821,Bruce,Westerman,1967-11-18,M,R,412610,76097,115,House,AR,4,,R,,4,1211,7,0,11,202,98.0,,5,3.0,2.0
+2,W000821,Bruce,Westerman,1967-11-18,M,R,412610,76097,114,House,AR,4,,R,,2,1325,5,0,8,208,98.17,,0,3.0,1.76

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001139,Michael,Synar,1950-10-17,M,,410589,,103,House,OK,2,,D,,16,1122,84,0,12,202,89.56,,0,0.0,9.64
+1,S001139,Michael,Synar,1950-10-17,M,,410589,,102,House,OK,2,,D,,14,933,26,0,,,90.59,,0,0.0,6.46
+2,S001139,Michael,Synar,1950-10-17,M,,410589,,101,House,OK,2,,D,,12,,,,,,,,0,0.0,
+3,S001139,Michael,Synar,1950-10-17,M,,410589,,100,House,OK,2,,D,,10,,,,,,,,0,0.0,
+4,S001139,Michael,Synar,1950-10-17,M,,410589,,99,House,OK,2,,D,,8,,,,,,,,0,0.0,
+5,S001139,Michael,Synar,1950-10-17,M,,410589,,98,House,OK,2,,D,,6,,,,,,,,0,0.0,

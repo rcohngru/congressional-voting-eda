@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001195,Alex,Mooney,1971-06-05,M,R,412662,76588,116,House,WV,2,,R,,6,839,4,0,9,324,91.18,,2,1.0,8.7
+1,M001195,Alex,Mooney,1971-06-05,M,R,412662,76588,115,House,WV,2,,R,,4,1211,17,0,16,281,94.19,,2,1.0,5.81
+2,M001195,Alex,Mooney,1971-06-05,M,R,412662,76588,114,House,WV,2,,R,,2,1325,22,0,11,134,94.12,,0,2.0,5.8

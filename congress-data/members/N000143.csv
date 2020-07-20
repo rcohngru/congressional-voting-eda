@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,N000143,Anne,Northup,1948-01-22,F,,400294,,109,House,KY,3,,R,,10,1214,65,0,2,110,97.36,,0,0.0,2.82
+1,N000143,Anne,Northup,1948-01-22,F,,400294,,108,House,KY,3,,R,,8,1221,31,0,1,132,96.53,,0,0.0,3.56
+2,N000143,Anne,Northup,1948-01-22,F,,400294,,107,House,KY,3,,R,,6,996,28,0,3,139,98.63,,0,0.0,1.89
+3,N000143,Anne,Northup,1948-01-22,F,,400294,,106,House,KY,3,,R,,4,1214,19,0,2,194,94.55,,0,0.0,5.62
+4,N000143,Anne,Northup,1948-01-22,F,,400294,,105,House,KY,3,,R,,2,1187,11,0,3,163,95.09,,0,0.0,5.43

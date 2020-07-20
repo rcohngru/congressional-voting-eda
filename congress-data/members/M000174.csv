@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000174,David,Martin,1944-04-26,M,,407196,,102,House,NY,26,,R,,12,933,109,2,,,84.29,,0,0.0,12.34
+1,M000174,David,Martin,1944-04-26,M,,407196,,101,House,NY,26,,R,,10,,,,,,,,0,0.0,
+2,M000174,David,Martin,1944-04-26,M,,407196,,100,House,NY,26,,R,,8,,,,,,,,0,0.0,
+3,M000174,David,Martin,1944-04-26,M,,407196,,99,House,NY,26,,R,,6,,,,,,,,0,0.0,
+4,M000174,David,Martin,1944-04-26,M,,407196,,98,House,NY,26,,R,,4,,,,,,,,0,0.0,

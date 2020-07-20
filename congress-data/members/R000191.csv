@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,96,Senate,CT,,3,D,,17,,,,,,,,0,0.0,
+1,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,95,Senate,CT,,3,D,,15,,,,,,,,0,0.0,
+2,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,94,Senate,CT,,3,D,,13,,,,,,,,0,0.0,
+3,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,93,Senate,CT,,3,D,,11,,,,,,,,0,0.0,
+4,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,92,Senate,CT,,3,D,,9,,,,,,,,0,0.0,
+5,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,91,Senate,CT,,3,D,,7,,,,,,,,0,0.0,
+6,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,90,Senate,CT,,3,D,,5,,,,,,,,0,0.0,
+7,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,89,Senate,CT,,3,D,,3,,,,,,,,0,0.0,
+8,R000191,Abraham,Ribicoff,1910-04-09,M,,409167,,88,Senate,CT,,3,D,,1,,,,,,,,0,0.0,

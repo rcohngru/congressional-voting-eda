@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H000237,Fred,Harris,1930-11-13,M,,405115,,92,Senate,OK,,2,D,,7,,,,,,,,0,0.0,
+1,H000237,Fred,Harris,1930-11-13,M,,405115,,91,Senate,OK,,2,D,,5,,,,,,,,0,0.0,
+2,H000237,Fred,Harris,1930-11-13,M,,405115,,90,Senate,OK,,2,D,,3,,,,,,,,0,0.0,
+3,H000237,Fred,Harris,1930-11-13,M,,405115,,89,Senate,OK,,2,D,,1,,,,,,,,0,0.0,
+4,H000237,Fred,Harris,1930-11-13,M,,405115,,88,Senate,OK,,2,D,,1,,,,,,,,0,0.0,

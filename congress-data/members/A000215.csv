@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000215,Bill,Archer,1928-03-22,M,,400567,,106,House,TX,7,,R,,30,1214,86,0,21,47,92.89,,0,0.0,7.11
+1,A000215,Bill,Archer,1928-03-22,M,,400567,,105,House,TX,7,,R,,28,1187,54,0,28,75,95.07,,0,0.0,5.11
+2,A000215,Bill,Archer,1928-03-22,M,,400567,,104,House,TX,7,,R,,26,1340,35,0,37,66,95.91,,0,0.0,4.96
+3,A000215,Bill,Archer,1928-03-22,M,,400567,,103,House,TX,7,,R,,24,1122,27,0,16,169,86.23,,0,0.0,13.49
+4,A000215,Bill,Archer,1928-03-22,M,,400567,,102,House,TX,7,,R,,22,933,49,0,,,81.16,,0,0.0,17.09
+5,A000215,Bill,Archer,1928-03-22,M,,400567,,101,House,TX,7,,R,,20,,,,,,,,0,0.0,
+6,A000215,Bill,Archer,1928-03-22,M,,400567,,100,House,TX,7,,R,,18,,,,,,,,0,0.0,
+7,A000215,Bill,Archer,1928-03-22,M,,400567,,99,House,TX,7,,R,,16,,,,,,,,0,0.0,
+8,A000215,Bill,Archer,1928-03-22,M,,400567,,98,House,TX,7,,R,,14,,,,,,,,0,0.0,

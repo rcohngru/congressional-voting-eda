@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,115,House,OH,12,,R,,18,728,88,0,18,100,95.29,,2,2.0,4.71
+1,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,114,House,OH,12,,R,,16,1325,69,0,28,180,94.22,,0,2.0,5.7
+2,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,113,House,OH,12,,R,,14,1204,35,0,14,279,93.22,,0,1.0,6.7
+3,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,112,House,OH,12,,R,,12,1607,38,0,11,237,91.01,,0,1.0,8.93
+4,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,111,House,OH,12,,R,,10,1655,75,0,7,253,94.29,,0,1.0,5.64
+5,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,110,House,OH,12,,R,,8,1873,36,1,9,242,94.34,,0,2.0,6.22
+6,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,109,House,OH,12,,R,,6,1214,23,0,11,181,94.12,,0,0.0,6.05
+7,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,108,House,OH,12,,R,,4,1221,27,0,6,215,95.44,,0,0.0,4.73
+8,T000462,Pat,Tiberi,1962-10-21,M,R,400406,88155,107,House,OH,12,,R,,2,996,11,0,3,174,96.59,,0,0.0,3.92

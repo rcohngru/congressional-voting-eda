@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000612,David,Perdue,1949-12-10,M,R,412666,75920,116,Senate,GA,,2,R,,1,557,42,0,21,193,97.85,,9,5.0,2.15
+1,P000612,David,Perdue,1949-12-10,M,R,412666,75920,115,Senate,GA,,2,R,,3,599,7,1,26,233,97.62,,12,4.0,2.39
+2,P000612,David,Perdue,1949-12-10,M,R,412666,75920,114,Senate,GA,,2,R,,1,502,8,0,15,170,90.52,,0,5.0,9.48

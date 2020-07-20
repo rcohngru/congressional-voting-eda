@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001140,Dennis,Moore,1945-11-08,M,D,400282,57965,111,House,KS,3,,D,,12,1655,38,0,18,588,97.95,,0,2.0,1.99
+1,M001140,Dennis,Moore,1945-11-08,M,D,400282,57965,110,House,KS,3,,D,,10,1873,13,1,21,575,97.92,,0,2.0,2.62
+2,M001140,Dennis,Moore,1945-11-08,M,D,400282,57965,109,House,KS,3,,D,,8,1214,33,0,11,531,91.58,,0,0.0,8.68
+3,M001140,Dennis,Moore,1945-11-08,M,D,400282,57965,108,House,KS,3,,D,,6,1221,20,0,18,323,91.96,,0,0.0,8.12
+4,M001140,Dennis,Moore,1945-11-08,M,D,400282,57965,107,House,KS,3,,D,,4,996,11,0,21,278,84.56,,0,0.0,15.96
+5,M001140,Dennis,Moore,1945-11-08,M,D,400282,57965,106,House,KS,3,,D,,2,1214,16,0,16,261,87.71,,0,0.0,12.54

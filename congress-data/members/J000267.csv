@@ -1,0 +1,9 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,92,Senate,NC,,2,D,,13,,,,,,,,0,0.0,
+1,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,91,Senate,NC,,2,D,,11,,,,,,,,0,0.0,
+2,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,90,Senate,NC,,2,D,,9,,,,,,,,0,0.0,
+3,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,89,Senate,NC,,2,D,,7,,,,,,,,0,0.0,
+4,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,88,Senate,NC,,2,D,,5,,,,,,,,0,0.0,
+5,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,87,Senate,NC,,2,D,,3,,,,,,,,0,0.0,
+6,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,86,Senate,NC,,2,D,,1,,,,,,,,0,0.0,
+7,J000267,Benjamin,Jordan,1896-09-08,M,,406159,,85,Senate,NC,,2,D,,1,,,,,,,,0,0.0,

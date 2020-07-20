@@ -1,0 +1,2 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001264,Bobby,Bright,1952-07-21,M,D,412267,87180,111,House,AL,2,,D,,2,1655,64,2,14,175,71.41,,0,3.0,28.53

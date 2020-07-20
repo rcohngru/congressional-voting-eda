@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B001295,Mike,Bost,1960-12-30,M,R,412629,76176,116,House,IL,12,,R,,6,839,92,0,18,226,92.31,,7,3.0,7.56
+1,B001295,Mike,Bost,1960-12-30,M,R,412629,76176,115,House,IL,12,,R,,4,1211,7,0,11,236,93.41,,7,3.0,6.59
+2,B001295,Mike,Bost,1960-12-30,M,R,412629,76176,114,House,IL,12,,R,,2,1325,60,0,6,156,92.59,,0,3.0,7.33

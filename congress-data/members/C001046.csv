@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,113,House,VA,7,,R,,14,1120,81,0,5,1,95.27,,0,0.0,4.64
+1,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,112,House,VA,7,,R,,12,1607,127,0,20,2,95.98,,0,0.0,3.95
+2,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,111,House,VA,7,,R,,10,1655,69,4,7,186,96.04,,0,1.0,3.9
+3,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,110,House,VA,7,,R,,8,1873,96,1,8,275,93.76,,0,1.0,6.64
+4,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,109,House,VA,7,,R,,6,1214,24,0,15,221,96.33,,0,0.0,3.93
+5,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,108,House,VA,7,,R,,4,1221,14,0,12,189,96.91,,0,0.0,3.17
+6,C001046,Eric,Cantor,1963-06-06,M,R,400060,87402,107,House,VA,7,,R,,2,996,11,0,10,280,97.32,,0,0.0,3.2

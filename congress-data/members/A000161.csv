@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,A000161,Gordon,Allott,1907-01-02,,,400816,,92,Senate,CO,,2,R,,17,,,,,,,,0,0.0,
+1,A000161,Gordon,Allott,1907-01-02,,,400816,,91,Senate,CO,,2,R,,15,,,,,,,,0,0.0,
+2,A000161,Gordon,Allott,1907-01-02,,,400816,,90,Senate,CO,,2,R,,13,,,,,,,,0,0.0,
+3,A000161,Gordon,Allott,1907-01-02,,,400816,,89,Senate,CO,,2,R,,11,,,,,,,,0,0.0,
+4,A000161,Gordon,Allott,1907-01-02,,,400816,,88,Senate,CO,,2,R,,9,,,,,,,,0,0.0,
+5,A000161,Gordon,Allott,1907-01-02,,,400816,,87,Senate,CO,,2,R,,7,,,,,,,,0,0.0,
+6,A000161,Gordon,Allott,1907-01-02,,,400816,,86,Senate,CO,,2,R,,5,,,,,,,,0,0.0,
+7,A000161,Gordon,Allott,1907-01-02,,,400816,,85,Senate,CO,,2,R,,3,,,,,,,,0,0.0,
+8,A000161,Gordon,Allott,1907-01-02,,,400816,,84,Senate,CO,,2,R,,1,,,,,,,,0,0.0,

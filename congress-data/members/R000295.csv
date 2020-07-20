@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000295,Charles,Robb,1939-06-26,M,,400564,,106,Senate,VA,,1,D,,11,672,1,0,38,413,91.95,,0,0.0,8.05
+1,R000295,Charles,Robb,1939-06-26,M,,400564,,105,Senate,VA,,1,D,,9,612,0,0,20,189,84.22,,0,0.0,15.78
+2,R000295,Charles,Robb,1939-06-26,M,,400564,,104,Senate,VA,,1,D,,7,916,5,0,9,136,82.44,,0,0.0,17.56
+3,R000295,Charles,Robb,1939-06-26,M,,400564,,103,Senate,VA,,1,D,,5,724,5,0,16,171,88.28,,0,0.0,11.72
+4,R000295,Charles,Robb,1939-06-26,M,,400564,,102,Senate,VA,,1,D,,3,550,0,0,,,82.34,,0,0.0,17.66
+5,R000295,Charles,Robb,1939-06-26,M,,400564,,101,Senate,VA,,1,D,,1,638,0,0,,,,,0,0.0,

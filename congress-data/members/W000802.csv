@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,116,Senate,RI,,1,D,,13,557,45,1,42,433,93.79,,10,6.0,6.21
+1,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,115,Senate,RI,,1,D,,11,599,4,1,41,463,95.56,,14,8.0,4.44
+2,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,114,Senate,RI,,3,D,,9,502,1,1,40,284,96.54,,0,7.0,3.46
+3,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,113,Senate,RI,,3,D,,7,657,8,0,37,333,98.0,,10,5.0,2.0
+4,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,112,Senate,RI,,3,D,,5,486,3,0,45,353,96.25,,0,5.0,3.75
+5,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,111,Senate,RI,,3,D,,3,696,13,0,48,360,97.06,,0,5.0,2.94
+6,W000802,Sheldon,Whitehouse,1955-10-20,M,D,412247,92235,110,Senate,RI,,3,D,,1,657,3,0,16,393,95.83,,0,5.0,4.17

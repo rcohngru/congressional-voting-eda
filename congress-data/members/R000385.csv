@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,R000385,Tim,Roemer,1956-10-30,M,,400520,,107,House,IN,3,,D,,12,996,7,0,9,74,88.65,,0,0.0,11.87
+1,R000385,Tim,Roemer,1956-10-30,M,,400520,,106,House,IN,3,,D,,10,1214,18,0,8,135,82.8,,0,0.0,17.37
+2,R000385,Tim,Roemer,1956-10-30,M,,400520,,105,House,IN,3,,D,,8,1187,11,0,5,112,80.71,,0,0.0,19.82
+3,R000385,Tim,Roemer,1956-10-30,M,,400520,,104,House,IN,3,,D,,6,1340,2,0,8,79,72.7,,0,0.0,28.56
+4,R000385,Tim,Roemer,1956-10-30,M,,400520,,103,House,IN,3,,D,,4,1122,10,0,10,175,85.67,,0,0.0,13.58
+5,R000385,Tim,Roemer,1956-10-30,M,,400520,,102,House,IN,3,,D,,2,933,5,0,,,78.22,,0,0.0,18.89

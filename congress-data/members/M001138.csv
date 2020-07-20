@@ -1,0 +1,11 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,112,House,IL,16,,R,,20,1607,95,0,12,345,93.13,,0,2.0,6.8
+1,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,111,House,IL,16,,R,,18,1655,38,1,5,429,94.86,,0,2.0,5.08
+2,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,110,House,IL,16,,R,,16,1873,33,2,8,347,93.42,,0,2.0,7.03
+3,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,109,House,IL,16,,R,,14,1214,83,0,16,248,93.46,,0,0.0,6.63
+4,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,108,House,IL,16,,R,,12,1221,27,0,16,249,94.08,,0,0.0,6.09
+5,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,107,House,IL,16,,R,,10,996,44,0,23,216,95.0,,0,0.0,5.32
+6,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,106,House,IL,16,,R,,8,1214,29,1,13,262,90.36,,0,0.0,9.9
+7,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,105,House,IL,16,,R,,6,1187,24,0,9,243,92.84,,0,0.0,7.6
+8,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,104,House,IL,16,,R,,4,1340,15,0,4,160,94.3,,0,0.0,6.95
+9,M001138,Donald,Manzullo,1944-03-24,M,R,400252,26482,103,House,IL,16,,R,,2,1122,5,0,10,209,91.36,,0,0.0,7.89

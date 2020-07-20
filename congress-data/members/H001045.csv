@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001045,Gregg,Harper,1956-06-01,M,R,412280,1031347,115,House,MS,3,,R,,10,1211,44,0,29,193,98.02,,4,4.0,1.98
+1,H001045,Gregg,Harper,1956-06-01,M,R,412280,1031347,114,House,MS,3,,R,,8,1325,30,0,12,190,95.88,,0,4.0,4.05
+2,H001045,Gregg,Harper,1956-06-01,M,R,412280,1031347,113,House,MS,3,,R,,6,1204,23,0,16,211,95.07,,0,2.0,4.85
+3,H001045,Gregg,Harper,1956-06-01,M,R,412280,1031347,112,House,MS,3,,R,,4,1607,12,0,10,205,94.95,,0,5.0,4.99
+4,H001045,Gregg,Harper,1956-06-01,M,R,412280,1031347,111,House,MS,3,,R,,2,1655,20,21,1,245,94.54,,0,4.0,5.4

@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000610,Stacey,Plaskett,1966-05-13,F,D,412659,79090,116,House,VI,At-Large,,D,,6,316,83,0,21,164,97.85,,8,3.0,2.15
+1,P000610,Stacey,Plaskett,1966-05-13,F,D,412659,79090,115,House,VI,At-Large,,D,,4,0,,,16,168,,,5,3.0,
+2,P000610,Stacey,Plaskett,1966-05-13,F,D,412659,79090,114,House,VI,At-Large,,D,,2,,,,11,118,,,0,2.0,

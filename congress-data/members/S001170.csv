@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001170,Carol,Shea-Porter,1952-12-02,F,D,412219,1021773,115,House,NH,1,,D,,8,1211,120,4,20,731,95.1,,4,2.0,4.9
+1,S001170,Carol,Shea-Porter,1952-12-02,F,D,412219,1021773,113,House,NH,1,,D,,6,1204,40,1,21,609,94.55,,0,2.0,5.37
+2,S001170,Carol,Shea-Porter,1952-12-02,F,D,412219,1021773,111,House,NH,1,,D,,4,1655,58,4,27,525,97.73,,0,3.0,2.21
+3,S001170,Carol,Shea-Porter,1952-12-02,F,D,412219,1021773,110,House,NH,1,,D,,2,1873,35,1,26,494,98.73,,0,2.0,1.82

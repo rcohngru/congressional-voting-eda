@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,P000601,Steven,Palazzo,1970-02-21,M,R,412443,61886,116,House,MS,4,,R,,10,839,45,0,3,158,94.04,,2,1.0,5.84
+1,P000601,Steven,Palazzo,1970-02-21,M,R,412443,61886,115,House,MS,4,,R,,8,1211,70,0,12,225,96.48,,3,1.0,3.52
+2,P000601,Steven,Palazzo,1970-02-21,M,R,412443,61886,114,House,MS,4,,R,,6,1325,67,0,12,215,95.19,,0,1.0,4.73
+3,P000601,Steven,Palazzo,1970-02-21,M,R,412443,61886,113,House,MS,4,,R,,4,1204,68,0,10,204,95.14,,0,3.0,4.77
+4,P000601,Steven,Palazzo,1970-02-21,M,R,412443,61886,112,House,MS,4,,R,,2,1607,17,0,5,202,95.44,,0,2.0,4.5

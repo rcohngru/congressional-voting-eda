@@ -1,0 +1,13 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,112,Senate,WI,,1,D,,23,486,17,0,46,139,94.64,,0,4.0,5.36
+1,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,111,Senate,WI,,1,D,,21,696,3,0,51,129,95.21,,0,4.0,4.79
+2,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,110,Senate,WI,,1,D,,19,657,0,0,43,165,96.62,,0,3.0,3.38
+3,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,109,Senate,WI,,1,D,,17,645,6,0,20,180,92.53,,0,0.0,7.47
+4,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,108,Senate,WI,,1,D,,15,675,7,2,12,164,95.09,,0,0.0,4.91
+5,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,107,Senate,WI,,1,D,,13,633,14,0,22,157,92.28,,0,0.0,7.72
+6,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,106,Senate,WI,,1,D,,11,672,14,0,21,178,88.15,,0,0.0,11.85
+7,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,105,Senate,WI,,1,D,,9,612,1,0,25,124,83.19,,0,0.0,16.81
+8,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,104,Senate,WI,,1,D,,7,916,1,0,17,103,85.83,,0,0.0,14.17
+9,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,103,Senate,WI,,1,D,,5,724,0,0,31,178,80.93,,0,0.0,19.07
+10,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,102,Senate,WI,,1,D,,3,550,2,1,,,83.24,,0,0.0,16.76
+11,K000305,Herb,Kohl,1935-02-07,M,D,300061,4030,101,Senate,WI,,1,D,,1,638,4,0,,,,,0,0.0,

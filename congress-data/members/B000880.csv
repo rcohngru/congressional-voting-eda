@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,B000880,Jack,Brooks,1922-12-18,M,,401837,,103,House,TX,9,,D,,42,1122,76,1,26,61,88.86,,0,0.0,10.75
+1,B000880,Jack,Brooks,1922-12-18,M,,401837,,102,House,TX,9,,D,,40,933,53,6,,,88.2,,0,0.0,8.76
+2,B000880,Jack,Brooks,1922-12-18,M,,401837,,101,House,TX,9,,D,,38,,,,,,,,0,0.0,
+3,B000880,Jack,Brooks,1922-12-18,M,,401837,,100,House,TX,9,,D,,36,,,,,,,,0,0.0,
+4,B000880,Jack,Brooks,1922-12-18,M,,401837,,99,House,TX,9,,D,,34,,,,,,,,0,0.0,
+5,B000880,Jack,Brooks,1922-12-18,M,,401837,,98,House,TX,9,,D,,32,,,,,,,,0,0.0,

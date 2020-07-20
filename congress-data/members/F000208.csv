@@ -1,0 +1,5 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000208,Ronnie,Flippo,1937-08-15,,,404163,,101,House,AL,5,,D,,14,,,,,,,,0,0.0,
+1,F000208,Ronnie,Flippo,1937-08-15,,,404163,,100,House,AL,5,,D,,12,,,,,,,,0,0.0,
+2,F000208,Ronnie,Flippo,1937-08-15,,,404163,,99,House,AL,5,,D,,10,,,,,,,,0,0.0,
+3,F000208,Ronnie,Flippo,1937-08-15,,,404163,,98,House,AL,5,,D,,8,,,,,,,,0,0.0,

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,G000240,Dan,Glickman,1944-11-24,M,,404602,,103,House,KS,4,,D,,18,1122,22,0,30,210,87.88,,0,0.0,11.37
+1,G000240,Dan,Glickman,1944-11-24,M,,404602,,102,House,KS,4,,D,,16,933,27,0,,,82.25,,0,0.0,14.9
+2,G000240,Dan,Glickman,1944-11-24,M,,404602,,101,House,KS,4,,D,,14,,,,,,,,0,0.0,
+3,G000240,Dan,Glickman,1944-11-24,M,,404602,,100,House,KS,4,,D,,12,,,,,,,,0,0.0,
+4,G000240,Dan,Glickman,1944-11-24,M,,404602,,99,House,KS,4,,D,,10,,,,,,,,0,0.0,
+5,G000240,Dan,Glickman,1944-11-24,M,,404602,,98,House,KS,4,,D,,8,,,,,,,,0,0.0,

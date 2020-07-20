@@ -1,0 +1,14 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,J000072,James,Jeffords,1934-05-11,M,,300057,,109,Senate,VT,,1,I,,17,645,34,0,25,283,90.03,,0,0.0,9.97
+1,J000072,James,Jeffords,1934-05-11,M,,300057,,108,Senate,VT,,1,I,,15,675,25,0,19,286,89.12,,0,0.0,10.88
+2,J000072,James,Jeffords,1934-05-11,M,,300057,,107,Senate,VT,,1,I,,13,463,28,0,40,263,89.74,,0,0.0,10.26
+3,J000072,James,Jeffords,1934-05-11,M,,300057,,107,Senate,VT,,1,R,,13,170,5,0,,,70.55,,0,0.0,29.45
+4,J000072,James,Jeffords,1934-05-11,M,,300057,,106,Senate,VT,,1,R,,11,672,21,0,67,307,75.15,,0,0.0,24.85
+5,J000072,James,Jeffords,1934-05-11,M,,300057,,105,Senate,VT,,1,R,,9,612,12,0,52,169,69.58,,0,0.0,30.42
+6,J000072,James,Jeffords,1934-05-11,M,,300057,,104,Senate,VT,,1,R,,7,916,19,2,17,149,68.61,,0,0.0,31.39
+7,J000072,James,Jeffords,1934-05-11,M,,300057,,103,Senate,VT,,1,R,,5,724,20,0,13,256,58.06,,0,0.0,41.94
+8,J000072,James,Jeffords,1934-05-11,M,,300057,,102,Senate,VT,,1,R,,3,550,36,0,,,61.14,,0,0.0,38.86
+9,J000072,James,Jeffords,1934-05-11,M,,300057,,101,Senate,VT,,1,R,,1,638,45,2,,,,,0,0.0,
+10,J000072,James,Jeffords,1934-05-11,M,,300057,,100,House,VT,At-Large,,R,,14,,,,,,,,0,0.0,
+11,J000072,James,Jeffords,1934-05-11,M,,300057,,99,House,VT,At-Large,,R,,12,,,,,,,,0,0.0,
+12,J000072,James,Jeffords,1934-05-11,M,,300057,,98,House,VT,At-Large,,R,,10,,,,,,,,0,0.0,

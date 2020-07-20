@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,S001004,Ted,Strickland,1941-08-04,M,,400390,,109,House,OH,6,,D,,10,1214,277,0,21,364,92.43,,0,0.0,7.68
+1,S001004,Ted,Strickland,1941-08-04,M,,400390,,108,House,OH,6,,D,,8,1221,20,2,17,335,91.71,,0,0.0,8.38
+2,S001004,Ted,Strickland,1941-08-04,M,,400390,,107,House,OH,6,,D,,6,996,10,0,14,264,88.61,,0,0.0,11.9
+3,S001004,Ted,Strickland,1941-08-04,M,,400390,,106,House,OH,6,,D,,4,1214,27,5,11,265,86.83,,0,0.0,13.43
+4,S001004,Ted,Strickland,1941-08-04,M,,400390,,105,House,OH,6,,D,,2,1187,17,1,6,202,88.22,,0,0.0,12.31
+5,S001004,Ted,Strickland,1941-08-04,M,,400390,,103,House,OH,6,,D,,2,1122,13,1,4,140,92.72,,0,0.0,6.53

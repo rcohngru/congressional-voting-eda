@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,H001056,Jaime,Herrera Beutler,1978-11-03,F,R,412486,95198,116,House,WA,3,,R,,10,839,190,0,8,157,87.73,,2,2.0,12.11
+1,H001056,Jaime,Herrera Beutler,1978-11-03,F,R,412486,95198,115,House,WA,3,,R,,8,1211,15,0,11,164,92.69,,3,1.0,7.31
+2,H001056,Jaime,Herrera Beutler,1978-11-03,F,R,412486,95198,114,House,WA,3,,R,,6,1325,299,0,10,106,90.58,,0,1.0,9.32
+3,H001056,Jaime,Herrera Beutler,1978-11-03,F,R,412486,95198,113,House,WA,3,,R,,4,1204,319,0,6,119,88.76,,0,2.0,11.12
+4,H001056,Jaime,Herrera Beutler,1978-11-03,F,R,412486,95198,112,House,WA,3,,R,,2,1607,14,0,4,123,89.25,,0,2.0,10.68

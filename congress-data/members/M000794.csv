@@ -1,0 +1,8 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000794,Norman,Mineta,1931-11-12,M,,407772,,104,House,CA,15,,D,,22,700,8,3,11,113,92.4,,0,0.0,9.61
+1,M000794,Norman,Mineta,1931-11-12,M,,407772,,103,House,CA,15,,D,,20,1122,26,0,33,326,91.14,,0,0.0,8.11
+2,M000794,Norman,Mineta,1931-11-12,M,,407772,,102,House,CA,13,,D,,18,933,22,0,,,91.06,,0,0.0,6.22
+3,M000794,Norman,Mineta,1931-11-12,M,,407772,,101,House,CA,13,,D,,16,,,,,,,,0,0.0,
+4,M000794,Norman,Mineta,1931-11-12,M,,407772,,100,House,CA,13,,D,,14,,,,,,,,0,0.0,
+5,M000794,Norman,Mineta,1931-11-12,M,,407772,,99,House,CA,13,,D,,12,,,,,,,,0,0.0,
+6,M000794,Norman,Mineta,1931-11-12,M,,407772,,98,House,CA,13,,D,,10,,,,,,,,0,0.0,

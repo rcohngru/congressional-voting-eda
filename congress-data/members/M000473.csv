@@ -1,0 +1,6 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000473,Matthew,McHugh,1938-12-06,M,,407471,,102,House,NY,28,,D,,18,933,30,0,,,90.42,,0,0.0,6.73
+1,M000473,Matthew,McHugh,1938-12-06,M,,407471,,101,House,NY,28,,D,,16,,,,,,,,0,0.0,
+2,M000473,Matthew,McHugh,1938-12-06,M,,407471,,100,House,NY,28,,D,,14,,,,,,,,0,0.0,
+3,M000473,Matthew,McHugh,1938-12-06,M,,407471,,99,House,NY,28,,D,,12,,,,,,,,0,0.0,
+4,M000473,Matthew,McHugh,1938-12-06,M,,407471,,98,House,NY,28,,D,,10,,,,,,,,0,0.0,

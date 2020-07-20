@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,D000596,Mark,Dayton,1947-01-26,M,,300032,,109,Senate,MN,,1,D,,5,645,32,0,16,324,94.21,,0,0.0,5.79
+1,D000596,Mark,Dayton,1947-01-26,M,,300032,,108,Senate,MN,,1,D,,3,675,14,0,32,330,93.64,,0,0.0,6.36
+2,D000596,Mark,Dayton,1947-01-26,M,,300032,,107,Senate,MN,,1,D,,1,633,13,0,17,269,93.93,,0,0.0,6.07

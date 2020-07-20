@@ -1,0 +1,10 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,113,House,NC,7,,D,,18,1204,56,1,12,252,67.6,,0,2.0,32.31
+1,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,112,House,NC,7,,D,,16,1607,73,0,11,266,68.61,,0,2.0,31.32
+2,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,111,House,NC,7,,D,,14,1655,22,0,7,333,90.02,,0,2.0,9.92
+3,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,110,House,NC,7,,D,,12,1873,9,1,10,373,92.7,,0,2.0,7.85
+4,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,109,House,NC,7,,D,,10,1214,22,0,10,367,85.03,,0,0.0,15.22
+5,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,108,House,NC,7,,D,,8,1221,32,0,12,345,86.4,,0,0.0,13.77
+6,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,107,House,NC,7,,D,,6,996,27,0,7,254,86.21,,0,0.0,14.32
+7,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,106,House,NC,7,,D,,4,1214,39,0,3,206,78.73,,0,0.0,21.45
+8,M000485,Mike,McIntyre,1956-08-06,M,D,400266,45960,105,House,NC,7,,D,,2,1187,30,0,5,166,75.9,,0,0.0,24.64

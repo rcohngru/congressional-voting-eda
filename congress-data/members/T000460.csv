@@ -1,0 +1,12 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,116,House,CA,5,,D,,22,839,18,0,49,377,97.8,,2,1.0,2.08
+1,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,115,House,CA,5,,D,,20,1211,25,2,24,365,96.27,,2,1.0,3.73
+2,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,114,House,CA,5,,D,,18,1325,42,0,20,302,96.77,,0,1.0,3.15
+3,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,113,House,CA,5,,D,,16,1204,18,0,15,314,92.52,,0,2.0,7.39
+4,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,112,House,CA,1,,D,,14,1604,8,1,13,220,91.73,,0,2.0,8.21
+5,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,111,House,CA,1,,D,,12,1655,23,1,30,313,98.21,,0,2.0,1.73
+6,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,110,House,CA,1,,D,,10,1873,34,0,30,326,97.13,,0,2.0,3.37
+7,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,109,House,CA,1,,D,,8,1214,9,1,18,195,93.61,,0,0.0,6.64
+8,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,108,House,CA,1,,D,,6,1221,8,1,19,203,92.88,,0,0.0,7.29
+9,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,107,House,CA,1,,D,,4,996,25,1,21,244,88.22,,0,0.0,12.3
+10,T000460,Mike,Thompson,1951-01-24,M,D,400403,57872,106,House,CA,1,,D,,2,1214,3,1,10,235,87.93,,0,0.0,12.32

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M001022,Thruston,Morton,1907-08-19,,,407989,,90,Senate,KY,,3,R,,11,,,,,,,,0,0.0,
+1,M001022,Thruston,Morton,1907-08-19,,,407989,,89,Senate,KY,,3,R,,9,,,,,,,,0,0.0,
+2,M001022,Thruston,Morton,1907-08-19,,,407989,,88,Senate,KY,,3,R,,7,,,,,,,,0,0.0,
+3,M001022,Thruston,Morton,1907-08-19,,,407989,,87,Senate,KY,,3,R,,5,,,,,,,,0,0.0,
+4,M001022,Thruston,Morton,1907-08-19,,,407989,,86,Senate,KY,,3,R,,3,,,,,,,,0,0.0,
+5,M001022,Thruston,Morton,1907-08-19,,,407989,,85,Senate,KY,,3,R,,1,,,,,,,,0,0.0,

@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,M000635,John,Melcher,1924-09-06,M,,407622,,100,Senate,MT,,1,D,,11,,,,,,,,0,0.0,
+1,M000635,John,Melcher,1924-09-06,M,,407622,,99,Senate,MT,,1,D,,9,,,,,,,,0,0.0,
+2,M000635,John,Melcher,1924-09-06,M,,407622,,98,Senate,MT,,1,D,,7,,,,,,,,0,0.0,
+3,M000635,John,Melcher,1924-09-06,M,,407622,,97,Senate,MT,,1,D,,5,,,,,,,,0,0.0,
+4,M000635,John,Melcher,1924-09-06,M,,407622,,96,Senate,MT,,1,D,,3,,,,,,,,0,0.0,
+5,M000635,John,Melcher,1924-09-06,M,,407622,,95,Senate,MT,,1,D,,1,,,,,,,,0,0.0,

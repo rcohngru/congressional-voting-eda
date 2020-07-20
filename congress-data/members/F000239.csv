@@ -1,0 +1,7 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,F000239,Thomas,Foley,1929-03-06,M,,404193,,103,House,WA,5,,D,,30,1122,1057,1,0,1,92.06,,0,0.0,3.17
+1,F000239,Thomas,Foley,1929-03-06,M,,404193,,102,House,WA,5,,D,,28,933,901,1,,,87.1,,0,0.0,6.45
+2,F000239,Thomas,Foley,1929-03-06,M,,404193,,101,House,WA,5,,D,,26,,,,,,,,0,0.0,
+3,F000239,Thomas,Foley,1929-03-06,M,,404193,,100,House,WA,5,,D,,24,,,,,,,,0,0.0,
+4,F000239,Thomas,Foley,1929-03-06,M,,404193,,99,House,WA,5,,D,,22,,,,,,,,0,0.0,
+5,F000239,Thomas,Foley,1929-03-06,M,,404193,,98,House,WA,5,,D,,20,,,,,,,,0,0.0,

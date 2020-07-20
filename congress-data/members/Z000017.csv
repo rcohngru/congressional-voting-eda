@@ -1,0 +1,4 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,Z000017,Lee,Zeldin,1980-01-30,M,R,412646,61616,116,House,NY,1,,R,,6,839,8,0,25,271,89.44,,4,2.0,10.44
+1,Z000017,Lee,Zeldin,1980-01-30,M,R,412646,61616,115,House,NY,1,,R,,4,1211,35,0,31,286,94.19,,5,2.0,5.81
+2,Z000017,Lee,Zeldin,1980-01-30,M,R,412646,61616,114,House,NY,1,,R,,2,1325,5,0,13,164,92.6,,0,3.0,7.33

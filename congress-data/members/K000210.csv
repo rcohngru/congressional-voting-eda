@@ -1,0 +1,15 @@
+,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
+0,K000210,Peter,King,1944-04-05,M,R,400219,26487,116,House,NY,2,,R,,28,839,12,0,29,405,81.85,,4,2.0,18.03
+1,K000210,Peter,King,1944-04-05,M,R,400219,26487,115,House,NY,2,,R,,26,1211,50,0,28,421,92.39,,6,3.0,7.61
+2,K000210,Peter,King,1944-04-05,M,R,400219,26487,114,House,NY,2,,R,,24,1325,17,0,28,295,91.29,,0,3.0,8.63
+3,K000210,Peter,King,1944-04-05,M,R,400219,26487,113,House,NY,2,,R,,22,1204,26,0,31,378,89.51,,0,3.0,10.4
+4,K000210,Peter,King,1944-04-05,M,R,400219,26487,112,House,NY,3,,R,,20,1607,43,0,36,324,89.43,,0,3.0,10.5
+5,K000210,Peter,King,1944-04-05,M,R,400219,26487,111,House,NY,3,,R,,18,1655,49,1,47,349,89.82,,0,3.0,10.11
+6,K000210,Peter,King,1944-04-05,M,R,400219,26487,110,House,NY,3,,R,,16,1873,57,0,43,371,89.68,,0,2.0,10.89
+7,K000210,Peter,King,1944-04-05,M,R,400219,26487,109,House,NY,3,,R,,14,1214,26,0,34,268,94.01,,0,0.0,6.24
+8,K000210,Peter,King,1944-04-05,M,R,400219,26487,108,House,NY,3,,R,,12,1221,42,0,40,253,94.18,,0,0.0,5.99
+9,K000210,Peter,King,1944-04-05,M,R,400219,26487,107,House,NY,3,,R,,10,996,31,0,27,315,96.42,,0,0.0,4.11
+10,K000210,Peter,King,1944-04-05,M,R,400219,26487,106,House,NY,3,,R,,8,1214,42,1,8,293,89.12,,0,0.0,11.14
+11,K000210,Peter,King,1944-04-05,M,R,400219,26487,105,House,NY,3,,R,,6,1187,27,0,17,263,88.99,,0,0.0,11.55
+12,K000210,Peter,King,1944-04-05,M,R,400219,26487,104,House,NY,3,,R,,4,1340,15,0,13,201,90.95,,0,0.0,10.22
+13,K000210,Peter,King,1944-04-05,M,R,400219,26487,103,House,NY,3,,R,,2,1122,8,0,10,391,90.23,,0,0.0,9.02
