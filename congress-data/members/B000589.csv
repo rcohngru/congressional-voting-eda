@@ -1,7 +1,6 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
 0,B000589,John,Boehner,1949-11-17,M,R,400036,16740,114,House,OH,8,,R,,26,580.0,564.0,0.0,2.0,1.0,84.62,,0,0.0,15.38
 2,B000589,John,Boehner,1949-11-17,M,R,400036,16740,113,House,OH,8,,R,Speaker of the House,24,28.0,1.0,0.0,0.0,0.0,92.31,,0,0.0,7.69
-4,B000589,John,Boehner,1949-11-17,M,R,400036,16740,112,House,OH,8,,R,Speaker of the House,2,0.0,0.0,0.0,7.0,3.0,,,0,0.0,
 5,B000589,John,Boehner,1949-11-17,M,R,400036,16740,112,House,OH,8,,R,Speaker of the House,22,1605.0,1594.0,0.0,0.0,0.0,88.89,,0,0.0,11.11
 6,B000589,John,Boehner,1949-11-17,M,R,400036,16740,111,House,OH,8,,R,Minority Lead,20,1655.0,157.0,0.0,13.0,120.0,96.35,,0,0.0,3.65
 7,B000589,John,Boehner,1949-11-17,M,R,400036,16740,110,House,OH,8,,R,Minority Lead,18,1873.0,102.0,2.0,18.0,116.0,95.36,,0,0.0,5.17
