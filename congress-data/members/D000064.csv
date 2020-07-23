@@ -1,12 +1,7 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,D000064,Thomas,Daschle,1947-12-09,M,,300031,,108,Senate,SD,,3,D,,17,675,7,0,65,368,95.4,,0,0.0,4.6
-1,D000064,Thomas,Daschle,1947-12-09,M,,300031,,107,Senate,SD,,3,D,,15,633,17,0,106,265,95.39,,0,0.0,4.61
-2,D000064,Thomas,Daschle,1947-12-09,M,,300031,,106,Senate,SD,,3,D,,13,672,13,0,50,346,94.69,,0,0.0,5.31
-3,D000064,Thomas,Daschle,1947-12-09,M,,300031,,105,Senate,SD,,3,D,,11,612,10,0,61,246,93.1,,0,0.0,6.9
-4,D000064,Thomas,Daschle,1947-12-09,M,,300031,,104,Senate,SD,,3,D,,9,916,2,0,73,166,93.18,,0,0.0,6.82
-5,D000064,Thomas,Daschle,1947-12-09,M,,300031,,103,Senate,SD,,3,D,,7,724,4,0,45,230,91.84,,0,0.0,8.16
-6,D000064,Thomas,Daschle,1947-12-09,M,,300031,,102,Senate,SD,,3,D,,5,550,2,0,,,88.99,,0,0.0,11.01
-7,D000064,Thomas,Daschle,1947-12-09,M,,300031,,101,Senate,SD,,3,D,,3,638,6,0,,,,,0,0.0,
-8,D000064,Thomas,Daschle,1947-12-09,M,,300031,,100,Senate,SD,,3,D,,1,,,,,,,,0,0.0,
-9,D000064,Thomas,Daschle,1947-12-09,M,,300031,,99,House,SD,At-Large,,D,,8,,,,,,,,0,0.0,
-10,D000064,Thomas,Daschle,1947-12-09,M,,300031,,98,House,SD,At-Large,,D,,6,,,,,,,,0,0.0,
+0,D000064,Thomas,Daschle,1947-12-09,M,,300031,,108,Senate,SD,,3.0,D,Minority Lead,17,675.0,7.0,0.0,65.0,368.0,95.4,,0,0.0,4.6
+1,D000064,Thomas,Daschle,1947-12-09,M,,300031,,107,Senate,SD,,3.0,D,Minority Lead,15,633.0,17.0,0.0,106.0,265.0,95.39,,0,0.0,4.61
+2,D000064,Thomas,Daschle,1947-12-09,M,,300031,,106,Senate,SD,,3.0,D,Minority Lead,13,672.0,13.0,0.0,50.0,346.0,94.69,,0,0.0,5.31
+3,D000064,Thomas,Daschle,1947-12-09,M,,300031,,105,Senate,SD,,3.0,D,Minority Lead,11,612.0,10.0,0.0,61.0,246.0,93.1,,0,0.0,6.9
+4,D000064,Thomas,Daschle,1947-12-09,M,,300031,,104,Senate,SD,,3.0,D,Minority Lead,9,916.0,2.0,0.0,73.0,166.0,93.18,,0,0.0,6.82
+5,D000064,Thomas,Daschle,1947-12-09,M,,300031,,103,Senate,SD,,3.0,D,,7,724.0,4.0,0.0,45.0,230.0,91.84,,0,0.0,8.16

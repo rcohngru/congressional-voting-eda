@@ -1,11 +1,11 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,116,House,SC,6,,D,House Majority Whip,28,839,99,0,17,121,98.78,,0,0.0,1.08
+0,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,116,House,SC,6,,D,Majority Whip,28,839,99,0,17,121,98.78,,0,0.0,1.08
 1,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,115,House,SC,6,,D,Assistant Leader,26,1211,92,1,9,125,98.07,,0,0.0,1.93
 2,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,114,House,SC,6,,D,,24,1325,77,0,6,85,96.35,,0,0.0,3.57
 3,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,113,House,SC,6,,D,,22,1204,66,1,2,96,93.8,,0,0.0,6.11
 4,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,112,House,SC,6,,D,,20,1607,44,1,6,78,92.28,,0,0.0,7.66
-5,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,111,House,SC,6,,D,,18,1655,43,0,3,111,98.44,,0,0.0,1.5
-6,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,110,House,SC,6,,D,,16,1873,33,0,7,172,98.4,,0,0.0,2.15
+5,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,111,House,SC,6,,D,Majority Whip,18,1655,43,0,3,111,98.44,,0,0.0,1.5
+6,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,110,House,SC,6,,D,Majority Whip,16,1873,33,0,7,172,98.4,,0,0.0,2.15
 7,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,109,House,SC,6,,D,,14,1214,34,0,6,224,95.79,,0,0.0,4.47
 8,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,108,House,SC,6,,D,,12,1221,54,0,7,238,94.42,,0,0.0,5.76
 9,C000537,James,Clyburn,1940-07-21,M,D,400075,21607,107,House,SC,6,,D,,10,996,14,0,5,207,93.87,,0,0.0,6.65

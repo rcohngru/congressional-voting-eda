@@ -1,6 +1,6 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,F000439,William,Frist,1952-02-22,M,,300045,,109,Senate,TN,,1,R,,11,645,4,0,125,141,94.66,,0,0.0,5.34
-1,F000439,William,Frist,1952-02-22,M,,300045,,108,Senate,TN,,1,R,,9,675,3,0,103,80,97.45,,0,0.0,2.55
+0,F000439,William,Frist,1952-02-22,M,,300045,,109,Senate,TN,,1,R,Majority Lead,11,645,4,0,125,141,94.66,,0,0.0,5.34
+1,F000439,William,Frist,1952-02-22,M,,300045,,108,Senate,TN,,1,R,Majority Lead,9,675,3,0,103,80,97.45,,0,0.0,2.55
 2,F000439,William,Frist,1952-02-22,M,,300045,,107,Senate,TN,,1,R,,7,633,13,0,37,127,96.43,,0,0.0,3.57
 3,F000439,William,Frist,1952-02-22,M,,300045,,106,Senate,TN,,1,R,,5,672,11,0,44,210,96.35,,0,0.0,3.65
 4,F000439,William,Frist,1952-02-22,M,,300045,,105,Senate,TN,,1,R,,3,612,1,0,30,125,93.22,,0,0.0,6.78

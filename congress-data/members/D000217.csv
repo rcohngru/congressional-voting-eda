@@ -1,12 +1,8 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,D000217,Thomas,DeLay,1947-04-08,M,,400104,,109,House,TX,22,,R,,22,921,76,0,19,71,96.05,,0,0.0,4.07
-1,D000217,Thomas,DeLay,1947-04-08,M,,400104,,108,House,TX,22,,R,,20,1221,68,0,34,77,97.2,,0,0.0,2.97
-2,D000217,Thomas,DeLay,1947-04-08,M,,400104,,107,House,TX,22,,R,,18,996,46,0,6,97,97.12,,0,0.0,3.2
-3,D000217,Thomas,DeLay,1947-04-08,M,,400104,,106,House,TX,22,,R,,16,1214,59,0,6,186,94.79,,0,0.0,5.48
-4,D000217,Thomas,DeLay,1947-04-08,M,,400104,,105,House,TX,22,,R,,14,1187,41,0,14,169,93.83,,0,0.0,6.62
-5,D000217,Thomas,DeLay,1947-04-08,M,,400104,,104,House,TX,22,,R,,12,1340,36,0,16,119,95.72,,0,0.0,5.47
-6,D000217,Thomas,DeLay,1947-04-08,M,,400104,,103,House,TX,22,,R,,10,1122,35,0,15,275,88.07,,0,0.0,11.16
-7,D000217,Thomas,DeLay,1947-04-08,M,,400104,,102,House,TX,22,,R,,8,933,41,1,,,80.88,,0,0.0,15.55
-8,D000217,Thomas,DeLay,1947-04-08,M,,400104,,101,House,TX,22,,R,,6,,,,,,,,0,0.0,
-9,D000217,Thomas,DeLay,1947-04-08,M,,400104,,100,House,TX,22,,R,,4,,,,,,,,0,0.0,
-10,D000217,Thomas,DeLay,1947-04-08,M,,400104,,99,House,TX,22,,R,,2,,,,,,,,0,0.0,
+0,D000217,Thomas,DeLay,1947-04-08,M,,400104,,109,House,TX,22,,R,,22,921.0,76.0,0.0,19.0,71.0,96.05,,0,0.0,4.07
+1,D000217,Thomas,DeLay,1947-04-08,M,,400104,,108,House,TX,22,,R,Majority Lead,20,1221.0,68.0,0.0,34.0,77.0,97.2,,0,0.0,2.97
+2,D000217,Thomas,DeLay,1947-04-08,M,,400104,,107,House,TX,22,,R,Majority Whip,18,996.0,46.0,0.0,6.0,97.0,97.12,,0,0.0,3.2
+3,D000217,Thomas,DeLay,1947-04-08,M,,400104,,106,House,TX,22,,R,Majority Whip,16,1214.0,59.0,0.0,6.0,186.0,94.79,,0,0.0,5.48
+4,D000217,Thomas,DeLay,1947-04-08,M,,400104,,105,House,TX,22,,R,Majority Whip,14,1187.0,41.0,0.0,14.0,169.0,93.83,,0,0.0,6.62
+5,D000217,Thomas,DeLay,1947-04-08,M,,400104,,104,House,TX,22,,R,Majority Whip,12,1340.0,36.0,0.0,16.0,119.0,95.72,,0,0.0,5.47
+6,D000217,Thomas,DeLay,1947-04-08,M,,400104,,103,House,TX,22,,R,,10,1122.0,35.0,0.0,15.0,275.0,88.07,,0,0.0,11.16

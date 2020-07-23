@@ -1,12 +1,7 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,G000132,Richard,Gephardt,1941-01-31,M,,400146,,108,House,MO,3,,D,,28,1221,938,0,4,89,96.74,,0,0.0,3.26
-1,G000132,Richard,Gephardt,1941-01-31,M,,400146,,107,House,MO,3,,D,,26,996,78,1,7,119,93.46,,0,0.0,6.98
-2,G000132,Richard,Gephardt,1941-01-31,M,,400146,,106,House,MO,3,,D,,24,1214,115,2,7,110,94.47,,0,0.0,5.71
-3,G000132,Richard,Gephardt,1941-01-31,M,,400146,,105,House,MO,3,,D,,22,1187,132,5,20,94,87.23,,0,0.0,13.37
-4,G000132,Richard,Gephardt,1941-01-31,M,,400146,,104,House,MO,3,,D,,20,1340,111,4,17,44,92.18,,0,0.0,9.11
-5,G000132,Richard,Gephardt,1941-01-31,M,,400146,,103,House,MO,3,,D,,18,1122,64,0,41,69,94.16,,0,0.0,5.06
-6,G000132,Richard,Gephardt,1941-01-31,M,,400146,,102,House,MO,3,,D,,16,933,72,0,,,92.82,,0,0.0,4.43
-7,G000132,Richard,Gephardt,1941-01-31,M,,400146,,101,House,MO,3,,D,,14,,,,,,,,0,0.0,
-8,G000132,Richard,Gephardt,1941-01-31,M,,400146,,100,House,MO,3,,D,,12,,,,,,,,0,0.0,
-9,G000132,Richard,Gephardt,1941-01-31,M,,400146,,99,House,MO,3,,D,,10,,,,,,,,0,0.0,
-10,G000132,Richard,Gephardt,1941-01-31,M,,400146,,98,House,MO,3,,D,,8,,,,,,,,0,0.0,
+0,G000132,Richard,Gephardt,1941-01-31,M,,400146,,108,House,MO,3,,D,,28,1221.0,938.0,0.0,4.0,89.0,96.74,,0,0.0,3.26
+1,G000132,Richard,Gephardt,1941-01-31,M,,400146,,107,House,MO,3,,D,,26,996.0,78.0,1.0,7.0,119.0,93.46,,0,0.0,6.98
+2,G000132,Richard,Gephardt,1941-01-31,M,,400146,,106,House,MO,3,,D,Minority Lead,24,1214.0,115.0,2.0,7.0,110.0,94.47,,0,0.0,5.71
+3,G000132,Richard,Gephardt,1941-01-31,M,,400146,,105,House,MO,3,,D,Minority Lead,22,1187.0,132.0,5.0,20.0,94.0,87.23,,0,0.0,13.37
+4,G000132,Richard,Gephardt,1941-01-31,M,,400146,,104,House,MO,3,,D,Minority Lead,20,1340.0,111.0,4.0,17.0,44.0,92.18,,0,0.0,9.11
+5,G000132,Richard,Gephardt,1941-01-31,M,,400146,,103,House,MO,3,,D,Majority Lead,18,1122.0,64.0,0.0,41.0,69.0,94.16,,0,0.0,5.06

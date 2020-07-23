@@ -1,12 +1,12 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,T000250,John,Thune,1961-01-07,M,R,400546,45552,116,Senate,SD,,3,R,Assistant Senate Majority Leader,15,557,3,0,42,123,99.09,,10,3.0,0.91
-1,T000250,John,Thune,1961-01-07,M,R,400546,45552,115,Senate,SD,,3,R,Conference Chair,13,599,0,0,60,151,99.33,,6,3.0,0.67
-2,T000250,John,Thune,1961-01-07,M,R,400546,45552,114,Senate,SD,,3,R,,11,502,4,0,60,160,94.68,,0,3.0,5.32
-3,T000250,John,Thune,1961-01-07,M,R,400546,45552,113,Senate,SD,,3,R,,9,657,4,0,33,240,96.09,,12,3.0,3.91
-4,T000250,John,Thune,1961-01-07,M,R,400546,45552,112,Senate,SD,,3,R,,7,486,11,0,23,235,92.31,,0,0.0,7.69
-5,T000250,John,Thune,1961-01-07,M,R,400546,45552,111,Senate,SD,,3,R,,5,696,5,0,19,170,96.18,,0,4.0,3.82
-6,T000250,John,Thune,1961-01-07,M,R,400546,45552,110,Senate,SD,,3,R,,3,657,4,0,31,197,91.01,,0,4.0,8.99
-7,T000250,John,Thune,1961-01-07,M,R,400546,45552,109,Senate,SD,,3,R,,1,645,17,0,23,183,91.83,,0,0.0,8.17
+0,T000250,John,Thune,1961-01-07,M,R,400546,45552,116,Senate,SD,,3.0,R,Majority Whip,15,557,3,0,42,123,99.09,,10,3.0,0.91
+1,T000250,John,Thune,1961-01-07,M,R,400546,45552,115,Senate,SD,,3.0,R,Conference Chair,13,599,0,0,60,151,99.33,,6,3.0,0.67
+2,T000250,John,Thune,1961-01-07,M,R,400546,45552,114,Senate,SD,,3.0,R,,11,502,4,0,60,160,94.68,,0,3.0,5.32
+3,T000250,John,Thune,1961-01-07,M,R,400546,45552,113,Senate,SD,,3.0,R,,9,657,4,0,33,240,96.09,,12,3.0,3.91
+4,T000250,John,Thune,1961-01-07,M,R,400546,45552,112,Senate,SD,,3.0,R,,7,486,11,0,23,235,92.31,,0,0.0,7.69
+5,T000250,John,Thune,1961-01-07,M,R,400546,45552,111,Senate,SD,,3.0,R,,5,696,5,0,19,170,96.18,,0,4.0,3.82
+6,T000250,John,Thune,1961-01-07,M,R,400546,45552,110,Senate,SD,,3.0,R,,3,657,4,0,31,197,91.01,,0,4.0,8.99
+7,T000250,John,Thune,1961-01-07,M,R,400546,45552,109,Senate,SD,,3.0,R,,1,645,17,0,23,183,91.83,,0,0.0,8.17
 8,T000250,John,Thune,1961-01-07,M,R,400546,45552,107,House,SD,At-Large,,R,,6,996,8,0,24,144,93.62,,0,0.0,6.89
 9,T000250,John,Thune,1961-01-07,M,R,400546,45552,106,House,SD,At-Large,,R,,4,1214,2,0,14,139,93.52,,0,0.0,6.73
 10,T000250,John,Thune,1961-01-07,M,R,400546,45552,105,House,SD,At-Large,,R,,2,1187,6,0,11,93,95.03,,0,0.0,5.5

@@ -1,7 +1,2 @@
 ,id,first_name,last_name,dob,gender,current_party,govtrack_id,cspan_id,congress,chamber,state,district,senate_class,party,leadership_role,seniority,total_votes,missed_votes,total_present,bills_sponsored,bills_cosponsored,votes_with_party_pct,votes_against_party_pctcommittees,subcommittees,committees,votes_against_party_pct
-0,M000692,Robert,Michel,1923-03-02,M,,407676,,103,House,IL,18,,R,,38,1122,94,1,32,96,90.05,,0,0.0,9.15
-1,M000692,Robert,Michel,1923-03-02,M,,407676,,102,House,IL,18,,R,,34,933,68,1,,,85.41,,0,0.0,11.03
-2,M000692,Robert,Michel,1923-03-02,M,,407676,,101,House,IL,18,,R,,26,,,,,,,,0,0.0,
-3,M000692,Robert,Michel,1923-03-02,M,,407676,,100,House,IL,18,,R,,22,,,,,,,,0,0.0,
-4,M000692,Robert,Michel,1923-03-02,M,,407676,,99,House,IL,18,,R,,18,,,,,,,,0,0.0,
-5,M000692,Robert,Michel,1923-03-02,M,,407676,,99,House,IL,18,,R,,30,,,,,,,,0,0.0,
+0,M000692,Robert,Michel,1923-03-02,M,,407676,,103,House,IL,18,,R,Minority Lead,38,1122.0,94.0,1.0,32.0,96.0,90.05,,0,0.0,9.15
