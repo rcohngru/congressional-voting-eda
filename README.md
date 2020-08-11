@@ -3,6 +3,19 @@
 
 The motivation behind this project comes from a desire to learn why members of Congress miss roll-call votes, the most important part of their job. In researching this project I learned that it is fairly common for member of Congress to miss 1-2% of votes during each session. However, there are notable outliers that miss a significantly higher percentage of votes. My goal was to understand what was going on this situation.
 
+## TLDR
+**Note**: This study only took the amount of votes into consideration, not the contents of each bill. It is entirely possible that the votes being missed are less important votes, like commemorative or procedural ones.
+
+* Senators who run for President will miss more votes during that Congressional session than their counterparts, and will miss more votes than they do when they are not running for President.
+* Speakers of the House will miss more votes during that Congressional session than their counterparts, and will miss more votes than they do when they are not Speaker of the House.
+* Female Representatives of the House miss more votes on average than male Representatives--and this is statistically significant.
+* Male Senators miss more votes on average than Female Senators--and the results from the hypothesis tests were unclear as to whether this is statistically significant or not.
+* Democratic Representatives miss more votes on average than Republican Representatives--and this is statistically significant.
+* Republican Senators miss more votes on average than Democratic Senators--but this is **not** statistically significant.
+* Age does not affect how many votes a member of Congress will miss.
+* Seniority does not affect how many votes a member of Congress will miss.
+* Distance from the Capitol does not affect how many votes a member of Congress will miss.
+
 ## Data Collection
 
 The data for this project was collected using ProPublica's free API. The data consists of voting records for the past 15 Congressional sessions for the House, Senate, and individual members. The data is relatively clean, however there may be some inconsistencies between the individual `member` data and the data present in the `house` and `senate` voting records. This project primarily used the data in the `house` and `senate` directories.
@@ -40,28 +53,30 @@ During my initial exploration of the data I identified 2 trends that were presen
 ```
       100+ Missed Votes - Senate
 ========================================
-Spark Matsunaga    | Albert Gore
-Tom Harkin         | Jesse Helms
-J. Robert Kerrey   | David Pryor
-John McCain        | Jesse Helms
-John Edwards       | Bob Graham
-John Kerry         | Joseph Lieberman
-Zell Miller        | Jon Corzine
-John Rockefeller   | Joseph Biden
-Sam Brownback      | Hillary Clinton
-Christopher Dodd   | Tim Johnson
-Edward Kennedy     | John McCain
-Barack Obama       | Robert Byrd
-Edward Kennedy     | Mark Kirk
-Tom Coburn         | Thad Cochran
-Frank Lautenberg   | Ted Cruz
-Lindsey Graham     | Marco Rubio
-Bernard Sanders    | John McCain
-Lamar Alexander    | Michael Bennet
-Cory Booker        | Kirsten Gillibrand
-Kamala Harris      | Johnny Isakson
-Amy Klobuchar      | Bernard Sanders
-Elizabeth Warren   | 
+Spark Matsunaga     | Albert Gore *
+Tom Harkin *        | Jesse Helms
+J. Robert Kerrey *  | David Pryor
+John McCain *       | Jesse Helms
+John Edwards *      | Bob Graham *
+John Kerry *        | Joseph Lieberman *
+Zell Miller         | Jon Corzine
+John Rockefeller    | Joseph Biden *
+Sam Brownback *     | Hillary Clinton *
+Christopher Dodd *  | Tim Johnson
+Edward Kennedy      | John McCain *
+Barack Obama *      | Robert Byrd
+Edward Kennedy      | Mark Kirk
+Tom Coburn          | Thad Cochran
+Frank Lautenberg    | Ted Cruz *
+Lindsey Graham *    | Marco Rubio *
+Bernard Sanders *   | John McCain
+Lamar Alexander     | Michael Bennet *
+Cory Booker *       | Kirsten Gillibrand *
+Kamala Harris *     | Johnny Isakson
+Amy Klobuchar *     | Bernard Sanders *
+Elizabeth Warren *  | 
+
+* - running for President at the time
 ```
 I found that Senators who declare a Presidential campaign will almost always miss signficantly more votes than their counterparts who do not run for President. This is true regardless of party, gender, and age.
 
@@ -70,20 +85,22 @@ I found that Senators who declare a Presidential campaign will almost always mis
 ```
      500+ Missed Votes - House
 =======================================
-Thomas Foley       | Thomas Foley
-Craig Washington   | Newt Gingrich
-Newt Gingrich      | Henry Gonzalez
-Steven Schiff      | J. Dennis Hastert
-J. Dennis Hastert  | Richard Gephardt
-J. Dennis Hastert  | Lane Evans
-J. Dennis Hastert  | Barbara Cubin
-Jo Ann Davis       | Nancy Pelosi
-Bobby Rush         | J. Barrett
-Nancy Pelosi       | John Boehner
-Gabrielle Giffords | Ron Paul
-John Campbell      | Carolyn McCarthy
-John Boehner       | Paul Ryan
-Paul Ryan          | Nancy Pelosi
+Thomas Foley *      | Thomas Foley *
+Craig Washington    | Newt Gingrich *
+Newt Gingrich *     | Henry Gonzalez
+Steven Schiff       | J. Dennis Hastert *
+J. Dennis Hastert * | Richard Gephardt *
+J. Dennis Hastert * | Lane Evans
+J. Dennis Hastert * | Barbara Cubin
+Jo Ann Davis        | Nancy Pelosi *
+Bobby Rush          | J. Barrett
+Nancy Pelosi *      | John Boehner *
+Gabrielle Giffords  | Ron Paul
+John Campbell       | Carolyn McCarthy
+John Boehner *      | Paul Ryan *
+Paul Ryan *         | Nancy Pelosi *
+
+* - Speaker of the House at the time
 ```
 I also discovered that Representatives in the House will almost always miss significantly more votes if they are Speaker of the House. I suspect that this has something to with a tradition or rule present in the House, although I have not been able to figure out what it is.
 
@@ -124,7 +141,7 @@ After running a two-tailed t-test, I found a p-value of 0.025, meaning that I ca
 
 However, the difference in sample sizes in this case made me uneasy, so I decided to run a Mann-Whitney U-test to confirm the results of my t-test, using the same threshold.
 
-![Senate Gender Mann_Whitney](/images/senate_gen_mann_whitnney.png)
+![Senate Gender Mann_Whitney](/images/senate_gen_mann_whitney.png)
 
 In this case the p-value is below the threshold for rejection, meaning that the difference in average votes missed is statistically significant.
 
@@ -161,5 +178,34 @@ $H_a:%20\mu_r%20\neq%20\mu_d$
 After running a two-tailed t-test, I found a p-value of 0.102, meaning that I cannot reject the null hypothesis. This means that while Republicans miss more votes on average, this is not statistically significant.
 
 ### 3. Age
+I also decided to examine age as a factor for why members of Congress might miss more roll-call votes.
+
+![House Age](/images/house_age.png)
+![Senate Age](/images/senate_age.png)
+
+There is no obvious trend in missed votes by age for either the Senate or the House. Accordingly, the analysis stops here for this factor.
 ### 4. Seniority
+I also decided to examine seniority as a factor for why members of Congress might miss more roll-call votes.
+
+![House Seniority](/images/house_seniority.png)
+![Senate Senioritiy](/images/senate_seniority.png)
+
+There is no obvious trend in missed votes by seniority for either the Senate or the House. I decided to stop the analysis for this factor at this point.
 ### 5. Distance From DC
+I also decided to examine geographic distance as a factor for why members of Congress might miss more roll-call votes. The theory behind this being that members from western states have to travel more to reach the Capitol.
+
+![House Distance](/images/house_distance.png)
+![SenateDistance](/images/senate_distance.png)
+
+There is no obvious trend in missed votes by distance for either the Senate or the House. Accordingly, I decided to stop the analysis for this factor at this steps.
+
+## Conclusions
+There are several conclusions that can be drawn from this analysis. By far the most interesting pieces of information are that Senators who run for President and Speakers of the House will miss more votes than their counterparts. In particular, this provides another dimension to consider when Senators are debating running for President, particularly during Congresses in which the Senate is very evenly split.
+
+I also found that female Representatives miss more votes than male Representatives, and that male Senators miss more votes on average than female Senators, but it is unclear whether or not this is statistically significant. Democrat Representatives certainly miss more votes than Republicans, and even though Republican Senators miss more votes on average than Democrats, they do not miss enough for it to be statistically significant.
+
+Of course, this project focused entirely on the amount of votes that were missed and no analysis was done to determine the importance of those bills. 
+
+In reality, a member of Congress could miss a vote for any reason. Perhaps they needed to have a doctor's appointment, or they missed a flight. They are human just like us, and should not be held to an impossible standard of 0 missed votes every Congressional session.
+
+I would also like to emphasize that I did this project to practice statistical testing and that the results from this should be taken with a grain of salt, as I am relatively inexperienced.
