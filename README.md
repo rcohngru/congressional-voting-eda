@@ -115,9 +115,8 @@ The first factor I decided to examine was gender. I wanted to see if the gender 
 Even when accounting for Speaker of the House, female Representatives miss more votes on average than male Representatives. I ran a hypothesis test to determine if this trend was statistically significant:
 
 ![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_f%20%3D%20%5Cmu_m)
-![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_f%20%5Cneq%20%5Cmu_m)
-$H_0:%20\mu_f%20=%20\mu_m$
-$H_a:%20\mu_f%20\neq%20\mu_m$
+
+![equation](https://latex.codecogs.com/gif.latex?H_a%3A%20%5Cmu_f%20%5Cneq%20%5Cmu_m)
 
 Because of the seriousness of this factor, I decided to establish a threshold of 0.02 necessary to reject the null hypothesis.
 
@@ -132,8 +131,9 @@ It is here that I would like to reiterate the point I made earlier: that this fo
 
 When accounting for sessions when Senators are running for President, we see that male Senators miss more votes on average than female Senators. I set up a hypothesis test to determine if this trend was statistically significant:
 
-$H_0:%20\mu_m%20=%20\mu_f$
-$H_a:%20\mu_m%20\neq%20\mu_f$
+![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_m%20%3D%20%5Cmu_f)
+
+![equation](https://latex.codecogs.com/gif.latex?H_a%3A%20%5Cmu_m%20%5Cneq%20%5Cmu_f)
 
 Because of the seriousness of this factor, I again decided to use a threshold of 0.02 necessary to reject the null hypothesis.
 
@@ -158,8 +158,9 @@ I also decided to examine if members of a specific political party tend to miss 
 
 When accounting for Speaker of the House, Democrats miss more votes than Republicans. I established a hypothesis test to determine if this is statistically significant.
 
-$H_0:%20\mu_d%20=%20\mu_r$
-$H_a:%20\mu_d%20\neq%20\mu_r$
+![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_d%20%3D%20%5Cmu_r)
+
+![equation](https://latex.codecogs.com/gif.latex?H_a%3A%20%5Cmu_d%20%5Cneq%20%5Cmu_r)
 
 The insinutation that a member misses votes due to party carries much less weight than the same due to gender. Because of this, I decided to use the standard rejection threshold of 0.05.
 
@@ -172,8 +173,9 @@ After running a two-tailed t-test, I found a p-value of 0.000. This incredibly s
 
 After accounting for Senators who run for President, I found that Republicans miss more votes than Democrats on average. I ran a hypothesis test to determine if this is statistically significant, using a rejection threshold of 0.05.
 
-$H_0:%20\mu_r%20=%20\mu_d$
-$H_a:%20\mu_r%20\neq%20\mu_d$
+![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_r%20%3D%20%5Cmu_d)
+
+![equation](https://latex.codecogs.com/gif.latex?H_a%3A%20%5Cmu_r%20%5Cneq%20%5Cmu_d)
 
 ![Senate Party P-Value](/images/senate_party_p_val.png)
 
