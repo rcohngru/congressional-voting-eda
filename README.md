@@ -18,7 +18,7 @@ The motivation behind this project comes from a desire to learn why members of C
 
 ## Data Collection
 
-The data for this project was collected using ProPublica's free API. The data consists of voting records for the past 15 Congressional sessions for the House, Senate, and individual members. The data is relatively clean, however there may be some inconsistencies between the individual `member` data and the data present in the `house` and `senate` voting records. This project primarily used the data in the `house` and `senate` directories.
+The data for this project was collected using ProPublica's free API. Shapefiles were gathered from [UCLA](http://cdmaps.polisci.ucla.edu). The data consists of voting records for the past 15 Congressional sessions for the House, Senate, and individual members. The data is relatively clean, however there may be some inconsistencies between the individual `member` data and the data present in the `house` and `senate` voting records. This project primarily used the data in the `house` and `senate` directories.
 
 ```
 congress-data
@@ -201,7 +201,7 @@ I also decided to examine geographic distance as a factor for why members of Con
 
 There is no obvious trend in missed votes by distance for either the Senate or the House. Accordingly, I decided to stop the analysis for this factor at this steps.
 
-## Conclusions
+## Conclusion
 There are several conclusions that can be drawn from this analysis. By far the most interesting pieces of information are that Senators who run for President and Speakers of the House will miss more votes than their counterparts. In particular, this provides another dimension to consider when Senators are debating running for President, particularly during Congresses in which the Senate is very evenly split.
 
 I also found that female Representatives miss more votes than male Representatives, and that male Senators miss more votes on average than female Senators, but it is unclear whether or not this is statistically significant. Democrat Representatives certainly miss more votes than Republicans, and even though Republican Senators miss more votes on average than Democrats, they do not miss enough for it to be statistically significant.
