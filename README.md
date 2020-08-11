@@ -114,6 +114,8 @@ The first factor I decided to examine was gender. I wanted to see if the gender 
 
 Even when accounting for Speaker of the House, female Representatives miss more votes on average than male Representatives. I ran a hypothesis test to determine if this trend was statistically significant:
 
+![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_f%20%3D%20%5Cmu_m)
+![equation](https://latex.codecogs.com/gif.latex?H_0%3A%20%5Cmu_f%20%5Cneq%20%5Cmu_m)
 $H_0:%20\mu_f%20=%20\mu_m$
 $H_a:%20\mu_f%20\neq%20\mu_m$
 
