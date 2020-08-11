@@ -39,11 +39,11 @@ This project focused purely on the quantity of bills that members missed votes f
 
 ### Approach
 My approach to this project was to first conduct some exploratory data analysis to get a deeper understanding of the data. From there, I conducted hypothesis tests on any samples that I found to be peculiar. I ended up conducting hypothesis testing for the following groupings:
-    - Gender
-    - Party
-    - Age
-    - Seniority
-    - Distance From DC
+* Gender
+* Party
+* Age
+* Seniority
+* Distance From DC
     
 ### 0. EDA
 During my initial exploration of the data I identified 2 trends that were present causing specific members of Congress to miss roll-call votes.
@@ -166,7 +166,7 @@ The insinutation that a member misses votes due to party carries much less weigh
 After running a two-tailed t-test, I found a p-value of 0.000. This incredibly small value allows me to reject the null hypothesis and determine that Democrats missing more votes than Republicans is statistically significant.
 
 #### Senate
-![Senate Party Distribution](/images/senate_party_dist)
+![Senate Party Distribution](/images/senate_party_dist.png)
 
 After accounting for Senators who run for President, I found that Republicans miss more votes than Democrats on average. I ran a hypothesis test to determine if this is statistically significant, using a rejection threshold of 0.05.
 
@@ -180,21 +180,19 @@ After running a two-tailed t-test, I found a p-value of 0.102, meaning that I ca
 ### 3. Age
 I also decided to examine age as a factor for why members of Congress might miss more roll-call votes.
 
-![House Age](/images/house_age.png)
-![Senate Age](/images/senate_age.png)
+![House Age](/images/house_age.png) ![Senate Age](/images/senate_age.png)
 
 There is no obvious trend in missed votes by age for either the Senate or the House. Accordingly, the analysis stops here for this factor.
 ### 4. Seniority
 I also decided to examine seniority as a factor for why members of Congress might miss more roll-call votes.
 
-![House Seniority](/images/house_seniority.png)
-![Senate Senioritiy](/images/senate_seniority.png)
+![House Seniority](/images/house_seniority.png) ![Senate Seniority](/images/senate_seniority.png)
 
 There is no obvious trend in missed votes by seniority for either the Senate or the House. I decided to stop the analysis for this factor at this point.
 ### 5. Distance From DC
 I also decided to examine geographic distance as a factor for why members of Congress might miss more roll-call votes. The theory behind this being that members from western states have to travel more to reach the Capitol.
 
-![House Distance](/images/house_distance.png)
+![House Distance](/images/house_distance.png) 
 ![SenateDistance](/images/senate_distance.png)
 
 There is no obvious trend in missed votes by distance for either the Senate or the House. Accordingly, I decided to stop the analysis for this factor at this steps.
